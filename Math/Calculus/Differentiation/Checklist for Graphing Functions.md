@@ -1,0 +1,14 @@
+---
+tags:
+  - atom
+  - math
+---
+- Domain
+- Intercepts
+- Symmetry
+- Critical Points
+- Asymptotes
+- Intervals of Increase or Decrease
+- Local Maximum or Minimum Values
+- Concavity and Points of Inflection
+- Sketch of Curve

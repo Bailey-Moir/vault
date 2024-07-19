@@ -1,0 +1,5 @@
+/* , .theme-light img */
+
+.theme-light .excalidraw-embedded-img {
+	filter: invert(100%) hue-rotate(180deg) !important;
+}

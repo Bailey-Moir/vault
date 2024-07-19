@@ -1,0 +1,9 @@
+{
+  "typomagical-title@@font-title": "Amiri",
+  "typomagical-title@@title-weight": 900,
+  "typomagical-title@@alignment-title": "align-title-center",
+  "typomagical-title@@text-scale": "type-scale-major-second",
+  "typomagical-title@@heading-weight": 600,
+  "typomagical-title@@line-height-headings": 1.2,
+  "typomagical-text@@body-ligatures": false
+}

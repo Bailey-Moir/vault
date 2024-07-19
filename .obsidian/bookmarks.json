@@ -1,0 +1,27 @@
+{
+  "items": [
+    {
+      "type": "folder",
+      "ctime": 1702965205354,
+      "path": "Math",
+      "title": "Math"
+    },
+    {
+      "type": "folder",
+      "ctime": 1702965213743,
+      "path": "Physics",
+      "title": "Physics"
+    },
+    {
+      "type": "file",
+      "ctime": 1702965249127,
+      "path": "Atomic Habits.md",
+      "title": ""
+    },
+    {
+      "type": "file",
+      "ctime": 1702965259857,
+      "path": "Holidays.md"
+    }
+  ]
+}

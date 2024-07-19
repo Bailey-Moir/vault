@@ -1,0 +1,14 @@
+---
+tags:
+  - atom
+  - math
+---
+Biconditional (if and only if) of $p \leftrightarrow q$ is defined by $p \to q \land q \to p$^[[[Implication]]], or $p$ and $q$ must have the same truth value.
+
+| $p$ | $q$ | $p\leftrightarrow q$ |
+| --- | --- | -------------------- |
+| 0   | 0   | 1                    |
+| 0   | 1   | 0                    |
+| 1   | 0   | 0                    |
+| 1   | 1   | 1                    |
+\[[[Truth Tables]], [[Logical Connectives]]\]

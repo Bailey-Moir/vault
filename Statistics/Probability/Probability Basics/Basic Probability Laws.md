@@ -1,0 +1,12 @@
+---
+tags:
+  - atom
+  - stats
+  - formula
+---
+- [[Complement Rule|Complement]] - $P(A') = 1 - P(A)$
+- [[Additive Rule|Additive]] - $P(A \cup B) = P(A) + P(B) - P(A \cap B)$
+- [[Disjoint Events|Disjoint]] - $P(A \cap B) = P(A) + P(B)$
+- [[Multiplicative Rule|Multiplicative]] - $P(A \cap B) = P(A|B)P(B) = P(B|A)P(A)$
+- [[Complement Rule|Complement]] - $P(A|B) = \dfrac{P(A \cap B)}{P(B)} \hspace{1em} \ni P(B) \ne 0$
+- [[Independent Events|Independent]] - $P(A|B) = P(A)$

@@ -1,0 +1,10 @@
+---
+_filters: []
+_contexts: []
+_links: []
+_sort:
+  field: name
+  asc: true
+  group: false
+sticker: emoji//270f-fe0f
+---

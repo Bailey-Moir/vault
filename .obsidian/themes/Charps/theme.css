@@ -1,0 +1,61 @@
+body {
+	--radius-s: 0px;
+	--radius-m: 0px;
+	--radius-l: 0px;
+	--input-radius: 0px;
+	--tab-radius-active: 0px;
+	--checkbox-radius: 0px;
+	--toggle-radius: 0px;
+	--toggle-thumb-radius: 0px;
+	--slider-thumb-radius: 0px;
+
+	/* --font-text-theme: Consolas,monaco,monospace;  */
+	/* --font-text-theme: monospace; */
+	/* --font-text-theme: verdana,sans-serif; */
+	--font-text-size: 1px;
+}
+
+
+.theme-dark {
+  --background-primary: #1E1E1E;
+  --background-secondary: #262626;
+}
+
+.theme-light {
+  --background-primary: #FFFFFF;
+  --background-secondary: #F6F6F6;
+}
+
+.workspace-tab-header.is-active::before, .workspace-tab-header.is-active::after {
+	display: none;
+}
+
+:root {
+   /* --input-focus-border-color: Highlight; */
+   /* --input-focus-outline: 1px solid Canvas; */
+   /* --input-unfocused-border-color: transparent; */
+   /* --input-disabled-border-color: transparent; */
+   /* --input-hover-border-color: black; */
+   /* Default Input Variables for Root */
+	
+	--input-hover-border-color: red;
+}
+
+svg * {
+	stroke-linecap: square;
+	stroke-linejoin: miter;
+	rx: 0;
+	ry: 0;
+}
+
+.menu {
+	padding: var(--size-2-1);
+}
+
+.menu-item {
+	padding: var(--size-4-1) var(--size-4-2);
+}
+
+.menu-separator {
+	margin: var(--size-2-1) calc(var(--size-2-1) * -1);
+}

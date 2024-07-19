@@ -1,0 +1,6 @@
+---
+tags:
+  - atom
+  - math
+---
+A [[Statements and Propositions|statement]] that is always true (e.g. $p \lor \neg p$). The negation of a [[Contradictions|contradiction]]. $\mathbb{T}$ is used as a tautology.

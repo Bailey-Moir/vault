@@ -1,0 +1,13 @@
+{
+  "accentColor": "#5e8d59",
+  "cssTheme": "Typomagical",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "better-callouts",
+    "better-typomagical",
+    "excali",
+    "hidden-properties",
+    "notes",
+    "better-embeds"
+  ]
+}

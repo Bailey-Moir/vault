@@ -1,0 +1,7 @@
+---
+tags:
+  - atom
+  - math
+---
+The **direction angles** of a non-zero vector $\mathbf{\underline{a}}$ are the angles $\alpha$, $\beta$, and $\gamma$ (on the interval $[0,\pi]$) that $\mathbf{\underline{a}}$ makes with the positive $x$-, $y$-, and $z$-axes respectively. The cosines of these angles ($\cos\alpha$, $\cos\beta$, and $\cos\gamma$) are called the **direction cosines** of the vector $\mathbf{\underline{a}}$. Using the [[Cosine Similarity Formula|cosine similarity formula]] where $\mathbf{\underline{b}}$ is replaced by the [[Basis Vectors|basis vectors]] $\mathbf{\underline{\hat i}}$, $\mathbf{\underline{\hat j}}$, and $\mathbf{\underline{\hat k}}$ gives the result: $$\begin{array}{ccc} \cos\alpha = \dfrac{a_1}{\left| \mathbf{\underline{a}} \right|} & \cos\beta = \dfrac{a_2}{\left| \mathbf{\underline{a}} \right|} & \cos\gamma = \dfrac{a_3}{\left| \mathbf{\underline{a}} \right|} \end{array}$$ From these formulae, it can be shown that: $$ \cos^2\alpha + \cos^2\beta + \cos^2\gamma = 1 $$ They also imply that: $$\begin{align*} \mathbf{\underline{a}} &= \left\langle a_1, a_2, a_3 \right\rangle \\ &= \left| \mathbf{\underline{a}} \right| \left\langle \cos\alpha, \cos\beta, \cos\gamma \right\rangle \end{align*}$$ Therefore, $$ \dfrac{\mathbf{\underline{a}}}{\left| \mathbf{\underline{a}} \right|} = \left\langle \cos\alpha, \cos\beta, \cos\gamma \right\rangle $$
+Meaning the direction cosines of a vector are the components of it's unit vector.

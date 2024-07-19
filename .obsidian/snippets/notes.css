@@ -1,0 +1,29 @@
+*[alt*="center"] {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+p {
+	margin: 0px;
+}
+
+p.note {
+	font-style: italic;
+	color: rgb(128, 128, 128);
+	font-size: 0.9rem;
+}
+
+/*.block-language-sheet {
+	margin: -30px 0 -30px 0 !important;
+	padding: 0px !important;
+} */
+
+/* .cm-header-2, .HyperMD-header-2,
+.cm-header-3, .HyperMD-header-3,
+.cm-header-4, .HyperMD-header-4,
+.cm-header-5, .HyperMD-header-5,
+.cm-header-6, .HyperMD-header-6 {
+	font-family: var(--font-title);
+	height: 41pt;
+} */
