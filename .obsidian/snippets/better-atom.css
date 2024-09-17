@@ -1,0 +1,9 @@
+mjx-container {
+    text-align: center !important;
+}
+
+.excalidraw-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,3 @@
+mjx-math:not([display]) {
+    font-size: 1.25em;
+}

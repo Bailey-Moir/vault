@@ -1,0 +1,58 @@
+{
+  "collapse-filter": true,
+  "search": "tag:#atom  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#math  -tag:#stats  -tag:#discrete",
+      "color": {
+        "a": 1,
+        "rgb": 6203110
+      }
+    },
+    {
+      "query": "tag:#comp",
+      "color": {
+        "a": 1,
+        "rgb": 4560469
+      }
+    },
+    {
+      "query": "tag:#stats  ",
+      "color": {
+        "a": 1,
+        "rgb": 14734418
+      }
+    },
+    {
+      "query": "path:Assets  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701261
+      }
+    },
+    {
+      "query": "tag:#discrete  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -1.7,
+  "nodeSizeMultiplier": 2.49895833333333,
+  "lineSizeMultiplier": 1.784375,
+  "collapse-forces": true,
+  "centerStrength": 0.388020833333333,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 226,
+  "scale": 0.0910406422337403,
+  "close": false
+}

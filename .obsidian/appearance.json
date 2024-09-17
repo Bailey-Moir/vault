@@ -1,0 +1,13 @@
+{
+  "accentColor": "",
+  "cssTheme": "Oxocarbon",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "better-callouts",
+    "excali",
+    "notes",
+    "better-embeds",
+    "better-atom",
+    "larger-inline-math"
+  ]
+}

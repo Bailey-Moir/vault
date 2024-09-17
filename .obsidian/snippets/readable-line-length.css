@@ -1,0 +1,16 @@
+/* @settings
+name: Custom Settings
+id: 69
+settings:
+    - 
+        id: m-line-width
+        title: Custom Readable Line width
+        description: The maximum line width in vw units
+        type: variable-number
+        default: 55
+        format: vw
+*/
+
+.cm-editor {
+	--file-line-width: var(--m-line-width) !important;
+}
