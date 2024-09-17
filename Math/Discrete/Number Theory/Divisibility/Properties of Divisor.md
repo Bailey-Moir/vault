@@ -17,6 +17,8 @@ Also obviously
 7. $a|a$ ([[Reflexive Property|reflexive property]])
 
 \[[[Divisibility]]\]
+#TODO move this into [[Divisibility]]
+
 
 [^1]: [[Universal Quantifier]]
 [^2]: [[Conjunction]]

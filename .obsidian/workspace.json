@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "47d0363302f6a3a1",
+        "id": "f90c499bc28ed8f8",
         "type": "tabs",
         "children": [
           {
-            "id": "d0fa9ec6b262a214",
+            "id": "034036efff88493c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Algorithm Analysis/Abstract Data Types.md",
+                "file": "Math/Linear Algebra/Vectors/Vector Point-Normal Planes.md",
                 "mode": "preview",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ori ",
+                "query": "tag:#TODO  ",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Computer Science/Algorithm Analysis/Abstract Data Types.md",
+                "file": "Math/Linear Algebra/Vectors/Vector Point-Normal Planes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithm Analysis/Abstract Data Types.md",
+                "file": "Math/Linear Algebra/Vectors/Vector Point-Normal Planes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithm Analysis/Abstract Data Types.md",
+                "file": "Math/Linear Algebra/Vectors/Vector Point-Normal Planes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Algorithm Analysis/Abstract Data Types.md"
+                "file": "Math/Linear Algebra/Vectors/Vector Point-Normal Planes.md"
               }
             }
           }
@@ -184,36 +184,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d0fa9ec6b262a214",
+  "active": "034036efff88493c",
   "lastOpenFiles": [
-    "Computer Science/Algorithm Analysis/Asymptotic Analysis.md",
-    "Computer Science/Algorithm Analysis/Algorithm.md",
-    "Computer Science/Algorithm Analysis/Lists vs. Linked Lists.md",
-    "Computer Science/Algorithm Analysis/Intractable Problems.md",
-    "Computer Science/Algorithm Analysis/Best Case and Worse Case.md",
-    "Computer Science/Algorithm Analysis/General.md",
-    "Computer Science/Algorithm Analysis/Recursion.md",
-    "Computer Science/Algorithm Analysis/Prefix, Infix, and Postfix Notation.md",
-    "Math/Discrete/Set Theory/Basics/Set Difference.md",
-    "Computer Science/Algorithm Analysis/Abstract Data Types/Double-Linked List.md",
-    "Computer Science/Algorithm Analysis/Abstract Data Types/Trees/Trees.md",
-    "Computer Science/Algorithm Analysis/Abstract Data Types/Circular Linked Lists.md",
-    "Computer Science/Algorithm Analysis/Abstract Data Types/Hash Tables/Hash Tables.md",
-    "Computer Science/Algorithm Analysis/Abstract Data Types/Hash Tables/Rehashing.md",
-    "Computer Science/Algorithm Analysis/Abstract Data Types/Hash Tables/Quadratic Probing.md",
-    "Computer Science/Algorithm Analysis/Abstract Data Types/Hash Tables/Load Factor.md",
-    "Computer Science/Algorithm Analysis/Abstract Data Types/Hash Tables/Linear Probing.md",
-    "Computer Science/Algorithm Analysis/Abstract Data Types/Hash Tables/Chaining.md",
-    "Math/Discrete/Set Theory/Basics/Unions and Intersections.md",
-    "Assets/excali/scalar-field-one-space.excalidraw.md",
-    "Math/Discrete/Set Theory/Cardinality.md",
+    "Assets/excali/vector-point-normal-planes.excalidraw.md",
+    "Math/Linear Algebra/Vectors/Vector Point-Normal Planes.md",
+    "Assets/excali/template.excalidraw.md",
+    "Math/Linear Algebra/Vectors/Vector Scalar Multiplication.md",
+    "Math/Linear Algebra/Vectors/Vector Projection.md",
+    "Math/Linear Algebra/Vectors/Vector Parametric Planes.md",
+    "Math/Linear Algebra/Vectors/Vector Parametric Lines.md",
+    "Math/Linear Algebra/Vectors/Parallelogram Law.md",
     "Math/Linear Algebra/Vectors/Orthogonal Vectors.md",
     "Math/Linear Algebra/Vectors/Orthogonal Projection.md",
+    "Assets/excali/orthogonal-vector-projections.excalidraw.md",
     "Math/Linear Algebra/Vectors/Cross Product.md",
-    "Pasted image 20240917123116.png",
-    "Math/Linear Algebra/Vectors/Vector Point-Normal Planes.md",
     "Pasted image 20240917122003.png",
-    "Math/Linear Algebra/Vectors/Vector Parametric Planes.md",
+    "Pasted image 20240917123116.png",
+    "Assets/excali/cross-product.excalidraw.md",
+    "Assets/excali/waterfall-model.excalidraw.md",
+    "Assets/excali/vector-projections.excalidraw.md",
+    "Assets/excali/vectors.excalidraw.md",
+    "Assets/excali/vector-length-identity.excalidraw.md",
+    "Assets/excali/vector-addition.excalidraw.md",
+    "Assets/excali/unions.excalidraw.md",
+    "Assets/excali/tree-traversal-flag-trick.excalidraw.md",
+    "Assets/excali/unions-and-intersections.excalidraw.md",
+    "Assets/excali/trapezium-rule.excalidraw.md",
+    "Assets/excali/transitive-graphs.excalidraw.md",
+    "Assets/excali/taylors-remainder-theorem.excalidraw.md",
+    "Assets/excali/surfaces-of-revolution.excalidraw.md",
+    "Assets/excali/stroop-effect.excalidraw.md",
     "Math/Linear Algebra/Vectors/Basics",
     "Math/Discrete/Set Theory/Functions",
     "Math/Calculus/Limits/Limits.canvas",
