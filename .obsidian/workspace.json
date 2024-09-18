@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1df0346d406c6d31",
+        "id": "4e43ae31efeb3c0d",
         "type": "tabs",
         "children": [
           {
-            "id": "f02556e33b45e366",
+            "id": "9f7582fb26a95159",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Generated Questions/{Q} Areas and Volumes.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -71,7 +67,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Generated Questions/{Q} Areas and Volumes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Generated Questions/{Q} Areas and Volumes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +131,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Generated Questions/{Q} Areas and Volumes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,9 +152,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Generated Questions/{Q} Areas and Volumes.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -185,37 +176,37 @@
       "quiz-generator:Open generator": false
     }
   },
-  "active": "f02556e33b45e366",
+  "active": "9f7582fb26a95159",
   "lastOpenFiles": [
+    "Math/Algebra/Sequences & Series/Sequences/Monotonic Sequences.md",
+    "Math/Algebra/Sequences & Series/Sequences/Monotone Convergence Theorem.md",
+    "Math/Algebra/Sequences & Series/Sequences/Limits of Recursive Sequences.md",
+    "Math/Algebra/Sequences & Series/Sequences/Extending Sequences.md",
+    "Math/Algebra/Sequences & Series/Sequences/Fibonacci Sequence.md",
+    "Math/Algebra/Sequences & Series/Sequences/Convergence and Divergence of Sequences.md",
+    "Math/Algebra/Sequences & Series/Sequences/Comparison Theorem for Sequences.md",
+    "Math/Algebra/Sequences & Series/Sequences/Bounded Sequences.md",
+    "Math/Algebra/Sequences & Series/Sequences/Sequences.md",
+    "Computer Science/Algorithm Analysis/Prefix, Infix, and Postfix Notation.md",
+    "Math/Algebra/Sequences & Series/Series/Harmonic Series.md",
+    "Math/Lambda Calculus/Free Variables.md",
+    "Computer Science/Algorithm Analysis/Abstract Data Types/Trees/Binary Search Trees.md",
+    "Math/Discrete/Set Theory/Relations/Partial Order.md",
+    "Science/Prosecutors Falacy.md",
+    "Science/Bayes' Rule.md",
+    "Bayes' Rule.md",
+    "Atomic Habits.md",
+    "Effective Note-taking.md",
+    "Law of Diminishing Marginal Utility.md",
+    "Learning.md",
+    "Space Empires.md",
     "Generated Questions/{Q} Bijective, Injective, and Surjective Functions.md",
+    "Quiz 1.md",
     "Generated Questions/{Q} Areas and Volumes.md",
     "Math/Discrete/Set Theory/Functions/Injective Functions.md",
-    "Math/Discrete/Set Theory/Functions/Surjective Functions.md",
-    "Math/Discrete/Set Theory/Functions/Bijective Functions.md",
-    "Math/Discrete/Set Theory/Functions/Inverse Functions.md",
-    "Math/Linear Algebra/Vectors/Areas & Volumes/Volume of Parallelepipeds.md",
-    "Math/Linear Algebra/Vectors/Areas & Volumes/Area of Triangles.md",
-    "Math/Linear Algebra/Vectors/Areas & Volumes/Area of Parallelograms.md",
-    "Math/Discrete/Propositional Logic/Logical Equivalence.md",
-    "Math/Triangular Numbers.md",
-    "Math/Linear Algebra/Done Right/Basics/Vector Spaces.md",
     "Generated Questions",
-    "Assets/excali/cross-product.excalidraw.md",
-    "Assets/excali/volume-parallelepipeds.excalidraw.md",
-    "Assets/excali/parallelogram-area.excalidraw.md",
-    "Assets/excali/vector-triangle-area.excalidraw.md",
-    "Assets/excali/parallelogram-area-proof0.excalidraw.md",
-    "Assets/excali/parabola.excalidraw.md",
-    "Math/Linear Algebra/Vectors/Vector Point-Normal Planes.md",
     "Math/Linear Algebra/Vectors/Areas & Volumes",
-    "Math/Linear Algebra/Vectors/Basics/Vector Scalar Multiplication.md",
-    "Math/Linear Algebra/Vectors/Definitions/Position Vectors.md",
-    "Math/Linear Algebra/Vectors/Vector Projection.md",
-    "Math/Linear Algebra/Vectors/Vector Scalar Multiplication.md",
     "Math/Linear Algebra/Linear Algebra.canvas",
-    "Assets/excali/vector-point-normal-planes.excalidraw.md",
-    "Assets/excali/template.excalidraw.md",
-    "Math/Linear Algebra/Vectors/Vector Parametric Planes.md",
     "Pasted image 20240917122003.png",
     "Pasted image 20240917123116.png",
     "Math/Linear Algebra/Vectors/Basics",

@@ -1,7 +1,7 @@
 ---
 tags:
   - atom
-  - math
+  - comp
 ---
 | Name    | Form  |
 | ------- | ----- |

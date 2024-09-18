@@ -1,7 +1,7 @@
 ---
 tags:
   - atom
-  - math
+  - comp
 ---
 A *binary **search** tree* (BST) is a [[Binary Trees|binary]] [[Search Trees|search tree]]: when adding an element `x` to a *binary search tree* node `node`,
 - If `node` is None, set it to a new node with value `x`
