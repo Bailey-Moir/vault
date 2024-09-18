@@ -23,6 +23,6 @@ sticker: lucide//function-square
 ![[Even and Odd Functions]]
 
 # Inverse Functions
-![[Inverse Functions]]
+![[Math/Algebra/Functions/Inverse Functions]]
 # Equality of Functions
 ![[Equality of Functions]]

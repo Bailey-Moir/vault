@@ -4,7 +4,7 @@ tags:
   - math
 ---
 **A root-finding algorithm for non-linear functions**, where an initial approximation of a root ($x_0$) is used to generate an increasingly better approximation. This initial guess is chosen such that $f'(x_0) \ne 0$. A tolerance is often used to determine when to stop iterating: $\left| x_{n+1} - x_n \right| < \varepsilon$ and or $\left|f(x_n)\right| < \varepsilon$.
-This has many applications, but notably, it can be used to find approximations for unknown [[Inverse Functions|inverse functions]] such as $\ln\square$ from $e^\square$ or $\sqrt\square{}$ from $\square^2$.
+This has many applications, but notably, it can be used to find approximations for unknown [[Math/Algebra/Functions/Inverse Functions|inverse functions]] such as $\ln\square$ from $e^\square$ or $\sqrt\square{}$ from $\square^2$.
 This method may fail if:
 - $\exists n, f'(x_n) = 0$
 - It overlooks a root and try to converge on a different root.

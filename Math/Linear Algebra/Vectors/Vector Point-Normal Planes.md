@@ -4,7 +4,7 @@ tags:
   - math
 ---
 ![400|center](vector-point-normal-planes.excalidraw)
-Points given by [[Position Vectors|position vectors]] $\vecbf{r}$ on a plane can be characterized in *vector point–normal form* by the equation
+The *vector point-normal form* of a plane is given by
 $$ \left( \vecbf{r} - \vecbf{r_0} \right) \cdot \vecbf{n} = 0 $$
 where $\vecbf{r_0}$ is the [[Position Vectors|position vector]] of a fixed point on the plane, and $\vecbf{n}$ is perpendicular to the plane. The [[Vectors|vector]] $\vecbf{n}$ is called a **normal vector** to the plane.
 

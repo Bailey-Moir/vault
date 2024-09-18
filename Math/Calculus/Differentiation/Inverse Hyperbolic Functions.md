@@ -18,4 +18,4 @@ $$\begin{array}{l c l}
 	\dfrac{d}{dx} \left( \tanh^{-1} x \right) = \dfrac{1}{1 - x^2} &&
 	\dfrac{d}{dx} \left( \coth^{-1} x \right) = \dfrac{1}{1 - x^2}
 \end{array}$$
-\[[[Hyperbolic Functions]], [[Inverse Functions]]\]
+\[[[Hyperbolic Functions]], [[Math/Algebra/Functions/Inverse Functions]]\]

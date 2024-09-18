@@ -14,4 +14,4 @@ $$\begin{array}{l c l}
 	\dfrac{d}{dx}\left(\cot^{-1}x\right) = -\dfrac{1}{x^2 + 1}
 	\\
 \end{array}$$
-\[[[Inverse Functions]], [[Inverse Trigonometric Integration Identities]]\]
+\[[[Math/Algebra/Functions/Inverse Functions]], [[Inverse Trigonometric Integration Identities]]\]

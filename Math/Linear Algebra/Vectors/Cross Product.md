@@ -8,11 +8,6 @@ we:
 If $\vecbf{x} = \left\langle x_1, x_2, x_3 \right\rangle$ and $\vecbf{y} = \left\langle y_1, y_2, y_3 \right\rangle$ are two [[Vectors|vectors]] in $\R^3$, then the [[Vectors|vector]]
 $$ \vecbf{x} × \vecbf{y} = \left\langle x_2y_3 − x_3y_2, −(x_1y_3 − x_3y_1), x_1y_2 − x_2y_1 \right\rangle $$
 is called the cross product of $\vecbf{x}$ and $\vecbf{y}$, characterized by being [[Orthogonal Vectors|orthogonal]] to both [[Vectors|vectors]].
-# Properties of Cross Product
-- The *cross product* is only defined for [[Vectors|vectors]] in $\R^3$.
-- $\vecbf{x} \times \vecbf{y} = \vecbf{n} \implies \vecbf{n} \:\bot\: \vecbf{x} \land \vecbf{n} \:\bot\: \vecbf{y}$^[[[Orthogonal Vectors]]]
-- $\vecbf{x} \times \vecbf{y} = -\vecbf{y} \times \vecbf{x}$ (not commutative)
-
 > [!proof]-
 > $$\begin{array}{c} 
 > 	\vecbf{x} \:\bot\: \vecbf{n} \\ 
@@ -46,3 +41,16 @@ is called the cross product of $\vecbf{x}$ and $\vecbf{y}$, characterized by bei
 > \end{align*}$$
 > Thus
 > $$ \vecbf{n} = \left\langle x_2y_3 - x_3y_2, -(x_1y_3 - x_3y_1), x_1y_2 - x_2y_1 \right\rangle $$
+# Properties of Cross Product
+The *cross product* is only defined for [[Vectors|vectors]] in $\R^3$. Thus, $\forall \vecbf{x}, \vecbf{y}, \vecbf{z} \in \R^3$
+- **Orthogonal to Operands**
+  $\vecbf{x} \times \vecbf{y} = \vecbf{n} \implies \vecbf{n} \:\bot\: \vecbf{x} \land \vecbf{n} \:\bot\: \vecbf{y}$^[[[Orthogonal Vectors]]]
+- **Pseudo-commutativity**
+  $\vecbf{x} \times \vecbf{y} = -\vecbf{y} \times \vecbf{x}$
+- **Distributive**
+  $\vecbf{x} \times (\vecbf{y} + \vecbf{z}) = \vecbf{x} \times \vecbf{y} + \vecbf{x} \times \vecbf{z}$ 
+  $(\vecbf{x} + \vecbf{y}) \times \vecbf{z} = \vecbf{x} \times \vecbf{z} + \vecbf{y} \times \vecbf{z}$ 
+- **Associative Scalar Multiplications**
+  $s(\vecbf{x} + \vecbf{y}) = (s\vecbf{x}) \times \vecbf{y} = \vecbf{x} \times (s\vecbf{y}) \hspace{1em} s \in \R$ 
+- $\vecbf{x} \times \vecbf{x} = 0$
+- **NOT Associative**

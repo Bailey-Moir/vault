@@ -3,7 +3,7 @@ tags:
   - atom
   - math
 ---
-Logarithms are the [[Inverse Functions|inverse]] of [[Exponential Functions|exponential functions]].
+Logarithms are the [[Math/Algebra/Functions/Inverse Functions|inverse]] of [[Exponential Functions|exponential functions]].
 $$ y = b^x \implies x = \log_b(y) $$
 # The Natural Logarithm
 $$ \ln x = \log_e x $$
