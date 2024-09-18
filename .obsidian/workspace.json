@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4e43ae31efeb3c0d",
+        "id": "426d5b517bdf8743",
         "type": "tabs",
         "children": [
           {
-            "id": "9f7582fb26a95159",
+            "id": "e35f695ce253e2e4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,7 +176,7 @@
       "quiz-generator:Open generator": false
     }
   },
-  "active": "9f7582fb26a95159",
+  "active": "e35f695ce253e2e4",
   "lastOpenFiles": [
     "Math/Algebra/Sequences & Series/Sequences/Monotonic Sequences.md",
     "Math/Algebra/Sequences & Series/Sequences/Monotone Convergence Theorem.md",
