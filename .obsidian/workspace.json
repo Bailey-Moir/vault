@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "46adbbf20f2d2ab9",
+        "id": "1df0346d406c6d31",
         "type": "tabs",
         "children": [
           {
-            "id": "9bd13c2d607264e5",
+            "id": "f02556e33b45e366",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Generated Questions/{Q} Areas and Volumes.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -67,6 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Generated Questions/{Q} Areas and Volumes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -89,7 +94,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.19753086419753074,
+                  "scale": 0.29629629629629606,
                   "close": true
                 }
               }
@@ -115,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Generated Questions/{Q} Areas and Volumes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Generated Questions/{Q} Areas and Volumes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Questions/Quiz 1.md"
+                "file": "Generated Questions/{Q} Areas and Volumes.md"
               }
             }
           }
@@ -178,25 +185,29 @@
       "quiz-generator:Open generator": false
     }
   },
-  "active": "c0a1346d6522e74d",
+  "active": "f02556e33b45e366",
   "lastOpenFiles": [
-    "Questions/Quiz 1.md",
-    "Questions",
+    "Generated Questions/{Q} Bijective, Injective, and Surjective Functions.md",
+    "Generated Questions/{Q} Areas and Volumes.md",
+    "Math/Discrete/Set Theory/Functions/Injective Functions.md",
+    "Math/Discrete/Set Theory/Functions/Surjective Functions.md",
+    "Math/Discrete/Set Theory/Functions/Bijective Functions.md",
+    "Math/Discrete/Set Theory/Functions/Inverse Functions.md",
+    "Math/Linear Algebra/Vectors/Areas & Volumes/Volume of Parallelepipeds.md",
+    "Math/Linear Algebra/Vectors/Areas & Volumes/Area of Triangles.md",
+    "Math/Linear Algebra/Vectors/Areas & Volumes/Area of Parallelograms.md",
+    "Math/Discrete/Propositional Logic/Logical Equivalence.md",
+    "Math/Triangular Numbers.md",
+    "Math/Linear Algebra/Done Right/Basics/Vector Spaces.md",
+    "Generated Questions",
     "Assets/excali/cross-product.excalidraw.md",
     "Assets/excali/volume-parallelepipeds.excalidraw.md",
-    "Math/Linear Algebra/Vectors/Areas & Volumes/Volume of Parallelepipeds.md",
     "Assets/excali/parallelogram-area.excalidraw.md",
-    "Math/Linear Algebra/Vectors/Areas & Volumes/Area of Parallelograms.md",
-    "Math/Linear Algebra/Vectors/Areas & Volumes/Area of Triangles.md",
     "Assets/excali/vector-triangle-area.excalidraw.md",
     "Assets/excali/parallelogram-area-proof0.excalidraw.md",
     "Assets/excali/parabola.excalidraw.md",
     "Math/Linear Algebra/Vectors/Vector Point-Normal Planes.md",
     "Math/Linear Algebra/Vectors/Areas & Volumes",
-    "Math/Discrete/Set Theory/Functions/Surjective Functions.md",
-    "Math/Discrete/Set Theory/Functions/Injective Functions.md",
-    "Math/Discrete/Set Theory/Functions/Inverse Functions.md",
-    "Math/Discrete/Set Theory/Functions/Bijective Functions.md",
     "Math/Linear Algebra/Vectors/Basics/Vector Scalar Multiplication.md",
     "Math/Linear Algebra/Vectors/Definitions/Position Vectors.md",
     "Math/Linear Algebra/Vectors/Vector Projection.md",
@@ -205,10 +216,6 @@
     "Assets/excali/vector-point-normal-planes.excalidraw.md",
     "Assets/excali/template.excalidraw.md",
     "Math/Linear Algebra/Vectors/Vector Parametric Planes.md",
-    "Math/Linear Algebra/Vectors/Vector Parametric Lines.md",
-    "Math/Linear Algebra/Vectors/Parallelogram Law.md",
-    "Math/Linear Algebra/Vectors/Orthogonal Vectors.md",
-    "Math/Linear Algebra/Vectors/Orthogonal Projection.md",
     "Pasted image 20240917122003.png",
     "Pasted image 20240917123116.png",
     "Math/Linear Algebra/Vectors/Basics",
