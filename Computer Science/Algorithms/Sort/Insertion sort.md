@@ -10,5 +10,5 @@ tags:
 
 Insertion sort is mainly used for nearly sorted list.
 
-[^1]: [[Landua's Big O Notation]]
+[^1]: [[Landua's Big Oh Notation]]]
 [^2]: [[Triangular Numbers]]

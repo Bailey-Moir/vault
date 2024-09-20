@@ -13,5 +13,6 @@ $$ \|\vecbf{x} + \vecbf{y}\|^2 + \|\vecbf{x} - \vecbf{y}\|^2 = 2\|\vecbf{x}\|^2 
 > 	&= 2\vecbf x\cdot\vecbf x + 2\vecbf y\cdot\vecbf y\\ 
 > 	&= 2\|\vecbf x\|^2 + 2\|\vecbf y\|^2 
 > \end{align*}$$
+> \[[[Dot Product#Properties of Dot Product]]\]
 
 \[[[Vector Length]]\]

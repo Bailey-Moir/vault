@@ -2,7 +2,7 @@
 atom:
   - "[[Volume of Parallelepipeds]]"
   - "[[Area of Triangles]]"
-  - "[[Area of Parallelograms]]"
+  - "[[Math/Linear Algebra/Vectors/Areas & Volumes/Area of Parallelograms/Area of Parallelograms]]"
 date: 18/09/2024
 ---
 > [!question] Prove Lagrange's identity for the cross product of two vectors: ||x x y||² = ||x||² ||y||² - (x • y)². Explain the steps involved in the proof and how it demonstrates the relationship between the dot product and the cross product.

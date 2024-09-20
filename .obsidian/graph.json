@@ -1,11 +1,11 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "tag:#atom  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#math  -tag:#stats  -tag:#discrete",
@@ -49,10 +49,10 @@
   "nodeSizeMultiplier": 2.49895833333333,
   "lineSizeMultiplier": 1.784375,
   "collapse-forces": false,
-  "centerStrength": 0.244791666666667,
+  "centerStrength": 0.458333333333333,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 226,
-  "scale": 0.6757621765136719,
+  "scale": 0.061010484236627534,
   "close": false
 }

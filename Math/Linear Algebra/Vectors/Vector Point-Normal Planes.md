@@ -10,7 +10,7 @@ where $\vecbf{r_0}$ is the [[Position Vectors|position vector]] of a fixed point
 
 \[[[Vector Parametric Planes]]\]
 
-> [!note]- Finding [[Vector Parametric Planes|Scalar Point-Normal Form]]
+> [! ]- Finding [[Vector Parametric Planes|Scalar Point-Normal Form]]
 > $$\begin{align*}
 > 	\left( \vecbf{r} - \vecbf{r_0} \right) \cdot \vecbf{n} &= 0 \\
 > 	\vecbf{r}\cdot\vecbf{n} - \vecbf{r_0}\cdot \vecbf{n} &= 0 \\

@@ -19,4 +19,4 @@ def bubble_sort(alist):
 # Short Bubble Sort
 *Short bubble sort* is *bubble sort* that stops when no swaps are performed. For this variation, the best case is $n-1 = \mathcal{O}(n)$ as $n\to\infty$.[^1]
 
-[^1]: [[Landua's Big O Notation]]
+[^1]: [[Landua's Big Oh Notation]]]

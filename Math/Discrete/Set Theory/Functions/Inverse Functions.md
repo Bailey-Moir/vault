@@ -5,4 +5,6 @@ tags:
   - discrete
 we:
 ---
-If $f : A \to B$ is a [[Bijective Functions|bijection]], there exists a [[Bijective Functions|bijective]] [[Math/Discrete/Set Theory/Functions/Functions|function]] $f^{-1} : B \to A$ that undoes $f$, that is, maps each element $b \in B$ to the element $a \in A$ for which $f(a) = b$.
+An *inverse function* $f^{-1}$ is a [[Math/Discrete/Set Theory/Functions/Functions|function]] that undoes $f$; if $f(a) = b$, then $f^{-1}(b)=a$.
+$$\begin{array}{rcl} f: A \to B && f^{-1} : B \to A \end{array}$$
+A [[Math/Discrete/Set Theory/Functions/Functions|function]] has an *inverse* [[Logical Equivalence|iff]] it is [[Bijective Functions|bijective]].

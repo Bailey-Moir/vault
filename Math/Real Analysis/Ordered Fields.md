@@ -8,7 +8,7 @@ $$\begin{array}{rl}
 	(OF1) & a \le b \implies a + c \le b + c \\
 	(OF2) & 0 \le a \land 0 \le b \implies 0 \le ab \\
 \end{array}$$
->[!note]- Theorem 1.7
+>[!theorem]- 1.7
 > Let $a,b,c$ belong to an ordered field. Then 
 > - $a \le b, 0 \le c \implies ac \le bc$
 > > [!proof]-
@@ -30,7 +30,7 @@ $$\begin{array}{rl}
 > >	bc &\le ac && \text{Additive inverse} \\
 > > \end{align*}$$
 > - In particular, $a \le b \implies -a \ge -b$
-> >[!proof]
+> >[!proof]-
 > > $$\begin{align*}
 > > 	a \le b \\
 > > 	a - a \le b - a \\
@@ -40,7 +40,7 @@ $$\begin{array}{rl}
 > > 	-a \ge -b \\
 > > \end{align*}$$
 
-> [!note]- Theorem 1.8
+> [!theorem]- 1.8
 > In an ordered field, $0 \le a^2$. Also $a^2 = 0 \iff a= 0$.
 > > [!proof]-
 > > If $0 \le a$, then applying $0F2$ where $b=a$ gives directly $0 \le a^2$.

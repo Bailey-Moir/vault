@@ -15,7 +15,7 @@ $\theta :=$  the angle of the point of the point projected onto the $xy$ plane. 
 $$\begin{array}{ccc}
  x = \rho \sin \phi \cos \theta & y = \rho \sin \phi \sin \theta & z = \rho \cos \phi
 \end{array}$$
-> [!Proof of Cartesian Coordinate Formulae]-
+> [!proof]- Proof of Cartesian Coordinate Formulae
 > $\cos \phi = \dfrac{z}{\rho}$, $\sin\phi = \dfrac{r}{\rho}$
 > $\implies \rho \cos \phi = z, \rho \sin \phi = r$
 > Recall $x = r \cos \theta$, $y = r \sin \theta$

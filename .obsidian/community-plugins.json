@@ -13,5 +13,7 @@
   "obsidian-excalidraw-plugin",
   "file-explorer-note-count",
   "obsidian-latex",
-  "quiz-generator"
+  "quiz-generator",
+  "latex-callouts",
+  "hide-properties"
 ]

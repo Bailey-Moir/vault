@@ -10,3 +10,4 @@ $$ \forall b \in B, \exists!a \in A : f(a) = b $$
 # Properties of Bijections
 Let $f: A \to B$ be a *bijective [[Math/Discrete/Set Theory/Functions/Functions|function]]*:
 - $|A| = |B|$^[[[Cardinality]]]
+- $f^{-1} : B \to A$^[[[Math/Discrete/Set Theory/Functions/Inverse Functions|Inverse Functions]]] is *bijective*

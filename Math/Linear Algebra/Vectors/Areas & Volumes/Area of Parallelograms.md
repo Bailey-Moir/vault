@@ -17,10 +17,10 @@ $$ A = \| \vecbf{x} \times \vecbf{y}  \| $$
 > 	A^2 &=  \|x \times y\|^2 && (2)\\
 > 	A &= \|x \times y\| \\
 > \end{align*}$$
-> \[(1) [[Dot Product]], (2) [[#Lagrange's Identity]]\]
-# Lagrange's Identity
-$$ \| \vecbf{x} \times \vecbf{y}  \|^2 = \|\vecbf{x}\|^2\|\vecbf{y}\|^2 - (\vecbf{x} \cdot \vecbf{y})^2 $$
-> [!proof]-
+> \[(1) [[Dot Product]], (2) Lagrange's Identity\]
+
+
+> [! ]- **Lagrange's Identity** $\| \vecbf{x} \times \vecbf{y}  \|^2 = \|\vecbf{x}\|^2\|\vecbf{y}\|^2 - (\vecbf{x} \cdot \vecbf{y})^2$
 > Let $\vecbf{x} = \langle x_1, x_2, x_3 \rangle$, $\vecbf{y} = \langle y_1, y_2, y_3 \rangle$, and $\vecbf{n} = \langle n_1, n_2, n_3 \rangle = \vecbf{x} \times \vecbf{y}$.
 > $$\begin{align*}
 > 	\text{RHS} &= \|\vecbf{x}\|^2\|\vecbf{y}\|^2 - (\vecbf{x} \cdot \vecbf{y})^2 \\

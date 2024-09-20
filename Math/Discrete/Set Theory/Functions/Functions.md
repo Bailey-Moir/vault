@@ -16,3 +16,5 @@ f(a) = b \iff (a,b) \in f \\
 f : A \to B \iff f \in A\times B && (1) \\
 \end{array}$$
 \[(1) [[Cartesian Product]]\]
+
+#TODO assimilate the folder [[Math/Algebra/Functions/Functions|Functions]]

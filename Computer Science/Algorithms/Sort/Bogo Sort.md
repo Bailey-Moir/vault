@@ -9,4 +9,4 @@ while not sorted(arr):
     shuffle(arr)
 ```
 
-\[[[Landua's Big O Notation]]\]
+\[[[Landua's Big Oh Notation]]\]

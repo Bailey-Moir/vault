@@ -1,3 +1,4 @@
-* {
+/** {
     --callout-radius: 0px;
-}
+    --callout-title-weight: var(--font-normal);
+}*/

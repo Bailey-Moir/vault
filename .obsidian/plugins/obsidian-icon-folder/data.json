@@ -50,8 +50,6 @@
   "Math/Discrete/Number Theory": "LiArrowDown01",
   "Math/Discrete/Number Theory/Modular Arithmetic": "LiClock12",
   "Math/Discrete/Propositional Logic": "LiArrowBigRight",
-  "Computer Science/Algorithm Analysis/Abstract Data Types": "LiType",
-  "Computer Science/Algorithm Analysis": "LiInfinity",
   "Computer Science/Cryptohack": "LiBrain",
   "Math/Algebra/Sequences & Series": "LiSigma",
   "Math/Algebra/Sequences & Series/Series": "LiSigma",
@@ -69,5 +67,7 @@
   "Math/Discrete/Cryptography": "LiFileWarning",
   "Math/Discrete/Set Theory/Relations": "®",
   "Math/Discrete/Set Theory": "LiCurlyBraces",
-  "Math/Linear Algebra/Vectors": "↗"
+  "Math/Linear Algebra/Vectors": "↗",
+  "Computer Science/Algorithm Analysis": "LiInfinity",
+  "Computer Science/Algorithm Analysis/Abstract Data Types": "LiType"
 }

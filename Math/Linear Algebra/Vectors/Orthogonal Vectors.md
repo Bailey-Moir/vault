@@ -13,7 +13,7 @@ $$\begin{align*}
 \end{align*}$$
 can derived from the [[Dot Product|cosine definition of the dot product]].
 
-> [!proof]- $\bot$ Proof
+> [!proof]- $\vecbf{x} \:\bot\: \vecbf{y} \iff \vecbf{x} \cdot \vecbf{y} = 0$
 > $$ \begin{align*}
 > 	\vecbf{a} \cdot \vecbf{b} &= \left|\vecbf{a}\right| \left|\vecbf{b}\right| \cos \theta \\
 > 	&= \left|\vecbf{a}\right| \left|\vecbf{b}\right| \cos \left( \dfrac{\pi}{2} \right) && \text{Perpendicular $(\theta \in [0,\pi])$} \\

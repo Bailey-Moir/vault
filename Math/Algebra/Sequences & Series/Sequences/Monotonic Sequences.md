@@ -21,7 +21,7 @@ $$\begin{array}{ccc}
 	\text{eventually increasing}\!\!&\!\!\text{or}\!\!&\!\! \text{eventually decreasing} \\
 \end{array}$$
 
-> [!note]- Methods of determining whether a sequence is increasing or decreasing
+> [! ]- Methods of determining whether a sequence is increasing or decreasing
 > A [[Sequences|sequence]] can be shown to be *monotonically* increasing by showing either:
 > - $\forall n \ge 1, a_{n+1} - a_n \ge 0$
 > - $\forall n \ge 1, \dfrac{a_{n+1}}{a_{n}} \ge 1$

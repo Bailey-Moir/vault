@@ -7,7 +7,7 @@ The *vector parametric form* of a plane can be found by extending the [[Vector P
 $$ \vecbf r = \vecbf r_0 + s\vecbf{d} + t\vecbf{e} \hspace{2em} s,t \in \R$$
 \[[[Position Vectors]]\]
 
-> [!note]- All Forms
+> [! ]- All Forms
 > - **[[Vector Point-Normal Planes|vector point-normal form]]** - $\left( \vecbf{r} - \vecbf{r_0} \right) \cdot \vecbf{n} = 0$
 > - **scalar point-normal form** - $ax + by + cz = d$
 > - **vector parametric form** - $\vecbf r = \vecbf r_0 + s\vecbf{d} + t\vecbf{e}$

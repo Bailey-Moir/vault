@@ -5,7 +5,7 @@ tags:
 ---
 From the cosine definition of the [[Dot Product|dot product]], it can be shown that if $\theta$ is the angle between two non-zero vectors $\vecbf{a}$ and $\vecbf{b}$, then:
 $$ \cos \theta = \dfrac{\vecbf{a} \cdot \vecbf{b}}{|\vecbf{a}|\,|\vecbf{b}|} $$
-> [!proof]- Proof with Cosine Rule
+> [!proof]- with Cosine Rule
 > Using the [[Cosine Rule|cosine rule]],
 > $$\begin{array}{rcl}
 > 	c^2 = a^2 + b^2 - 2ab\cos\theta &&

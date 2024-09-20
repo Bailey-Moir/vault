@@ -12,6 +12,9 @@ $$\begin{array}{c}
 *Note that the reverse [[Implication|implication]] of these two expressions is given by the definition of a [[Math/Discrete/Set Theory/Functions/Functions|function]].*
 # Properties of Injections
 Let $f: A \to B$ be a *injective [[Math/Discrete/Set Theory/Functions/Functions|function]]*:
-- $|A| \le |B|$^[[[Cardinality]]]
+- $|A| \le |B|$
 > [!proof]- Intuition
-> By the [[Math/Discrete/Set Theory/Functions/Functions|definition of a function]], each $a \in A$ can must map to an element $b \in B$, so if $|A| > |B|$, there must be multiple elements in $A$ that map to the same element $B$. An *injective function* can only map one element from $a \in A$ to each $b \in B$, implying a [[Contradictions|contradiction]]. Thus $|A| \le |B|$.
+> By the [[Math/Discrete/Set Theory/Functions/Functions|definition of a function]], each $a \in A$ can must map to an element $b \in B$, so if $|A| > |B|$, there must be multiple elements in $A$ that map to the same element $B$. An *injective function* can map at most one element from $a \in A$ to each $b \in B$, implying a [[Contradictions|contradiction]]. Thus $|A| \le |B|$.
+- $|\text{range}(f)| = |A|$
+
+\[[[Cardinality]]\]

@@ -1,0 +1,1 @@
+*Quick sort* splits the list such that everything in the left list is smaller than everything in the right. It then performs *quick sort* ([[Recursion|recursively]]) on these lists, simply adding them back together after.

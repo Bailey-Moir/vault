@@ -1,5 +1,5 @@
 *Minimum selection sort* works by finding the smallest element in the list via a [[Sequential Search|sequential-like search]], putting it at the start, and then doing the same for the rest of the list. *Maximum selection sort* does the same thing except it finds the largest elements, putting them at the end.
-- The best, average, and worst case are all $T_{n-1} = \mathcal{O}(n^2)$^[[[Triangular Numbers]]] as $n \to \infty$.^[[[Landua's Big O Notation]]]
+- The best, average, and worst case are all $T_{n-1} = \mathcal{O}(n^2)$^[[[Triangular Numbers]]] as $n \to \infty$.^[[[Landua's Big Oh Notation]]]
 ```c
 /* a[0] to a[aLength-1] is the array to sort */
 int i,j;

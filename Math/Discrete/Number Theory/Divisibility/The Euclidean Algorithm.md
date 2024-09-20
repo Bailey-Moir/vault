@@ -29,7 +29,7 @@ Let the [[Sets|set]] of [[Common Divisors|common divisors]] of two numbers $x,y$
 > 
 > \[[[Subsets]], [[Universal Quantifier]]\]
 
-> [!proof]- Intuitive Proof
+> [!proof]- (Intuitive Version)
 > $$\begin{align*}
 > 	\text{cd}(a,b) = \text{cd}(b,r) &\hspace{0.5ex}\implies \gcd(a,b) = \gcd(b,r) \\
 > 	\\

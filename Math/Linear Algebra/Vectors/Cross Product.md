@@ -41,6 +41,9 @@ is called the cross product of $\vecbf{x}$ and $\vecbf{y}$, characterized by bei
 > \end{align*}$$
 > Thus
 > $$ \vecbf{n} = \left\langle x_2y_3 - x_3y_2, -(x_1y_3 - x_3y_1), x_1y_2 - x_2y_1 \right\rangle $$
+
+> [!note]- Trick for Validating
+> A trick to validate that you have correctly calculated $\vecbf{n} = \vecbf{x}\times\vecbf{y}$ is to check that $\vecbf{n}\cdot\vecbf{x} = 0$ and $\vecbf{n}\cdot\vecbf{y} = 0$, given the *cross product* is [[#Properties of Cross Product|orthgonal to its operands]].
 # Properties of Cross Product
 The *cross product* is only defined for [[Vectors|vectors]] in $\R^3$. Thus, $\forall \vecbf{x}, \vecbf{y}, \vecbf{z} \in \R^3$
 - **Orthogonal to Operands**

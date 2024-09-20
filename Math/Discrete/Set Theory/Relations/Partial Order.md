@@ -11,5 +11,5 @@ A [[Relations|relation]] $\rel$ is a *partial order* [[Logical Equivalence|iff]]
 	- $\subseteq$^[[[Subsets]]] on $\mathcal{P}(A)$^[[[Power Sets]]].
 	- $|$^[[[Divisibility]]] on $\Z^+$.
 
-> [!note]
+> [!note] Similarity to Equivalence Relations
 > Note that *partial orders* are defined by the same properties as [[Equivalence Relations|equivalence relations]], except with the [[Antisymmetric Property|antisymmetric property]] instead of the [[Symmetric Property|symmetric property]]
