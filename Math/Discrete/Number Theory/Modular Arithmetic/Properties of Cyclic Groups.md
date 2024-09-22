@@ -3,7 +3,6 @@ tags:
   - atom
   - math
   - discrete
-  - anki
 ---
 $\forall n \in \Z^+, \forall a,b,c \in \Z_n$,
 1. **Closure**

@@ -4,15 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "f06d529f90b01db9",
+        "id": "851eb35725e295fd",
         "type": "tabs",
         "children": [
           {
-            "id": "ada46ee39ba14f59",
+            "id": "f46194f9863e4cfd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Physics/Electricity/Alternating Current.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f9475678f7f59dab",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Assets/excali/lcr-reactance-and-impedance.excalidraw.md"
+              }
             }
           }
         ]
@@ -73,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Physics/Electricity/Alternating Current.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Physics/Electricity/Alternating Current.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Physics/Electricity/Alternating Current.md"
+              }
             }
           }
         ]
@@ -134,35 +152,35 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "ada46ee39ba14f59",
+  "active": "f46194f9863e4cfd",
   "lastOpenFiles": [
-    "Math/Discrete/Number Theory/Divisibility/Properties of Divisor.md",
-    "Physics/Electricity/Capacitors.md",
+    "Physics/Electricity/Capacitance.md",
+    "Physics/Electricity/Alternating Current.md",
+    "Physics/Electricity/Faraday's Law.md",
+    "Physics/Electricity/RC, RL, & LCR.md",
+    "Assets/excali/lcr-reactance-and-impedance.excalidraw.md",
+    "Assets/excali/lcr-phase-diagram.excalidraw.md",
+    "Assets/excali/rc-polarity.excalidraw.md",
+    "Assets/excali/alternating-current.excalidraw.md",
     "Physics/Electricity/Inductors.md",
-    "Physics/Electricity/Electromotive Force.md",
-    "Physics/Electricity/Magnetic Flux.md",
     "Physics/Electricity/Kirchhoff's Laws.md",
+    "Physics/Electricity/Lenz's Law.md",
+    "Physics/Electricity/Magnetic Flux.md",
+    "Physics/Electricity/Transformers.md",
+    "Physics/Electricity/Electromotive Force.md",
+    "Physics/Electricity/Capacitors.md",
+    "Assets/excali/transformer.excalidraw.md",
+    "Math/Discrete/Number Theory/Modular Arithmetic/Properties of Cyclic Groups.md",
+    "Math/Discrete/Number Theory/Divisibility/Properties of Divisor.md",
     "Assets/excali/charging-and-discharging-inductors.excalidraw.md",
     "Assets/excali/charging-and-discharging-capacitors.excalidraw.md",
     "Assets/excali/inductor-opposing-change-in-current.excalidraw.md",
-    "Physics/Electricity/Faraday's Law.md",
     "Math/Algebra/Sequences & Series/Series/Taylor Series/Landua's Big Oh Notation.md",
-    "Physics/Electricity/Capacitance.md",
-    "Physics/Electricity/Lenz's Law.md",
     "Math/Discrete/Cryptography/RSA.md",
     "Math/Discrete/Number Theory/Divisibility/Divisibility.md",
     "Math/Algebra/Sequences & Series/Series/Harmonic Series.md",
     "Math/Discrete/Set Theory/Functions/Functions.md",
-    "Math/Discrete/Number Theory/Divisibility/Extended Euclidean Algorithm.md",
-    "Computer Science/Algorithms/Sort/Shell Sort.md",
-    "Finish.md",
-    "Physics/Electricity/Circuit Loops.md",
-    "Energy.md",
-    "Math/Algebra/Lambert W Function.md",
     "Pasted Image 20240922202621_048.png",
-    "Math/Discrete/Set Theory/Functions/Inverse Functions.md",
-    "Assets/excali/lambert-w-inverse-graph.excalidraw.md",
-    "Assets/excali/law-of-conservation-of-charge.excalidraw.md",
     "Physics/Electricity",
     "Physics",
     "Excalidraw/Scripts/Downloaded/Concatenate lines.svg",

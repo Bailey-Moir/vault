@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "tag:#math  -tag:#stats  -tag:#discrete",
@@ -41,6 +41,13 @@
         "a": 1,
         "rgb": 14701138
       }
+    },
+    {
+      "query": "tag:#phys  ",
+      "color": {
+        "a": 1,
+        "rgb": 7885536
+      }
     }
   ],
   "collapse-display": true,
@@ -53,6 +60,6 @@
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 226,
-  "scale": 0.061010484236627534,
+  "scale": 0.3003387451171875,
   "close": false
 }
