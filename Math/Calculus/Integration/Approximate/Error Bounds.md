@@ -10,5 +10,4 @@ Note possible magnitude of $E_M$ is half that of $E_T$.
 
 or if $\left| f^{(4)}(x) \right| \le K$:
 - $\left| E_S \right| \le \dfrac{K(b-a)^5}{180n^4}$^[[[Simpson's Rule]]]
-
 \[[[Approximate Integration|Approximate Integration]]\]

@@ -58,7 +58,7 @@ $$ M^{k\phi(n) + 1} \equiv M \pmod n $$
 > 	M &\equiv 0 \pmod p \\
 > 	M^{k\phi(n) + 1} &\equiv 0 \pmod p \\
 > \end{align*}$$
-> Since $p|M$[^3] and $p|M^{k\phi(n)+1}$[^3] (see [[Congruence]]), $p|M^{k\phi(n)+1} - M$^[[[Properties of Divisor]]][^3].
+> Since $p|M$[^3] and $p|M^{k\phi(n)+1}$[^3] (see [[Congruence]]), $p|M^{k\phi(n)+1} - M$^[[[Divisibility#Properties of Divisibility]]][^3].
 > 
 > We know that $\gcd(M,q) = 1$, as otherwise $\gcd(M,n) = pq$. Using [[Fermat's Little Theorem|Fermat's little theorem]],
 > $$\begin{align*}

@@ -19,5 +19,4 @@ $$\begin{align*}
 	(X \cup Y)^c &= X^c \cap Y^c \\
 	(X \cap Y)^c &= X^c \cup Y^c \\
 \end{align*}$$
-
 [^1]: [[Unions and Intersections]]

@@ -3,7 +3,6 @@ tags:
   - atom
   - math
   - discrete
-  - c
 ---
 
 The *composition* of $f$ and $g$ ($g \circ f$) is defined as

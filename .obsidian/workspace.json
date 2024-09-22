@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b80b00c5b9b22f15",
+        "id": "f06d529f90b01db9",
         "type": "tabs",
         "children": [
           {
-            "id": "1cdaff80698d6ca5",
+            "id": "ada46ee39ba14f59",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Calculus/Integration/Approximate/Trapezium Rule.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TODO  ",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Calculus/Integration/Approximate/Trapezium Rule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Calculus/Integration/Approximate/Trapezium Rule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Math/Calculus/Integration/Approximate/Trapezium Rule.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -142,34 +134,41 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1cdaff80698d6ca5",
+  "active": "ada46ee39ba14f59",
   "lastOpenFiles": [
-    "Math/Calculus/Integration/Approximate/Simpson's Rule.md",
-    "Math/Calculus/Integration/Approximate/Riemann Sums.md",
-    "Math/Calculus/Integration/Approximate/Midpoint Rule.md",
-    "Math/Calculus/Integration/Approximate/Approximate Integration.md",
-    "Math/Calculus/Integration/Approximate/Error Bounds.md",
-    "Math/Calculus/Integration/Volumes/Volumes of Revolution.md",
-    "Math/Calculus/Integration/Volumes/Volumes by Disks.md",
-    "Math/Calculus/Integration/Volumes/Volumes by Cylindrical Shells.md",
-    "Math/Calculus/Integration/Volumes/Surfaces of Revolution.md",
-    "Math/Calculus/Integration/Volumes/Definition of Volume.md",
-    "Math/Calculus/Integration/Quadratics in the Denominator.md",
-    "Math/Calculus/Integration/Net Change Theorem.md",
-    "Math/Calculus/Integration/Mean Value Theorem for Integrals.md",
-    "Math/Calculus/Integration/Inverse Trigonometric Integration Identities.md",
-    "Math/Calculus/Integration/Integration by First Principals.md",
-    "Math/Calculus/Integration/Fundamental Theorem of Calculus.md",
-    "Math/Calculus/Integration/Average Value Function.md",
-    "Math/Calculus/Integration/Arc Length Formula.md",
-    "Math/Calculus/Integration/Improper Integrals.md",
-    "Math/Calculus/Integration/Comparison Theorem.md",
-    "Math/Algebra/Basics/Logarithmic Functions.md",
-    "Math/Algebra/Basics/Logarithm Laws.md",
-    "Math/Algebra/Basics/Intervals.md",
-    "Math/Algebra/Basics/Inequalities.md",
-    "Math/Algebra/Basics/Exponential Functions.md",
-    "Math/Algebra/Basics/Exponent Laws.md",
+    "Math/Discrete/Number Theory/Divisibility/Properties of Divisor.md",
+    "Physics/Electricity/Capacitors.md",
+    "Physics/Electricity/Inductors.md",
+    "Physics/Electricity/Electromotive Force.md",
+    "Physics/Electricity/Magnetic Flux.md",
+    "Physics/Electricity/Kirchhoff's Laws.md",
+    "Assets/excali/charging-and-discharging-inductors.excalidraw.md",
+    "Assets/excali/charging-and-discharging-capacitors.excalidraw.md",
+    "Assets/excali/inductor-opposing-change-in-current.excalidraw.md",
+    "Physics/Electricity/Faraday's Law.md",
+    "Math/Algebra/Sequences & Series/Series/Taylor Series/Landua's Big Oh Notation.md",
+    "Physics/Electricity/Capacitance.md",
+    "Physics/Electricity/Lenz's Law.md",
+    "Math/Discrete/Cryptography/RSA.md",
+    "Math/Discrete/Number Theory/Divisibility/Divisibility.md",
+    "Math/Algebra/Sequences & Series/Series/Harmonic Series.md",
+    "Math/Discrete/Set Theory/Functions/Functions.md",
+    "Math/Discrete/Number Theory/Divisibility/Extended Euclidean Algorithm.md",
+    "Computer Science/Algorithms/Sort/Shell Sort.md",
+    "Finish.md",
+    "Physics/Electricity/Circuit Loops.md",
+    "Energy.md",
+    "Math/Algebra/Lambert W Function.md",
+    "Pasted Image 20240922202621_048.png",
+    "Math/Discrete/Set Theory/Functions/Inverse Functions.md",
+    "Assets/excali/lambert-w-inverse-graph.excalidraw.md",
+    "Assets/excali/law-of-conservation-of-charge.excalidraw.md",
+    "Physics/Electricity",
+    "Physics",
+    "Excalidraw/Scripts/Downloaded/Concatenate lines.svg",
+    "Excalidraw/Scripts/Downloaded/Convert freedraw to line.svg",
+    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
+    "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
     "tracked_files.json",
     "Math/Geometry/Trigonometry/Trigonometry.canvas",
     "Assets/transposing-matrices.gif",
@@ -177,11 +176,6 @@
     "Assets/quadrants on graph.svg",
     "Assets/scalar-field-two-space.png",
     "Assets/program-state-table.png",
-    "Assets/professional.png",
-    "Assets/plot-customization.png",
-    "Assets/Pasted image 20240804224306.png",
-    "Assets/Pasted image 20240801195915.png",
-    "Assets/Pasted image 20240801195148.png",
     "Math/Discrete/Set Theory/Cardinality",
     "Generated Questions",
     "Math/Linear Algebra/Vectors/Areas & Volumes",
@@ -191,8 +185,6 @@
     "Math/Calculus/Limits/Limits.canvas",
     "Math/Linear Algebra/Vectors/Definitions",
     "Math/Linear Algebra/Vectors/Old",
-    "Math/Linear Algebra/Vectors",
-    "Atoms",
     "Untitled.canvas",
     "Math/Linear Algebra/Done Right/Properties of Vector Spaces/Properties of Vector Spaces.canvas",
     "Statistics/Inference for Means and Proportions/Inference for Means and Proportions.canvas",
