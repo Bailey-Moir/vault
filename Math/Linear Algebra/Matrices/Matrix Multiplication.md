@@ -3,9 +3,7 @@ tags:
   - math
   - atom
 ---
-In *matrix multiplication*, each entry is found using the dot product. The $ij$-th entry of the matrix product is found by going across the $i$-th row of the left matrix whilst going down the $j$-th column of the right matrix, multiplying each pair; 
-- the $ij$-th entry is found by getting the [[Dot Product|dot product]] of the $i$-th [[Matrices as Vectors|row vector]] of the left matrix and the $j$-th [[Matrices as Vectors|column vector]] of the right matrix.
-
+In *matrix multiplication*, each entry is found using the [[Dot Product|dot product]]. The $ij$-th entry is found by getting the [[Dot Product|dot product]] of the $i$-th [[Matrices as Vectors|row vector]] of the left [[Matrices|matrix]] and the $j$-th [[Matrices as Vectors|column vector]] of the right [[Matrices|matirx]].
 $$\begin{bmatrix} 
 	\textcolor{lightgray}{a_{11}} & \textcolor{darkgray}{a_{12}} & \textcolor{gray}{a_{13}} \\
 	a_{21} & a_{22} & a_{23} \\
@@ -27,7 +25,6 @@ $$\begin{align*}
 \textcolor{Orchid}{c_{11}} &= \textcolor{lightgray}{a_{11}b_{11}} + \textcolor{darkgray}{a_{12}b_{21}} + \textcolor{gray}{a_{13}b_{31}} \\
 c_{ij} &= \sum_{n=1} \left( a_{in} \cdot b_{nj} \right)
 \end{align*}$$
-
 This would not be possible if the left matrix's number of columns was different to the right matrix's number of rows, as **the entries must be able form pairs**. Thus, two matrices only **conform for matrix multiplication if the left matrix has as many columns as the right matrix has rows**. The result of matrix multiplication has as many rows as the left matrix, and as many columns as the right matrix.
 
 $$\begin{array}{c}
@@ -57,3 +54,13 @@ $$\begin{array}{c}
 \end{bmatrix}}
 
 \end{array}$$
+
+# Properties of Matrix Multiplication
+- **Associative**
+	$A(BC) \equiv (AB)C$
+	$k(AB) \equiv (kA)B \equiv A(kB)$
+- **Distributive**
+	$A(B+C) \equiv AB + AC$
+- **NOT** Commutative
+	$AB \hspace{.1em}\not{\hspace{-.3em}\equiv}\hspace{.3em} BA$
+

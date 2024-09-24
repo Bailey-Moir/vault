@@ -1,7 +1,7 @@
 {
-  "accentColor": "",
-  "cssTheme": "Oxocarbon",
-  "theme": "obsidian",
+  "accentColor": "#de9584",
+  "cssTheme": "AnuPpuccin",
+  "theme": "moonstone",
   "enabledCssSnippets": [
     "better-callouts",
     "excali",
@@ -9,6 +9,8 @@
     "better-embeds",
     "better-atom",
     "larger-inline-math",
-    "better-snippets"
+    "better-snippets",
+    "big-math",
+    "hidden-properties"
   ]
 }

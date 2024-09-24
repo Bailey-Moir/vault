@@ -9,4 +9,4 @@ How easily a statistics is affected by extreme values.
 | ----------------------------- | ---------------------- |
 | [[Median]]                    | [[Mean]]               |
 | [[Percentile]]                | [[Standard Deviation]] |
-| [[Interquartile Range (IQR)]] | [[Statistics/Describing Data/Range]]              |
+| [[Interquartile Range (IQR)]] | [[Statistical Range]]              |

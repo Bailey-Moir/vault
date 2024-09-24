@@ -4,4 +4,4 @@ tags:
   - math
   - discrete
 ---
-> An unweighted, undirected graph without loops or multiple [[Math/Discrete/Graph Theory/Edges|edges]].
+A *simple graph* is an an [[Weighted Graphs|unweighted]], [[Directed Graphs|undirected]] [[Graphs|graphs]] without [[Loops|loops]] or [[Parallel Edges|parallel edges]].

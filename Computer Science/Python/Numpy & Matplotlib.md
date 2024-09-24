@@ -65,7 +65,7 @@ print(data)
 print(f"size: {data.size}") # number of elements, out: 12
 print(f"shape: {data.shape}") # matrix order, (m, n), out: (3, 4)
 ```
-\[[[Archive/Deatomized/Calculus/Algebra/Linear Algebra/Matrices]]\]
+\[[[_Matrices]]\]
 ### Indexing 2D Arrays
 Indexing 2D arrays is fairly simple: `arr[m,n]` $=$ `arr[(m,n)]` $= a_{mn}$. Note that when an index is plugged into a function, it is always in tuple form.
 # Plots
@@ -224,7 +224,7 @@ a, b, c = np.polyfit(xs, ys, 2)
 > ```
 
 # Matrix Multiplication
-See [[Archive/Deatomized/Calculus/Algebra/Linear Algebra/Matrices#Multiplication of Matrices by Scalars|Matrix Multiplication]] for the linear algebra explanation of matrix multiplication. There are 3 ways to do matrix multiplication.
+See [[_Matrices#Multiplication of Matrices by Scalars|Matrix Multiplication]] for the linear algebra explanation of matrix multiplication. There are 3 ways to do matrix multiplication.
 `m1 @ m2` $=$ `m1.dot(m2)` $=$ `np.matmul(m1,m2)`
 > [!example]-
 > $$ \begin{bmatrix} 0 & -1 \\ 1 & 0 \end{bmatrix} \begin{bmatrix}1\\2\end{bmatrix} = \begin{bmatrix}-2\\1\end{bmatrix} $$

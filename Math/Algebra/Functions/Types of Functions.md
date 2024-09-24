@@ -3,7 +3,8 @@ tags:
   - atom
   - math
 ---
-There are many types of functions, including: - [[Algebraic and Transcendental Functions|Algebraic]] $\tiny \left( \text{Algebraically operated polynomials} \right)$
+There are many types of functions, including: 
+- [[Algebraic and Transcendental Functions|Algebraic]] $\tiny \left( \text{Algebraically operated polynomials} \right)$
 	- Rational $\tiny \left( \dfrac{P(x)}{Q(x)} \text{ s.t. } P \text{ and } Q \text{ are polynomials} \right)$
 		 - [[Polynomial and Linear Functions|Polynomial]] $\tiny \left( a_0x^n + a_1x^{n-1} \dots + a_n \right)$
 			 - [[Polynomial and Linear Functions|Linear]] $\tiny \left( ax + b \right)$

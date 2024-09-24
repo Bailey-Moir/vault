@@ -2,8 +2,12 @@
 tags:
   - atom
   - math
+  - discrete
 ---
-$$\begin{alignat}{3}
-	f \text{ is } &\text{even} \:&\iff \forall a \in \text{dom}(f),\hspace{1ex} &f(-a) = f(a) \\
-	&\text{odd} &&f(-a) = -f(a)
-\end{alignat}$$
+*Even functions* are symmetrical across the $y$-axis, and *odd functions* are even but flipped vertically across the $y$-axis. 
+- A [[Functions|function]] $f:A\to B$ is *even* [[Logical Equivalence|iff]] $\forall a\in A,f(-a) = f(a)$
+- A [[Functions|function]] $f:A\to B$ is *odd* [[Logical Equivalence|iff]] $\forall a\in A,f(-a) = -f(a)$
+
+# Even and Odd Polynomials
+- For a polynomial to be *even*, it must have exclusively **even powers** of $x$ (including $x^0$).
+- For a polynomial to be *odd*, it must have exclusively **odd powers** of $x$.

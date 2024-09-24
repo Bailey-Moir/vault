@@ -33,7 +33,7 @@ tags:
 # Five Number Summary
 ![[Five Number Summary]]
 ## Range
-![[Statistics/Describing Data/Range]]
+![[Statistical Range]]
 # Interquartile Range (IQR)
 ![[Interquartile Range (IQR)]]
 

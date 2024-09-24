@@ -3,7 +3,6 @@ tags:
   - atom
   - math
 ---
-$$\begin{alignat}{3}
-	f \text{ is } &\text{increasing} \text{ on } I \iff \forall a,b\in I \text{ s.t. } a<b,\text{ } &f(a)<f(b) \\
-	&\text{decreasing} &f(a)>f(b)
-\end{alignat}$$
+In an *increasing/decreasing function*, each $y$-value is greater than those before it.
+- A [[Functions|function]] $f:A\to B$ is *increasing* on $I$ [[Logical Equivalence|iff]] $\forall a,b \in A,\left( a<b\to f(a)<f(b) \right)$
+- A [[Functions|function]] $f:A\to B$ is *decreasing* on $I$ [[Logical Equivalence|iff]] $\forall a,b \in A,\left( a<b\to f(a)>f(b) \right)$

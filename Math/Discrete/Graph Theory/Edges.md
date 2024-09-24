@@ -4,4 +4,5 @@ tags:
   - math
   - discrete
 ---
-Each edge is connected to two [[Vertices|vertices]], called its endpoints. In a [[Simple Graphs|simple graph]], an edge can be represented as the set of its endpoints/[[Vertices|vertices]]. The set of edges of a graph $G$ is denoted by $E(G)$.
+Each edge is **incident** to two [[Vertices|vertices]], called its **endpoints**.
+- A [[Vertices|vertex]] is **adjacent** to another if they are **incident**
