@@ -4,9 +4,8 @@ tags:
   - atom
 ---
 The *determinant* of a [[Matrices|matrix]] $A$, $|A|$, is the **scale factor** of its [[Linear Transformations|linear transformation]]. This can be calculated as the area of the unit square after applying the [[Linear Transformations|transformation]].
-- If $A$ flips the unit square, then $|A| < 0$.
-
-- If any rows are redundant (a [[Linear Combinations|linear combination]] of other rows) then the *determinant* is always zero.
+- If $A$ reflects the unit square, then $|A| < 0$.
+- If any rows or columns are redundant (a [[Linear Combinations|linear combination]] of other rows) then the *determinant* is always zero.
 # Properties of Determinants
 - $\left| AB \right|\equiv \left| A \right|\left| B \right|$
 > [!intuition]-
@@ -29,6 +28,19 @@ The *determinant* of a [[Matrices|matrix]] $A$, $|A|$, is the **scale factor** o
 > \end{align*}$$
 > Therefore
 > $$\left| A^{-1} \right| =\dfrac{1}{\left| A \right| }$$
+- $\left| A^T \right|=\left| A \right|$^[[[Transposition]]]
+- If $A$ is $n\times n$, $\left| kA \right|=k^n\left| A \right|$.
+> [!proof]-
+> $$\begin{align*}
+> 	\left| kA \right| &= k\left| \vecbf{c}_{1} | \vecbf{c}_{2} | \dots | \vecbf{c}_{n} \right|  \\
+> 	&= \left| k\vecbf{c}_{1} | k\vecbf{c}_{2} | \dots | k\vecbf{c}_{n} \right|  \\
+> 	&= k\left| \vecbf{c}_{1} | k\vecbf{c}_{2} | \dots | k\vecbf{c}_{n} \right|  \\
+> 	&= k^2\left| \vecbf{c}_{1} | \vecbf{c}_{2} | \dots | k\vecbf{c}_{n} \right|  \\
+> 	&\dots \\
+> 	&= k^n\left| \vecbf{c}_{1} | \vecbf{c}_{2} | \dots | \vecbf{c}_{n} \right|  \\
+> 	&= k^n\left| A \right|  \\
+> \end{align*}$$
+> \[[[Row and Column Operations with Determinants]]\]
 # Determinant of a 2x2 Matrix
 The *determinant* of a $2\times2$ matrix is the product of the main diagonal minus the product of the secondary diagonal all under 1.
 $$A = \begin{bmatrix}

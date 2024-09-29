@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6a8d3407675a241b",
+        "id": "7246418d37aa5ce3",
         "type": "tabs",
         "children": [
           {
-            "id": "43ba34fc14a3ef8a",
+            "id": "f617bd49c7a96157",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Linear Algebra/Linear Transformations/Determinants.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -31,7 +27,7 @@
       {
         "id": "82aebc1c15de1f9d",
         "type": "tabs",
-        "dimension": 71.53465346534654,
+        "dimension": 72.88977159880834,
         "children": [
           {
             "id": "c0a1346d6522e74d",
@@ -49,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pmatrix",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,17 +57,16 @@
         ]
       },
       {
-        "id": "f613f45cbcebde7f",
+        "id": "75c560a60d9e8a36",
         "type": "tabs",
-        "dimension": 28.465346534653463,
+        "dimension": 27.110228401191662,
         "children": [
           {
-            "id": "67db7ff9c0daad39",
+            "id": "872fb53236fe4a18",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Math/Linear Algebra/Linear Transformations/Determinants.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -86,7 +81,7 @@
                   "colorGroups": [],
                   "collapse-display": false,
                   "showArrow": false,
-                  "textFadeMultiplier": -1.8,
+                  "textFadeMultiplier": -1.7,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": true,
@@ -94,7 +89,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3628873839180749,
+                  "scale": 0.2962962962962963,
                   "close": true
                 }
               }
@@ -104,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "right": {
     "id": "8aa190a7a68c5447",
@@ -120,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Linear Algebra/Linear Transformations/Determinants.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Linear Algebra/Linear Transformations/Determinants.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Math/Linear Algebra/Linear Transformations/Determinants.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -185,35 +177,43 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "67db7ff9c0daad39",
+  "active": "f617bd49c7a96157",
   "lastOpenFiles": [
-    "Math/Linear Algebra/Matrices/Invertibility.md",
-    "Math/Linear Algebra/Linear Transformations/Determinants.md",
-    "Math/Linear Algebra/Matrices/Definitions/Sets of Matrices.md",
-    "Math/Linear Algebra/Matrices/Definitions/Singular Matrices.md",
-    "Math/Discrete/Propositional Logic/Logical Equivalence.md",
-    "Physics/Electricity/Transformers.md",
-    "Math/Linear Algebra/Vectors/Distance between Skew Lines.md",
-    "Math/Linear Algebra/Vectors/Cross Product.md",
-    "Math/Linear Algebra/Vectors/Old/Direction Angles and Direction Cosines.md",
-    "Math/Discrete/Graph Theory/220/Complete Graphs.md",
-    "Math/Linear Algebra/Linear Transformations/Linear Transformations.md",
-    "Math/Linear Algebra/Vectors/Areas & Volumes/Volume of Parallelepipeds.md",
-    "Math/Linear Algebra/Matrices/Matrices.md",
-    "Math/Linear Algebra/Matrices/Matrix Multiplication.md",
-    "Math/Linear Algebra/Matrices/Matrices as Vectors.md",
-    "Math/Linear Algebra/Matrices/Inverting Matrices.md",
-    "Archive/Deatomized/Calculus/Algebra/Linear Algebra/_Matrices.md",
-    "Math/Linear Algebra/Matrices/Definitions/Matrix Addition.md",
-    "Math/Triangular Numbers.md",
+    "Computer Science/Algorithm Analysis/Abstract Data Types/Binary Heaps.md",
+    "Computer Science/Algorithm Analysis/Abstract Data Types/Priority Queues.md",
+    "Computer Science/Algorithm Analysis/Abstract Data Types/Heaps.md",
+    "Computer Science/Algorithm Analysis/Abstract Data Types/Trees/Binary Trees.md",
+    "Assets/excali/binary-heap-5.excalidraw.md",
+    "Math/Discrete/Propositional Logic/Converse, Inverse, and Contrapositive.md",
+    "Math/Discrete/Graph Theory/Graph Isomorphism.md",
+    "Assets/excali/parse-tree.excalidraw.md",
+    "Computer Science/Algorithm Analysis/Abstract Data Types/Trees/Parse Trees.md",
+    "Assets/excali/binary-heap-5.excalidraw.svg",
+    "Math/Discrete/Propositional Logic/Logical Implication.md",
+    "Math/Discrete/Graph Theory/Bipartite Graphs.md",
+    "Computer Science/Algorithms/Sorting Algorithms/Insertion Sort.md",
+    "Computer Science/Algorithm Analysis/Abstract Data Types/Circular Linked Lists.md",
+    "Computer Science/Algorithm Analysis/Abstract Data Types/Deques.md",
+    "Computer Science/Algorithm Analysis/Abstract Data Types/Double-Linked List.md",
+    "Computer Science/Algorithm Analysis/Abstract Data Types/Linked Lists.md",
+    "Computer Science/Algorithm Analysis/Abstract Data Types/Ordered Linked Lists.md",
+    "Computer Science/Algorithm Analysis/Abstract Data Types/Queues.md",
+    "Computer Science/Algorithm Analysis/Abstract Data Types/Stacks.md",
+    "Freelancing/validate-orders.excalidraw.md",
+    "Atomic Habits.md",
+    "Effective Note-taking.md",
+    "Law of Diminishing Marginal Utility.md",
+    "Learning.md",
+    "Archive/Space Empires.md",
+    "Archive/Home.md",
+    "Pasted Image 20240927124842_306.svg",
+    "Assets/excali/bipartite-graph.excalidraw.svg",
+    "Assets/excali/graph-isomorphism.excalidraw.svg",
+    "Assets/excali/inverse-functions.excalidraw.svg",
+    "Assets/excali/hasse-diagrams.excalidraw.svg",
+    "Assets/excali/vector-point-normal-planes.excalidraw.svg",
+    "Math/Linear Algebra/Linear Algebra.canvas",
     "Math/Linear Algebra/Linear Transformations",
-    "Math/Linear Algebra/Matrices/Inversion by Row Reduction.md",
-    "Math/Linear Algebra/Matrices/Definitions/Matrix Scalar Multiplication.md",
-    "Math/Linear Algebra/Matrices/Inverse of a 2x2 Matrix.md",
-    "Math/Linear Algebra/Matrices/Definitions/Equality of Matrices.md",
-    "Math/Linear Algebra/Matrices/Definitions/Exponentiation of Matrices.md",
-    "Math/Linear Algebra/Matrices/Definitions/Identity Matrices.md",
-    "Math/Linear Algebra/Matrices/Definitions/Diagonal Matrices.md",
     "Math/Linear Algebra/Matrices/Definitions",
     "Math/Algebra/Coordinate Forms",
     "Computer Science/Algorithms/Primes Algorithms",
@@ -226,15 +226,7 @@
     "Physics/Electricity",
     "Excalidraw/Scripts/Downloaded/Concatenate lines.svg",
     "Excalidraw/Scripts/Downloaded/Convert freedraw to line.svg",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
-    "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
     "Math/Geometry/Trigonometry/Trigonometry.canvas",
-    "Assets/transposing-matrices.gif",
-    "Assets/The-difference-between-the-terms-equality-equity-and-liberation-illustrated-C.png",
-    "Assets/quadrants on graph.svg",
-    "Assets/scalar-field-two-space.png",
-    "Assets/program-state-table.png",
-    "Math/Linear Algebra/Linear Algebra.canvas",
     "Math/Calculus/Limits/Limits.canvas",
     "Untitled.canvas",
     "Math/Linear Algebra/Done Right/Properties of Vector Spaces/Properties of Vector Spaces.canvas",

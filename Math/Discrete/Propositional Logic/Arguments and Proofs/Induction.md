@@ -20,7 +20,7 @@ $$ \forall i \in \Z, S: \Z_{\ge i} \to \B, \left( S(i) \land \left( \forall k \i
 > Let $k = m-1$. Then, by the minimality of $m$, $S(k)$ holds.
 > Therefore, by the second [[Argument|premise]], $S(k+1)$ holds. 
 > But $k+1 = m$, so $S(m)$ holds; a contradiction.
-> \[[[Proof by Contradiciton]]\]
+> \[[[Proof by Contradiction]]\]
 
 > [!example]-
 $$S(k) \iff 1 + 2 + \dots + k = \dfrac{k(k+1)}{2}$$

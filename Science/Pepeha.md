@@ -3,7 +3,7 @@ To be delivered with respect and humility, and typically is received with respec
 A statement of collective identity. Used to acknowledge a tribe including the land and people. it was an introduction from a communal perspective.
 
 # Today
-A pepeha is a method of introduction to make connections with an adueince, and includes placing oneself in time & space in relation to **whenua** (land) and **whānau** (people)
+A pepeha is a method of introduction to make connections with an audience, and includes placing oneself in time & space in relation to **whenua** (land) and **whānau** (people)
 - For Māori, a traditional format may be applicable, for non-Māori, there are multiple ways of adapting the format.
 - The primary goal is to retain the principle that it is about making connections, it is contextual
 - The pepeha may form part of a mihimihi or is sometimes presented on its own

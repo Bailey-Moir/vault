@@ -14,7 +14,10 @@ $$\begin{array}{c}
 Let $f: A \to B$ be a *injective [[Functions|function]]*:
 - $|A| \le |B|$
 > [!proof]- Intuition
-> By the [[Functions|definition of a function]], each $a \in A$ can must map to an element $b \in B$, so if $|A| > |B|$, there must be multiple elements in $A$ that map to the same element $B$. An *injective function* can map at most one element from $a \in A$ to each $b \in B$, implying a [[Contradictions|contradiction]]. Thus $|A| \le |B|$.
+> By the [[Functions|definition of a function]], each $a \in A$ must map to an element $b \in B$, so if $|A| > |B|$, there must be multiple elements in $A$ that map to the same element $B$. An *injective function* can map at most one element from $a \in A$ to each $b \in B$, implying a [[Contradictions|contradiction]]. Thus $|A| \le |B|$.
+> 
+> \[[[Proof by Contradiction]]\]
+
 - $|\text{range}(f)| = |A|$
 
 \[[[Cardinality]]\]

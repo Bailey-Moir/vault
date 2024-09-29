@@ -40,7 +40,7 @@ $$ A\vecbf{e}_{i}= \begin{bmatrix}
 > [!note]- Types of Transformations
 > - Scale
 > - Rotation
-> - Flip/Orientation
+> - Reflection
 > - Sheer
 
 \[[[Matrix Multiplication]], [[Basis Vectors]]\]

@@ -4,13 +4,12 @@
   "theme": "moonstone",
   "enabledCssSnippets": [
     "better-callouts",
-    "excali",
-    "notes",
     "better-embeds",
-    "better-atom",
-    "larger-inline-math",
-    "better-snippets",
     "big-math",
-    "hidden-properties"
+    "center-svg",
+    "excali",
+    "hidden-properties",
+    "larger-inline-math",
+    "wide-math"
   ]
 }

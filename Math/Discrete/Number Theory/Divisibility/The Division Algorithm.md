@@ -4,7 +4,7 @@ tags:
   - math
   - discrete
 ---
-If $a,b \in Z$ with $b > 0$, then there exist unique integers $q$ and $r$ such that
+If $a,b \in \Z$ with $b > 0$, then there exist unique integers $q$ and $r$ such that
 $$ a = qb + r$$
 where $0 \le r < b$
 

@@ -4,4 +4,4 @@ tags:
   - math
   - discrete
 ---
-The *neighbour hood* of a [[Vertices|vertex]] is a [[Subgraphs|subgraph]] formed by all [[Vertices|vertices]] that are [[Math/Discrete/Graph Theory/Edges|adjacent]] to $v$.
+The *neighbourhood* of a [[Vertices|vertex]] $v$ is a [[Subgraphs|subgraph]] formed by all [[Vertices|vertices]] that are [[Math/Discrete/Graph Theory/Definitions/Edges|adjacent]] to $v$.

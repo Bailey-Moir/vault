@@ -37,6 +37,6 @@ def traverse_preorder(self, subtree)
 > - bottom in [[#In-order|in-order]].
 > - right in [[#Post-order|post-order]].
 >
-> Then imagine traveling around the [[Trees|tree]] anti-clockwise starting at the top of the [[Root|root]], and operate (e.g. print) whenever you pass a flag.
+> Then imagine traveling around the [[Computer Science/Algorithm Analysis/Abstract Data Types/Trees/Trees|tree]] anti-clockwise starting at the top of the [[Root|root]], and operate (e.g. print) whenever you pass a flag.
 
 \[[[Prefix, Infix, and Postfix Notation]]\]

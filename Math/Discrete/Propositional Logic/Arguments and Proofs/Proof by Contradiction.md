@@ -10,7 +10,7 @@ You can prove $p \to q$^[[[Implication]]] by proving $p \land \neg q$ is a [[Con
 
 \[[[Contradictions]]\]
 
-> [!example]-
+> [!example]- $x^{2}\text{ is even} \to x\text{ is even}$
 > Assume that $p \land \neg q$.
 > $$x^2 \text{ is even} \land x \text{ is odd}$$
 > Since $x$ is odd, $\exists k \in \Z : x = 2k + 1$ (by the definition of odd numbers).
