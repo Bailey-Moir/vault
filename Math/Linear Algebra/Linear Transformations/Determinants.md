@@ -41,11 +41,3 @@ The *determinant* of a [[Matrices|matrix]] $A$, $|A|$, is the **scale factor** o
 > 	&= k^n\left| A \right|  \\
 > \end{align*}$$
 > \[[[Row and Column Operations with Determinants]]\]
-# Determinant of a 2x2 Matrix
-The *determinant* of a $2\times2$ matrix is the product of the main diagonal minus the product of the secondary diagonal all under 1.
-$$A = \begin{bmatrix}
-	a & b \\
-	c & d \\
-\end{bmatrix}
-\implies
-\left| A \right| = ad-bc$$

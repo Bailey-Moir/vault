@@ -26,6 +26,6 @@ $$\begin{array}{l}
 \end{array}$$
 
 > [!note] Abelian Groups
-> If $\forall a,b \in G, (a*b = b*a)$ ($(G,*)$ has commutativity), $(G,*)$ is abelian.
+> $\forall a,b \in G, (a*b = b*a)$ ($(G,*)$ has commutativity)
 
 \[[[Binary Operations]]\]

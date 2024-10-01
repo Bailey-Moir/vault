@@ -3,7 +3,7 @@ tags:
   - atom
   - math
 ---
-A field $\F$ is a [[Sets|set]] with two [[Binary Operations|binary operations]]: +, $\times$ with the properties that:
+A field $\F$ is a [[Sets|set]] with two [[Binary Operations|binary operations]] $+$ and $\times$ with the properties that:
 1. $\F$ is an [[Groups|abelian group]] with $+$.
 2. $\F/\{0\}$ is an [[Groups|abelian group]] with $\times$, where $0$ is the additive identity.
 3. $\forall a,b,c \in \F, (c(a+b) = ca+cb)$ (distributivity).
