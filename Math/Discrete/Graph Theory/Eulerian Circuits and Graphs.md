@@ -4,8 +4,10 @@ tags:
   - math
   - discrete
 ---
-A closed [[Walks|walk]] that traverses each [[Math/Discrete/Graph Theory/Definitions/Edges|edge]] of the [[Graphs|graph]] **exactly once** is called a *Eulerian circuit*.
-A connected [[Graphs|graph]] is *Eulerian* if it contains one of these circuits.
+A [[Walks|circuit]] that traverses each [[Math/Discrete/Graph Theory/Definitions/Edges|edge]] of the [[Graphs|graph]] **exactly once** is called a *Eulerian circuit*.
+A connected [[Graphs|graph]] is *Eulerian* if it contains one of these [[Walks|circuits]].
+> [!note]- Similarity to [[Hamiltonian Cycles and Graphs|Hamiltonian Cycles]]
+> This has the same as the definition as [[Hamiltonian Cycles and Graphs|Hamiltonian cycles]], except *Eulerian circuits* traverse each **[[Math/Discrete/Graph Theory/Definitions/Edges|edge]]** (not [[Vertices|vertex]]) exactly once, and thus they are [[Walks|circuits]] not [[Walks|cycles]].
 - A connected [[Graphs|graph]] $G$ is *Eulerian* [[Logical Equivalence|iff]] $\forall v \in V(G),2|\delta(v)$
 > [!proof]- 
 > $\left( \implies \right)$

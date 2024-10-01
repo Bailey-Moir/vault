@@ -4,15 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "7246418d37aa5ce3",
+        "id": "56d901319c7766b3",
         "type": "tabs",
         "children": [
           {
-            "id": "f617bd49c7a96157",
+            "id": "9e9cd3233492360d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Statistics/Probability/Binomial/Binomial Coefficient.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c91573f14bd6a2ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Discrete/Set Theory/Power Sets.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -45,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "cycle",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,6 +83,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Statistics/Probability/Binomial/Binomial Coefficient.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -89,7 +106,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.2962962962962963,
+                  "scale": 0.08779149519890259,
                   "close": true
                 }
               }
@@ -99,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5,
-    "collapsed": true
+    "width": 276.5
   },
   "right": {
     "id": "8aa190a7a68c5447",
@@ -116,6 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Statistics/Probability/Binomial/Binomial Coefficient.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Statistics/Probability/Binomial/Binomial Coefficient.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +171,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Statistics/Probability/Binomial/Binomial Coefficient.md"
+              }
             }
           }
         ]
@@ -177,41 +197,44 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f617bd49c7a96157",
+  "active": "9e9cd3233492360d",
   "lastOpenFiles": [
+    "Math/Discrete/Set Theory/Power Sets.md",
+    "Math/Discrete/Graph Theory/Eulerian Circuits and Graphs.md",
+    "Statistics/Probability/Binomial/Binomial Coefficient.md",
+    "Math/Discrete/Graph Theory/Hamiltonian Cycles and Graphs.md",
+    "Math/Discrete/Graph Theory/Definitions/Vertices.md",
+    "Math/Discrete/Graph Theory/Bipartite Graphs.md",
+    "Math/Discrete/Graph Theory/Walks.md",
+    "Math/Discrete/Number Theory/Divisibility/Divisibility.md",
+    "Personal/Todo.md",
+    "Math/Discrete/Graph Theory/Definitions/Trees.md",
+    "Assets/excali/Drawing 2024-09-29 19.20.41.excalidraw.md",
+    "Pasted Image 20240929205456_837.png",
+    "Assets/excali/Drawing 2024-09-29 20.47.58.excalidraw.md",
+    "Untitled.md",
+    "Assets/excali/graph-isomorphism.excalidraw.md",
+    "Math/Discrete/Graph Theory/The Handshaking Lemma.md",
+    "Math/Discrete/Graph Theory/Graphs.md",
+    "Math/Calculus/Integration/Comparison Theorem.md",
+    "Math/Algebra/Complex Numbers/Complex Modulus.md",
+    "Pasted Image 20240929192859_828.png",
+    "Math/Discrete/Graph Theory/Complete Graphs.md",
+    "Math/Discrete/Set Theory/Complement.md",
+    "Assets/excali/Drawing 2024-09-29 19.20.41.excalidraw.png",
+    "Assets/excali/Drawing 2024-09-29 19.20.41.excalidraw.svg",
+    "Math/Discrete/Graph Theory/Definitions/Bridges.md",
     "Computer Science/Algorithm Analysis/Abstract Data Types/Binary Heaps.md",
     "Computer Science/Algorithm Analysis/Abstract Data Types/Priority Queues.md",
     "Computer Science/Algorithm Analysis/Abstract Data Types/Heaps.md",
     "Computer Science/Algorithm Analysis/Abstract Data Types/Trees/Binary Trees.md",
     "Assets/excali/binary-heap-5.excalidraw.md",
-    "Math/Discrete/Propositional Logic/Converse, Inverse, and Contrapositive.md",
-    "Math/Discrete/Graph Theory/Graph Isomorphism.md",
-    "Assets/excali/parse-tree.excalidraw.md",
-    "Computer Science/Algorithm Analysis/Abstract Data Types/Trees/Parse Trees.md",
     "Assets/excali/binary-heap-5.excalidraw.svg",
-    "Math/Discrete/Propositional Logic/Logical Implication.md",
-    "Math/Discrete/Graph Theory/Bipartite Graphs.md",
-    "Computer Science/Algorithms/Sorting Algorithms/Insertion Sort.md",
-    "Computer Science/Algorithm Analysis/Abstract Data Types/Circular Linked Lists.md",
-    "Computer Science/Algorithm Analysis/Abstract Data Types/Deques.md",
-    "Computer Science/Algorithm Analysis/Abstract Data Types/Double-Linked List.md",
-    "Computer Science/Algorithm Analysis/Abstract Data Types/Linked Lists.md",
-    "Computer Science/Algorithm Analysis/Abstract Data Types/Ordered Linked Lists.md",
-    "Computer Science/Algorithm Analysis/Abstract Data Types/Queues.md",
-    "Computer Science/Algorithm Analysis/Abstract Data Types/Stacks.md",
-    "Freelancing/validate-orders.excalidraw.md",
-    "Atomic Habits.md",
-    "Effective Note-taking.md",
-    "Law of Diminishing Marginal Utility.md",
-    "Learning.md",
-    "Archive/Space Empires.md",
-    "Archive/Home.md",
     "Pasted Image 20240927124842_306.svg",
     "Assets/excali/bipartite-graph.excalidraw.svg",
     "Assets/excali/graph-isomorphism.excalidraw.svg",
     "Assets/excali/inverse-functions.excalidraw.svg",
     "Assets/excali/hasse-diagrams.excalidraw.svg",
-    "Assets/excali/vector-point-normal-planes.excalidraw.svg",
     "Math/Linear Algebra/Linear Algebra.canvas",
     "Math/Linear Algebra/Linear Transformations",
     "Math/Linear Algebra/Matrices/Definitions",
@@ -222,10 +245,7 @@
     "Math/Discrete/Graph Theory/220",
     "Math/Discrete/Graph Theory/Definitions",
     "Physics/Waves",
-    "Pasted Image 20240922202621_048.png",
     "Physics/Electricity",
-    "Excalidraw/Scripts/Downloaded/Concatenate lines.svg",
-    "Excalidraw/Scripts/Downloaded/Convert freedraw to line.svg",
     "Math/Geometry/Trigonometry/Trigonometry.canvas",
     "Math/Calculus/Limits/Limits.canvas",
     "Untitled.canvas",
