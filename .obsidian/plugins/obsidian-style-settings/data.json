@@ -5,5 +5,8 @@
   "typomagical-title@@text-scale": "type-scale-major-second",
   "typomagical-title@@heading-weight": 600,
   "typomagical-title@@line-height-headings": 1.2,
-  "typomagical-text@@body-ligatures": false
+  "typomagical-text@@body-ligatures": false,
+  "anuppuccin-theme-settings@@anp-codeblock-wrap-edit": "anp-codeblock-edit-nowrap",
+  "anuppuccin-theme-settings@@anp-codeblock-wrap-preview": "anp-codeblock-preview-nowrap",
+  "anuppuccin-theme-settings@@anp-codeblock-wrap-hl-preview": "anp-codeblock-preview-hl-nowrap"
 }

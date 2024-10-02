@@ -3,19 +3,18 @@ tags:
   - atom
   - math
 ---
-The *determinant* of a $3\times3$ matrix is:
-$$\begin{align*}
-	\begin{vmatrix}
+The *determinant* of a $3\times3$ matrix is
+$$\begin{vmatrix}
 		a & b & c \\ d & e & f \\ g & h & k
-	\end{vmatrix} &= a\begin{vmatrix}
+	\end{vmatrix} = a\begin{vmatrix}
 	e&f\\h&k
 \end{vmatrix}-b\begin{vmatrix}
 	d&f\\g&k
 \end{vmatrix}+c\begin{vmatrix}
 	d&e\\g&h
-\end{vmatrix}
-\end{align*}$$
-Note these co-factors ($a,b,c$) can be chosen to be any border row/column, with the [[Determinant of a 2x2 Matrix|2x2 determinants]] being constructed as the original [[Matrices|matrix]] without the row and column of the given co-factor.
+\end{vmatrix}$$
+Note these coefficients ($a,b,c$) can be chosen to be any row/column, with the [[Determinant of a 2x2 Matrix|2x2 determinants]] being their [[Minor Matrices|minors]]. **It is best to do this by [[Co-factor Expansion|co-factor]] expansion than memorization of the formula**.
+
 > [!proof]-
 > $$\begin{align*}
 > 	\begin{vmatrix}

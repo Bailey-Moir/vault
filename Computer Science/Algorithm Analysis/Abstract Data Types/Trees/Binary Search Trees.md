@@ -22,7 +22,7 @@ def add(self, item):
 		else:
 			node.right.add(item)
 ```
-# [[Best Case and Worse Case]]
+# Best Case and Worse Case
 b.c. $O(1)$
 a.c. $O(\log n)$
 w.c. $O(n)$

@@ -4,8 +4,7 @@ tags:
   - math
 ---
 A [[Matrices|matrix]] $A$ is *invertible* [[Logical Equivalence|iff]] $\left| A \right| \ne 0$ (i.e. if it is not [[Singular Matrices|singular]]).
-- This is [[Logical Equivalence|logically equivalent]] to the columns and rows of the [[Matrices|matrix]] being [[Linear Independence|linearly independent]] with themselves.
-- Non-square [[Matrices|matrices]] do not have [[Determinants|determinants]]
+- This is [[Logical Equivalence|logically equivalent]] to the columns and rows of the [[Matrices|matrix]] being [[Linear Independence|linearly independent]].
 
 > [!note]- Invertibility and Unique Solutions
 > - In a [[Archive/Deatomized/Calculus/Algebra/Linear Algebra/Systems of Linear Equations|system of linear equations]], there is a **unique solution** if and only if the **matrix of coefficients** is *invertible*.

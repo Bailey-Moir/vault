@@ -8,7 +8,7 @@ $$\begin{vmatrix}
 	a & b \\
 	c & d \\
 \end{vmatrix} = ad-bc$$
-> [!proof]-
+> [!proof]- Column Operations
 > $$\begin{align*}
 > 	\begin{vmatrix}
 > 		a&b\\c&d
@@ -29,3 +29,12 @@ $$\begin{vmatrix}
 > 	&= ad - bc && (1)
 > \end{align*}$$
 > \[[[Row and Column Operations with Determinants]], (1) [[Triangular Product of Diagonals]]\]
+
+> [!proof]- [[Co-factor Expansion|Co-factor Expansion]]
+> A [[Co-factor Expansion|co-factor expansion]] along row $1$ gives
+> $$\begin{align*}
+> 	\begin{vmatrix}
+> 		a&b\\c&d
+> 	\end{vmatrix} &= \left( -1 \right)^{1+1}a\left| d \right| + \left( -1 \right)^{1+2}b\left| c \right| \\
+> 	&= ad - bc \\
+> \end{align*}$$

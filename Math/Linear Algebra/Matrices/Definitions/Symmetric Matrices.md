@@ -10,7 +10,7 @@ $$
 	3 & 6 & 1	
 \end{bmatrix}
 $$
-Symmetric matrices are the same across the main diagonal, having the unique property that $A^T = A$, i.e.
+Symmetric matrices are the same across the main diagonal, having the unique property that $A = A^T$, i.e.
 
 > [!proof]- $AA^T$ and $A^TA$ are symmetric
 > $$\begin{align*}

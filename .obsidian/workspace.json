@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "10e0c055d3d06e3c",
+        "id": "4e6824cbfe547df7",
         "type": "tabs",
         "children": [
           {
-            "id": "23d237737a615059",
+            "id": "eacab008020f55ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Linear Algebra/Linear Transformations/Eigenvectors & Eigenvalues.md",
+                "file": "Computer Science/Algorithm Analysis/Abstract Data Types/Trees/Binary Search Trees.md",
                 "mode": "preview",
                 "source": false
               }
@@ -31,7 +31,7 @@
       {
         "id": "82aebc1c15de1f9d",
         "type": "tabs",
-        "dimension": 72.88977159880834,
+        "dimension": 74.40476190476191,
         "children": [
           {
             "id": "c0a1346d6522e74d",
@@ -61,17 +61,17 @@
         ]
       },
       {
-        "id": "75c560a60d9e8a36",
+        "id": "a598e546494adf5a",
         "type": "tabs",
-        "dimension": 27.110228401191662,
+        "dimension": 25.595238095238095,
         "children": [
           {
-            "id": "872fb53236fe4a18",
+            "id": "5f20ee56e3fa338f",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Math/Linear Algebra/Linear Transformations/Eigenvectors & Eigenvalues.md",
+                "file": "Computer Science/Algorithm Analysis/Abstract Data Types/Trees/Binary Search Trees.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -84,9 +84,9 @@
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": false,
+                  "collapse-display": true,
                   "showArrow": false,
-                  "textFadeMultiplier": -1.7,
+                  "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": true,
@@ -94,7 +94,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.08779149519890259,
+                  "scale": 0.2962962962962961,
                   "close": true
                 }
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Linear Algebra/Linear Transformations/Eigenvectors & Eigenvalues.md",
+                "file": "Computer Science/Algorithm Analysis/Abstract Data Types/Trees/Binary Search Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Linear Algebra/Linear Transformations/Eigenvectors & Eigenvalues.md",
+                "file": "Computer Science/Algorithm Analysis/Abstract Data Types/Trees/Binary Search Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Linear Algebra/Linear Transformations/Eigenvectors & Eigenvalues.md"
+                "file": "Computer Science/Algorithm Analysis/Abstract Data Types/Trees/Binary Search Trees.md"
               }
             }
           }
@@ -185,34 +185,38 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "23d237737a615059",
+  "active": "eacab008020f55ad",
   "lastOpenFiles": [
-    "Math/Linear Algebra/Matrices/Definitions/Matrix Scalar Multiplication.md",
-    "Math/Linear Algebra/Linear Transformations/Determinants.md",
-    "Math/Linear Algebra/Linear Transformations/Eigenvectors & Eigenvalues.md",
-    "Math/Linear Algebra/Matrices/Definitions/Sets of Matrices.md",
-    "Math/Linear Algebra/Linear Transformations/Linear Transformations.md",
+    "Computer Science/Algorithm Analysis/Best Case and Worse Case.md",
+    "Computer Science/Algorithm Analysis/Asymptotic Analysis.md",
+    "Computer Science/Algorithm Analysis/Algorithm.md",
+    "Computer Science/Algorithm Analysis/Lists vs. Linked Lists.md",
+    "Computer Science/Algorithm Analysis/Abstract Data Types/Graphs.md",
+    "Computer Science/Algorithms/Sorting Algorithms/Bubble Sort.md",
+    "Computer Science/Algorithms/Sorting Algorithms/Heap Sort.md",
+    "Computer Science/Algorithms/Sorting Algorithms/Bogo Sort.md",
+    "Computer Science/Algorithm Analysis/Abstract Data Types/Linked Lists.md",
+    "Computer Science/Algorithm Analysis/Abstract Data Types/Deques.md",
+    "Computer Science/Algorithm Analysis/Abstract Data Types/d-Heaps.md",
+    "Computer Science/Algorithm Analysis/Abstract Data Types/Circular Linked Lists.md",
+    "Computer Science/Algorithm Analysis/Abstract Data Types/Binary Heaps.md",
+    "Math/Discrete/Graph Theory/Graphs.md",
+    "Math/Discrete/Graph Theory/Walks.md",
+    "Computer Science/Algorithm Analysis/Abstract Data Types/Heaps.md",
+    "Computer Science/Algorithm Analysis/Abstract Data Types/Trees/Trees.md",
+    "Math/Discrete/Graph Theory/Hamiltonian Cycles and Graphs.md",
+    "Math/Linear Algebra/Linear Transformations/Characteristic Polynomial.md",
+    "Math/Linear Algebra/Linear Transformations/Co-factor Expansion.md",
     "Math/Linear Algebra/Linear Transformations/Determinant of a 2x2 Matrix.md",
     "Math/Linear Algebra/Linear Transformations/Determinant of a 3x3 Matrix.md",
-    "Math/Linear Algebra/Linear Transformations/Row and Column Operations with Determinants.md",
-    "Math/Linear Algebra/Vectors/Cross Product.md",
-    "Math/Linear Algebra/Linear Transformations/Co-factor Expansion.md",
     "Math/Linear Algebra/Linear Transformations/Triangular Product of Diagonals.md",
-    "Math/Real Analysis/Ordered Fields.md",
-    "Math/Real Analysis/Triangle Ineqaulity.md",
-    "Math/Real Analysis/The Real Numbers.md",
-    "Math/Real Analysis/Groups.md",
-    "Math/Real Analysis/Binary Operations.md",
-    "Math/Real Analysis/Fields.md",
-    "Math/Discrete/Graph Theory/Eulerian Circuits and Graphs.md",
-    "Math/Discrete/Graph Theory/Graph Isomorphism.md",
-    "Math/Discrete/Graph Theory/Complete Graphs.md",
-    "Math/Discrete/Graph Theory/Colouring Graphs.md",
-    "Math/Discrete/Graph Theory/Bipartite Graphs.md",
-    "Math/Discrete/Graph Theory/Connectivitiy.md",
-    "Math/Discrete/Graph Theory/Graphs.md",
-    "Math/Discrete/Graph Theory/Hamiltonian Cycles and Graphs.md",
-    "Math/Discrete/Graph Theory/Subgraphs.md",
+    "Math/Linear Algebra/Linear Transformations/Row and Column Operations with Determinants.md",
+    "Math/Linear Algebra/Matrices/Matrices.md",
+    "Math/Linear Algebra/Matrices/Definitions/Minor Matrices.md",
+    "Assets/excali/minor-matrices.excalidraw.svg",
+    "Math/Linear Algebra/Linear Transformations/Definitions",
+    "Math/Discrete/Counting",
+    "Assets/excali/heap-sort-example.excalidraw.svg",
     "Pasted Image 20240929205456_837.png",
     "Pasted Image 20240929192859_828.png",
     "Assets/excali/Drawing 2024-09-29 19.20.41.excalidraw.png",
@@ -221,8 +225,6 @@
     "Pasted Image 20240927124842_306.svg",
     "Assets/excali/bipartite-graph.excalidraw.svg",
     "Assets/excali/graph-isomorphism.excalidraw.svg",
-    "Assets/excali/inverse-functions.excalidraw.svg",
-    "Assets/excali/hasse-diagrams.excalidraw.svg",
     "Math/Linear Algebra/Linear Algebra.canvas",
     "Math/Linear Algebra/Linear Transformations",
     "Math/Linear Algebra/Matrices/Definitions",
@@ -232,8 +234,6 @@
     "Computer Science/Algorithms/Sorting Algorithms",
     "Math/Discrete/Graph Theory/220",
     "Math/Discrete/Graph Theory/Definitions",
-    "Physics/Waves",
-    "Physics/Electricity",
     "Math/Geometry/Trigonometry/Trigonometry.canvas",
     "Math/Calculus/Limits/Limits.canvas",
     "Untitled.canvas",

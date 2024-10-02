@@ -1,9 +1,9 @@
-*Quick sort* splits the list such that everything in the left list is smaller than everything in the right (e.g.. It then performs *quick sort* ([[Recursion|recursively]]) on these lists, and then simply adds them back together after.
+*Quick sort* splits the list such that everything in the left list is smaller than everything in the right. It then performs *quick sort* ([[Recursion|recursively]]) on these lists, and then simply adds them back together after.
 
 It splits by first picking a **pivot**. It then iterates through the list, adding it to a new left list if it is smaller than the pivot, and adding it to a new right list if it is greater than the pivot. This is $\mathcal{O}(n)$.
 
 - **Worst-case**
-  If the **pivot** picked is always the smallest value, this results in a total $\mathcal{O}(n)$.
+  If the **pivot** picked is always the smallest value, this results in a total $\mathcal{O}(n^2)$.
 - **Average & Best-case** $\mathcal{O}(n\log n)$
 - **Extra Space** $\mathcal{O}(1)$ (for in-place *quicksort*)
 

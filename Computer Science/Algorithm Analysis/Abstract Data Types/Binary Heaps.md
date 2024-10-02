@@ -17,8 +17,20 @@ It can be found that:
 - the [[Parent, Children, and Sibling Nodes|children]] of a [[Nodes|node]] at $i$ are at $2i$ and $2i+1$.
 - the [[Parent, Children, and Sibling Nodes|parent]] of a [[Nodes|node]] at $i$ is at `i//2` ($\left\lfloor \frac{i}{2} \right\rfloor$).
 
+> [!note]- Analysis
+> Depth of tree $d=\log_{2}n$
+> 
+> **[[#Remove|Remove]]**
+> Percolate down: key comparisons at each level $=2$
+> Worst case: $2 \log_2 n$
+> Best case: $2$
+> 
+> **[[#Add|Add]]**
+> Percolate up: key comparisons at each level $=1$
+> Worst case: $\log_2 n$
+> Best case: $1$
 # Methods
-## Adding Key
+## Add
 When adding a new key, the [[Nodes|node]] is placed at the end of the array/list (bottom right). If the [[Nodes|node]] does not satisfy the [[Heaps|heap]] property with its [[Parent, Children, and Sibling Nodes|parent]], the two are swapped. This process it repeated until the property is satisfied or the [[Nodes|node]] is the [[Root|root]]. This is called percolating up.
 ```python
 def queue(self, value):
@@ -30,7 +42,7 @@ def queue(self, value):
 			self._heap[cur_idx], self._heap[parent_idx] = (self._heap[parent_idx], self._heap[cur_idx])
 		cur_idx = parent_idx
 ```
-## Dequeue
+## Remove
 When dequeuing, the value of the [[Root|root]] is saved to return. The [[Nodes|node]] at the end of the array/list (bottom right) then replaces the [[Root|root]]. If the [[Nodes|node]] does not satisfy the [[Heaps|heap]] property with its [[Parent, Children, and Sibling Nodes|children]], the [[Nodes|node]] and the *max/min* [[Parent, Children, and Sibling Nodes|child]] are swapped. This process is repeated until the property is satisfied or the [[Nodes|node]] is a [[Leaf Nodes|leaf]]. This is called percolating down.
 ```python
 def dequeue(self):

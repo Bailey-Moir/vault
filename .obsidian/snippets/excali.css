@@ -1,7 +1,7 @@
 
 /*.excalidraw-embedded-img*/
 .theme-light img[filesource*="excalidraw"],
-img[src*="excalidraw.svg"]{
+.theme-light img[src*="excalidraw.svg"] {
 	filter: invert(100%) hue-rotate(180deg);
 }
 

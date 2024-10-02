@@ -3,4 +3,4 @@ tags:
   - atom
   - comp
 ---
-A computational procedure for solving a problem.
+An *algorithm* is a computational procedure for solving a problem.

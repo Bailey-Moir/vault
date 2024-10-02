@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "1️⃣",
+      "LiArrowUp10",
       "LiSquare",
       "LiGlobe",
-      "LiCurlyBraces",
-      "®",
-      "LiFileWarning"
+      "LiCurlyBraces"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -47,7 +47,7 @@
   "Math/Discrete": "LiMoreHorizontal",
   "Math/Discrete/Graph Theory": "LiGitGraph",
   "Math/Discrete/Number Theory/Divisibility": "LiDivide",
-  "Math/Discrete/Number Theory": "LiArrowDown01",
+  "Math/Discrete/Number Theory": "1️⃣",
   "Math/Discrete/Number Theory/Modular Arithmetic": "LiClock12",
   "Math/Discrete/Propositional Logic": "LiArrowBigRight",
   "Computer Science/Cryptohack": "LiBrain",
@@ -70,5 +70,6 @@
   "Math/Linear Algebra/Vectors": "↗",
   "Computer Science/Algorithm Analysis": "LiInfinity",
   "Computer Science/Algorithm Analysis/Abstract Data Types": "LiType",
-  "Math/Linear Algebra/Linear Transformations": "LiSquare"
+  "Math/Linear Algebra/Linear Transformations": "LiSquare",
+  "Math/Discrete/Counting": "LiArrowUp10"
 }
