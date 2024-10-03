@@ -13,6 +13,6 @@ is called the *equivalence class* of $a$.
 Let $\rel$[^1] be an [[Equivalence Relations|equivalence relation]] on $A$ and let $a,b \in A$.
 - $a \in [a]$
 - $a \in [b] \iff [a] = [b]$
-- $[a] \ne [b] \implies [a] \cap [b] = \emptyset$^[[[Disjoint]]]
+- $[a] \ne [b] \implies [a] \cap [b] = \emptyset$^[[[Disjoint Sets]]]
 
 [^1]: [[Relations]]

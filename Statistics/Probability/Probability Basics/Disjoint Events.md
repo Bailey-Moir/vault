@@ -2,7 +2,11 @@
 tags:
   - atom
   - stats
+  - discrete
+  - math
 ---
-Disjoint events are [[Events|events]] that can not happen at the same time, meaning that for two events $A$ and $B$, they are disjoint if and only if $P(A \cap B) = 0$. 
+Two [[Events|events]] $A$ and $B$ are [[Disjoint Sets|disjoint]] [[Logical Equivalence|iff]] $P(A \cap B) = 0$^[[[Probabilities]]]. 
 
-\[[[Disjoint]], [[Combining Events]]\]
+- *Disjoint events* are [[Events|events]] that can not happen at the same time
+
+\[[[Disjoint Sets]], [[Combining Events]]\]

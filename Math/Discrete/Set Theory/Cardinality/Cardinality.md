@@ -6,9 +6,9 @@ tags:
 ---
 The *cardinality* (or size) of a **finite** [[Sets|set]] $A$ is the number of elements in $A$, denoted $|A|$.
 
-If two **finite** [[Sets|sets]] $A$, $B$ are [[Disjoint|disjoint]]
+If two **finite** [[Sets|sets]] $A$, $B$ are [[Disjoint Sets|disjoint]]
 $$ |A \cup B| = |A| + |B| $$
-If they are **not** [[Disjoint|disjoint]]
+If they are **not** [[Disjoint Sets|disjoint]]
 $$ |A \cup B| = |A| + |B| - |A \cap B|$$
 ![1000|center](additive-rule.excalidraw)
 

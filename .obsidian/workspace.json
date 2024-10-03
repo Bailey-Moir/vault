@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4e6824cbfe547df7",
+        "id": "d0ba55ca8ef6f838",
         "type": "tabs",
         "children": [
           {
-            "id": "eacab008020f55ad",
+            "id": "b478b7b9d6a5d34d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Algorithm Analysis/Abstract Data Types/Trees/Binary Search Trees.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -49,7 +45,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TODO  ",
+                "query": "Probability",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +67,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Computer Science/Algorithm Analysis/Abstract Data Types/Trees/Binary Search Trees.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -94,7 +89,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.2962962962962961,
+                  "scale": 0.19753086419753074,
                   "close": true
                 }
               }
@@ -120,7 +115,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Algorithm Analysis/Abstract Data Types/Trees/Binary Search Trees.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +131,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Algorithm Analysis/Abstract Data Types/Trees/Binary Search Trees.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,9 +152,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Computer Science/Algorithm Analysis/Abstract Data Types/Trees/Binary Search Trees.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -185,37 +176,37 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "eacab008020f55ad",
+  "active": "b478b7b9d6a5d34d",
   "lastOpenFiles": [
+    "Math/Discrete/Propositional Logic/Arguments and Proofs/Lemmas.md",
+    "Statistics/Probability/Probability Basics/Probability Function.md",
+    "Statistics/Probability/Probability Basics/Disjoint Events.md",
+    "Statistics/Probability/Probability Basics/Complement Rule.md",
+    "Statistics/Probability/Probability Basics/Combining Events.md",
+    "Statistics/Probability/Probability Basics/Equally Likely Outcomes.md",
+    "Statistics/Probability/Probability Basics/Basic Probability Laws.md",
+    "Statistics/Probability/Probability Basics/Additive Rule.md",
+    "Statistics/Probability/Probability Basics/Conditional Probability.md",
+    "Statistics/Probability/Probability Basics/Events.md",
+    "Statistics/Probability/Probability Basics/Independent Events.md",
+    "Statistics/Probability/Probability Basics/Multiplicative Rule.md",
+    "Statistics/Probability/Probability Basics/Probabilities.md",
+    "Statistics/Probability/Probability Basics/Sample Space.md",
+    "Statistics/Probability/Probability Basics/Total Probability.md",
+    "Statistics/Probability/Probability Basics/Tree Diagrams.md",
+    "Math/Real Analysis/The Real Numbers.md",
+    "Statistics/Probability/Binomial/Binomial Probability Function.md",
+    "Statistics/Probability/Random Variables.md",
+    "Math/Discrete/Set Theory/Disjoint Sets.md",
+    "Math/Discrete/Number Theory/Primes/Euclid's Lemma.md",
+    "Personal/Todo.md",
+    "Math/Algebra/Sequences & Series/Series/Taylor Series/Landua's Big Oh Notation.md",
+    "Computer Science/Algorithm Analysis/Abstract Data Types/Trees/Binary Search Trees.md",
     "Computer Science/Algorithm Analysis/Best Case and Worse Case.md",
     "Computer Science/Algorithm Analysis/Asymptotic Analysis.md",
-    "Computer Science/Algorithm Analysis/Algorithm.md",
-    "Computer Science/Algorithm Analysis/Lists vs. Linked Lists.md",
-    "Computer Science/Algorithm Analysis/Abstract Data Types/Graphs.md",
-    "Computer Science/Algorithms/Sorting Algorithms/Bubble Sort.md",
-    "Computer Science/Algorithms/Sorting Algorithms/Heap Sort.md",
-    "Computer Science/Algorithms/Sorting Algorithms/Bogo Sort.md",
-    "Computer Science/Algorithm Analysis/Abstract Data Types/Linked Lists.md",
-    "Computer Science/Algorithm Analysis/Abstract Data Types/Deques.md",
-    "Computer Science/Algorithm Analysis/Abstract Data Types/d-Heaps.md",
-    "Computer Science/Algorithm Analysis/Abstract Data Types/Circular Linked Lists.md",
-    "Computer Science/Algorithm Analysis/Abstract Data Types/Binary Heaps.md",
-    "Math/Discrete/Graph Theory/Graphs.md",
-    "Math/Discrete/Graph Theory/Walks.md",
-    "Computer Science/Algorithm Analysis/Abstract Data Types/Heaps.md",
-    "Computer Science/Algorithm Analysis/Abstract Data Types/Trees/Trees.md",
-    "Math/Discrete/Graph Theory/Hamiltonian Cycles and Graphs.md",
-    "Math/Linear Algebra/Linear Transformations/Characteristic Polynomial.md",
-    "Math/Linear Algebra/Linear Transformations/Co-factor Expansion.md",
-    "Math/Linear Algebra/Linear Transformations/Determinant of a 2x2 Matrix.md",
-    "Math/Linear Algebra/Linear Transformations/Determinant of a 3x3 Matrix.md",
-    "Math/Linear Algebra/Linear Transformations/Triangular Product of Diagonals.md",
-    "Math/Linear Algebra/Linear Transformations/Row and Column Operations with Determinants.md",
-    "Math/Linear Algebra/Matrices/Matrices.md",
-    "Math/Linear Algebra/Matrices/Definitions/Minor Matrices.md",
     "Assets/excali/minor-matrices.excalidraw.svg",
     "Math/Linear Algebra/Linear Transformations/Definitions",
-    "Math/Discrete/Counting",
+    "Math/Discrete/Number Theory/Counting",
     "Assets/excali/heap-sort-example.excalidraw.svg",
     "Pasted Image 20240929205456_837.png",
     "Pasted Image 20240929192859_828.png",
