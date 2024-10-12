@@ -6,6 +6,7 @@ tags:
 ---
 Every integer $n \ge 2$ can be written as a product of [[Primes|primality]]. This factorization is unique up to reordering.
 $$ \forall n \in \Z_{\ge 2}, \exists! P \subset \mathbb{P} : n = \prod P $$
+where $P$ is a [[Multi-sets|multi-set]].
 
 > [!proof]-
 > **Base Case**

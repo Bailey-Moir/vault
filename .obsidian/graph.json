@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "tag:#atom tag:#discrete  ",
+  "search": "tag:#atom",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -56,10 +56,10 @@
   "nodeSizeMultiplier": 1.98854166666667,
   "lineSizeMultiplier": 0.7890625,
   "collapse-forces": false,
-  "centerStrength": 0,
+  "centerStrength": 0.203125,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 1.0136432647705078,
-  "close": false
+  "scale": 0.01171875,
+  "close": true
 }

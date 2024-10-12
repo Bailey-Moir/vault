@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d0ba55ca8ef6f838",
+        "id": "6c7f844ba0a87db5",
         "type": "tabs",
         "children": [
           {
-            "id": "b478b7b9d6a5d34d",
+            "id": "b4907bd23ad7fe6a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Todo.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -27,7 +31,7 @@
       {
         "id": "82aebc1c15de1f9d",
         "type": "tabs",
-        "dimension": 74.40476190476191,
+        "dimension": 76.39344262295081,
         "children": [
           {
             "id": "c0a1346d6522e74d",
@@ -45,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Probability",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,7 +63,7 @@
       {
         "id": "a598e546494adf5a",
         "type": "tabs",
-        "dimension": 25.595238095238095,
+        "dimension": 23.60655737704918,
         "children": [
           {
             "id": "5f20ee56e3fa338f",
@@ -67,6 +71,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Personal/Todo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -89,7 +94,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.19753086419753074,
+                  "scale": 0.1776544592738714,
                   "close": true
                 }
               }
@@ -115,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal/Todo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Personal/Todo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +159,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Personal/Todo.md"
+              }
             }
           }
         ]
@@ -176,34 +185,40 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "b478b7b9d6a5d34d",
+  "active": "b4907bd23ad7fe6a",
   "lastOpenFiles": [
-    "Math/Discrete/Propositional Logic/Arguments and Proofs/Lemmas.md",
-    "Statistics/Probability/Probability Basics/Probability Function.md",
-    "Statistics/Probability/Probability Basics/Disjoint Events.md",
-    "Statistics/Probability/Probability Basics/Complement Rule.md",
-    "Statistics/Probability/Probability Basics/Combining Events.md",
-    "Statistics/Probability/Probability Basics/Equally Likely Outcomes.md",
-    "Statistics/Probability/Probability Basics/Basic Probability Laws.md",
-    "Statistics/Probability/Probability Basics/Additive Rule.md",
-    "Statistics/Probability/Probability Basics/Conditional Probability.md",
-    "Statistics/Probability/Probability Basics/Events.md",
-    "Statistics/Probability/Probability Basics/Independent Events.md",
-    "Statistics/Probability/Probability Basics/Multiplicative Rule.md",
-    "Statistics/Probability/Probability Basics/Probabilities.md",
-    "Statistics/Probability/Probability Basics/Sample Space.md",
-    "Statistics/Probability/Probability Basics/Total Probability.md",
-    "Statistics/Probability/Probability Basics/Tree Diagrams.md",
-    "Math/Real Analysis/The Real Numbers.md",
-    "Statistics/Probability/Binomial/Binomial Probability Function.md",
-    "Statistics/Probability/Random Variables.md",
-    "Math/Discrete/Set Theory/Disjoint Sets.md",
-    "Math/Discrete/Number Theory/Primes/Euclid's Lemma.md",
+    "Statistics/Probability/Probability Basics/Partition Theorem.md",
     "Personal/Todo.md",
-    "Math/Algebra/Sequences & Series/Series/Taylor Series/Landua's Big Oh Notation.md",
-    "Computer Science/Algorithm Analysis/Abstract Data Types/Trees/Binary Search Trees.md",
-    "Computer Science/Algorithm Analysis/Best Case and Worse Case.md",
-    "Computer Science/Algorithm Analysis/Asymptotic Analysis.md",
+    "Statistics/Probability/Probability Basics/Basic Probability Laws.md",
+    "Statistics/Probability/Probability Basics/Sample Space.md",
+    "Statistics/Probability/Probability Basics/Equally Likely Outcomes.md",
+    "Math/Algebra/Binomial Theorem.md",
+    "Math/Discrete/Number Theory/Counting/Pascal's Triangle.md",
+    "Math/Discrete/Number Theory/Counting/Binomial Coefficient.md",
+    "Statistics/Probability/Binomial/Mean and Variance of Binomial Distribution.md",
+    "Statistics/Probability/Binomial/Binomial Distribution.md",
+    "Statistics/Probability/Binomial/Binomial Random Variable.md",
+    "Statistics/Probability/Binomial/Binomial Probability Function.md",
+    "Statistics/Probability/Bernoulli Random Variables.md",
+    "Statistics/Probability/Density Curve.md",
+    "Statistics/Probability/Uniform Density Curve.md",
+    "Statistics/Probability/Variance of a Random Variable.md",
+    "Statistics/Probability/Random Variables.md",
+    "Statistics/Probability/Poisson vs. Binomial.md",
+    "Statistics/Probability/Normal vs. Binomial vs. Poisson.md",
+    "Statistics/Probability/Mean of a Discrete Random Variable.md",
+    "Statistics/Probability/Indicator Variable.md",
+    "Statistics/Probability/Mean of a Random Variable.md",
+    "Computer Science/Algorithms/Dijkstra's Algorithm.md",
+    "Computer Science/Algorithms/Search Algorithms/Binary Search.md",
+    "Computer Science/Algorithm Analysis/Abstract Data Types/Binary Heaps.md",
+    "Computer Science/Algorithm Analysis/Abstract Data Types/Trees/Binary Trees.md",
+    "Math/Calculus/Vector Calculus/Advanced",
+    "Pasted Image 20241009154315_592.png",
+    "Assets/excali/Drawing 2024-10-09 15.42.58.excalidraw.png",
+    "Assets/excali/Drawing 2024-10-09 15.42.58.excalidraw.svg",
+    "Assets/excali/additive-rule.excalidraw.svg",
+    "Assets/excali/parabola.excalidraw.svg",
     "Assets/excali/minor-matrices.excalidraw.svg",
     "Math/Linear Algebra/Linear Transformations/Definitions",
     "Math/Discrete/Number Theory/Counting",
@@ -211,11 +226,6 @@
     "Pasted Image 20240929205456_837.png",
     "Pasted Image 20240929192859_828.png",
     "Assets/excali/Drawing 2024-09-29 19.20.41.excalidraw.png",
-    "Assets/excali/Drawing 2024-09-29 19.20.41.excalidraw.svg",
-    "Assets/excali/binary-heap-5.excalidraw.svg",
-    "Pasted Image 20240927124842_306.svg",
-    "Assets/excali/bipartite-graph.excalidraw.svg",
-    "Assets/excali/graph-isomorphism.excalidraw.svg",
     "Math/Linear Algebra/Linear Algebra.canvas",
     "Math/Linear Algebra/Linear Transformations",
     "Math/Linear Algebra/Matrices/Definitions",
@@ -224,7 +234,6 @@
     "Computer Science/Algorithms/Search Algorithms",
     "Computer Science/Algorithms/Sorting Algorithms",
     "Math/Discrete/Graph Theory/220",
-    "Math/Discrete/Graph Theory/Definitions",
     "Math/Geometry/Trigonometry/Trigonometry.canvas",
     "Math/Calculus/Limits/Limits.canvas",
     "Untitled.canvas",

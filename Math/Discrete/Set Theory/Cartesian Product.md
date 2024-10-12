@@ -12,4 +12,4 @@ $$\begin{array}{l}
 - $|A \times B| = |A| \times |B|$^[[[Cardinality]]]
 - $A \times A = A^2$
 
-Note the Cartesian plane is $\R \times \R = \R^2$.
+Note the *Cartesian plane* is $\R \times \R = \R^2$.

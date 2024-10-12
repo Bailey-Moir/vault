@@ -9,7 +9,7 @@ Each letter is viewed as an element in $\Z_{26}$[^1], with $A=00, B=01, \dots, Z
 $$ e(x) = ax + b $$
 in $\Z_{26}$[^1].
 
-$e(x)$ is a [[Permutations|permutation]] of $\Z_{26}$[^1] [[Logical Equivalence|iff]] $a$ is an [[Math/Discrete/Number Theory/Modular Arithmetic/Invertibility|invertible]] element of $\Z_{26}$[^1].
+$e(x)$ is a [[Permutations|permutation]] of $\Z_{26}$[^1] iff $a$ is an [[Math/Discrete/Number Theory/Modular Arithmetic/Invertibility|invertible]] element of $\Z_{26}$[^1].
 > [!proof]-
 > $(\implies)$
 > If $a=0$, the theorem holds.

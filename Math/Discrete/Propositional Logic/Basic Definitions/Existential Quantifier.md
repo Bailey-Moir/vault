@@ -11,6 +11,6 @@ $$\begin{align*}
 	&\iff \text{$x^2 = 25$ for some $x$ in $\R$} \\
 \end{align*}$$
 
-The [[Statements and Propositions|statement]] is true [[Logical Equivalence|iff]] *there exists* a value in the domain which satisfies the [[Predicates|predicate]].
+The [[Statements and Propositions|statement]] is true iff *there exists* a value in the domain which satisfies the [[Predicates|predicate]].
 
 \[[[Universal Quantifier]]\]

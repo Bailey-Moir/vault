@@ -15,10 +15,10 @@ $$ |A \cup B| = |A| + |B| - |A \cap B|$$
 \[[[Unions and Intersections]]\]
 
 > [!theorem]
-> Let $S$ be a [[Empty Set|non-empty]] finite [[Sets|set]]. Then $|S| = n$ [[Logical Equivalence|iff]] there is a [[Bijective Functions|bijection]] from $S$ to $\Z_n^+$^[[[Cyclic Groups]]].
+> Let $S$ be a [[Empty Set|non-empty]] finite [[Sets|set]]. Then $|S| = n$ iff there is a [[Bijective Functions|bijection]] from $S$ to $\Z_n^+$^[[[Cyclic Groups]]].
 
 > [!theorem]
-> Let $A$ and $B$ be two [[Sets|sets]]. $|A| = |B|$ [[Logical Equivalence|iff]] there is a [[Bijective Functions|bijection]] from $A$ to $B$.
+> Let $A$ and $B$ be two [[Sets|sets]]. $|A| = |B|$ iff there is a [[Bijective Functions|bijection]] from $A$ to $B$.
 
 > [!theorem]
 > $|A| = |B|$ is an [[Equivalence Relations|equivalence relation]].

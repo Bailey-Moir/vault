@@ -4,11 +4,10 @@ tags:
   - math
   - discrete
 ---
-A [[Walks|circuit]] that traverses each [[Math/Discrete/Graph Theory/Definitions/Edges|edge]] of the [[Math/Discrete/Graph Theory/Graphs|graph]] **exactly once** is called a *Eulerian circuit*.
-A connected [[Math/Discrete/Graph Theory/Graphs|graph]] is *Eulerian* if it contains one of these [[Walks|circuits]].
+A [[Walks|circuit]] that traverses each [[Math/Discrete/Graph Theory/Definitions/Edges|edge]] of the [[Math/Discrete/Graph Theory/Graphs|graph]] **exactly once** is called a *Eulerian circuit*. A [[Connectivitiy|connected]] [[Math/Discrete/Graph Theory/Graphs|graph]] is *Eulerian* if it contains one of these [[Walks|circuits]].
 > [!note]- Similarity to [[Hamiltonian Cycles and Graphs|Hamiltonian Cycles]]
 > This has the same as the definition as [[Hamiltonian Cycles and Graphs|Hamiltonian cycles]], except *Eulerian circuits* traverse each **[[Math/Discrete/Graph Theory/Definitions/Edges|edge]]** (not [[Vertices|vertex]]) exactly once, and thus they are [[Walks|circuits]] not [[Walks|cycles]].
-- A connected [[Math/Discrete/Graph Theory/Graphs|graph]] $G$ is *Eulerian* [[Logical Equivalence|iff]] $\forall v \in V(G),2|\delta(v)$
+- A [[Connectivitiy|connected]] [[Math/Discrete/Graph Theory/Graphs|graph]] $G$ is *Eulerian* iff $\forall v \in V(G),2|\delta(v)$
 > [!proof]- 
 > $\left( \implies \right)$
 > Each visit to a [[Vertices|vertex]] $v$ uses an [[Math/Discrete/Graph Theory/Definitions/Edges|edge]] to enter and an [[Math/Discrete/Graph Theory/Definitions/Edges|edge]] to exit. Therefore
@@ -26,3 +25,4 @@ A connected [[Math/Discrete/Graph Theory/Graphs|graph]] is *Eulerian* if it cont
 > 		for subgraph in connected_components(graph):
 > 			if eulerian(subgraph):
 > ```
+- A [[Connectivitiy|connected]] [[Math/Discrete/Graph Theory/Graphs|graph]] $G$ has a *Eulerian [[Walks|trail]]* iff $\left| \left\{ v \in V(G) : \neg 2|\delta(v) \right\} \right| \le 2$

@@ -3,7 +3,7 @@ tags:
   - atom
   - stats
 ---
-The mistake of mistaking the posterior probability with the conditional probability. Getting from one to the other can be done using [[Bayes' Rule|Baye's rule]].
+The mistake of mistaking the posterior probability with the conditional probability. Getting from one to the other can be done using [[Bayes' Theorem|Baye's rule]].
 
 | Name                    | Equation       |
 | ----------------------- | -------------- |

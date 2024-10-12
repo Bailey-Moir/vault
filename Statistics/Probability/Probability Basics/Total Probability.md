@@ -8,5 +8,5 @@ $$\begin{align*}
 	P(A) &= P(A \cap B) + P(A \cap B') \\
 	&= P(A|B)P(B) + P(A|B')P(B')
 \end{align*}$$
-
-\[[[Multiplicative Rule]]\]
+This is a specific version of [[Partition Theorem|partition theorem]].
+\[[[Conditional Probability]]\]

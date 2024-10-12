@@ -3,7 +3,7 @@ tags:
   - atom
   - math
 ---
-A [[Matrices|matrix]] $A$ is *invertible* [[Logical Equivalence|iff]] $\left| A \right| \ne 0$ (i.e. if it is not [[Singular Matrices|singular]]).
+A [[Matrices|matrix]] $A$ is *invertible* iff $\left| A \right| \ne 0$ (i.e. if it is not [[Singular Matrices|singular]]).
 - This is [[Logical Equivalence|logically equivalent]] to the columns and rows of the [[Matrices|matrix]] being [[Linear Independence|linearly independent]].
 
 > [!note]- Invertibility and Unique Solutions

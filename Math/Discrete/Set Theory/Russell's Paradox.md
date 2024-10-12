@@ -4,7 +4,7 @@ tags:
   - math
   - discrete
 ---
-Note that [[Sets|sets]] can contain sets as elements. Making up a property, we will call a [[Sets|set]] "normal" [[Logical Equivalence|iff]] it does not contain itself. Let
+Note that [[Sets|sets]] can contain sets as elements. Making up a property, we will call a [[Sets|set]] "normal" iff it does not contain itself. Let
 $$ R = \left\{ x : x \text{ is a normal set} \right\} $$
 Is $R$ normal?
 

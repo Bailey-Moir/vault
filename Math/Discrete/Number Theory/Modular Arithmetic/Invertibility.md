@@ -4,7 +4,7 @@ tags:
   - math
   - discrete
 ---
-**Definition**: An element $a \in \Z_n$ is *invertible* [[Logical Equivalence|iff]] there is an element $a^{-1} \in \Z_n$ such that $a \times a^{-1} = 1$.
+**Definition**: An element $a \in \Z_n$ is *invertible* iff there is an element $a^{-1} \in \Z_n$ such that $a \times a^{-1} = 1$.
 **Theorem**:
 $$ \forall n \in \Z^+, \forall a \in \Z_n, (\exists! a^{-1} \in \Z_n : aa^{-1} = 1 \iff \underbrace{\gcd(a,n) = 1}_{a \text{ and } n \text{ are coprime}} ) $$
 > [!proof]-

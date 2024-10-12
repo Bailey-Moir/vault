@@ -4,7 +4,7 @@ tags:
   - math
   - discrete
 ---
-A [[Functions|function]] is *injective* (*one-to-one correspondence*) [[Logical Equivalence|iff]] it is [[Surjective Functions|surjective]] and [[Injective Functions|injective]];
+A [[Functions|function]] is *injective* (*one-to-one correspondence*) iff it is [[Surjective Functions|surjective]] and [[Injective Functions|injective]];
 $$ \forall b \in B, \exists!a \in A : f(a) = b $$
 *Note this is the definition of a [[Functions|function]] with $a$ and $b$ swapped*
 # Properties of Bijections

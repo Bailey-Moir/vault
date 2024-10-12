@@ -8,6 +8,6 @@ The [[Greatest Common Divisor|greatest common divisor]] of two numbers can be wr
 
 ## Extended Theorem
 $$ \forall a,b,c \in \Z^+, \left( \gcd(a,b)|c \iff \exists x,y \in \Z : ax+by = c\right) $$
-For three positive integers, one of the numbers is a [[Linear Combinations|linear combination]] (over the integers) of the other two [[Logical Equivalence|iff]] that number is a [[Divisibility|multiple]] of the [[Greatest Common Divisor|greatest common divisor]] of the other two.
+For three positive integers, one of the numbers is a [[Linear Combinations|linear combination]] (over the integers) of the other two iff that number is a [[Divisibility|multiple]] of the [[Greatest Common Divisor|greatest common divisor]] of the other two.
 
 \[[[Divisibility]]\]

@@ -5,7 +5,7 @@ tags:
 ---
 Let $A\in\mathcal{M}(n,n)$^[[[Sets of Matrices]]]. The *characteristic polynomial* $p$ for $A$ is
 $$p(\lambda) := \left| A-\lambda I \right| $$
-- $\lambda$ is an [[Eigenvectors & Eigenvalues|eigenvalue]] of $A$ [[Logical Equivalence|iff]] $p(\lambda) = 0$.
+- $\lambda$ is an [[Eigenvectors & Eigenvalues|eigenvalue]] of $A$ iff $p(\lambda) = 0$.
 - $p(\lambda)$ is always [[Polynomials#Degree|degree]] $n$.
 
 > [!example]-

@@ -2,6 +2,8 @@
 tags:
   - atom
   - stats
+  - discrete
+  - math
 ---
 For two [[Events|events]] $A$ and $B$,
 $$ P(A \cup B) = P(A) + P(B) - P(A \cap B) $$
@@ -9,3 +11,12 @@ $$ P(A \cup B) = P(A) + P(B) - P(A \cap B) $$
 
 > [!proof]-
 > ![530|center](additive-rule.excalidraw)
+> $A \cup B = A \cup B-A$
+> $\implies P(A\cup B) = P(A) + P(B-A)$
+> $B = (B - A) \cup A \cap B$
+> $\implies P(B) = P(B-A) + P(A \cap B)$
+> Combining these two results gives
+> $$\begin{align*}
+> 	P(A\cup B)-P(A) &= P(B) - P(A\cap B) \\
+> 	P(A\cup B) &= P(A) + P(B) - P(A\cap B)
+> \end{align*}$$

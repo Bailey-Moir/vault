@@ -23,5 +23,5 @@ $$\begin{align*}
 > \[[[Basis Vectors]]\]
 
 > [!note]- Parallel Vectors
-> Two [[Vectors|vectors]] are **parallel** [[Logical Equivalence|iff]] they are *scalar multiples* of one another;
+> Two [[Vectors|vectors]] are **parallel** iff they are *scalar multiples* of one another;
 > $$ \vecbf a \parallel \vecbf b \iff \exists \lambda \in \R : \vecbf a = \lambda \vecbf b $$

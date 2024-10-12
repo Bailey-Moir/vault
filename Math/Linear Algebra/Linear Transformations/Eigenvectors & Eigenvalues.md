@@ -20,4 +20,4 @@ for some scalar $\lambda$. This scalar $\lambda$ is called the *eigenvalue* of $
 > 	\left(A - \lambda I \right) \vecbf{v} &= \vecbf{0} \\
 > \end{align*}$$
   > \[(1) [[Identity Matrices]]\]
-- $\lambda$ is a *eigenvalue* of $A$ [[Logical Equivalence|iff]] $A-\lambda I$ is [[Singular Matrices|singular]]^[[[Characteristic Polynomial]]].
+- $\lambda$ is a *eigenvalue* of $A$ iff $A-\lambda I$ is [[Singular Matrices|singular]]^[[[Characteristic Polynomial]]].

@@ -4,7 +4,7 @@ tags:
   - math
   - discrete
 ---
-For any [[Sets|sets]] $A$ and $B$, $|A| = |B|$ [[Logical Equivalence|iff]] there is a [[Bijective Functions|bijection]] from $A$ to $B$. 
+For any [[Sets|sets]] $A$ and $B$, $|A| = |B|$ iff there is a [[Bijective Functions|bijection]] from $A$ to $B$. 
 - Note that $|A| = |B|$ is an [[Equivalence Relations|equivalence relation]].
 
 > [!example]- $2\Z = \Z$

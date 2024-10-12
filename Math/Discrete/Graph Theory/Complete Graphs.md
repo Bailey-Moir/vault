@@ -5,7 +5,7 @@ tags:
   - discrete
 ---
 ![400|center](complete-graph.excalidraw)
-A *complete graph* is a [[Simple Graphs|simple graph]] in which every pair of distinct [[Vertices|vertices]] is connected by an [[Math/Discrete/Graph Theory/Definitions/Edges|edge]], with the complete graph of $n$ [[Vertices|vertices]] denoted $K_n$.
+A *complete graph* is a [[Simple Graphs|simple graph]] in which every pair of distinct [[Vertices|vertices]] is [[Connectivitiy|connected]] by an [[Math/Discrete/Graph Theory/Definitions/Edges|edge]], with the complete graph of $n$ [[Vertices|vertices]] denoted $K_n$.
 
 $$\begin{align*}
 	\forall n,\hspace{1ex}& \chi(K_n) = n && \text{(1) Chromatic Numbers}\\
