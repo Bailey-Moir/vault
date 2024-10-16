@@ -5,7 +5,7 @@ sticker: lucide//chevrons-down-up
 ---
 ![[Conic Sections with Cones]]
 # Parabola
-![[Parabola]]
+![[Parabolas]]
 # Ellipse
 ![[Ellipse]]
 # Hyperbola

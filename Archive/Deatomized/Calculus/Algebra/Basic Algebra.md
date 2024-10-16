@@ -17,7 +17,7 @@ tags:
 # Inequalities
 ![[Inequalities]]
 # Intervals
-![[Intervals]]
+![[Math/Algebra/Basics/Intervals]]
 # Absolute Values
 ![[Absolute Values]]
 # Euler's Number

@@ -5,7 +5,7 @@ tags:
 ---
 ![500|center](volume-parallelepipeds.excalidraw)
 The *volume* of a *parallelepiped* represented by $\vecbf{x},\vecbf{y},\vecbf{z} \in \R^3$ is given by
-$$ | \vecbf{x} \cdot (\vecbf{y} \times \vecbf{z}) | $$
+$$ \| \vecbf{x} \cdot (\vecbf{y} \times \vecbf{z}) \| $$
 > [!proof]-
 > $$V = Ah$$
 > Where 

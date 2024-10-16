@@ -14,5 +14,5 @@ $$\begin{align*}
 - The [[Polar Form|radial coordinate]] is defined as $r = |z|$, and is called the [[Complex Modulus|modulus]].
 - The [[Polar Form|angular coordinate]] is defined as $\theta = \arg z$, and is called the **argument**.
 
-There are infinitely many arguments that satisfy each [[Complex Numbers|complex number]]. The principal argument (denoted $\text{Arg}\, z$) is the argument that also satisfies $\theta \in \left(-\pi,\pi\right]$^[[[Intervals]]] ($-\pi < \theta \le \pi$). 
+There are infinitely many arguments that satisfy each [[Complex Numbers|complex number]]. The principal argument (denoted $\text{Arg}\, z$) is the argument that also satisfies $\theta \in \left(-\pi,\pi\right]$^[[[Math/Algebra/Basics/Intervals]]] ($-\pi < \theta \le \pi$). 
 

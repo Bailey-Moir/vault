@@ -54,6 +54,6 @@ The *cross product* is only defined for [[Vectors|vectors]] in $\R^3$. Thus, $\f
   $\vecbf{x} \times (\vecbf{y} + \vecbf{z}) = \vecbf{x} \times \vecbf{y} + \vecbf{x} \times \vecbf{z}$ 
   $(\vecbf{x} + \vecbf{y}) \times \vecbf{z} = \vecbf{x} \times \vecbf{z} + \vecbf{y} \times \vecbf{z}$ 
 - **Associative Scalar Multiplications**
-  $s(\vecbf{x} + \vecbf{y}) = (s\vecbf{x}) \times \vecbf{y} = \vecbf{x} \times (s\vecbf{y}) \hspace{1em} s \in \R$ 
+  $s(\vecbf{x} \times \vecbf{y}) = (s\vecbf{x}) \times \vecbf{y} = \vecbf{x} \times (s\vecbf{y}) \hspace{1em} s \in \R$ 
 - $\vecbf{x} \times \vecbf{x} = 0$
 - **NOT Associative**
