@@ -19,6 +19,6 @@ You can prove $p \to q$^[[[Implication]]] by proving $p \land \neg q$ is a [[Con
 > 	x^2 = (2k+1)^2 = 4k^2 + 4k + 1 &= 2l \\
 > 	2k^2 + 2k + \dfrac{1}{2} &= l
 > \end{align*}$$
-> This is a contradiction as the LHS is not an integer, but the RHS is.
+> This is a contradiction as the $\text{LHS}$ is not an integer, but the $\text{RHS}$ is.
 > 
 > \[[[Existential Quantifier]]\]
