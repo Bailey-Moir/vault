@@ -1,0 +1,72 @@
+{
+  "collapse-filter": true,
+  "search": "tag:#atom -path:Archive  ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "tag:#discrete  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#stats  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "tag:#comp  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#math  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "tag:#phys  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
+    },
+    {
+      "query": "tag:#music",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "tag:#japanese  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711791
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -2.2,
+  "nodeSizeMultiplier": 1.98854166666667,
+  "lineSizeMultiplier": 0.916666666666667,
+  "collapse-forces": true,
+  "centerStrength": 0.510416666666667,
+  "repelStrength": 20,
+  "linkStrength": 0.838541666666667,
+  "linkDistance": 267,
+  "scale": 0.017578125,
+  "close": false
+}

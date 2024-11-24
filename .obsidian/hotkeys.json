@@ -1,0 +1,35 @@
+{
+  "copy-as-html:copy-as-html-command": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "1"
+    }
+  ],
+  "outline:open": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "O"
+    }
+  ],
+  "obsidian-excalidraw-plugin:insert-LaTeX-symbol": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "A"
+    }
+  ],
+  "editor:toggle-fold-properties": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "`"
+    }
+  ],
+  "make-md:mk-blink": []
+}

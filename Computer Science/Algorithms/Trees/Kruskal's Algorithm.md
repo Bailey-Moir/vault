@@ -1,0 +1,7 @@
+---
+tags:
+  - atom
+  - comp
+---
+For a given [[Connectivitiy|connected]] [[Computer Science/Abstract Data Types/Graphs|graph]], *Kruskal's algorithm* finds a [[Spanning Trees|minimum spanning tree]] by placing all [[Edges|edges]] in a [[Priority Queues|minimum priority queue]] based on [[Weighted Graphs|weight]], adding them to the [[Math/Discrete/Graph Theory/Definitions/Trees|tree]] if they don't create a [[Walks|cycle]].
+$$\mathcal{O}(\left| E \right| \log \left|  E \right|  )$$

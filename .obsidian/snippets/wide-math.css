@@ -1,0 +1,28 @@
+mjx-c.mjx-c20::before { /* spaces in math text */
+    padding: 0 0.5em 0 0 !important;
+}
+
+/* math spaces */
+/* mjx-container [space="1"] { margin-left: .111em; }
+mjx-container [space="2"] { margin-left: .167em; }
+mjx-container [space="3"] { margin-left: .222em; }
+mjx-container [space="4"] { margin-left: .278em; }
+mjx-container [space="5"] { margin-left: .333em; }
+
+mjx-container [rspace="1"] { margin-right: .111em; }
+mjx-container [rspace="2"] { margin-right: .167em; }
+mjx-container [rspace="3"] { margin-right: .222em; }
+mjx-container [rspace="4"] { margin-right: .278em; }
+mjx-container [rspace="5"] { margin-right: .333em; } */
+
+mjx-container [space="1"] { margin-left: .222em !important; }
+mjx-container [space="2"] { margin-left: .333em !important; }
+mjx-container [space="3"] { margin-left: .444em !important; }
+mjx-container [space="4"] { margin-left: .555em !important; }
+mjx-container [space="5"] { margin-left: .666em !important; }
+
+mjx-container [rspace="1"] { margin-right: .222em !important; }
+mjx-container [rspace="2"] { margin-right: .333em !important; }
+mjx-container [rspace="3"] { margin-right: .444em !important; }
+mjx-container [rspace="4"] { margin-right: .555em !important; }
+mjx-container [rspace="5"] { margin-right: .666em !important; }

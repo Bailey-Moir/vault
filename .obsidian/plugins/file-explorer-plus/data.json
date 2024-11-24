@@ -1,0 +1,127 @@
+{
+  "hideStrictPathFilters": true,
+  "pinFilters": {
+    "active": true,
+    "tags": [
+      {
+        "name": "",
+        "active": true,
+        "pattern": "",
+        "patternType": "STRICT"
+      }
+    ],
+    "paths": [
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES_AND_DIRECTORIES",
+        "pattern": "",
+        "patternType": "WILDCARD"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "Archive",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "Assets",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "Personal",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "Lecture Notes",
+        "patternType": "STRICT"
+      }
+    ]
+  },
+  "hideFilters": {
+    "active": true,
+    "tags": [
+      {
+        "name": "",
+        "active": true,
+        "pattern": "",
+        "patternType": "STRICT"
+      }
+    ],
+    "paths": [
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "favicon-32x32.png",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "favicon-128x128.png",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "favicon-152x152.png",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "favicon-180x180.png",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "favicon-167x167.png",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "favicon-192x192.png",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "favicon-196x196.png",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "Excalidraw",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Math/Linear Algebra/Linear Transformations/Linear Transformations.md",
+        "patternType": "STRICT"
+      }
+    ]
+  }
+}

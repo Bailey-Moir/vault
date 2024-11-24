@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "8421266d0672ed35",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f8c206a0773b8aa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d554d957ba3fba9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Algebra/Sequences & Series/Series/Interval of Convergence.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Interval of Convergence"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9003f89ab266a484",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e311576712da3cc",
+        "type": "tabs",
+        "dimension": 80.6949806949807,
+        "children": [
+          {
+            "id": "3861a78160e5936b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5a926d5833c31e68",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      },
+      {
+        "id": "976857880322ac09",
+        "type": "tabs",
+        "dimension": 19.305019305019304,
+        "children": [
+          {
+            "id": "cc212aae7d683627",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Math/Algebra/Sequences & Series/Series/Interval of Convergence.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.19753086419753085,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Interval of Convergence"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2bc9063f21594752",
+    "type": "split",
+    "children": [
+      {
+        "id": "50288cdc8cfe43dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df2368d316b474f6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Math/Discrete/Number Theory/Modular Arithmetic/Cyclic Groups.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Cyclic Groups"
+            }
+          },
+          {
+            "id": "afa2a61a578e8a7c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Math/Algebra/Sequences & Series/Series/Tests/Comparison Theorem for Series.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Comparison Theorem for Series"
+            }
+          },
+          {
+            "id": "2f3e00d56283b542",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b7dfddef28a82391",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "random-note:Open random note": false,
+      "omnisearch:Omnisearch": false,
+      "quiz-generator:Open generator": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "1d554d957ba3fba9",
+  "lastOpenFiles": [
+    "Assets/excali/interval-of-convergence.excalidraw.md",
+    "Math/Algebra/Sequences & Series/Series/Interval of Convergence.md",
+    "Math/Algebra/Sequences & Series/Series/Harmonic Series.md",
+    "Math/Algebra/Sequences & Series/Series/p-series.md",
+    "Math/Algebra/Sequences & Series/Series/Telescoping Series.md",
+    "Math/Algebra/Sequences & Series/Series/Taylor Series/Uniqueness Theorem for Taylor Series.md",
+    "Math/Algebra/Sequences & Series/Series/Taylor Series/Error of Taylor Series.md",
+    "Math/Algebra/Sequences & Series/Series/Taylor Series/Common Taylor Series.md",
+    "Assets/excali/charging-and-discharging-capacitors.excalidraw.md",
+    "Personal/Daily/23-09-22.md",
+    "Computer Science/Asymptotic Analysis.md",
+    "Math/Linear Algebra/Matrices/Definitions/Matrix Addition.md",
+    "Math/Algebra/Basics/Euler's Number.md",
+    "Assets/excali/scripts/Downloaded/Palette loader.svg",
+    "Assets/excali/scripts/Downloaded/Palette loader.md",
+    "Assets/excali/scripts/Downloaded",
+    "Assets/excali/scripts",
+    "Statistics/Describing Data/Shape.md",
+    "Assets/excali/shape.excalidraw.md",
+    "Math/Algebra/Sequences & Series/Series/Power Series.md",
+    "Math/Discrete/Set Theory/Power Sets.md",
+    "Power.md",
+    "Math/Algebra/Sequences & Series/Series/Partial Sums.md",
+    "Math/Algebra/Sequences & Series/Series/Taylor Series/Maclaurin Series.md",
+    "Math/Algebra/Sequences & Series/Series/Taylor Series/Substitutions.md",
+    "Math/Algebra/Sequences & Series/Series/Taylor Series/Taylor's Remainder Theorem.md",
+    "Math/Algebra/Sequences & Series/Series/Taylor Series/Taylor Series.md",
+    "Math/Algebra/Sequences & Series/Series/Taylor Series/Interval of Convergence.md",
+    "Math/Algebra/Sequences & Series/Series/Tests/The Ratio Test.md",
+    "Math/Calculus/Limits/Limits.canvas",
+    "Lecture Notes",
+    "Math/Linear Algebra/Linear Algebra.canvas",
+    "Math/Discrete/Propositional Logic/Arguments and Proofs/Proof by Exhaustion.md~",
+    "Math/Discrete/Propositional Logic/Logical Connectives/Implication.md~",
+    "Math/Discrete/Set Theory/Relations/Relation Graphs.md~",
+    "Math/Discrete/Set Theory/Relations/Partial Order.md~",
+    "Math/Discrete/Set Theory/Relations/Transitive Property.md~",
+    "Math/Discrete/Propositional Logic/Logical Connectives/Biconditional.md~",
+    "Statistics/Probability/Random Variables/Bernoulli Random Variables.md~",
+    "Assets/Pasted image 20240228143304.png",
+    "Assets/Pasted image 20240226153111.png",
+    "Assets/Pasted image 20240304144131.png",
+    "Assets/Pasted image 20240507120339.png",
+    "Assets/Pasted image 20240804224306.png",
+    "Assets/Pasted image 20240801194612.png",
+    "Assets/Pasted image 20240801195658.png",
+    "Assets/Pasted image 20240801195915.png",
+    "Assets/Pasted image 20240801195148.png",
+    "Math/Linear Algebra/Done Right/Properties of Vector Spaces/Properties of Vector Spaces.canvas",
+    "Statistics/Inference for Means and Proportions/Inference for Means and Proportions.canvas",
+    "Math/Geometry/Trigonometry/Trigonometry.canvas"
+  ]
+}

@@ -1,0 +1,31 @@
+.cm-callout {
+	/** padding-top: 10px !important; **/
+}
+
+.callout {
+	/** even padding **/
+	padding-left: 12px !important;
+	/** universal gray **/
+	border-color: rgba(218,218,218,1);
+	border-image: none !important;
+	border-width: 1px !important;
+	background-color: transparent;
+}
+
+.callout-title {
+	padding: 0px !important;
+    align-items: center !important;
+}
+
+/** universal gray **/
+.theme-light .callout-title, .theme-light .callout-icon > svg {
+	color: black !important;
+}
+.theme-dark .callout-title, .theme-dark .callout-icon > svg {
+	color: white;
+}
+
+.callout-content {
+	/** centering content **/
+	padding-left: 0px !important;
+}

@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="564.08801"
+   height="251.563"
+   id="svg1993"
+   sodipodi:docname="quadrants on graph.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1995"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="1.18"
+     inkscape:cx="142.79661"
+     inkscape:cy="264.83051"
+     inkscape:window-width="1368"
+     inkscape:window-height="890"
+     inkscape:window-x="-6"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g470" />
+  <defs
+     id="defs1412" />
+  <g
+     id="g1469"
+     transform="matrix(2,0,0,2,-114.05223,-275.50366)">
+    <title
+       id="title1445">Expression 80</title>
+    <path
+       fill="#000000"
+       stroke="none"
+       paint-order="stroke fill markers"
+       d=""
+       fill-opacity="0.4"
+       id="path1447" />
+    <path
+       fill="none"
+       stroke="#ffffff"
+       class="dcg-svg-curve"
+       paint-order="fill stroke markers"
+       d="m 222.43724,139.35547 v 0 l 5e-5,40.89432 7.3e-4,13.28886 -0.58982,0.18455 -35.9107,-0.001 h -17.57813 l -0.64224,0.16903 -1e-4,7.39347 -1.6e-4,47.05514"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="0.1"
+       stroke-dasharray="none"
+       id="path1453" />
+    <path
+       fill="none"
+       stroke="#ffffff"
+       class="dcg-svg-curve"
+       paint-order="fill stroke markers"
+       d="m 113.00334,248.3549 v 0 l -0.009,-0.0207 0.003,-13.17795 -0.005,-41.34617 2.634,-0.0879 51.90055,0.001 0.19132,-0.75451 V 139.0258"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="0.1"
+       stroke-dasharray="none"
+       id="path1457" />
+    <path
+       fill="none"
+       stroke="#ffffff"
+       class="dcg-svg-curve"
+       paint-order="fill stroke markers"
+       d="m 331.83594,193.7222 v 0 l -54.28674,1e-5 L 277.15762,200 v 48.33984"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="0.1"
+       stroke-dasharray="none"
+       id="path1461" />
+    <path
+       fill="none"
+       stroke="#ffffff"
+       class="dcg-svg-curve"
+       paint-order="fill stroke markers"
+       d="m 222.43724,248.33984 v 0 -27.24816 -27.24402 l 0.41432,-0.12546 h 47.46094 l 6.84515,-0.54319 -0.005,-54.01429"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       stroke-miterlimit="10"
+       stroke-width="0.1"
+       stroke-dasharray="none"
+       id="path1465" />
+  </g>
+  <path
+     id="path746"
+     style="fill:none;stroke:#ffffff;stroke-width:2.5;stroke-linecap:round;stroke-linejoin:round;paint-order:markers stroke fill;stroke-dasharray:none"
+     d="m 111.95625,2.54012 -0.002,218.66602 M 2.5009381,111.93982 549.61965,111.94074" />
+  <g
+     id="g1801"
+     transform="matrix(2,0,0,2,-114.05223,-275.50366)">
+    <title
+       id="title1793">Expression 92</title>
+    <path
+       fill="#c74440"
+       stroke="none"
+       paint-order="stroke fill markers"
+       d=""
+       fill-opacity="0.4"
+       id="path1795" />
+    <g
+       id="g1799">
+      <path
+         fill="none"
+         stroke="#c74440"
+         class="dcg-svg-curve"
+         paint-order="fill stroke markers"
+         d="m 58.276116,228.55827 v 0 l 3.027002,-0.13142 3.027001,-0.3933 3.124647,-0.6775 3.222292,-0.98181 3.319937,-1.30344 3.515227,-1.68993 3.710518,-2.11076 4.003454,-2.62681 4.49168,-3.33666 4.88226,-4.03128 5.468136,-4.91966 6.73752,-6.47533 21.57959,-21.05141 5.37048,-4.6591 4.78462,-3.76335 4.49168,-3.13451 4.1011,-2.47962 3.71051,-1.89922 3.51523,-1.47723 3.31994,-1.09358 3.22229,-0.77161 3.12465,-0.46926 3.027,-0.18902 3.027,0.0738 3.027,0.33604 3.027,0.59576 3.12465,0.88262 3.31994,1.22777 3.41758,1.5644 3.71052,2.02621 3.90581,2.47673 4.29639,3.09506 4.78461,3.84769 5.27284,4.64527 6.2493,5.9128 9.86216,9.78544 9.76452,9.56248 6.05401,5.5349 5.07755,4.25988 4.68697,3.53888 4.29639,2.85581 3.9058,2.23612 3.61288,1.73771 3.41758,1.33382 3.22229,0.96977 3.12465,0.66552 3.027,0.38152 3.027,0.11957 3.027,-0.1433 3.027,-0.40506 3.12465,-0.68946 3.22229,-0.99384 3.31994,-1.31541 3.51523,-1.702 3.71052,-2.12272 4.00345,-2.63863 4.49168,-3.34842 4.88226,-4.04202 5.46813,-4.92894 6.83517,-6.57863 5.95635,-5.92738"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         stroke-width="2.5"
+         stroke-opacity="0.9"
+         stroke-dasharray="none"
+         id="path1797" />
+    </g>
+  </g>
+  <g
+     id="g1811"
+     transform="matrix(2,0,0,2,-114.05223,-275.50366)">
+    <title
+       id="title1803">Expression 93</title>
+    <path
+       fill="#388c46"
+       stroke="none"
+       paint-order="stroke fill markers"
+       d=""
+       fill-opacity="0.4"
+       id="path1805" />
+    <g
+       id="g1809">
+      <path
+         fill="none"
+         stroke="#388c46"
+         class="dcg-svg-curve"
+         paint-order="fill stroke markers"
+         d="m 58.276116,193.7222 v 0 l 11.229199,-11.03574 6.054003,-5.54711 5.175196,-4.35185 4.68697,-3.54575 4.29639,-2.863 3.905808,-2.24328 3.612873,-1.74481 3.417585,-1.34087 3.31993,-1.00179 3.12465,-0.66381 3.027,-0.37984 3.027,-0.11787 3.02701,0.14499 3.027,0.40674 3.12464,0.69117 3.2223,0.99556 3.31993,1.31712 3.51523,1.70372 3.71052,2.12442 4.1011,2.70895 4.49168,3.35846 4.9799,4.13595 5.56578,5.03477 6.93281,6.69102 20.11491,19.67055 5.46813,4.80245 4.88226,3.89749 4.49168,3.19164 4.1011,2.53777 3.80817,2.00294 3.51522,1.52532 3.31994,1.14088 3.22229,0.81886 3.12465,0.51594 3.027,0.23472 3.027,-0.028 3.027,-0.29049 3.02701,-0.55078 3.12464,-0.83717 3.22229,-1.14204 3.41759,-1.50966 3.61287,-1.91407 3.90581,-2.41362 4.29639,-3.03267 4.78461,-3.78801 5.1752,-4.5043 6.054,-5.67554 8.69042,-8.58258 11.81508,-11.61957 6.054,-5.54441 5.17519,-4.34872 4.68697,-3.54232 4.29639,-2.8594 3.90581,-2.2397 3.61287,-1.74126 3.41759,-1.33735 3.22229,-0.97321 3.12465,-0.66894 3.027,-0.38489 2.92935,-0.12309"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         stroke-width="2.5"
+         stroke-opacity="0.9"
+         stroke-dasharray="none"
+         id="path1807" />
+    </g>
+  </g>
+  <g
+     id="g1829"
+     transform="matrix(2,0,0,2,-114.05223,-275.50366)">
+    <title
+       id="title1813">Expression 95</title>
+    <path
+       fill="#2d70b3"
+       stroke="none"
+       paint-order="stroke fill markers"
+       d=""
+       fill-opacity="0.4"
+       id="path1815" />
+    <g
+       id="g1819">
+      <path
+         fill="none"
+         stroke="#2d70b3"
+         class="dcg-svg-curve"
+         paint-order="fill stroke markers"
+         d="m 58.276116,248.44258 h 11 m 7,0 h 1.724332 m 0,0 0.390581,-1.24832 m 0,0 1.659969,-5.195 m 0,0 0.86415,-2.36072 m 2.585931,-6.50315 0.162792,-0.39074 m 0,0 1.952904,-4.1473 m 0,0 2.148194,-4.05595 m 0,0 0.716,-1.20642 m 3.732103,-5.91961 0.531803,-0.80288 m 0,0 2.929356,-3.98343 m 0,0 3.205443,-3.95697 m 4.653256,-5.22854 4.63989,-4.86661 m 0,0 2.97829,-3.0682 m 4.8756,-5.02279 7.66167,-7.89296 m 4.6125,-5.26201 0.37743,-0.44341 m 0,0 3.22229,-4.17326 m 0,0 2.83172,-4.07 m 0,0 0.0991,-0.15864 m 3.59873,-6.00183 0.98919,-1.77162 m 0,0 2.05054,-4.1267 m 0,0 1.76061,-3.99183 m 2.47741,-6.54529 1.03483,-3.01909 m 0,0 1.36703,-4.02748 m 0,0 h 3.55532 m 7,0 h 9.05184"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         stroke-width="2.5"
+         stroke-opacity="0.5"
+         stroke-dasharray="none"
+         id="path1817" />
+    </g>
+    <g
+       id="g1823">
+      <path
+         fill="none"
+         stroke="#2d70b3"
+         class="dcg-svg-curve"
+         paint-order="fill stroke markers"
+         d="m 167.71687,248.44258 h 11 m 7,0 h 1.74386 m 0,0 2.34348,-7.3447 m 0,0 0.54271,-1.44829 m 2.59998,-6.49743 0.47019,-1.10506 m 0,0 2.05055,-4.26136 m 0,0 2.14819,-3.96794 m 0,0 0.2888,-0.47732 m 3.7477,-5.90986 0.94341,-1.40083 m 0,0 2.92935,-3.9283 m 0,0 2.7973,-3.41037 m 4.63511,-5.24452 0.0863,-0.0964 m 0,0 5.46814,-5.68592 m 0,0 2.08169,-2.13514 m 4.88663,-5.01207 7.67898,-7.87612 m 4.57305,-5.29859 2.94511,-3.73273 m 0,0 2.92935,-4.11531 m 0,0 0.6426,-1.00621 m 3.62191,-5.98769 0.52011,-0.90976 m 0,0 2.05055,-4.01785 m 0,0 1.9529,-4.31115 m 0,0 0.26331,-0.65759 m 2.48604,-6.54209 0.66824,-1.89346 m 0,0 1.75761,-5.16665 m 0,0 h 3.53465 m 7,0 h 9.05298"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         stroke-width="2.5"
+         stroke-opacity="0.5"
+         stroke-dasharray="none"
+         id="path1821" />
+    </g>
+    <g
+       id="g1827">
+      <path
+         fill="none"
+         stroke="#2d70b3"
+         class="dcg-svg-curve"
+         paint-order="fill stroke markers"
+         d="m 277.15762,248.44258 10.99996,-0.0278 m 6.99998,-0.0177 1.76345,-0.004 m 0,0 1.56232,-5.05759 m 0,0 1.3105,-3.71901 m 2.60484,-6.49517 1.55279,-3.41106 m 0,0 2.1482,-4.17978 m 0,0 1.27742,-2.21 m 3.71671,-5.92921 2.71984,-3.78964 m 0,0 3.22229,-4.06844 m 0,0 0.75036,-0.86543 m 4.65332,-5.22781 3.1891,-3.40006 m 0,0 4.45762,-4.50606"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         stroke-width="2.5"
+         stroke-opacity="0.5"
+         stroke-dasharray="none"
+         id="path1825" />
+    </g>
+  </g>
+  <g
+     id="g1847"
+     transform="matrix(2,0,0,2,-114.05223,-275.50366)">
+    <title
+       id="title1831">Expression 96</title>
+    <path
+       fill="#2d70b3"
+       stroke="none"
+       paint-order="stroke fill markers"
+       d=""
+       fill-opacity="0.4"
+       id="path1833" />
+    <g
+       id="g1837">
+      <path
+         fill="none"
+         stroke="#2d70b3"
+         class="dcg-svg-curve"
+         paint-order="fill stroke markers"
+         d="m 78.025087,248.44258 v 0 l 1.564757,-5.07124 1.660156,-4.71565 1.855469,-4.62883 1.953125,-4.29357 2.148437,-4.18289 2.246094,-3.8969 2.539062,-3.94764 2.832032,-3.96141 3.222656,-4.08186 3.808595,-4.40332 4.78516,-5.10972 7.91015,-7.98267 7.51953,-7.72943 4.39453,-4.89737 3.61328,-4.41439 3.02735,-4.0901 2.63672,-3.95762 2.34375,-3.92259 2.14844,-4.0255 1.95312,-4.11227 1.85547,-4.41112 1.75781,-4.75126 1.5625,-4.8124 0.60462,-2.041"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         stroke-width="2.5"
+         stroke-opacity="0.9"
+         stroke-dasharray="none"
+         id="path1835" />
+    </g>
+    <g
+       id="g1841">
+      <path
+         fill="none"
+         stroke="#2d70b3"
+         class="dcg-svg-curve"
+         paint-order="fill stroke markers"
+         d="m 187.46584,248.44258 v 0 l 1.59666,-5.16783 1.66016,-4.70394 1.85547,-4.61848 1.95312,-4.28498 2.14844,-4.17544 2.34375,-4.05063 2.53906,-3.92591 2.83203,-3.94292 3.22266,-4.06629 3.80859,-4.39048 4.78516,-5.10002 8.20312,-8.2724 7.22656,-7.44472 4.39454,-4.90973 3.51562,-4.30414 3.02735,-4.09455 2.63671,-3.96276 2.34375,-3.9285 2.14844,-4.0324 1.95313,-4.12021 1.85547,-4.42063 1.75781,-4.76265 1.5625,-4.82515 0.57271,-1.93599"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         stroke-width="2.5"
+         stroke-opacity="0.9"
+         stroke-dasharray="none"
+         id="path1839" />
+    </g>
+    <g
+       id="g1845">
+      <path
+         fill="none"
+         stroke="#2d70b3"
+         class="dcg-svg-curve"
+         paint-order="fill stroke markers"
+         d="m 296.90659,248.44258 v 0 l 1.53091,-4.96851 1.66016,-4.72811 1.75781,-4.41022 1.95312,-4.32936 2.05078,-4.03298 2.2461,-3.94142 2.53906,-3.9868 2.83203,-3.99471 3.22266,-4.1099 3.71094,-4.3175 4.6875,-5.03359 6.78033,-6.86728"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-miterlimit="10"
+         stroke-width="2.5"
+         stroke-opacity="0.9"
+         stroke-dasharray="none"
+         id="path1843" />
+    </g>
+  </g>
+  <g
+     id="labels-cd0a0836"
+     style="fill:#ffffff;stroke:#1e1e1e;stroke-width:0.5;stroke-dasharray:none;stroke-opacity:1"
+     transform="matrix(2,0,0,2,-114.05223,-275.50366)">
+    <g
+       transform="translate(304.51671,248.44219)"
+       id="g582">
+      <text
+         fill="none"
+         stroke="#ffffff"
+         font-family="arial, sans-serif"
+         font-size="15.4px"
+         font-style="normal"
+         font-weight="400"
+         text-decoration="normal"
+         x="-10.274514"
+         y="13.984113"
+         text-anchor="start"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-miterlimit="2"
+         stroke-width="3"
+         stroke-opacity="0.9"
+         stroke-dasharray="none"
+         id="text568"
+         style="stroke:#1e1e1e;stroke-opacity:0.89803922">Q4</text>
+      <text
+         fill="#000000"
+         stroke="none"
+         font-family="arial, sans-serif"
+         font-size="15.4px"
+         font-style="normal"
+         font-weight="400"
+         text-decoration="normal"
+         x="-10.274514"
+         y="13.984113"
+         text-anchor="start"
+         fill-opacity="0.9"
+         id="text574"
+         style="fill:#ffffff">Q4</text>
+    </g>
+    <g
+       transform="translate(195.07477,248.44219)"
+       id="g550">
+      <text
+         fill="none"
+         stroke="#ffffff"
+         font-family="arial, sans-serif"
+         font-size="15.4px"
+         font-style="normal"
+         font-weight="400"
+         text-decoration="normal"
+         x="-10.277901"
+         y="13.984113"
+         text-anchor="start"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-miterlimit="2"
+         stroke-width="3"
+         stroke-opacity="0.9"
+         stroke-dasharray="none"
+         id="text536"
+         style="stroke:#1e1e1e;stroke-opacity:0.89803922">Q2</text>
+      <text
+         fill="#000000"
+         stroke="none"
+         font-family="arial, sans-serif"
+         font-size="15.4px"
+         font-style="normal"
+         font-weight="400"
+         text-decoration="normal"
+         x="-10.277901"
+         y="13.984113"
+         text-anchor="start"
+         fill-opacity="0.9"
+         id="text542"
+         style="fill:#ffffff">Q2</text>
+    </g>
+    <g
+       transform="translate(249.79964,248.44219)"
+       id="g566">
+      <text
+         fill="none"
+         stroke="#ffffff"
+         font-family="arial, sans-serif"
+         font-size="15.4px"
+         font-style="normal"
+         font-weight="400"
+         text-decoration="normal"
+         x="-10.276208"
+         y="13.984113"
+         text-anchor="start"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-miterlimit="2"
+         stroke-width="3"
+         stroke-opacity="0.9"
+         stroke-dasharray="none"
+         id="text552"
+         style="stroke:#1e1e1e;stroke-opacity:0.89803922">Q3</text>
+      <text
+         fill="#000000"
+         stroke="none"
+         font-family="arial, sans-serif"
+         font-size="15.4px"
+         font-style="normal"
+         font-weight="400"
+         text-decoration="normal"
+         x="-10.276208"
+         y="13.984113"
+         text-anchor="start"
+         fill-opacity="0.9"
+         id="text558"
+         style="fill:#ffffff">Q3</text>
+    </g>
+    <g
+       transform="translate(331.87913,193.72513)"
+       id="g518">
+      <text
+         fill="none"
+         stroke="#ffffff"
+         font-family="arial, sans-serif"
+         font-size="11.55px"
+         font-style="normal"
+         font-weight="400"
+         text-decoration="normal"
+         x="-7.2033553"
+         y="-3.13978"
+         text-anchor="start"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-miterlimit="2"
+         stroke-width="3"
+         stroke-opacity="0.9"
+         stroke-dasharray="none"
+         id="text504"
+         style="stroke:#1e1e1e;stroke-opacity:0.89803922">2π</text>
+      <text
+         fill="#000000"
+         stroke="none"
+         font-family="arial, sans-serif"
+         font-size="11.55px"
+         font-style="normal"
+         font-weight="400"
+         text-decoration="normal"
+         x="-7.2033553"
+         y="-3.13978"
+         text-anchor="start"
+         fill-opacity="0.9"
+         id="text510"
+         style="fill:#ffffff">2π</text>
+    </g>
+    <g
+       transform="translate(277.16208,193.72513)"
+       id="g502">
+      <text
+         fill="none"
+         stroke="#ffffff"
+         font-family="arial, sans-serif"
+         font-size="11.55px"
+         font-style="normal"
+         font-weight="400"
+         text-decoration="normal"
+         x="-12.021455"
+         y="-3.13978"
+         text-anchor="start"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-miterlimit="2"
+         stroke-width="3"
+         stroke-opacity="0.9"
+         stroke-dasharray="none"
+         id="text488"
+         style="stroke:#1e1e1e;stroke-opacity:0.89803922">3π/2</text>
+      <text
+         fill="#000000"
+         stroke="none"
+         font-family="arial, sans-serif"
+         font-size="11.55px"
+         font-style="normal"
+         font-weight="400"
+         text-decoration="normal"
+         x="-12.021455"
+         y="-3.13978"
+         text-anchor="start"
+         fill-opacity="0.9"
+         id="text494"
+         style="fill:#ffffff">3π/2</text>
+    </g>
+    <g
+       transform="translate(140.35772,248.44219)"
+       id="g534">
+      <text
+         fill="none"
+         stroke="#ffffff"
+         font-family="arial, sans-serif"
+         font-size="15.4px"
+         font-style="normal"
+         font-weight="400"
+         text-decoration="normal"
+         x="-10.279595"
+         y="13.984113"
+         text-anchor="start"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-miterlimit="2"
+         stroke-width="3"
+         stroke-opacity="0.9"
+         stroke-dasharray="none"
+         id="text520"
+         style="stroke:#1e1e1e;stroke-opacity:0.89803922">Q1</text>
+      <text
+         fill="#000000"
+         stroke="none"
+         font-family="arial, sans-serif"
+         font-size="15.4px"
+         font-style="normal"
+         font-weight="400"
+         text-decoration="normal"
+         x="-10.279595"
+         y="13.984113"
+         text-anchor="start"
+         fill-opacity="0.9"
+         id="text526"
+         style="fill:#ffffff">Q1</text>
+    </g>
+    <g
+       transform="translate(222.43721,193.72513)"
+       id="g486">
+      <text
+         fill="none"
+         stroke="#ffffff"
+         font-family="arial, sans-serif"
+         font-size="11.55px"
+         font-style="normal"
+         font-weight="400"
+         text-decoration="normal"
+         x="-3.9958045"
+         y="-3.13978"
+         text-anchor="start"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-miterlimit="2"
+         stroke-width="3"
+         stroke-opacity="0.9"
+         stroke-dasharray="none"
+         id="text472"
+         style="stroke:#1e1e1e;stroke-opacity:0.89803922">π</text>
+      <text
+         fill="#000000"
+         stroke="none"
+         font-family="arial, sans-serif"
+         font-size="11.55px"
+         font-style="normal"
+         font-weight="400"
+         text-decoration="normal"
+         x="-3.9958045"
+         y="-3.13978"
+         text-anchor="start"
+         fill-opacity="0.9"
+         id="text478"
+         style="fill:#ffffff">π</text>
+    </g>
+    <g
+       transform="translate(167.71234,193.72513)"
+       id="g470">
+      <text
+         fill="none"
+         stroke="#ffffff"
+         font-family="arial, sans-serif"
+         font-size="11.55px"
+         font-style="normal"
+         font-weight="400"
+         text-decoration="normal"
+         x="-8.8021851"
+         y="-3.13978"
+         text-anchor="start"
+         stroke-linecap="round"
+         stroke-linejoin="round"
+         stroke-miterlimit="2"
+         stroke-width="3"
+         stroke-opacity="0.9"
+         stroke-dasharray="none"
+         id="text456"
+         style="stroke:#1e1e1e;stroke-opacity:0.89803922">π/2</text>
+      <text
+         fill="#000000"
+         stroke="none"
+         font-family="arial, sans-serif"
+         font-size="11.55px"
+         font-style="normal"
+         font-weight="400"
+         text-decoration="normal"
+         x="-8.8021851"
+         y="-3.13978"
+         text-anchor="start"
+         fill-opacity="0.9"
+         id="text462"
+         style="fill:#ffffff">π/2</text>
+    </g>
+  </g>
+</svg>

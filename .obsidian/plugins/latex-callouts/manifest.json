@@ -1,0 +1,10 @@
+{
+	"id": "latex-callouts",
+	"name": "Latex Styled Callouts",
+	"version": "1.0.0",
+	"description": "Custom plugin",
+	"author": "Bailey Moir <bailey.p.moir@gmail.com>",
+	"authorUrl": "https://github.com/Bailey-Moir",
+	"isDesktopOnly": false
+  }
+  

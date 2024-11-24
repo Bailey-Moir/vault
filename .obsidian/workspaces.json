@@ -1,0 +1,447 @@
+{
+  "workspaces": {
+    "Desktop": {
+      "main": {
+        "id": "e502d33b8294dd3d",
+        "type": "split",
+        "children": [
+          {
+            "id": "dda210b24426ee64",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0b0227279288f27e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Math/Calculus/Algebra/Functions.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": true
+                  }
+                },
+                "group": "359da8e7d6f6c510"
+              }
+            ]
+          },
+          {
+            "id": "cb9c68fa1c0678af",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c6031dd669f55601",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Math/Calculus/Algebra/Functions.md",
+                    "mode": "preview",
+                    "backlinks": false,
+                    "source": false
+                  }
+                },
+                "group": "359da8e7d6f6c510"
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b8c38b1a755c0e70",
+        "type": "split",
+        "children": [
+          {
+            "id": "b75dda3faee08d1d",
+            "type": "tabs",
+            "dimension": 64.56400742115028,
+            "children": [
+              {
+                "id": "d70667dfd50fde32",
+                "type": "leaf",
+                "state": {
+                  "type": "mk-path-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "4643c70708a07afa",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "000111a29b363b34",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "Q.V",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "34d1e0d89d400bc9",
+            "type": "tabs",
+            "dimension": 35.43599257884972,
+            "children": [
+              {
+                "id": "d515fc6d2d28acde",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Math/Calculus/Algebra/Functions.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "-path:Assets  ",
+                      "localJumps": 2,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": false,
+                      "colorGroups": [
+                        {
+                          "query": "tag:#math  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 6723937
+                          }
+                        },
+                        {
+                          "query": "tag:#comp  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14778644
+                          }
+                        }
+                      ],
+                      "collapse-display": true,
+                      "showArrow": true,
+                      "textFadeMultiplier": -2,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 5,
+                      "collapse-forces": true,
+                      "centerStrength": 0.591145833333333,
+                      "repelStrength": 14.7395833333333,
+                      "linkStrength": 0.9140625,
+                      "linkDistance": 139,
+                      "scale": 0.36288736930121673,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 253.5
+      },
+      "right": {
+        "id": "0f8dc2082346a0c4",
+        "type": "split",
+        "children": [
+          {
+            "id": "a6aa6f6a1c42ceb4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bb18d42dd71ef866",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Math/Calculus/Algebra/Functions.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "3b8e12db80f43751",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Math/Calculus/Algebra/Functions.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "d1600914b8703bfa",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "8330adc76b8c8004",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Math/Calculus/Algebra/Functions.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "templates:Insert template": true,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "canvas:Create new canvas": false,
+          "command-palette:Open command palette": true,
+          "publish:Publish changes...": true,
+          "omnisearch:Omnisearch": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "0b0227279288f27e"
+    },
+    "Lecture": {
+      "main": {
+        "id": "e502d33b8294dd3d",
+        "type": "split",
+        "children": [
+          {
+            "id": "7aaee8abc100beaf",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "4f8bac398e486e93",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "b8c38b1a755c0e70",
+        "type": "split",
+        "children": [
+          {
+            "id": "b75dda3faee08d1d",
+            "type": "tabs",
+            "dimension": 64.56400742115028,
+            "children": [
+              {
+                "id": "d70667dfd50fde32",
+                "type": "leaf",
+                "state": {
+                  "type": "mk-path-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "4643c70708a07afa",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "000111a29b363b34",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "Q.V",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "34d1e0d89d400bc9",
+            "type": "tabs",
+            "dimension": 35.43599257884972,
+            "children": [
+              {
+                "id": "d515fc6d2d28acde",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "Math/Calculus/Algebra/Linear Algebra/Matrices.md",
+                    "options": {
+                      "collapse-filter": false,
+                      "search": "-path:Assets  ",
+                      "localJumps": 2,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [
+                        {
+                          "query": "tag:#math  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 6074838
+                          }
+                        },
+                        {
+                          "query": "tag:#comp  ",
+                          "color": {
+                            "a": 1,
+                            "rgb": 14069084
+                          }
+                        }
+                      ],
+                      "collapse-display": true,
+                      "showArrow": true,
+                      "textFadeMultiplier": -2,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 5,
+                      "collapse-forces": true,
+                      "centerStrength": 0.591145833333333,
+                      "repelStrength": 14.7395833333333,
+                      "linkStrength": 0.9140625,
+                      "linkDistance": 139,
+                      "scale": 0.3628873693012167,
+                      "close": true
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 253.5
+      },
+      "right": {
+        "id": "0f8dc2082346a0c4",
+        "type": "split",
+        "children": [
+          {
+            "id": "a6aa6f6a1c42ceb4",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bb18d42dd71ef866",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Math/Calculus/Algebra/Linear Algebra/Matrices.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "3b8e12db80f43751",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Math/Calculus/Algebra/Linear Algebra/Matrices.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "d1600914b8703bfa",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "8330adc76b8c8004",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Math/Calculus/Algebra/Linear Algebra/Matrices.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "templates:Insert template": true,
+          "obsidian-excalidraw-plugin:Create new drawing": false,
+          "canvas:Create new canvas": false,
+          "command-palette:Open command palette": true,
+          "publish:Publish changes...": true,
+          "omnisearch:Omnisearch": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "d70667dfd50fde32"
+    }
+  },
+  "active": "Desktop"
+}

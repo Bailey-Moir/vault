@@ -1,0 +1,23 @@
+
+/*.excalidraw-embedded-img*/
+.theme-light img[filesource*="excalidraw"],
+.theme-light img[src*="excalidraw.svg"] {
+	filter: invert(100%) hue-rotate(180deg);
+}
+
+img.avatar.svelte-okpkt8 {
+    height: unset !important;
+    margin-top: 25px;
+}
+div.avatar.svelte-okpkt8 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 240px !important;
+}
+
+.excalidraw-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

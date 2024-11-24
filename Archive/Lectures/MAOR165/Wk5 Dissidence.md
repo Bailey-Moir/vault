@@ -1,0 +1,1 @@
+The act of publicly disagreeing with and criticizing a government or group

@@ -1,0 +1,5 @@
+.metadata-container .internal-link, .markdown-rendered .internal-link,
+.cm-hmd-internal-link, .cm-link-alias {
+    text-decoration: underline;
+    text-decoration-color: rgba(94,166,230,0.75);
+}

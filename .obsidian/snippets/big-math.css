@@ -1,0 +1,6 @@
+.math-block {
+    font-size: 1.3em;
+}
+mjx-math:not([display]) {
+    font-size: 1.25em;
+}

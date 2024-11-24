@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"47f446c7056c1d5f","type":"file","file":"Statistics/Inference for Means and Proportions/CLT for Differences.md","x":-203,"y":-19,"width":520,"height":339},
+		{"id":"7687fae5b958a7d9","type":"file","file":"Statistics/Inference for Means and Proportions/CLT for Means.md","x":-840,"y":-19,"width":520,"height":419},
+		{"id":"e6934e1bb2408f55","type":"file","file":"Statistics/Inference for Means and Proportions/CLT for Difference in Means.md","x":-520,"y":-720,"width":520,"height":539},
+		{"id":"3d348e205065ec1e","type":"file","file":"Statistics/Inference for Means and Proportions/CLT for Proportions.md","x":440,"y":-19,"width":520,"height":440},
+		{"id":"953056160e9db8a0","type":"file","file":"Statistics/Inference for Means and Proportions/CLT for Difference in Proportions.md","x":120,"y":-781,"width":520,"height":600},
+		{"id":"81854ef62303977a","type":"file","file":"Statistics/Inference for Means and Proportions/CLT for Mean Differences.md","x":-1160,"y":-601,"width":520,"height":420},
+		{"id":"ff0f2de14f8bbd86","type":"file","file":"Statistics/Paired Data.md","x":-2060,"y":-671,"width":780,"height":560}
+	],
+	"edges":[
+		{"id":"71d341d67a82125d","fromNode":"47f446c7056c1d5f","fromSide":"top","toNode":"e6934e1bb2408f55","toSide":"bottom"},
+		{"id":"90694691daff64a7","fromNode":"7687fae5b958a7d9","fromSide":"top","toNode":"e6934e1bb2408f55","toSide":"bottom"},
+		{"id":"612ba6066e5c6067","fromNode":"47f446c7056c1d5f","fromSide":"top","toNode":"953056160e9db8a0","toSide":"bottom"},
+		{"id":"12d280b92a4a0728","fromNode":"3d348e205065ec1e","fromSide":"top","toNode":"953056160e9db8a0","toSide":"bottom"},
+		{"id":"a5657c5e5eed3b81","fromNode":"7687fae5b958a7d9","fromSide":"top","toNode":"81854ef62303977a","toSide":"bottom"},
+		{"id":"d565fe2642a66b90","fromNode":"ff0f2de14f8bbd86","fromSide":"right","toNode":"81854ef62303977a","toSide":"left","toEnd":"none"}
+	]
+}

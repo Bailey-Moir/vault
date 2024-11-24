@@ -1,0 +1,9 @@
+@media print {
+    a.internal-link {
+        color: black !important;
+    }
+
+    .footnote-ref, .footnotes {
+        display: none;
+    }
+}
