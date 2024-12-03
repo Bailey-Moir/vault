@@ -13,4 +13,4 @@ $$ L = \int_\alpha^\beta \sqrt{r^2 + \left[\dfrac{dr}{d\theta}\right]^2} d\theta
 > 	&= \int_\alpha^\beta \sqrt{ \left[\dfrac{dr}{d\theta}\right]^2\left( \cos^2\theta + \sin^2\theta \right) + r^2\left(\sin^2\theta + \cos^2\theta\right) } \, d\theta \\
 > 	&= \int_\alpha^\beta \sqrt{ r^2 + \left[\dfrac{dr}{d\theta}\right]^2 } \, d\theta \\
 > \end{align*}$$ 
-> \[$(1)$ [[Parametric Arc Length Formula]]\]
+> \[$(1)$ [[Parametric Arc Length]]\]

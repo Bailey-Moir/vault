@@ -56,6 +56,8 @@ The *cross product* is only defined for [[Vectors|vectors]] in $\R^3$. Thus, $\f
   $s(\vecbf{x} \times \vecbf{y}) = (s\vecbf{x}) \times \vecbf{y} = \vecbf{x} \times (s\vecbf{y}) \hspace{1em} s \in \R$ 
 - $\vecbf{x} \times \vecbf{x} = 0$
 - **NOT Associative**
+- $\left\|\vecbf{x} \times \vecbf{y}\right\| = \|\vecbf{x}\|\|\vecbf{y}\|\sin\theta$
+- If your fingers curl in the direction of the angle from $\vecbf{x}$ to $\vecbf{y}$, then your thumb points in the direction of $\vecbf{x} \times \vecbf{y}$.
 
 [^1]: [[Orthogonal Vectors]]
 

@@ -4,7 +4,7 @@ tags:
   - math
 ---
 Spherical coordinate systems (similar to [[Polar Form|polar form]]) come in the form 
-$$(\rho, \theta, \phi) \text{ for } \rho \ge 0,\, 0 \le \phi \le \pi$$
+$$(\rho, \theta, \phi) \text{ for } \rho \ge 0,\, 0 \le \theta < 2\pi,\, 0 \le \phi \le \pi$$
 $\rho :=$ the distance from the origin (equivalent of $r$ from [[Polar Form|polar form]])
 	$\rho^2 = x^2 + y^2 + z^2$
 	$\rho^2 = r^2 + z^2$ where $r$ is from [[Polar Form|polar form]]

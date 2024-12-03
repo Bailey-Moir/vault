@@ -9,7 +9,7 @@ $$\begin{align*}
 	&= \int_{t_1}^{t_2} \sqrt{\left(\dfrac{dx}{dt}\right)^2 + \left(\dfrac{dy}{dt}\right)^2} \, dt && (1) \text{ Parametric Arc Legnth Formula} \\
 	&= \int_\alpha^\beta \sqrt{r^2 + \left[\dfrac{dr}{d\theta}\right]^2} d\theta && (2) \text{ Polar Arc Legnth Formula} \\
 \end{align*}$$
-\[$(1)$ [[Parametric Arc Length Formula|Parametric Arc Length Formula]], $(2)$ [[Polar Arc Length Formula|Polar Arc Length Formula]]\]
+\[$(1)$ [[Parametric Arc Length|Parametric Arc Length]], $(2)$ [[Polar Arc Length Formula|Polar Arc Length Formula]]\]
 > [!proof]-
 > $$
 > \begin{align*}

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBrain",
       "LiX",
       "LiRegex",
       "LiScatterChart",
-      "✳",
-      "LiMusic"
+      "✳"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -76,5 +76,6 @@
   "Japanese": "🈂",
   "Music": "LiMusic",
   "Physics": "✳",
-  "Statistics": "LiScatterChart"
+  "Statistics": "LiScatterChart",
+  "Learning": "LiBrain"
 }

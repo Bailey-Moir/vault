@@ -13,3 +13,4 @@ tags:
 | おもしろい   | Funny       |
 | あかるい    | Cheerful    |
 | おもしろい   | Interesting |
+| にぎやか    | Lively      |

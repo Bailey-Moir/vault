@@ -3,18 +3,16 @@ tags:
   - atom
   - comp
 ---
-A *binary heap* is a **complete** [[Binary Trees|binary tree]] [[Heaps|heap]], **complete** meaning there are no gaps between [[Vertices|vertices]]
-
- reading from top to bottom, left to right.
+A *binary heap* is a **complete** [[Binary Trees|binary tree]] [[Heaps|heap]], **complete** meaning there are no gaps between [[Vertices|vertices]] reading from top to bottom, left to right.
 ```avatar
 image: Assets/excali/binary-heap-5.excalidraw.svg
 description: |-
   The [[Binary Trees|binary]] and **complete** properties of *binary heaps* [[Logical Implication|imply]] that all *binary heaps* with $n$ [[Vertices|vertices]] have the same structure. For example, any *binary heap* with $5$ [[Vertices|vertices]] has the structure seen on the left. 
 ```
-*Binary heaps* are normally represented as an array/list. [[Vertices|Vertices]] are numbered top to bottom, left to right, giving the indices of the [[Vertices|vertices]] in the array.
+*Binary heaps* are normally represented as an array/list. [[Vertices|Vertices]] are numbered top to bottom, left to right, giving the indices of the [[Vertices|vertices]] in the array (with the [[Root|root]] being 1 not 0).
 
-- the [[Parent, Children, and Sibling Nodes|children]] of a [[Vertices|vertex]] at $i$ are at $2i$ and $2i+1$.
-- the [[Parent, Children, and Sibling Nodes|parent]] of a [[Vertices|vertex]] at $i$ is at $\left\lfloor \dfrac{i}{2} \right\rfloor$.
+- The [[Parent, Children, and Sibling Nodes|children]] of a [[Vertices|vertex]] at $i$ are at $2i$ and $2i+1$.
+- The [[Parent, Children, and Sibling Nodes|parent]] of a [[Vertices|vertex]] at $i$ is at $\left\lfloor \dfrac{i}{2} \right\rfloor$.
 # Methods
 ## Add
 When adding a new key, the [[Vertices|vertex]] is placed at the end of the array/list (bottom right). If the [[Vertices|vertex]] does not satisfy the [[Heaps|heap]] property with its [[Parent, Children, and Sibling Nodes|parent]], the two are swapped. This process it repeated until the property is satisfied or the [[Vertices|vertex]] is the [[Root|root]]. This is called percolating up.

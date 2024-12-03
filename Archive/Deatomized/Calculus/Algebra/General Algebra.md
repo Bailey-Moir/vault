@@ -19,7 +19,7 @@ sticker: lucide//equal
 ## Parametric Area
 ![[Parametric Area]]
 ## Parametric Arc Length Formula
-![[Parametric Arc Length Formula]]
+![[Parametric Arc Length]]
 ## Slope and Concavity of Parametric Form
 ![[Slope and Concavity of Parametric Form]]
 # Partial Fraction Decomposition

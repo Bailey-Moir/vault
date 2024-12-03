@@ -1,7 +1,9 @@
-.table-wrapper {
+.table-wrapper, .table-editor,
+.el-table > table {
     width: 100% !important;
 }
 
-.table-cell-wrapper {
+.table-cell-wrapper,
+.el-table td, .el-table th {
     padding: 0.6em 1.8em 0.6em 1.8em !important;
 }

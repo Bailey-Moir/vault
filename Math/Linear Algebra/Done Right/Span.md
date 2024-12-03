@@ -3,8 +3,10 @@ tags:
   - atom
   - math
 ---
-The set of all [[Linear Combinations|linear combinations]] of a [[Lists|list]] of vectors $v_1, \dots, v_m$ in [[Vector Spaces|vector space]] $V$ is called the *span* of $v_1, \dots, v_m$, denoted by $\text{span}(v_1, \dots, v_m)$. In other words,
-$$ \text{span}(v_1, \dots, v_m) = \left\{ a_1v_1 + \dots + a_mv_m : a_1,\dots, a_m \in \F \right\} $$
-- The span of a [[Lists|list]] of vectors in [[Vector Spaces|vector space]] $V$ is the smallest [[Subspaces|subspace]] of $V$ containing all vectors in the [[Lists|list]]. 
-	This is similar to how the [[Sums of Subspaces|sum of subspaces]] of $V$ is the smallest [[Subspaces|subspace]] of $V$ containing each of the summed [[Subspaces|subspaces]].
-- If $\text{span}(v_1,\dots,v_m) = V$, we say that "the list  $v_1,\dots,v_m$ spans $V$"
+The [[Sets|set]] of [[Linear Combinations|linear combinations]] of $\vecbf{v}_1, \dots, \vecbf{v}_n$ is called the *span* of $\vecbf{v}_1, \dots, \vecbf{v}_n$, denoted by $\text{span}(\vecbf{v}_1, \dots, \vecbf{v}_n)$.
+$$ \text{span}(\vecbf{v}_1, \dots, \vecbf{v}_n) = \left\{ a_1\vecbf{v}_1 + \dots + a_n\vecbf{v}_m : a_1,\dots, a_n \in \F \right\} $$
+- The *span* of $\vecbf{v}_1, \dots, \vecbf{v}_n \in V$ is the smallest [[Subspaces|subspace]] of $V$ containing $\vecbf{v}_1, \dots, \vecbf{v}_n \in V$.
+  *This is similar to how the [[Sums of Subspaces|sum of subspaces]] of $V$ is the smallest [[Subspaces|subspace]] of $V$ containing each of the summed [[Subspaces|subspaces]].*
+- If $\text{span}(\vecbf{v}_1,\dots,\vecbf{v}_m) = V$, we say that "$v_1,\dots,v_m$ span $V$."
+
+\[[[Set-Builder Notation]]\]

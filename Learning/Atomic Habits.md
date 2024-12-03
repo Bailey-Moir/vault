@@ -27,7 +27,7 @@ We become what we think of ourselves, e.g. "I'm not a morning person".
 2. Prove it to yourself with small wins (votes).
 # How to Build better Habits in 4 Simple Steps
 ![800|center](4-steps-of-habits.excalidraw)
-This creates a feedback loop, as the reward reinforces the behaviour/habit. If any of these steps are missing, the loop is broken.
+This creates a feedback loop, as the reward reinforces the behaviour/habit (the strength of the craving). If any of these steps are missing, the loop is broken.
 
 Therefore, in order to form positive habits follow the 4 laws. Ask how you can make it:
 1. [[#The 1st Law (Make it Obvious)|Obvious]].
@@ -35,19 +35,13 @@ Therefore, in order to form positive habits follow the 4 laws. Ask how you can m
 3. Easy.
 4. Satisfying.
 
-> [!application]
-> Bored/Netflix/YouTube:
-> - Guitar 
-> - Bed
-> - Walk
-> - Punching Bag 
 # The 1st Law (Make it Obvious)
 ## The Man Who Didn't Look Right
 - Pointing and calling bad habits when you're about to do them or good habits that you need to do makes you more likely to do the right thing.
-- Habit scorecards: a method to become away of your habits.
+- Habit scorecards: a method to become aware of your habits.
 ## The Best Way to Start a New Habit
 ### Implementation Intentions
-Stating something in the general format "When situation $X$ arises, I will perform response $Y$." is an implementation intention. These have been shown to be extremely effective for sticking to goal. Alternatively, "I will \[BEHAVIOUR\] at \[TIME\] in \[LOCATION\]" can be used. The key for implementation intentions is **lack of ambiguity**.
+An *implementation intention* is stating something in the general format "When situation $X$ arises, I will perform response $Y$." These have been shown to be extremely effective for sticking to goal. Alternatively, "I will \[BEHAVIOUR\] at \[TIME\] in \[LOCATION\]" can be used. The key for implementation intentions is **lack of ambiguity**.
 
 > [!examples]-
 > I will meditate for one minute at 7 a.m. in my kitchen.
@@ -56,7 +50,7 @@ Stating something in the general format "When situation $X$ arises, I will perfo
 > I will make my partner a cup of tea at 8 a.m. in the kitchen.
 
 ### Habit Stacking
-An alternative form of [[#Implementation Intentions|implementation intention]], habit stacking uses a pre-existing habit as a cue instead of time and place.
+*Habit stacking*, an alternative form of [[#Implementation Intentions|implementation intention]], uses a pre-existing habit as a cue instead of time and place.
 <center>"After [CURRENT HABBIT], I will [NEW HABBIT]."</center>
 
 > [!examples]-
@@ -72,7 +66,7 @@ An alternative form of [[#Implementation Intentions|implementation intention]], 
 - Gradually, a habit becomes associated with the wider context as a cue rather than a single trigger.
 - The most persistent behaviours normally have multiple cues.
 ### The Secret to Self-Control
-- The inversion if [[#The 1st Law (Make it Obvious)|the 1st law]] is to make it invisible.
+- The inversion of [[#The 1st Law (Make it Obvious)|the 1st law]] is to make it invisible.
 - People with high self-control tend to spend less time in tempting situations/environments; it is easier to avoid temptation than resist it.
 - Self-control (the way we normally think of it) is a short term solution.
 # The 2nd Law (Make it Attractive)

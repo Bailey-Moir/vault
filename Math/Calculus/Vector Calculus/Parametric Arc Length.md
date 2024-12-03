@@ -3,7 +3,14 @@ tags:
   - atom
   - math
 ---
-$$ L = \int_\alpha^\beta \sqrt{\left(\dfrac{dx}{dt}\right)^2 + \left(\dfrac{dy}{dt}\right)^2} \, dt $$
+$$\begin{align*}
+	 L &= \int_\alpha^\beta \sqrt{\left(\dfrac{dx}{dt}\right)^2 + \left(\dfrac{dy}{dt}\right)^2} \, dt \\
+	 &= \int_\alpha^\beta \left| \vecbf{r}'(t) \right|  \, dt \\
+\end{align*}$$
+
+> [!note] Thus, by [[Fundamental Theorem of Calculus|FTC1]],
+> $$\dfrac{ds}{dt} = \left| \vecbf{r}'(t) \right|$$
+
 > [!proof]-
 > $$
 > \begin{align*}

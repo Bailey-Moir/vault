@@ -1,7 +1,7 @@
 {
-  "accentColor": "#6db478",
+  "accentColor": "#78ab7d",
   "cssTheme": "Typewriter",
-  "theme": "obsidian",
+  "theme": "moonstone",
   "enabledCssSnippets": [
     "better-callouts",
     "excali",
@@ -13,7 +13,6 @@
     "hidden-properties",
     "big-math",
     "pdfs",
-    "typewriter-dark",
     "typewriter-tables"
   ]
 }

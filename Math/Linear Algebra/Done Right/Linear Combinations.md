@@ -3,8 +3,8 @@ tags:
   - atom
   - math
 ---
-A linear combination of a [[Lists|list]] $v_1, \dots, v_m$ of vectors in a [[Vector Spaces|vector space]] $V$ is a vector of the form
-$$a_1v_1 + \dots + a_mv_m,$$
+A linear combination of a [[Lists|list]] of vectors $\vecbf{v}_1, \dots, \vecbf{v}_m$ is a vector of the form
+$$a_1\vecbf{v}_1 + \dots + a_m\vecbf{v}_m,$$
 where $a_1, \dots, a_m \in \F$[^1].
 
 [^1]: [[Fields]]

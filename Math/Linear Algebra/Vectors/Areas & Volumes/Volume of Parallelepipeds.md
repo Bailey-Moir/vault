@@ -6,6 +6,7 @@ tags:
 ![500|center](volume-parallelepipeds.excalidraw)
 The *volume* of a *parallelepiped* represented by $\vecbf{x},\vecbf{y},\vecbf{z} \in \R^3$ is given by
 $$ \| \vecbf{x} \cdot (\vecbf{y} \times \vecbf{z}) \| $$
+Note that the inner of the norm is called the **scalar triple product**. This product is 0 iff its vectors are coplanar.
 > [!proof]-
 > $$V = Ah$$
 > Where 
