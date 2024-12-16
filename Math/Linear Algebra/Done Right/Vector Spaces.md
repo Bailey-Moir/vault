@@ -3,7 +3,7 @@ tags:
   - atom
   - math
 ---
-A *vector space* is a **set** $V$ along with a **closed** addition on $V$ and a **closed** scalar multiplication on $V$ with:
+A *vector space* is a [[Sets|set]] $V$ with a **closed** addition on $V$ and a **closed** scalar multiplication on $V$ with:
 - **Commutativity**
   $\vecbf{u} + \vecbf{v} \equiv \vecbf{v} + \vecbf{u}$
 - **Associativity**

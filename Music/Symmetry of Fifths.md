@@ -3,16 +3,15 @@ tags:
   - atom
   - music
 ---
-In a given key, the key with a tonic of the fifth note has one more sharp / one less flat. Conversely, the key with a tonic of the fourth note (a fifth below) has one more flat / one less sharp.
+Incrementing the [[Tonic|tonic]] by a [[Perfect Intervals|perfect fifth]] adds a sharp / removes a flat from the [[Key Signatures|key signature]], while incrementing the tonic by a [[Perfect Intervals|perfect fourth]] (equivalent to decrementing it by a [[Perfect Intervals|perfect fifth]]) removes a sharp / adds a flat from the [[Key Signatures|key signature]].
 
-The key of the fifth has the same [[Key Signatures|key signature]], but with the fourth (or fifth's seventh) sharpened.
-> [!proof]-
+> [!proof]- Incrementing the [[Tonic|tonic]] by a [[Perfect Intervals|perfect fifth]] results in the same [[Key Signatures|key signature]], but with the resulting $\text{7th}$ sharpened.
 > ![1000|center](tetrachords-fifths-seventh.excalidraw)
 
-Thus, the last sharp in a [[Key Signatures|key signature]] is always the seventh. This means looking at a [[Key Signatures|key signature]], the tonic is a note above the last sharp.
-
-Conversely, the key of the fourth (negative fifth) has the same [[Key Signatures|key signature]], but with the seventh (or fourth's fourth) flattened.
-> [!proof]-
+> [!proof]- Incrementing the [[Tonic|tonic]] by a [[Perfect Intervals|perfect fourth]] results in the same [[Key Signatures|key signature]], but with the original $\text{7th}$ (or resulting $\text{4th}$) flattened.
 > ![1000|center](tetrachords-fourths-fourth.excalidraw)
 > \[[[Tetrachords]]\]
 
+---
+
+> [!note]  The [[Tonic|tonic]] is a note above the last sharp of the [[Key Signatures|key signature]].

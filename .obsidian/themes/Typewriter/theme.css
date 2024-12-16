@@ -85,6 +85,9 @@ body {
   --base-l: 96%; /* base lightness for light mode. 100 is white */
 
   /* rgb: 81, 157, 92 */
+  --accent-h: 129;
+  --accent-s: 31.9%;
+  --accent-l: 46.7%;
   --theme-accent-h: 129;
   --theme-accent-s: 31.9%;
   --theme-accent-l: 46.7%;

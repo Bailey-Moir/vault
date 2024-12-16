@@ -55,7 +55,7 @@ tags:
 # Inverting Matrices
 ![[Inverting Matrices]]
 ## Invertibility
-![[Math/Linear Algebra/Matrices/Invertibility]]
+![[Matrix Invertibility]]
 
 ### Singular Matrices
 ![[Singular Matrices]]

@@ -2,11 +2,3 @@
 .theme-dark img[src*="excalidraw.svg"] {
     filter: sepia(42%) saturate(120%) brightness(81%);
 }
-
-.theme-dark .callout-title, .theme-dark .callout-icon > svg {
-	color: #c5b8a1;
-}
-
-.callout {
-	border-color: #c5b8a1;
-}

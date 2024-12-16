@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiMoonStar",
+      "LiJapaneseYen",
+      "LiPencil",
       "LiBrain",
-      "LiX",
-      "LiRegex",
-      "LiScatterChart",
-      "✳"
+      "LiX"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -31,7 +31,8 @@
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
-    "debugMode": false
+    "debugMode": false,
+    "useInternalPlugins": false
   },
   "Math/Algebra": "LiX",
   "Math/Algebra/Basics": "LiBaby",
@@ -73,9 +74,10 @@
   "Math/Discrete/Number Theory/Counting Outcomes": "LiArrowUp10",
   "Computer Science": "LiComputer",
   "Math": "LiX",
-  "Japanese": "🈂",
+  "Japanese": "LiJapaneseYen",
   "Music": "LiMusic",
-  "Physics": "✳",
+  "Physics": "LiMoonStar",
   "Statistics": "LiScatterChart",
-  "Learning": "LiBrain"
+  "Learning": "LiBrain",
+  "Blog": "LiPencil"
 }

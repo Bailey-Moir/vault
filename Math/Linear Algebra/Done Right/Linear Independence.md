@@ -3,8 +3,9 @@ tags:
   - atom
   - math
 ---
-A [[Lists|list]] of vectors in a [[Vector Spaces|vector space]] $V$ is *linearly independent* iff each vector in the [[Span|span]] of those vectors has a **unique** representation as a [[Linear Combinations|linear combination]] of the [[Lists|list]] of vectors. In other words, $v_1, \dots, v_m \in V$ is *linearly independent* iff
+A [[Lists|list]] of vectors is *linearly independent* iff each vector in their [[Span|span]] has a **unique** representation as a [[Linear Combinations|linear combination]] of the [[Lists|list]] of vectors. In other words, $v_1, \dots, v_m \in V$ is *linearly independent* iff
 $$\forall \vecbf{v} \in \text{span}(\vecbf{v}_1,\dots,\vecbf{v}_m), \exists!a_1, \dots, a_m \in \F : \vecbf{v} = a_1\vecbf{v}_1 + \dots + a_m\vecbf{v}_m$$
+*Each value gives a unique linear combination*
 
 > [!note] Condition for Linear Independence
 > $\vecbf{v}_1, \dots, \vecbf{v}_m \in V$ is *linearly independent* iff the only choice of $a_1, \dots, a_m \in \F$[^1] that makes

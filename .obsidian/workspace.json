@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1d1c1186826fbb56",
+        "id": "9941cdfb4bdb264b",
         "type": "tabs",
         "children": [
           {
-            "id": "0815249df0be8288",
+            "id": "10f4ebb1b0d315ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Linear Algebra/Done Right/Finite-Dimensional Vector Spaces.md",
+                "file": "Music/Symmetry of Fifths.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Finite-Dimensional Vector Spaces"
+              "title": "Symmetry of Fifths"
             }
           }
         ]
@@ -78,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Math/Linear Algebra/Done Right/Finite-Dimensional Vector Spaces.md",
+                "file": "Music/Symmetry of Fifths.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -106,7 +106,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Finite-Dimensional Vector Spaces"
+              "title": "Graph of Symmetry of Fifths"
             }
           }
         ]
@@ -148,12 +148,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Algebra/Sequences & Series/Series/Tests/Comparison Theorem for Series.md",
+                "file": "Music/Thirds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Comparison Theorem for Series"
+              "title": "Outgoing links from Thirds"
             }
           },
           {
@@ -198,38 +198,43 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "terminal:Open terminal": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0815249df0be8288",
+  "active": "10f4ebb1b0d315ba",
   "lastOpenFiles": [
-    "Math/Linear Algebra/Done Right/Direct Sums.md",
-    "Math/Discrete/Propositional Logic/Arguments and Proofs/Argument.md",
-    "Math/Linear Algebra/Done Right/Linear Independence.md",
-    "Math/Linear Algebra/Done Right/Span.md",
-    "Math/Linear Algebra/Done Right/Sums of Subspaces.md",
-    "Math/Linear Algebra/Done Right/Vector Spaces.md",
-    "Math/Linear Algebra/Done Right/Finite-Dimensional Vector Spaces.md",
-    "Math/Linear Algebra/Done Right/Linear Combinations.md",
-    "Math/Linear Algebra/Done Right/Subspaces.md",
+    "Music/Symmetry of Fifths.md",
+    "Music/Intervals/Perfect Intervals.md",
+    "Music/Intervals/Diatonic Intervals.md",
+    "Music/Tetrachords.md",
+    "Music/Time-Signatures.md",
+    "Music/Intervals/Thirds.md",
+    "Music/Intervals/Intervals.md",
+    "Music/Inversions.md",
+    "Music/Key Signatures.md",
+    "Music/Minor Scales.md",
+    "Music/Passing Notes.md",
+    "Music/Relative Majors & Minors.md",
+    "Music/Seventh Chords.md",
+    "Music/Intervals.md",
+    "Music/Intervals",
+    "Math/Calculus/Multi-variable Calculus/Quadric Surfaces/Quadric Surfaces.md",
+    "Math/Calculus/Multi-variable Calculus/Quadric Surfaces/Hyperboloids.md",
+    "Archive/Science/Definition of Science.md",
+    "Math/Algebra/Sequences & Series/Sequences/Monotone Convergence Theorem.md",
+    "Assets/excali/trapezium-rule.excalidraw.md",
+    "Statistics/Variance.md",
+    "Math/Real Analysis/Binary Operations.md",
+    "Math/Algebra/Sequences & Series/Series/Series.md",
+    "Math/Geometry/Trigonometry/Inverse Trigonometric Functions.md",
+    "Statistics/Inference for Means and Proportions/Hypothesis Testing for Difference in Proportions.md",
+    "Statistics/Paired Data.md",
+    "Statistics/Inference for Means and Proportions/CLT for Mean Differences.md",
+    "toggle-theme.py~",
+    "toggle-theme.py",
+    "Blog",
     "Math/Linear Algebra/Done Right/Properties of Vector Spaces/Properties of Vector Spaces.canvas",
-    "Math/Real Analysis/Fields.md",
-    "Math/Real Analysis/The Real Numbers.md",
-    "Math/Linear Algebra/Done Right/Properties of Vector Spaces/Zero Multiplication for Vector Spaces.md",
-    "Math/Linear Algebra/Vectors/Vectors.md",
-    "Math/Linear Algebra/Done Right/Properties of Vector Spaces/Distributive Property of Vector Spaces.md",
-    "Math/Linear Algebra/Done Right/Properties of Vector Spaces/Multiplicative Identity of Vector Spaces.md",
-    "Math/Linear Algebra/Done Right/Properties of Vector Spaces/Additive Inverse of Vector Spaces.md",
-    "Math/Linear Algebra/Done Right/Properties of Vector Spaces/Additive Identity of Vector Spaces.md",
-    "Math/Linear Algebra/Done Right/Properties of Vector Spaces/Commutativity of Vector Spaces.md",
-    "Math/Linear Algebra/Done Right/Properties of Vector Spaces/Associativity of Vector Spaces.md",
-    "Math/Linear Algebra/Done Right/Done Right.md",
-    "Math/Discrete/Number Theory/Divisibility/The Division Algorithm.md",
-    "Math/Linear Algebra/Done Right/Basics/Sets of Functions.md",
-    "Math/Linear Algebra/Done Right/Basics/Polynomials.md",
-    "Math/Linear Algebra/Done Right/Basics/Lists.md",
-    "Math/Linear Algebra/Done Right/Linear Algebra.md",
-    "Learning/Atomic Habits.md",
     "preamble.sty~",
     "Pasted Image 20241129111940_671.png",
     "Learning",
@@ -240,10 +245,6 @@
     "Lecture Notes",
     "Math/Linear Algebra/Linear Algebra.canvas",
     "Math/Discrete/Propositional Logic/Arguments and Proofs/Proof by Exhaustion.md~",
-    "Math/Discrete/Propositional Logic/Logical Connectives/Implication.md~",
-    "Math/Discrete/Set Theory/Relations/Relation Graphs.md~",
-    "Math/Discrete/Set Theory/Relations/Partial Order.md~",
-    "Math/Discrete/Set Theory/Relations/Transitive Property.md~",
     "Assets/Pasted image 20240228143304.png",
     "Assets/Pasted image 20240226153111.png",
     "Assets/Pasted image 20240304144131.png",

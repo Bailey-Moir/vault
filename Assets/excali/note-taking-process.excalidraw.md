@@ -16,35 +16,301 @@ OBSIDIAN ^rIEeOq7H
 
 %%
 ## Drawing
-```compressed-json
-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=
+```json
+{
+	"type": "excalidraw",
+	"version": 2,
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.4.0",
+	"elements": [
+		{
+			"type": "text",
+			"version": 129,
+			"versionNonce": 1926062853,
+			"index": "a0",
+			"isDeleted": false,
+			"id": "6Oim7HnB",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -388.12317016318764,
+			"y": -32.60193392815529,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 109.73995971679688,
+			"height": 25,
+			"seed": 914613532,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "CiQ68dq-9F5suoXeTpUkl",
+					"type": "arrow"
+				}
+			],
+			"updated": 1721375140838,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "LECTURER",
+			"rawText": "LECTURER",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "LECTURER",
+			"autoResize": true,
+			"lineHeight": 1.25
+		},
+		{
+			"type": "arrow",
+			"version": 217,
+			"versionNonce": 1970404299,
+			"index": "a1",
+			"isDeleted": false,
+			"id": "CiQ68dq-9F5suoXeTpUkl",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -275.5637087050971,
+			"y": -16.542472470064638,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 47.5,
+			"height": 0,
+			"seed": 40804508,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1721375140838,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "6Oim7HnB",
+				"focus": 0.2847569166472522,
+				"gap": 3.2595041826999136,
+				"fixedPoint": null
+			},
+			"endBinding": {
+				"elementId": "zQAobUdr",
+				"focus": -0.23660220239482893,
+				"gap": 5.563708705097099,
+				"fixedPoint": null
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					47.5,
+					0
+				]
+			]
+		},
+		{
+			"type": "text",
+			"version": 30,
+			"versionNonce": 1335147109,
+			"index": "a2",
+			"isDeleted": false,
+			"id": "zQAobUdr",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -222.5,
+			"y": -32,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 175.69992065429688,
+			"height": 25,
+			"seed": 257179172,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "_g4oUR91IspFxTMZiG4j6",
+					"type": "arrow"
+				},
+				{
+					"id": "CiQ68dq-9F5suoXeTpUkl",
+					"type": "arrow"
+				}
+			],
+			"updated": 1721375140838,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "LECTURE NOTES",
+			"rawText": "LECTURE NOTES",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "LECTURE NOTES",
+			"autoResize": true,
+			"lineHeight": 1.25
+		},
+		{
+			"type": "arrow",
+			"version": 75,
+			"versionNonce": 754338411,
+			"index": "a3",
+			"isDeleted": false,
+			"id": "_g4oUR91IspFxTMZiG4j6",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -43.38315170972237,
+			"y": -20.300320031938135,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 47.5,
+			"height": 0,
+			"seed": 1815810212,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1721375140838,
+			"link": null,
+			"locked": false,
+			"startBinding": {
+				"elementId": "zQAobUdr",
+				"focus": -0.0640256025550508,
+				"gap": 4.256939232660443,
+				"fixedPoint": null
+			},
+			"endBinding": {
+				"elementId": "rIEeOq7H",
+				"focus": 0.21810150833060388,
+				"gap": 7.77990840146947,
+				"fixedPoint": null
+			},
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": "arrow",
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					47.5,
+					0
+				]
+			]
+		},
+		{
+			"type": "text",
+			"version": 59,
+			"versionNonce": 2084185541,
+			"index": "a4",
+			"isDeleted": false,
+			"id": "rIEeOq7H",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 11.8967566917471,
+			"y": -30.074051177805586,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 105.73994445800781,
+			"height": 25,
+			"seed": 1365403684,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [
+				{
+					"id": "_g4oUR91IspFxTMZiG4j6",
+					"type": "arrow"
+				}
+			],
+			"updated": 1721375140838,
+			"link": null,
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 1,
+			"text": "OBSIDIAN",
+			"rawText": "OBSIDIAN",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "OBSIDIAN",
+			"autoResize": true,
+			"lineHeight": 1.25
+		}
+	],
+	"appState": {
+		"theme": "dark",
+		"viewBackgroundColor": "transparent",
+		"currentItemStrokeColor": "#1e1e1e",
+		"currentItemBackgroundColor": "transparent",
+		"currentItemFillStyle": "solid",
+		"currentItemStrokeWidth": 2,
+		"currentItemStrokeStyle": "solid",
+		"currentItemRoughness": 1,
+		"currentItemOpacity": 100,
+		"currentItemFontFamily": 1,
+		"currentItemFontSize": 20,
+		"currentItemTextAlign": "left",
+		"currentItemStartArrowhead": null,
+		"currentItemEndArrowhead": "arrow",
+		"currentItemArrowType": "round",
+		"scrollX": 539.7432345067164,
+		"scrollY": 268.70127380298044,
+		"zoom": {
+			"value": 2
+		},
+		"currentItemRoundness": "round",
+		"gridSize": null,
+		"gridStep": 5,
+		"gridModeEnabled": false,
+		"gridColor": {
+			"Bold": "#C9C9C9",
+			"Regular": "#EDEDED"
+		},
+		"currentStrokeOptions": null,
+		"frameRendering": {
+			"enabled": true,
+			"clip": true,
+			"name": true,
+			"outline": true
+		},
+		"objectsSnapModeEnabled": false,
+		"activeTool": {
+			"type": "selection",
+			"customType": null,
+			"locked": false,
+			"lastActiveTool": null
+		}
+	},
+	"files": {}
+}
 ```
 %%

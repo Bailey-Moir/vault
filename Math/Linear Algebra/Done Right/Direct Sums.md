@@ -21,6 +21,6 @@ Suppose $V_1, \dots, V_m$ are [[Subspaces|subspaces]] of $V$.The [[Sums of Subsp
 > > Since $\vecbf{v}_k - \vecbf{v'}_k \in V_k$, by the premise, $\vecbf{v}_k - \vecbf{v'}_k = 0$. Thus $\vecbf{v}_k = \vecbf{v'}_k$, meaning each vector $\vecbf{v} \in V_{1} + \cdots + V_{m}$ has only one representation, and thus $V_{1} + \dots + V_{m}$ is a *direct sum*.
 
 > [!note] Condition for Direct Sum of Two Subspaces
-> $$ U \cap V = \{0\} \iff U \oplus W $$
+> $$ U \cap V = \{\vecbf{0}\} \iff U \oplus V $$
 
 \[[[Sums of Subspaces]]\]

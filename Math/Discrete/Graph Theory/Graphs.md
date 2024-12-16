@@ -4,7 +4,7 @@ tags:
   - math
   - discrete
 ---
-A *graph* $G$ consists of a [[Vertices|vertex]] [[Sets|set]] $V$ and an [[Edges|edge]] [[Sets|set]] $E$ of 2-element [[Multi-sets|multi-set]] [[Subsets|subsets]] of $V$.
+A *graph* $G$ consists of a **[[Vertices|vertex]] [[Sets|set]]** $V$, and a [[Sets|set]] $E$ of 2-element [[Multi-sets|multi-set]] [[Subsets|subsets]] of $V$ called the **[[Edges|edge]] [[Sets|set]]**.
 $$ G=\left( V,E \right)  $$
 - The [[Edges|edge]] [[Sets|set]] of a *graph* $G$ is denoted $E(G)$.
 - The [[Vertices|vertex]] [[Sets|set]] of a *graph* $G$ is denoted $V(G)$.

@@ -1,18 +1,15 @@
 {
-  "accentColor": "#78ab7d",
-  "cssTheme": "Typewriter",
-  "theme": "moonstone",
+  "accentColor": "",
+  "cssTheme": "Oxocarbon",
+  "theme": "obsidian",
   "enabledCssSnippets": [
     "better-callouts",
-    "excali",
-    "notes",
-    "better-embeds",
-    "better-atom",
-    "larger-inline-math",
-    "center-svg",
-    "hidden-properties",
     "big-math",
+    "center-svg",
+    "excali",
+    "hidden-properties",
     "pdfs",
-    "typewriter-tables"
+    "typewriter-tables",
+    "underline-links"
   ]
 }

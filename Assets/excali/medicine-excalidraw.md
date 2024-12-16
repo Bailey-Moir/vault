@@ -19,35 +19,280 @@ Medicine ^zMmKv9ze
 
 %%
 ## Drawing
-```compressed-json
-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
+```json
+{
+	"type": "excalidraw",
+	"version": 2,
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.4.0",
+	"elements": [
+		{
+			"type": "ellipse",
+			"version": 88,
+			"versionNonce": 280722401,
+			"index": "a0",
+			"isDeleted": false,
+			"id": "W0WA_eqARGqTxleaIgHMh",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -346,
+			"y": -328.2734375,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 694,
+			"height": 504,
+			"seed": 936926625,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1725347132729,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "ellipse",
+			"version": 319,
+			"versionNonce": 1894853263,
+			"index": "a1",
+			"isDeleted": false,
+			"id": "Y_Zo3AqzBfoV6iOUL8rRh",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -346.44431262576785,
+			"y": -244.95321231728678,
+			"strokeColor": "#e06c75",
+			"backgroundColor": "transparent",
+			"width": 421.87356458188566,
+			"height": 345.16928011245204,
+			"seed": 1271906511,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1725347188237,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "ellipse",
+			"version": 895,
+			"versionNonce": 1203704394,
+			"index": "a3",
+			"isDeleted": false,
+			"id": "X-BRVdQzQbmJ0Rb4ZmfxN",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -345.31707205372345,
+			"y": -325.561366406986,
+			"strokeColor": "#61afef",
+			"backgroundColor": "transparent",
+			"width": 691.0627537710748,
+			"height": 498.14225308542495,
+			"seed": 883000655,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1725349794975,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "text",
+			"version": 234,
+			"versionNonce": 287917519,
+			"index": "a5",
+			"isDeleted": false,
+			"id": "zBRLzgbI",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 117.3827816790739,
+			"y": -119.46406384826486,
+			"strokeColor": "#61afef",
+			"backgroundColor": "transparent",
+			"width": 193.7719268798828,
+			"height": 90,
+			"seed": 679591169,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1725349669217,
+			"link": null,
+			"locked": false,
+			"fontSize": 36,
+			"fontFamily": 5,
+			"text": "Alternative\nMedicine",
+			"rawText": "Alternative\nMedicine",
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Alternative\nMedicine",
+			"autoResize": true,
+			"lineHeight": 1.25
+		},
+		{
+			"type": "text",
+			"version": 209,
+			"versionNonce": 1337539521,
+			"index": "a6",
+			"isDeleted": false,
+			"id": "hxCwBgCV",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -276.70287139154266,
+			"y": -119.0722934029751,
+			"strokeColor": "#e06c75",
+			"backgroundColor": "transparent",
+			"width": 146.05194091796875,
+			"height": 90,
+			"seed": 2115689345,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1725347226098,
+			"link": null,
+			"locked": false,
+			"fontSize": 36,
+			"fontFamily": 5,
+			"text": "'Regular'\nMedicine",
+			"rawText": "'Regular'\nMedicine",
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "'Regular'\nMedicine",
+			"autoResize": true,
+			"lineHeight": 1.25
+		},
+		{
+			"type": "text",
+			"version": 75,
+			"versionNonce": 667715585,
+			"index": "a7",
+			"isDeleted": false,
+			"id": "zMmKv9ze",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -71.05763237603793,
+			"y": -301.77913804138,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 142.66796875,
+			"height": 45,
+			"seed": 863613231,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1725347224634,
+			"link": null,
+			"locked": false,
+			"fontSize": 36,
+			"fontFamily": 5,
+			"text": "Medicine",
+			"rawText": "Medicine",
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Medicine",
+			"autoResize": true,
+			"lineHeight": 1.25
+		}
+	],
+	"appState": {
+		"theme": "dark",
+		"viewBackgroundColor": "transparent",
+		"currentItemStrokeColor": "#61afef",
+		"currentItemBackgroundColor": "transparent",
+		"currentItemFillStyle": "solid",
+		"currentItemStrokeWidth": 2,
+		"currentItemStrokeStyle": "solid",
+		"currentItemRoughness": 1,
+		"currentItemOpacity": 100,
+		"currentItemFontFamily": 5,
+		"currentItemFontSize": 36,
+		"currentItemTextAlign": "center",
+		"currentItemStartArrowhead": null,
+		"currentItemEndArrowhead": "arrow",
+		"currentItemArrowType": "round",
+		"scrollX": 436.51945361018124,
+		"scrollY": 346.3959037162162,
+		"zoom": {
+			"value": 1.85
+		},
+		"currentItemRoundness": "round",
+		"gridSize": 20,
+		"gridStep": 5,
+		"gridModeEnabled": false,
+		"gridColor": {
+			"Bold": "#C9C9C9",
+			"Regular": "#EDEDED"
+		},
+		"colorPalette": {
+			"topPicks": {
+				"elementBackground": [
+					"#e06c75",
+					"#1e1e1e",
+					"#61afef",
+					"#98c379",
+					"#d19a66"
+				],
+				"elementStroke": [
+					"#e06c75",
+					"#1e1e1e",
+					"#61afef",
+					"#98c379",
+					"#d19a66"
+				]
+			}
+		},
+		"currentStrokeOptions": null,
+		"frameRendering": {
+			"enabled": true,
+			"clip": true,
+			"name": true,
+			"outline": true
+		},
+		"objectsSnapModeEnabled": false,
+		"activeTool": {
+			"type": "selection",
+			"customType": null,
+			"locked": false,
+			"lastActiveTool": null
+		}
+	},
+	"files": {}
+}
 ```
 %%

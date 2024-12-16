@@ -11,7 +11,7 @@ $$\begin{align*}
 This means that $a$ and $b$ are *congruent modulo $\mathit{n}$*. 
 \[[[Divisibility]]\]
 # Properties of Congruence
-$\forall n \in \Z^+, a,b,c \in \Z, a_1, a_2, b_1, b_2 \in \Z$,
+As *congruence* is a [[Equivalence Relations|equivalence relation]], $\forall n \in \Z^+, a,b,c \in \Z, a_1, a_2, b_1, b_2 \in \Z$,
 - **[[Reflexive Property|Reflexive Property]]**
 	$a \equiv a \pmod n$
 - **[[Symmetric Property]]**

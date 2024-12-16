@@ -4,7 +4,7 @@ tags:
   - math
 ---
 ![350|center](parabola.excalidraw)
-The set of points in a plane that are **equidistance** from a fixed point $F$ (the focus, $(a,0)$) and a fixed line (the directrix, $x=-a$). The Latus Rectum is defined as the chords the passes through the focus parallel to the directrix, and this line always has the length of $4a$.
+The set of points in a plane that are **equidistant** from a fixed point $F$ (the focus, $(a,0)$) and a fixed line (the directrix, $x=-a$). The Latus Rectum is defined as the chords the passes through the focus parallel to the directrix, and this line always has the length of $4a$.
 $$
 \begin{array}{c}
 	\begin{array}{l l}
