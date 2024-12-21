@@ -887,7 +887,7 @@ tanh ^BVQZ7lr3
 			"angle": 0,
 			"x": -614.0600499815139,
 			"y": -296.8233558247714,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 131.44667441985558,
 			"height": 111.70262661605013,
@@ -1872,7 +1872,7 @@ tanh ^BVQZ7lr3
 			"angle": 0,
 			"x": -450.0989396462965,
 			"y": -16.099616937027463,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 146.2199664998297,
 			"height": 277.29364164907946,
@@ -2827,7 +2827,7 @@ tanh ^BVQZ7lr3
 			"angle": 0,
 			"x": 70.83956086052717,
 			"y": -186.6888167625549,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 282.2479812274527,
 			"height": 62.45206697159364,
@@ -2881,7 +2881,7 @@ tanh ^BVQZ7lr3
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#61afef",
+		"currentItemStrokeColor": "#98c379",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
@@ -2910,25 +2910,25 @@ tanh ^BVQZ7lr3
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"canvasBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

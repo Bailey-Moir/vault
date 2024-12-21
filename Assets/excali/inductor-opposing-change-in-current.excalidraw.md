@@ -357,7 +357,7 @@ ee5b2372e8ecdf62d381ec996c98f9f99e9f74a9: $$\implies$$
 			"angle": 0,
 			"x": 39.13368130013552,
 			"y": 223.684804420718,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 84.28547668457031,
 			"height": 15.448473670678762,
@@ -682,7 +682,7 @@ ee5b2372e8ecdf62d381ec996c98f9f99e9f74a9: $$\implies$$
 			"angle": 0,
 			"x": 434.295651899569,
 			"y": 171.532262305133,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 76.33879089355469,
 			"height": 18.163007353728634,
@@ -740,18 +740,18 @@ ee5b2372e8ecdf62d381ec996c98f9f99e9f74a9: $$\implies$$
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

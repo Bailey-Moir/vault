@@ -3,7 +3,7 @@ tags:
   - atom
   - math
 ---
-A method of [[Volumes of Revolution]] using sums of circles. Note this method **rotates around the $\bf{x}$-axis**.
+*Volumes by disks* is a method of [[Volumes of Revolution|volumes of revolution]] using sums of circles. Note this method **rotates around the $\bf{x}$-axis**.
 $$ V = \pi \int_a^b \left[ r(x) \right]^2 \, dx $$
 > [!proof]
 > $$\begin{align*}

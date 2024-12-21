@@ -1018,7 +1018,7 @@ tags:
 			"angle": 0,
 			"x": 48.45427357233475,
 			"y": -341.3509002279386,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 0.0001,
 			"height": 0.0001,
@@ -1062,7 +1062,7 @@ tags:
 			"angle": 0,
 			"x": 122.45767082983811,
 			"y": -305.33703942779255,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 0.0001,
 			"height": 0.0001,
@@ -1106,7 +1106,7 @@ tags:
 			"angle": 0,
 			"x": 140.02040735969103,
 			"y": -225.6910955720801,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 0.0001,
 			"height": 0.0001,
@@ -1150,7 +1150,7 @@ tags:
 			"angle": 0,
 			"x": 89.45330470897677,
 			"y": -160.92971849309498,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 0.0001,
 			"height": 0.0001,
@@ -1194,7 +1194,7 @@ tags:
 			"angle": 0,
 			"x": 7.392655670536968,
 			"y": -160.48614741721153,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 0.0001,
 			"height": 0.0001,
@@ -1238,7 +1238,7 @@ tags:
 			"angle": 0,
 			"x": -44.726945745769385,
 			"y": -225.69109557207994,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 0.0001,
 			"height": 0.0001,
@@ -1282,7 +1282,7 @@ tags:
 			"angle": 0,
 			"x": -25.65338948278064,
 			"y": -305.3121036931608,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 0.0001,
 			"height": 0.0001,
@@ -1315,7 +1315,7 @@ tags:
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#61afef",
+		"currentItemStrokeColor": "#98c379",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 1,
@@ -1344,25 +1344,25 @@ tags:
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"canvasBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

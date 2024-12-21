@@ -178,7 +178,7 @@ d18c9d95772946b779b0b332734b3164c2f23a4d: $$l$$
 			"angle": 0,
 			"x": -268.1678145213008,
 			"y": -171.89542280948163,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 46.392688352859636,
 			"height": 156.0105562285061,
@@ -371,7 +371,7 @@ d18c9d95772946b779b0b332734b3164c2f23a4d: $$l$$
 			"angle": 0,
 			"x": -74.08919208698708,
 			"y": -173.94135965305054,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 194.55161879970856,
 			"height": 0,
@@ -416,7 +416,7 @@ d18c9d95772946b779b0b332734b3164c2f23a4d: $$l$$
 			"angle": 0,
 			"x": -74.92959846749119,
 			"y": -15.94695016012929,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 239.51279826250862,
 			"height": 0,
@@ -461,7 +461,7 @@ d18c9d95772946b779b0b332734b3164c2f23a4d: $$l$$
 			"angle": 0,
 			"x": -73.30441345139354,
 			"y": -86.39573885864937,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 218.63846403864682,
 			"height": 0,
@@ -563,7 +563,7 @@ d18c9d95772946b779b0b332734b3164c2f23a4d: $$l$$
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#61afef",
+		"currentItemStrokeColor": "#98c379",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 4,
@@ -592,25 +592,25 @@ d18c9d95772946b779b0b332734b3164c2f23a4d: $$l$$
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"canvasBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

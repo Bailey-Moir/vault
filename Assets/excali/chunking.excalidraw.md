@@ -471,7 +471,7 @@ vs. ^yykEyPfm
 			"x": 2.6046533403723515,
 			"y": -156.25582657443277,
 			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#61afef",
+			"backgroundColor": "#98c379",
 			"width": 23.353240909697888,
 			"height": 36.30367450507583,
 			"seed": 1366165618,
@@ -516,7 +516,7 @@ vs. ^yykEyPfm
 			"x": 2.6046533403723515,
 			"y": -156.25582657443277,
 			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#61afef",
+			"backgroundColor": "#98c379",
 			"width": 21.65482338899261,
 			"height": 35.66676793481133,
 			"seed": 1513795950,
@@ -690,7 +690,7 @@ vs. ^yykEyPfm
 			"x": 69.0552388379673,
 			"y": -192.34719888942044,
 			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#61afef",
+			"backgroundColor": "#98c379",
 			"width": 22.504032149345278,
 			"height": 36.091372314987666,
 			"seed": 786554738,
@@ -735,7 +735,7 @@ vs. ^yykEyPfm
 			"x": 69.26754102805546,
 			"y": -192.34719888942044,
 			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#61afef",
+			"backgroundColor": "#98c379",
 			"width": 21.654823388992554,
 			"height": 35.66676793481133,
 			"seed": 1733536114,
@@ -1496,18 +1496,18 @@ vs. ^yykEyPfm
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

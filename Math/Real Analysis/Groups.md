@@ -29,5 +29,3 @@ $$\begin{array}{l}
 > $\forall a,b \in G, (a*b = b*a)$ ($(G,*)$ has commutativity)
 
 \[[[Binary Operations]]\]
-
-[[[Binary Operations]]\]

@@ -5,7 +5,7 @@ tags:
   - discrete
 ---
 $$ \sum_{k=0}^n \begin{pmatrix}n\\ k\end{pmatrix}^2 = \begin{pmatrix}2n\\ n\end{pmatrix} $$
-fun little quirk little fact about [[Binomial Coefficient|binomial coefficients]].
+Fun little quirk little fact about [[Binomial Coefficient|binomial coefficients]].
 
 > [!note]- Trivial Non-Squared Variant
 > $$ \sum_{k=0}^n \begin{pmatrix}n\\ k\end{pmatrix} = 2^n $$

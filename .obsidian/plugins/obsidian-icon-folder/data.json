@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiCircleSlash2",
       "LiMoonStar",
       "LiJapaneseYen",
       "LiPencil",
-      "LiBrain",
-      "LiX"
+      "LiBrain"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -79,5 +79,6 @@
   "Physics": "LiMoonStar",
   "Statistics": "LiScatterChart",
   "Learning": "LiBrain",
-  "Blog": "LiPencil"
+  "Blog": "LiPencil",
+  "Math/Calculus/Umbral Calculus": "LiCircleSlash2"
 }

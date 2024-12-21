@@ -21,7 +21,7 @@ tags: [excalidraw]
 
 6 ^6MaRqW5k
 
-Days Remembered ^mLO9Zp73
+Days Remembeorange ^mLO9Zp73
 
 Memory ^7s2RveBD
 
@@ -93,7 +93,7 @@ Memory ^7s2RveBD
 			"angle": 0,
 			"x": -449.0423302687338,
 			"y": -265.75019032644104,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 493.3844786550937,
 			"height": 341.79547224127225,
@@ -154,7 +154,7 @@ Memory ^7s2RveBD
 			"angle": 0,
 			"x": -368.95974393775344,
 			"y": -269.19670301817615,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 412.3286359782459,
 			"height": 274.78905215843105,
@@ -211,7 +211,7 @@ Memory ^7s2RveBD
 			"angle": 0,
 			"x": -282.81836139958773,
 			"y": -268.1721070242034,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 324.38218188888607,
 			"height": 147.75271489597628,
@@ -268,7 +268,7 @@ Memory ^7s2RveBD
 			"angle": 0,
 			"x": -201.2356692109937,
 			"y": -269.6929882770302,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 243.73976944378802,
 			"height": 39.98485814622711,
@@ -499,7 +499,7 @@ Memory ^7s2RveBD
 			"angle": 0,
 			"x": -114.10264624233469,
 			"y": 79.86476536795448,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 0,
 			"height": 352.2437371590242,
@@ -544,7 +544,7 @@ Memory ^7s2RveBD
 			"angle": 0,
 			"x": -35.11485032798126,
 			"y": 79.5988157045706,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 0,
 			"height": 352.2437371590242,
@@ -589,7 +589,7 @@ Memory ^7s2RveBD
 			"angle": 0,
 			"x": 43.927206334000374,
 			"y": 80.8139299863721,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 0,
 			"height": 352.2437371590242,
@@ -876,12 +876,12 @@ Memory ^7s2RveBD
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 5,
-			"text": "Days Remembered",
-			"rawText": "Days Remembered",
+			"text": "Days Remembeorange",
+			"rawText": "Days Remembeorange",
 			"textAlign": "center",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Days Remembered",
+			"originalText": "Days Remembeorange",
 			"autoResize": true,
 			"lineHeight": 1.25
 		},
@@ -927,7 +927,7 @@ Memory ^7s2RveBD
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#61afef",
+		"currentItemStrokeColor": "#98c379",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 1,
@@ -956,18 +956,18 @@ Memory ^7s2RveBD
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

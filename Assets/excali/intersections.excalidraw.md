@@ -37,7 +37,7 @@ e19325d7949c9a06254b3f30179db4dfb4f03bd3: $$\huge B$$
 			"x": -93.08208210607532,
 			"y": -174.8970320058828,
 			"strokeColor": "transparent",
-			"backgroundColor": "#61afef",
+			"backgroundColor": "#98c379",
 			"width": 58.6673980169106,
 			"height": 184.92661602017952,
 			"seed": 1831537413,
@@ -70,7 +70,7 @@ e19325d7949c9a06254b3f30179db4dfb4f03bd3: $$\huge B$$
 			"x": -106.8455716452295,
 			"y": -165.73385359726512,
 			"strokeColor": "transparent",
-			"backgroundColor": "#61afef",
+			"backgroundColor": "#98c379",
 			"width": 88.15244291656538,
 			"height": 168.84023235904692,
 			"seed": 2147312229,
@@ -103,7 +103,7 @@ e19325d7949c9a06254b3f30179db4dfb4f03bd3: $$\huge B$$
 			"x": -112.21952995715291,
 			"y": -163.40760766593792,
 			"strokeColor": "transparent",
-			"backgroundColor": "#61afef",
+			"backgroundColor": "#98c379",
 			"width": 100.5570452957527,
 			"height": 162.8148295821815,
 			"seed": 1766706629,
@@ -295,7 +295,7 @@ e19325d7949c9a06254b3f30179db4dfb4f03bd3: $$\huge B$$
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
 		"currentItemStrokeColor": "transparent",
-		"currentItemBackgroundColor": "#61afef",
+		"currentItemBackgroundColor": "#98c379",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
 		"currentItemStrokeStyle": "solid",
@@ -323,25 +323,25 @@ e19325d7949c9a06254b3f30179db4dfb4f03bd3: $$\huge B$$
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"canvasBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

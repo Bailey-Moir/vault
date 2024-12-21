@@ -55,7 +55,7 @@ b9f75f7341a332108afbfe546fda0b737fe8b912: $$\text{Cm}$$
 			"x": 490.10020025642916,
 			"y": -46.70430783930021,
 			"strokeColor": "transparent",
-			"backgroundColor": "#61afef",
+			"backgroundColor": "#98c379",
 			"width": 16.614933099052628,
 			"height": 83.60347580501538,
 			"seed": 977357646,
@@ -83,7 +83,7 @@ b9f75f7341a332108afbfe546fda0b737fe8b912: $$\text{Cm}$$
 			"x": 422.79682141883916,
 			"y": -46.70430783930021,
 			"strokeColor": "transparent",
-			"backgroundColor": "#61afef",
+			"backgroundColor": "#98c379",
 			"width": 16.59567724606575,
 			"height": 83.60347580501538,
 			"seed": 336271570,
@@ -111,7 +111,7 @@ b9f75f7341a332108afbfe546fda0b737fe8b912: $$\text{Cm}$$
 			"x": 456.40415655959225,
 			"y": -46.70430783930021,
 			"strokeColor": "transparent",
-			"backgroundColor": "#61afef",
+			"backgroundColor": "#98c379",
 			"width": 16.788171943080616,
 			"height": 83.60347580501538,
 			"seed": 676135822,
@@ -669,7 +669,7 @@ b9f75f7341a332108afbfe546fda0b737fe8b912: $$\text{Cm}$$
 			"x": 596.3081426416759,
 			"y": -46.70430783930021,
 			"strokeColor": "transparent",
-			"backgroundColor": "#61afef",
+			"backgroundColor": "#98c379",
 			"width": 16.614933099052628,
 			"height": 83.60347580501538,
 			"seed": 691514996,
@@ -697,7 +697,7 @@ b9f75f7341a332108afbfe546fda0b737fe8b912: $$\text{Cm}$$
 			"x": 529.0047638040858,
 			"y": -46.70430783930021,
 			"strokeColor": "transparent",
-			"backgroundColor": "#61afef",
+			"backgroundColor": "#98c379",
 			"width": 16.59567724606575,
 			"height": 83.60347580501538,
 			"seed": 815906804,
@@ -953,7 +953,7 @@ b9f75f7341a332108afbfe546fda0b737fe8b912: $$\text{Cm}$$
 			"x": 559.4909440492186,
 			"y": -46.8967632867096,
 			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#61afef",
+			"backgroundColor": "#98c379",
 			"width": 6.362484048430643,
 			"height": 56.114649760091325,
 			"seed": 1470860276,
@@ -1312,7 +1312,7 @@ b9f75f7341a332108afbfe546fda0b737fe8b912: $$\text{Cm}$$
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
 		"currentItemStrokeColor": "#1e1e1e",
-		"currentItemBackgroundColor": "#61afef",
+		"currentItemBackgroundColor": "#98c379",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 1,
 		"currentItemStrokeStyle": "solid",
@@ -1340,18 +1340,18 @@ b9f75f7341a332108afbfe546fda0b737fe8b912: $$\text{Cm}$$
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

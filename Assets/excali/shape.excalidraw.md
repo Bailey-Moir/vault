@@ -128,7 +128,7 @@ Right Skew ^sqi7JZfv
 			"angle": 0,
 			"x": -782.0882487540471,
 			"y": -8.245350945164745,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 329.86640637882454,
 			"height": 170.1880452589599,
@@ -333,7 +333,7 @@ Right Skew ^sqi7JZfv
 			"angle": 0,
 			"x": -316.8453038889092,
 			"y": -9.728012376850671,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 329.86640637882454,
 			"height": 171.13758700844977,
@@ -534,7 +534,7 @@ Right Skew ^sqi7JZfv
 			"angle": 0,
 			"x": 478.49818257302576,
 			"y": -9.765034623505443,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"width": 329.86640637882454,
 			"height": 170.1880452589599,
@@ -638,7 +638,7 @@ Right Skew ^sqi7JZfv
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#98c379",
+		"currentItemStrokeColor": "#61afef",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 1,
@@ -667,25 +667,25 @@ Right Skew ^sqi7JZfv
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"canvasBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

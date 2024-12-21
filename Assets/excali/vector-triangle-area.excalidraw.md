@@ -245,7 +245,7 @@ tags: [excalidraw]
 			"angle": 0.5456745097589923,
 			"x": 251.167076459651,
 			"y": -13.685369173465862,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 194.1890485880714,
 			"height": 161.93884317665157,
@@ -290,7 +290,7 @@ tags: [excalidraw]
 			"angle": 0.5456745097589923,
 			"x": 271.7305669460597,
 			"y": -83.41339449403043,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 79.09713573341583,
 			"height": 166.16455963457722,
@@ -328,7 +328,7 @@ tags: [excalidraw]
 			"width": 8,
 			"height": 25,
 			"angle": 0,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "#1e1e1e",
 			"fillStyle": "cross-hatch",
 			"strokeWidth": 2,
@@ -362,7 +362,7 @@ tags: [excalidraw]
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#e06c75",
+		"currentItemStrokeColor": "#d19a66",
 		"currentItemBackgroundColor": "#1e1e1e",
 		"currentItemFillStyle": "cross-hatch",
 		"currentItemStrokeWidth": 2,
@@ -391,18 +391,18 @@ tags: [excalidraw]
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

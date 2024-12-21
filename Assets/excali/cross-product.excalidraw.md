@@ -10,7 +10,7 @@ tags: [excalidraw]
 # Excalidraw Data
 ## Text Elements
 ## Embedded Files
-ebadc9eebd5073fdd4a0b52b06a36ab2ccb87ad0: $$\vecbf{x} \times \vecbf{y} = \begin{bmatrix} x_1 \\ x_2 \\ x_3 \end{bmatrix} \times \begin{bmatrix} y_1 \\ y_2 \\ y_3 \end{bmatrix} = \begin{bmatrix} \color{Red}{x_2y_3 - x_3y_2} \\ \color{OliveGreen}{-(x_1y_3 - x_3y_1)} \\ \color{CornflowerBlue}{x_1y_2 - x_2y_1} \end{bmatrix}$$
+ebadc9eebd5073fdd4a0b52b06a36ab2ccb87ad0: $$\vecbf{x} \times \vecbf{y} = \begin{bmatrix} x_1 \\ x_2 \\ x_3 \end{bmatrix} \times \begin{bmatrix} y_1 \\ y_2 \\ y_3 \end{bmatrix} = \begin{bmatrix} \color{Red}{x_2y_3 - x_3y_2} \\ \color{CornflowerBlue}{-(x_1y_3 - x_3y_1)} \\ \color{OliveGreen}{x_1y_2 - x_2y_1} \end{bmatrix}$$
 
 %%
 ## Drawing
@@ -69,8 +69,8 @@ ebadc9eebd5073fdd4a0b52b06a36ab2ccb87ad0: $$\vecbf{x} \times \vecbf{y} = \begin{
 			"angle": 0,
 			"x": 101.86931946600723,
 			"y": -356.55513095821414,
-			"strokeColor": "#e06c75",
-			"backgroundColor": "#98c379",
+			"strokeColor": "#d19a66",
+			"backgroundColor": "#61afef",
 			"width": 51.49757033260846,
 			"height": 30.41173619952815,
 			"seed": 1623182107,
@@ -116,8 +116,8 @@ ebadc9eebd5073fdd4a0b52b06a36ab2ccb87ad0: $$\vecbf{x} \times \vecbf{y} = \begin{
 			"angle": 0,
 			"x": 102.43484410312655,
 			"y": -325.1538369817331,
-			"strokeColor": "#e06c75",
-			"backgroundColor": "#98c379",
+			"strokeColor": "#d19a66",
+			"backgroundColor": "#61afef",
 			"width": 51.497570332608554,
 			"height": 30.411736199528203,
 			"seed": 309178299,
@@ -163,8 +163,8 @@ ebadc9eebd5073fdd4a0b52b06a36ab2ccb87ad0: $$\vecbf{x} \times \vecbf{y} = \begin{
 			"angle": 0,
 			"x": 101.73293700538855,
 			"y": -388.50985344315234,
-			"strokeColor": "#61afef",
-			"backgroundColor": "#98c379",
+			"strokeColor": "#98c379",
+			"backgroundColor": "#61afef",
 			"width": 51.49757033260846,
 			"height": 30.41173619952815,
 			"seed": 1781923931,
@@ -210,8 +210,8 @@ ebadc9eebd5073fdd4a0b52b06a36ab2ccb87ad0: $$\vecbf{x} \times \vecbf{y} = \begin{
 			"angle": 0,
 			"x": 102.29846164250793,
 			"y": -357.1085594666712,
-			"strokeColor": "#61afef",
-			"backgroundColor": "#98c379",
+			"strokeColor": "#98c379",
+			"backgroundColor": "#61afef",
 			"width": 51.497570332608554,
 			"height": 30.411736199528203,
 			"seed": 300629243,
@@ -257,8 +257,8 @@ ebadc9eebd5073fdd4a0b52b06a36ab2ccb87ad0: $$\vecbf{x} \times \vecbf{y} = \begin{
 			"angle": 0,
 			"x": 100.53237094050414,
 			"y": -388.06233715486957,
-			"strokeColor": "#98c379",
-			"backgroundColor": "#98c379",
+			"strokeColor": "#61afef",
+			"backgroundColor": "#61afef",
 			"width": 54.0964856644064,
 			"height": 63.90933655236847,
 			"seed": 1427105179,
@@ -304,8 +304,8 @@ ebadc9eebd5073fdd4a0b52b06a36ab2ccb87ad0: $$\vecbf{x} \times \vecbf{y} = \begin{
 			"angle": 0,
 			"x": 154.56835339745808,
 			"y": -386.93544234639575,
-			"strokeColor": "#98c379",
-			"backgroundColor": "#98c379",
+			"strokeColor": "#61afef",
+			"backgroundColor": "#61afef",
 			"width": 52.08359317456805,
 			"height": 63.15450186867912,
 			"seed": 1792440891,
@@ -340,8 +340,8 @@ ebadc9eebd5073fdd4a0b52b06a36ab2ccb87ad0: $$\vecbf{x} \times \vecbf{y} = \begin{
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#98c379",
-		"currentItemBackgroundColor": "#98c379",
+		"currentItemStrokeColor": "#61afef",
+		"currentItemBackgroundColor": "#61afef",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
 		"currentItemStrokeStyle": "solid",
@@ -369,18 +369,18 @@ ebadc9eebd5073fdd4a0b52b06a36ab2ccb87ad0: $$\vecbf{x} \times \vecbf{y} = \begin{
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

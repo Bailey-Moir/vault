@@ -301,7 +301,7 @@ IDENTITY-BASED HABITS ^OXvjGxhT
 			"angle": 0,
 			"x": -25.9999998854108,
 			"y": -184.40805635246568,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 0,
 			"height": 200.7635250286871,
@@ -351,7 +351,7 @@ IDENTITY-BASED HABITS ^OXvjGxhT
 			"angle": 0,
 			"x": 510.1009768634932,
 			"y": -180.01726907439348,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 1.9593926481320523e-10,
 			"height": 196.46078908990535,
@@ -385,7 +385,7 @@ IDENTITY-BASED HABITS ^OXvjGxhT
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#e06c75",
+		"currentItemStrokeColor": "#d19a66",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 4,
@@ -414,25 +414,25 @@ IDENTITY-BASED HABITS ^OXvjGxhT
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"canvasBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

@@ -70,7 +70,7 @@ Medicine ^zMmKv9ze
 			"angle": 0,
 			"x": -346.44431262576785,
 			"y": -244.95321231728678,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 421.87356458188566,
 			"height": 345.16928011245204,
@@ -100,7 +100,7 @@ Medicine ^zMmKv9ze
 			"angle": 0,
 			"x": -345.31707205372345,
 			"y": -325.561366406986,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 691.0627537710748,
 			"height": 498.14225308542495,
@@ -130,7 +130,7 @@ Medicine ^zMmKv9ze
 			"angle": 0,
 			"x": 117.3827816790739,
 			"y": -119.46406384826486,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 193.7719268798828,
 			"height": 90,
@@ -168,7 +168,7 @@ Medicine ^zMmKv9ze
 			"angle": 0,
 			"x": -276.70287139154266,
 			"y": -119.0722934029751,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 146.05194091796875,
 			"height": 90,
@@ -233,7 +233,7 @@ Medicine ^zMmKv9ze
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#61afef",
+		"currentItemStrokeColor": "#98c379",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
@@ -262,18 +262,18 @@ Medicine ^zMmKv9ze
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

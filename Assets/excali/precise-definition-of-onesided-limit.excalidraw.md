@@ -9,14 +9,14 @@ tags:
 # Excalidraw Data
 ## Text Elements
 ## Embedded Files
-f40218cf0d58a489cfa95d8bb41c885f1f6e87a5: $$\textcolor{CornflowerBlue}{\varepsilon}$$
-4b161b0985dd6cb77b8b8311d8c09ba5d294707e: $$\textcolor{CornflowerBlue}{\varepsilon}$$
-d97fb47f4a7299936db6de4f98ed1c1f08feec96: $$\textcolor{red}{\delta}$$
+f40218cf0d58a489cfa95d8bb41c885f1f6e87a5: $$\textcolor{OliveGreen}{\varepsilon}$$
+4b161b0985dd6cb77b8b8311d8c09ba5d294707e: $$\textcolor{OliveGreen}{\varepsilon}$$
+d97fb47f4a7299936db6de4f98ed1c1f08feec96: $$\textcolor{orange}{\delta}$$
 344cce582dbf90136adb2088451cace317ad7ce0: $$x \to a^+$$
 09c4e6e90b34fdb00acfa8e249d867a115eab113: $$x \to a^-$$
-af395f67544633136834d415ba4999c0ff3cc6ab: $$\textcolor{CornflowerBlue}{\varepsilon}$$
-2b0eccc0f3466d34b5a18fe6b6c8253cf1ecea7a: $$\textcolor{CornflowerBlue}{\varepsilon}$$
-d1922430d5ff209858c7b8ed85e87547701e17d6: $$\textcolor{red}{\delta}$$
+af395f67544633136834d415ba4999c0ff3cc6ab: $$\textcolor{OliveGreen}{\varepsilon}$$
+2b0eccc0f3466d34b5a18fe6b6c8253cf1ecea7a: $$\textcolor{OliveGreen}{\varepsilon}$$
+d1922430d5ff209858c7b8ed85e87547701e17d6: $$\textcolor{orange}{\delta}$$
 
 %%
 ## Drawing
@@ -42,7 +42,7 @@ d1922430d5ff209858c7b8ed85e87547701e17d6: $$\textcolor{red}{\delta}$$
 			"x": -58.44201489512527,
 			"y": -237.4388501339838,
 			"strokeColor": "transparent",
-			"backgroundColor": "#e06c75",
+			"backgroundColor": "#d19a66",
 			"width": 20.508395028204657,
 			"height": 156.6101543630429,
 			"seed": 332822508,
@@ -70,7 +70,7 @@ d1922430d5ff209858c7b8ed85e87547701e17d6: $$\textcolor{red}{\delta}$$
 			"x": -213.91463828604827,
 			"y": -237.3271847943285,
 			"strokeColor": "transparent",
-			"backgroundColor": "#61afef",
+			"backgroundColor": "#98c379",
 			"width": 287.4546981745961,
 			"height": 71.09373849240474,
 			"seed": 149633260,
@@ -312,7 +312,7 @@ d1922430d5ff209858c7b8ed85e87547701e17d6: $$\textcolor{red}{\delta}$$
 			"angle": 0,
 			"x": -214.33042533027,
 			"y": -166.1653357240752,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 288.3742981102454,
 			"height": 0,
@@ -357,7 +357,7 @@ d1922430d5ff209858c7b8ed85e87547701e17d6: $$\textcolor{red}{\delta}$$
 			"angle": 0,
 			"x": -214.60004513761749,
 			"y": -236.69094353015646,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 288.9206112979317,
 			"height": 0,
@@ -402,7 +402,7 @@ d1922430d5ff209858c7b8ed85e87547701e17d6: $$\textcolor{red}{\delta}$$
 			"angle": 0,
 			"x": -38.906145762128986,
 			"y": -79.89037610892339,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 0,
 			"height": 156.0469043123632,
@@ -447,7 +447,7 @@ d1922430d5ff209858c7b8ed85e87547701e17d6: $$\textcolor{red}{\delta}$$
 			"angle": 0,
 			"x": -213.1012694409365,
 			"y": -201.14365220578287,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 153.97096175312922,
 			"height": 0.1740668020578937,
@@ -492,7 +492,7 @@ d1922430d5ff209858c7b8ed85e87547701e17d6: $$\textcolor{red}{\delta}$$
 			"angle": 0,
 			"x": -58.92559186730765,
 			"y": -201.36025125456825,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 0.2790768500265841,
 			"height": 122.24893348860124,
@@ -684,7 +684,7 @@ d1922430d5ff209858c7b8ed85e87547701e17d6: $$\textcolor{red}{\delta}$$
 			"angle": 0,
 			"x": -58.6795522458285,
 			"y": -206.65147681453806,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 0,
 			"height": 32.04660146658753,
@@ -770,7 +770,7 @@ d1922430d5ff209858c7b8ed85e87547701e17d6: $$\textcolor{red}{\delta}$$
 			"angle": 1.5707963267948957,
 			"x": -42.11419609738003,
 			"y": -80.91714256386706,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "#1971c2",
 			"width": 0.04316503890232326,
 			"height": 7.778339927183788,
@@ -824,7 +824,7 @@ d1922430d5ff209858c7b8ed85e87547701e17d6: $$\textcolor{red}{\delta}$$
 			"angle": 1.5707963267948957,
 			"x": -53.82531953312815,
 			"y": -82.17904194800144,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "#1971c2",
 			"width": 0.2064459881610078,
 			"height": 7.7783399271838025,
@@ -990,7 +990,7 @@ d1922430d5ff209858c7b8ed85e87547701e17d6: $$\textcolor{red}{\delta}$$
 			"x": 269.4750001550129,
 			"y": -237.02321668573418,
 			"strokeColor": "transparent",
-			"backgroundColor": "#e06c75",
+			"backgroundColor": "#d19a66",
 			"width": 20.58442669913254,
 			"height": 156.6101543630429,
 			"seed": 1582139210,
@@ -1018,7 +1018,7 @@ d1922430d5ff209858c7b8ed85e87547701e17d6: $$\textcolor{red}{\delta}$$
 			"x": 133.2517954617216,
 			"y": -236.91155134607882,
 			"strokeColor": "transparent",
-			"backgroundColor": "#61afef",
+			"backgroundColor": "#98c379",
 			"width": 287.4546981745961,
 			"height": 71.09373849240474,
 			"seed": 242355722,
@@ -1118,7 +1118,7 @@ d1922430d5ff209858c7b8ed85e87547701e17d6: $$\textcolor{red}{\delta}$$
 			"angle": 0,
 			"x": 132.83600841749987,
 			"y": -165.74970227582554,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 288.3742981102454,
 			"height": 0,
@@ -1163,7 +1163,7 @@ d1922430d5ff209858c7b8ed85e87547701e17d6: $$\textcolor{red}{\delta}$$
 			"angle": 0,
 			"x": 132.5663886101524,
 			"y": -238.06818187537814,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 288.9206112979317,
 			"height": 1.7928717934713063,
@@ -1208,7 +1208,7 @@ d1922430d5ff209858c7b8ed85e87547701e17d6: $$\textcolor{red}{\delta}$$
 			"angle": 0,
 			"x": 269.7614505903775,
 			"y": -79.47474266067371,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 0,
 			"height": 156.0469043123632,
@@ -1253,7 +1253,7 @@ d1922430d5ff209858c7b8ed85e87547701e17d6: $$\textcolor{red}{\delta}$$
 			"angle": 0,
 			"x": 134.06516430683337,
 			"y": -200.72801875753322,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 153.97096175312922,
 			"height": 0.1740668020578937,
@@ -1298,7 +1298,7 @@ d1922430d5ff209858c7b8ed85e87547701e17d6: $$\textcolor{red}{\delta}$$
 			"angle": 0,
 			"x": 289.5642394159245,
 			"y": -200.9446178063186,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 0.2790768500265841,
 			"height": 122.24893348860124,
@@ -1343,7 +1343,7 @@ d1922430d5ff209858c7b8ed85e87547701e17d6: $$\textcolor{red}{\delta}$$
 			"angle": 0,
 			"x": 289.8102790374036,
 			"y": -206.2358433662884,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 0,
 			"height": 32.04660146658753,
@@ -1429,7 +1429,7 @@ d1922430d5ff209858c7b8ed85e87547701e17d6: $$\textcolor{red}{\delta}$$
 			"angle": 1.5707963267948957,
 			"x": 285.8028189527581,
 			"y": -80.50150911561741,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "#1971c2",
 			"width": 0.04316503890232326,
 			"height": 7.778339927183788,
@@ -1483,7 +1483,7 @@ d1922430d5ff209858c7b8ed85e87547701e17d6: $$\textcolor{red}{\delta}$$
 			"angle": 1.5707963267948957,
 			"x": 274.09169551701,
 			"y": -81.76340849975179,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "#1971c2",
 			"width": 0.2064459881610078,
 			"height": 7.7783399271838025,
@@ -1580,8 +1580,8 @@ d1922430d5ff209858c7b8ed85e87547701e17d6: $$\textcolor{red}{\delta}$$
 			"angle": 0,
 			"x": 136.20596760065916,
 			"y": -234.26803604781017,
-			"strokeColor": "#61afef",
-			"backgroundColor": "#d19a66",
+			"strokeColor": "#98c379",
+			"backgroundColor": "#e06c75",
 			"width": 1.064656126921733,
 			"height": 32.294569183291,
 			"seed": 1856186646,
@@ -1639,8 +1639,8 @@ d1922430d5ff209858c7b8ed85e87547701e17d6: $$\textcolor{red}{\delta}$$
 			"angle": 0,
 			"x": 135.44508710628617,
 			"y": -198.89365605877742,
-			"strokeColor": "#61afef",
-			"backgroundColor": "#d19a66",
+			"strokeColor": "#98c379",
+			"backgroundColor": "#e06c75",
 			"width": 1.064656126921733,
 			"height": 32.294569183291,
 			"seed": 1052115146,
@@ -1688,8 +1688,8 @@ d1922430d5ff209858c7b8ed85e87547701e17d6: $$\textcolor{red}{\delta}$$
 			"angle": 0,
 			"x": -211.01768170538315,
 			"y": -237.02322174874186,
-			"strokeColor": "#61afef",
-			"backgroundColor": "#d19a66",
+			"strokeColor": "#98c379",
+			"backgroundColor": "#e06c75",
 			"width": 1.064656126921733,
 			"height": 32.294569183291,
 			"seed": 1778061770,
@@ -1737,8 +1737,8 @@ d1922430d5ff209858c7b8ed85e87547701e17d6: $$\textcolor{red}{\delta}$$
 			"angle": 0,
 			"x": -211.1529484572195,
 			"y": -199.91900158328588,
-			"strokeColor": "#61afef",
-			"backgroundColor": "#d19a66",
+			"strokeColor": "#98c379",
+			"backgroundColor": "#e06c75",
 			"width": 1.064656126921733,
 			"height": 32.294569183291,
 			"seed": 189810326,
@@ -1775,8 +1775,8 @@ d1922430d5ff209858c7b8ed85e87547701e17d6: $$\textcolor{red}{\delta}$$
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#e06c75",
-		"currentItemBackgroundColor": "#e06c75",
+		"currentItemStrokeColor": "#d19a66",
+		"currentItemBackgroundColor": "#d19a66",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 0.5,
 		"currentItemStrokeStyle": "solid",
@@ -1804,25 +1804,25 @@ d1922430d5ff209858c7b8ed85e87547701e17d6: $$\textcolor{red}{\delta}$$
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"canvasBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

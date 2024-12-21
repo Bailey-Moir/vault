@@ -1,0 +1,13 @@
+.el-h2 > *,
+.el-h3 > *,
+.el-h4 > *,
+.el-h5 > * {
+	margin: 0px !important;
+}
+
+.el-h2 + .el-p > *,
+.el-h3 + .el-p > *,
+.el-h4 + .el-p > *,
+.el-h5 + .el-p > * {
+	margin-top: 0px !important;
+}

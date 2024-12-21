@@ -181,7 +181,7 @@ ccc847df50751cec54012d211de5eb70154d1553: $$X_L = X_C$$
 			"angle": 0,
 			"x": -249.0099261083746,
 			"y": 154.64877214859203,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 407.2940104478827,
 			"height": 349.2476188518506,
@@ -619,7 +619,7 @@ ccc847df50751cec54012d211de5eb70154d1553: $$X_L = X_C$$
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#61afef",
+		"currentItemStrokeColor": "#98c379",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
@@ -648,18 +648,18 @@ ccc847df50751cec54012d211de5eb70154d1553: $$X_L = X_C$$
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

@@ -23,4 +23,5 @@ def prim(g, start):
 		currentVert.setColor('black')
 		currentVert.distance = currentDistance
 ```
+
 $$\mathcal{O}(\left| V \right| \log\left| V \right| + \left| E \right| )$$

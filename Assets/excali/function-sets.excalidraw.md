@@ -43,7 +43,7 @@ e15018acbe88a3fc913cb303e2b1ac68d37e60bd: $$f(a)$$
 			"angle": 0.26178825550170437,
 			"x": 119.11068650183927,
 			"y": -249.70210047845634,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "#a8d0f0",
 			"width": 251.41332163194647,
 			"height": 426.21583498575615,
@@ -73,8 +73,8 @@ e15018acbe88a3fc913cb303e2b1ac68d37e60bd: $$f(a)$$
 			"angle": 5.712902224518363,
 			"x": 173.99375812357016,
 			"y": -99.0209014747042,
-			"strokeColor": "#d19a66",
-			"backgroundColor": "#d19a66",
+			"strokeColor": "#e06c75",
+			"backgroundColor": "#e06c75",
 			"width": 246.84959142348333,
 			"height": 219.8248883415671,
 			"seed": 1898690920,
@@ -278,7 +278,7 @@ e15018acbe88a3fc913cb303e2b1ac68d37e60bd: $$f(a)$$
 			"angle": 0,
 			"x": -75.88480707877093,
 			"y": -167.91147484142215,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "#dfb9bc",
 			"width": 237.163818359375,
 			"height": 418.46002197265625,
@@ -1099,8 +1099,8 @@ e15018acbe88a3fc913cb303e2b1ac68d37e60bd: $$f(a)$$
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#d19a66",
-		"currentItemBackgroundColor": "#d19a66",
+		"currentItemStrokeColor": "#e06c75",
+		"currentItemBackgroundColor": "#e06c75",
 		"currentItemFillStyle": "cross-hatch",
 		"currentItemStrokeWidth": 2,
 		"currentItemStrokeStyle": "solid",
@@ -1128,25 +1128,25 @@ e15018acbe88a3fc913cb303e2b1ac68d37e60bd: $$f(a)$$
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"canvasBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

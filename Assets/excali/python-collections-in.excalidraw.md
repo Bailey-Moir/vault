@@ -18,6 +18,7 @@ sets & dictionaries ^uAjKoO3n
 
 ## Embedded Files
 dc868bf985a5a3252fddf7278f86fe75d92b4d9e: $$O(n)$$
+
 9a8de41c63480e62fdd82ea06fab430dc8bf8278: $$O(1)$$
 
 %%
@@ -26,7 +27,7 @@ dc868bf985a5a3252fddf7278f86fe75d92b4d9e: $$O(n)$$
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.4.0",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.6.6",
 	"elements": [
 		{
 			"type": "image",
@@ -41,12 +42,12 @@ dc868bf985a5a3252fddf7278f86fe75d92b4d9e: $$O(n)$$
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 233.39603070073403,
-			"y": -22.383842128800126,
+			"x": 233.73689617298285,
+			"y": -22.542215510919686,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 42.35425446933631,
-			"height": 19.361944900268025,
+			"width": 41.67252352483866,
+			"height": 19.678691664507145,
 			"seed": 95803,
 			"groupIds": [],
 			"frameId": null,
@@ -60,7 +61,8 @@ dc868bf985a5a3252fddf7278f86fe75d92b4d9e: $$O(n)$$
 			"scale": [
 				1,
 				1
-			]
+			],
+			"crop": null
 		},
 		{
 			"type": "line",
@@ -167,7 +169,7 @@ dc868bf985a5a3252fddf7278f86fe75d92b4d9e: $$O(n)$$
 			"angle": 0,
 			"x": -222.3187481751686,
 			"y": 95.14623037691132,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 450.36224778744054,
 			"height": 0,
@@ -319,7 +321,7 @@ dc868bf985a5a3252fddf7278f86fe75d92b4d9e: $$O(n)$$
 			"y": 131.37483533633872,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 102.73991394042969,
+			"width": 102.73989868164062,
 			"height": 25,
 			"seed": 1439712574,
 			"groupIds": [],
@@ -403,7 +405,7 @@ dc868bf985a5a3252fddf7278f86fe75d92b4d9e: $$O(n)$$
 			"angle": 0,
 			"x": -223.06958305671083,
 			"y": 119.58828544328719,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 452.1594981442213,
 			"height": 129.86551623848698,
@@ -435,8 +437,8 @@ dc868bf985a5a3252fddf7278f86fe75d92b4d9e: $$O(n)$$
 		},
 		{
 			"type": "rectangle",
-			"version": 221,
-			"versionNonce": 964214986,
+			"version": 224,
+			"versionNonce": 2133373993,
 			"index": "a9",
 			"isDeleted": false,
 			"id": "U_KIrIFkGx8wsCPNp4YlY",
@@ -448,7 +450,7 @@ dc868bf985a5a3252fddf7278f86fe75d92b4d9e: $$O(n)$$
 			"angle": 0,
 			"x": -218.6280624125525,
 			"y": 125.51232382750447,
-			"strokeColor": "transparent",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "#d19a66",
 			"width": 24.60634820815858,
 			"height": 19.54033534177296,
@@ -459,7 +461,7 @@ dc868bf985a5a3252fddf7278f86fe75d92b4d9e: $$O(n)$$
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1724063685114,
+			"updated": 1734337862510,
 			"link": null,
 			"locked": false
 		},
@@ -480,7 +482,7 @@ dc868bf985a5a3252fddf7278f86fe75d92b4d9e: $$O(n)$$
 			"y": 120.53654433994814,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#e03131",
-			"width": 96.33992004394531,
+			"width": 96.33990478515625,
 			"height": 25,
 			"seed": 1048585954,
 			"groupIds": [],
@@ -503,8 +505,8 @@ dc868bf985a5a3252fddf7278f86fe75d92b4d9e: $$O(n)$$
 		},
 		{
 			"type": "rectangle",
-			"version": 384,
-			"versionNonce": 578649494,
+			"version": 386,
+			"versionNonce": 467104039,
 			"index": "aB",
 			"isDeleted": false,
 			"id": "4dnuNI4X1En0BDXmj_UqJ",
@@ -516,7 +518,7 @@ dc868bf985a5a3252fddf7278f86fe75d92b4d9e: $$O(n)$$
 			"angle": 0,
 			"x": -218.22128974795777,
 			"y": 150.8561939130784,
-			"strokeColor": "transparent",
+			"strokeColor": "#98c379",
 			"backgroundColor": "#98c379",
 			"width": 24.60634820815858,
 			"height": 19.54033534177296,
@@ -527,7 +529,7 @@ dc868bf985a5a3252fddf7278f86fe75d92b4d9e: $$O(n)$$
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1724064507719,
+			"updated": 1734337866871,
 			"link": null,
 			"locked": false
 		},
@@ -548,7 +550,7 @@ dc868bf985a5a3252fddf7278f86fe75d92b4d9e: $$O(n)$$
 			"y": 145.88041442552208,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#e03131",
-			"width": 188.4998321533203,
+			"width": 188.49978637695312,
 			"height": 25,
 			"seed": 2037321470,
 			"groupIds": [],
@@ -582,12 +584,12 @@ dc868bf985a5a3252fddf7278f86fe75d92b4d9e: $$O(n)$$
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 235.055716543539,
-			"y": 84.49279221870003,
+			"x": 235.3799320201891,
+			"y": 84.33315955302228,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 42.46973332836976,
-			"height": 20.59138585617928,
+			"width": 41.82130237506955,
+			"height": 20.910651187534775,
 			"seed": 756517810,
 			"groupIds": [],
 			"frameId": null,
@@ -606,13 +608,14 @@ dc868bf985a5a3252fddf7278f86fe75d92b4d9e: $$O(n)$$
 			"scale": [
 				1,
 				1
-			]
+			],
+			"crop": null
 		}
 	],
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#e06c75",
+		"currentItemStrokeColor": "#98c379",
 		"currentItemBackgroundColor": "#98c379",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
@@ -626,40 +629,40 @@ dc868bf985a5a3252fddf7278f86fe75d92b4d9e: $$O(n)$$
 		"currentItemEndArrowhead": "arrow",
 		"currentItemArrowType": "round",
 		"scrollX": 401.592744448203,
-		"scrollY": 202.08453287236134,
+		"scrollY": 202.58453287236134,
 		"zoom": {
 			"value": 2
 		},
 		"currentItemRoundness": "round",
-		"gridSize": null,
+		"gridSize": 20,
 		"gridStep": 5,
 		"gridModeEnabled": false,
 		"gridColor": {
-			"Bold": "#C9C9C9",
-			"Regular": "#EDEDED"
+			"Bold": "rgba(217, 217, 217, 0.5)",
+			"Regular": "rgba(230, 230, 230, 0.5)"
 		},
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#d19a66"
+					"#98c379",
+					"#e06c75"
 				],
 				"canvasBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#d19a66"
+					"#98c379",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#d19a66"
+					"#98c379",
+					"#e06c75"
 				]
 			}
 		},

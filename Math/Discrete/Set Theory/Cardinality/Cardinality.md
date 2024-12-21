@@ -15,7 +15,7 @@ $$ |A \cup B| = |A| + |B| - |A \cap B|$$
 \[[[Unions and Intersections]]\]
 
 > [!theorem]
-> Let $S$ be a [[Empty Set|non-empty]] finite [[Sets|set]]. Then $|S| = n$ iff there is a [[Bijective Functions|bijection]] from $S$ to $\Z_n^+$[^1].
+> Let $S$ be a [[Empty Set|non-empty]] finite [[Sets|set]]. Then $|S| = n$ iff there is a [[Bijective Functions|bijection]] from $S$ to $\Z_n$[^1].
 
 > [!theorem]
 > Let $A$ and $B$ be two [[Sets|sets]]. $|A| = |B|$ iff there is a [[Bijective Functions|bijection]] from $A$ to $B$.

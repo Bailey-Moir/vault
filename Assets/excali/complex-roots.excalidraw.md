@@ -127,7 +127,7 @@ tags: [excalidraw]
 			"angle": 0,
 			"x": -111.32655430472337,
 			"y": -225.33327841722397,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 115.07955613546403,
 			"height": 0.22560907376961836,
@@ -220,7 +220,7 @@ tags: [excalidraw]
 			"angle": 0,
 			"x": 62.00205268981793,
 			"y": -324.4661224305073,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 57.81905682254302,
 			"height": 98.85881393078444,
@@ -270,7 +270,7 @@ tags: [excalidraw]
 			"angle": 0,
 			"x": 62.50448160280939,
 			"y": -126.39733099215755,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 57.81905682254302,
 			"height": 98.85881393078444,
@@ -315,7 +315,7 @@ tags: [excalidraw]
 			"angle": 0,
 			"x": -111.23032025324258,
 			"y": -225.44572073663284,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 0.0001,
 			"height": 0.0001,
@@ -356,7 +356,7 @@ tags: [excalidraw]
 			"angle": 0,
 			"x": 61.90570954492333,
 			"y": -324.5062293842085,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 0.0001,
 			"height": 0.0001,
@@ -397,7 +397,7 @@ tags: [excalidraw]
 			"angle": 0,
 			"x": 63.08311072762726,
 			"y": -125.74244921194236,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 0.0001,
 			"height": 0.0001,
@@ -427,7 +427,7 @@ tags: [excalidraw]
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#61afef",
+		"currentItemStrokeColor": "#98c379",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 4,
@@ -456,25 +456,25 @@ tags: [excalidraw]
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"canvasBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

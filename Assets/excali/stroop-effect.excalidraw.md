@@ -61,7 +61,7 @@ Red ^uVeNnccw
 			"angle": 0,
 			"x": -6.4679820781235975,
 			"y": -163.5240610373099,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"width": 36.49998474121094,
 			"height": 25,
@@ -101,7 +101,7 @@ Red ^uVeNnccw
 			"angle": 0,
 			"x": -7.50797536425641,
 			"y": -134.77899300539823,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"width": 57.25996398925781,
 			"height": 25,
@@ -141,7 +141,7 @@ Red ^uVeNnccw
 			"angle": 0,
 			"x": -6.907969260740785,
 			"y": -106.0301215253377,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 60.29994201660156,
 			"height": 25,
@@ -221,7 +221,7 @@ Red ^uVeNnccw
 			"angle": 0,
 			"x": -7.907969260740785,
 			"y": -51.32014792085869,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 44.15997314453125,
 			"height": 25,
@@ -261,7 +261,7 @@ Red ^uVeNnccw
 			"angle": 0,
 			"x": -6.4679820781235975,
 			"y": -24.487867872802155,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"width": 36.49998474121094,
 			"height": 25,
@@ -301,7 +301,7 @@ Red ^uVeNnccw
 			"angle": 0,
 			"x": 145.485032426528,
 			"y": -163.4253008478886,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 36.49998474121094,
 			"height": 25,
@@ -341,7 +341,7 @@ Red ^uVeNnccw
 			"angle": 0,
 			"x": 125.24504982154751,
 			"y": -133.98329047706645,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"width": 57.25996398925781,
 			"height": 25,
@@ -461,7 +461,7 @@ Red ^uVeNnccw
 			"angle": 0,
 			"x": 138.54505287330534,
 			"y": -51.221387731437375,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 44.15997314453125,
 			"height": 25,
@@ -501,7 +501,7 @@ Red ^uVeNnccw
 			"angle": 0,
 			"x": 145.485032426528,
 			"y": -24.389107683380843,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 36.49998474121094,
 			"height": 25,
@@ -644,7 +644,7 @@ Red ^uVeNnccw
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#e06c75",
+		"currentItemStrokeColor": "#d19a66",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
@@ -673,25 +673,25 @@ Red ^uVeNnccw
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"canvasBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

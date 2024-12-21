@@ -8,4 +8,4 @@ A *graph* $G$ consists of a **[[Vertices|vertex]] [[Sets|set]]** $V$, and a [[Se
 $$ G=\left( V,E \right)  $$
 - The [[Edges|edge]] [[Sets|set]] of a *graph* $G$ is denoted $E(G)$.
 - The [[Vertices|vertex]] [[Sets|set]] of a *graph* $G$ is denoted $V(G)$.
-- If $G$ is a [[Multigraphs|multigraph]] (if [[Parallel Edges|parallel edges]] are permitted), $E(G)$ is actually a [[Multi-sets|multi-set]] not a [[Sets|set]].
+- If $G$ is a [[Multigraphs|multigraph]] (if [[Parallel and Inverted Edges|parallel edges]] are permitted), $E(G)$ is actually a [[Multi-sets|multi-set]] not a [[Sets|set]].

@@ -36,7 +36,7 @@ f035ba2cc738ff89052699ec3ce34d9c7a2b468a: $$ds$$
 			"angle": 0,
 			"x": 174.98021732156903,
 			"y": 81.1536219815368,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 115.3312558652693,
 			"height": 104.73646524622775,
@@ -93,7 +93,7 @@ f035ba2cc738ff89052699ec3ce34d9c7a2b468a: $$ds$$
 			"angle": 0,
 			"x": 188.92801414819326,
 			"y": 60.69347497363738,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 83.31802403423006,
 			"height": 114.97231215324163,
@@ -360,7 +360,7 @@ f035ba2cc738ff89052699ec3ce34d9c7a2b468a: $$ds$$
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#e06c75",
+		"currentItemStrokeColor": "#d19a66",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 1,
@@ -389,25 +389,25 @@ f035ba2cc738ff89052699ec3ce34d9c7a2b468a: $$ds$$
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#d19a66"
+					"#98c379",
+					"#e06c75"
 				],
 				"canvasBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#d19a66"
+					"#98c379",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#d19a66"
+					"#98c379",
+					"#e06c75"
 				]
 			}
 		},

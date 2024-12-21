@@ -3,7 +3,7 @@ tags:
   - math
   - atom
 ---
-A type of [[Approximate Integration|approximate integration]] by centred [[Riemann Sums|Riemann sum]].
+The *midpoint rule* is a type of [[Approximate Integration|approximate integration]] by centred [[Riemann Sums|Riemann sum]].
 ![400|center](midpoint-rule.excalidraw)
 $$\begin{array}{l}
 	\displaystyle\int_a^b f(x) \, dx \approx M_n = \Delta x [ f(\overline x_1) + f(\overline x_2) + \dots + f(\overline x_n) ] \\

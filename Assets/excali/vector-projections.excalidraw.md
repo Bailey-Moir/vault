@@ -10,10 +10,10 @@ tags:
 ## Text Elements
 ## Embedded Files
 79e9a40f9a5dc9894e8b6930dab5760befc19acd: $$\text{proj}$$
-e25d52cd535c00d5f9230d849bd69880ed995de2: $$\textcolor{CornflowerBlue}{\vecbf{d}}$$
-374a9d98fb7addd6dc55b9bfb8efba7f9368c14b: $$\textcolor{CornflowerBlue}{\vecbf{d}}$$
-f0b2394779f88ada786a6304cda82fc836f2ef3e: $$\textcolor{red}{\vecbf{x}}$$
-fb2d68a52e790d5e6c229aab5d22faaead6268cc: $$\textcolor{red}{\vecbf{x}}$$
+e25d52cd535c00d5f9230d849bd69880ed995de2: $$\textcolor{OliveGreen}{\vecbf{d}}$$
+374a9d98fb7addd6dc55b9bfb8efba7f9368c14b: $$\textcolor{OliveGreen}{\vecbf{d}}$$
+f0b2394779f88ada786a6304cda82fc836f2ef3e: $$\textcolor{orange}{\vecbf{x}}$$
+fb2d68a52e790d5e6c229aab5d22faaead6268cc: $$\textcolor{orange}{\vecbf{x}}$$
 
 %%
 ## Drawing
@@ -72,7 +72,7 @@ fb2d68a52e790d5e6c229aab5d22faaead6268cc: $$\textcolor{red}{\vecbf{x}}$$
 			"angle": 0,
 			"x": -155.18667950855075,
 			"y": 67.10392357898695,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 91.16843010529121,
 			"height": 115.48001217220937,
@@ -117,7 +117,7 @@ fb2d68a52e790d5e6c229aab5d22faaead6268cc: $$\textcolor{red}{\vecbf{x}}$$
 			"angle": 0,
 			"x": -154.42693297847177,
 			"y": 67.4837968440263,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 180.81739889824598,
 			"height": 35.707642444209,
@@ -426,7 +426,7 @@ fb2d68a52e790d5e6c229aab5d22faaead6268cc: $$\textcolor{red}{\vecbf{x}}$$
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#e06c75",
+		"currentItemStrokeColor": "#d19a66",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 1,
@@ -455,25 +455,25 @@ fb2d68a52e790d5e6c229aab5d22faaead6268cc: $$\textcolor{red}{\vecbf{x}}$$
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"canvasBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

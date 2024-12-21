@@ -11,5 +11,6 @@
     "downscalePercent": 80
   },
   "propertiesInDocument": "visible",
-  "showRibbon": false
+  "showRibbon": false,
+  "showInlineTitle": true
 }

@@ -718,7 +718,7 @@ c145538d754bca03c63a0cc7f4d0ab18b8f5dbb2: $$\alpha / 2$$
 			"angle": 0,
 			"x": -112.73424577550438,
 			"y": -23.46231679839609,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 102.19966316808619,
 			"height": 100.51944301898386,
@@ -761,7 +761,7 @@ c145538d754bca03c63a0cc7f4d0ab18b8f5dbb2: $$\alpha / 2$$
 			"angle": 0,
 			"x": -112.42265923309074,
 			"y": -23.366000041126355,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"width": 32.60324341848832,
 			"height": 32.121659632139256,
@@ -804,7 +804,7 @@ c145538d754bca03c63a0cc7f4d0ab18b8f5dbb2: $$\alpha / 2$$
 			"angle": 0,
 			"x": -145.4005302840141,
 			"y": -55.674973489483065,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"width": 38.3739760554642,
 			"height": 24.36347424283531,
@@ -847,7 +847,7 @@ c145538d754bca03c63a0cc7f4d0ab18b8f5dbb2: $$\alpha / 2$$
 			"angle": 0,
 			"x": -183.28469155462932,
 			"y": -31.557024956750908,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 176.7913868845515,
 			"height": 107.0017228195137,
@@ -890,7 +890,7 @@ c145538d754bca03c63a0cc7f4d0ab18b8f5dbb2: $$\alpha / 2$$
 			"angle": 0,
 			"x": -360.24947748548067,
 			"y": 75.63201167897928,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 207.69857317745513,
 			"height": 1.5383397677457538,
@@ -933,7 +933,7 @@ c145538d754bca03c63a0cc7f4d0ab18b8f5dbb2: $$\alpha / 2$$
 			"angle": 0,
 			"x": -152.42034057672043,
 			"y": 76.94320839250169,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 141.2346174279908,
 			"height": 0,
@@ -965,7 +965,7 @@ c145538d754bca03c63a0cc7f4d0ab18b8f5dbb2: $$\alpha / 2$$
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#61afef",
+		"currentItemStrokeColor": "#98c379",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
@@ -994,25 +994,25 @@ c145538d754bca03c63a0cc7f4d0ab18b8f5dbb2: $$\alpha / 2$$
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"canvasBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

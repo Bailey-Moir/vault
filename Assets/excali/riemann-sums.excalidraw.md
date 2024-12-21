@@ -18,7 +18,7 @@ Left Riemann Sum ^qUBpGA88
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.4.0",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.6.8",
 	"elements": [
 		{
 			"type": "rectangle",
@@ -265,7 +265,7 @@ Left Riemann Sum ^qUBpGA88
 			"angle": 0,
 			"x": -282.7498272311156,
 			"y": 56.334262669958235,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 248.0994326801311,
 			"height": 251.22774754418708,
@@ -524,7 +524,7 @@ Left Riemann Sum ^qUBpGA88
 			"angle": 0,
 			"x": -601.5020270758931,
 			"y": 56.66199671523327,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 248.0994326801311,
 			"height": 251.22774754418708,
@@ -646,7 +646,7 @@ Left Riemann Sum ^qUBpGA88
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#e06c75",
+		"currentItemStrokeColor": "#d19a66",
 		"currentItemBackgroundColor": "#e9ecef",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 1,
@@ -659,41 +659,41 @@ Left Riemann Sum ^qUBpGA88
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"currentItemArrowType": "round",
-		"scrollX": 741.5257013282478,
-		"scrollY": 301.09461481144626,
+		"scrollX": 532.9690228280215,
+		"scrollY": 300.55284763634876,
 		"zoom": {
-			"value": 2
+			"value": 1.01609
 		},
 		"currentItemRoundness": "sharp",
-		"gridSize": null,
+		"gridSize": 20,
 		"gridStep": 5,
 		"gridModeEnabled": false,
 		"gridColor": {
-			"Bold": "#C9C9C9",
-			"Regular": "#EDEDED"
+			"Bold": "rgba(217, 217, 217, 0.5)",
+			"Regular": "rgba(230, 230, 230, 0.5)"
 		},
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"canvasBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

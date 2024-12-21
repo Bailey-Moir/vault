@@ -152,7 +152,7 @@ const loadPalette = async () => {
   const paletteJSON = parseJSON(sketchPalette);
 
   const colors = paletteJSON
-    ? paletteJSON.colors.map(c=>ea.getCM({r:c.red*255,g:c.green*255,b:c.blue*255,a:c.alpha}).stringHEX({alpha: false}))
+    ? paletteJSON.colors.map(c=>ea.getCM({r:c.orange*255,g:c.green*255,b:c.blue*255,a:c.alpha}).stringHEX({alpha: false}))
     : loadPaletteFromPlainText(sketchPalette);
   const baseColor = ea.getCM(colors[0]);
 

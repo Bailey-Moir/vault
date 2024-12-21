@@ -498,7 +498,7 @@ c88b9d9178f41481e5cd0836efc8561afae7cfdc: $$b$$
 			"angle": 0,
 			"x": -458.5449475738735,
 			"y": -255.86404444863138,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 0,
 			"height": 59.91223292272991,
@@ -616,7 +616,7 @@ c88b9d9178f41481e5cd0836efc8561afae7cfdc: $$b$$
 			"angle": 0,
 			"x": -460.3559459633075,
 			"y": -254.65243638561992,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 185.850119211827,
 			"height": 0,
@@ -835,7 +835,7 @@ c88b9d9178f41481e5cd0836efc8561afae7cfdc: $$b$$
 			"angle": 0,
 			"x": -572.4576397071187,
 			"y": -183.9003579986304,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 86.48135625824662,
 			"height": 45.9364516684107,
@@ -892,7 +892,7 @@ c88b9d9178f41481e5cd0836efc8561afae7cfdc: $$b$$
 			"angle": 0,
 			"x": -572.0790221889749,
 			"y": -183.94038989747105,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 257.076542987303,
 			"height": 299.4159725282798,
@@ -1040,7 +1040,7 @@ c88b9d9178f41481e5cd0836efc8561afae7cfdc: $$b$$
 			"angle": 0,
 			"x": -395.9777753134497,
 			"y": -331.9084526129096,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"width": 234.729826772195,
 			"height": 0,
@@ -1083,7 +1083,7 @@ c88b9d9178f41481e5cd0836efc8561afae7cfdc: $$b$$
 			"angle": 0,
 			"x": -396.664892501311,
 			"y": -331.3624419703485,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"width": 0,
 			"height": 133.5968637973824,
@@ -1441,7 +1441,7 @@ c88b9d9178f41481e5cd0836efc8561afae7cfdc: $$b$$
 			"angle": 0,
 			"x": -158.11032218996695,
 			"y": -182.9052902053951,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 86.48135625824662,
 			"height": 45.9364516684107,
@@ -1498,7 +1498,7 @@ c88b9d9178f41481e5cd0836efc8561afae7cfdc: $$b$$
 			"angle": 0,
 			"x": -157.7317046718232,
 			"y": -182.94532210423574,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 257.076542987303,
 			"height": 299.4159725282798,
@@ -1821,7 +1821,7 @@ c88b9d9178f41481e5cd0836efc8561afae7cfdc: $$b$$
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#e06c75",
+		"currentItemStrokeColor": "#d19a66",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
@@ -1850,25 +1850,25 @@ c88b9d9178f41481e5cd0836efc8561afae7cfdc: $$b$$
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"canvasBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

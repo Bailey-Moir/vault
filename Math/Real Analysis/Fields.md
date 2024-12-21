@@ -10,36 +10,32 @@ A field $\F$ is a [[Sets|set]] with two [[Binary Operations|binary operations]] 
 # Field Properties
 - $\forall a \in \F, 0a = 0$
 > [!proof]-
-> Starting point, additive identity rule to 0:
-> $$0 = 0 + 0$$
-> Now multiply by $a$:
 > $$\begin{align*}
-> 	a\times0 &= a\times(0+0) \\
-> \end{align*}$$
-> Next, apply the distributive property and the additive inverse of $a\times0$.
-> $$\begin{align*}
-> a\times0 - a\times0 &= a\times0 + a\times0 - a\times0 \\
-> 0 &= a\times0
+> 	0 &= 0 + 0 && \text{Additive Identity} \\
+> 	0a &= a\left( 0+0 \right) \\
+> 	0a &= 0a + 0a && \text{Distributive Property} \\
+> 	0a - 0a &= 0a + 0a - 0a \\
+> 	0 &= 0a && \text{Additive Inverse} \\
 > \end{align*}$$
 - $\forall a\in \F$, its additive inverse is $-a= (-1)a$.
 > [!proof]-
-> Start with $0 = 1 - 1$ (where $0$ is the additive identity and $1$ is the multiplicative identity), multiply by $a$:
 > $$\begin{align*}
-> 	a \times 0 &= a \times 1 + a\times (-1) \\
-> 	0 &= a + (-1)a \\
+> 	0 &= 1 + (-1) && \text{Additive Inverse} \\
+> 	0a &= 1a + (-1)a && \text{Distributive Property}\\
+> 	0 &= a + (-1)a && \forall a \in \F, 0a = 0 \\
 > \end{align*}$$
-> Therefore, $(-1)a$ is the additive inverse
+> Therefore, $(-1)a$ is the *unique* additive inverse
 - $\forall a,b\in \F, -(ab) = (-a)b = a(-b)$
 > [!proof]-
 > $$\begin{array}{l}
 > 	\begin{align*}
-> 		(-a)b &= (-1)ab \\
-> 		&= (-1)(ab) && \text{Associativity} \\
-> 		&= -(ab)\\
+> 		(-a)b &= (-1)ab && \forall a\in \F, -a= (-1)a \\
+> 		&= (-1)(ab) && \text{Associativity of Multiplication} \\
+> 		&= -(ab) && \forall a\in \F, -a= (-1)a \\
 > 		\\
-> 		a(-b) &= a(-1)b \\
-> 		&= (-1)ab && \text{Commutativity} \\
-> 		&= (-1)(ab) && \text{Associativity} \\
-> 		&= -(ab) \\
+> 		a(-b) &= a(-1)b && \forall a\in \F, -a= (-1)a \\
+> 		&= (-1)ab && \text{Commutativity of Multiplication} \\
+> 		&= (-1)(ab) && \text{Associativity of Multiplication} \\
+> 		&= -(ab) && \forall a\in \F, -a= (-1)a \\
 > 	\end{align*} \\
 > \end{array}$$

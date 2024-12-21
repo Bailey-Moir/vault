@@ -3,7 +3,7 @@ tags:
   - atom
   - learning
 ---
-When an item is [[Types of Encoding|encoded]], it enters the **short-term store** (**STS**). The STS is thought to be a fixed size. While in STS, there are three types of association it can go through with the **long-term store** (**LTS**):
+When an item is [[Types of Encoding|encoded]], it enters the **short-term store** (**STS**). The STS is thought to be a fixed size. While in the STS, there are three types of association it can go through with the **long-term store** (**LTS**):
 - **Autoassociation**
   The association between the cue-stimulus and the (potentially new) entry in the LTS.
   *e.g. associating a cue-card with the information on the other side, associating the idea of [[Fundamental Theorem of Calculus|FTC]] with its two rules.*

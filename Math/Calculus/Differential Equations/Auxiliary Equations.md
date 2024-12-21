@@ -3,7 +3,7 @@ tags:
   - atom
   - math
 ---
-The solution of [[Linearity|linear]] [[Homogeneous Differential Equations|homogeneous]] constant coefficient DEs rely upon the *auxiliary equation*. 
+The solution of [[Linear Differential Equations|linear]] [[Homogeneous Differential Equations|homogeneous]] constant coefficient DEs rely upon the *auxiliary equation*. 
 $$a_n\dfrac{d^ny}{{dx}^n} + a_{n-1}\dfrac{d^{n-1}y}{{dx}^{n-1}} + \dots + a_1\dfrac{dy}{dx} + a_0y = 0 \hspace{2em}\ni \forall n, a_n \text{ is constant}$$
 will have an *auxiliary equation* of
 $$a_nm^n + a_{n-1}m^{n-1} + \dots + a_1m + a_0 = 0 \hspace{2em}\ni \forall n, a_n \text{ is constant}$$

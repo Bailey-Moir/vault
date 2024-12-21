@@ -9,9 +9,9 @@ $$i,i+1^2,i+2^2, i+3^2, \cdots$$
 > You can use the fact that $\forall x \in \Z^+, x^2 = \sum_{k=1}^x(2k-1)$ to calculate the next index [[Recursion|recursively]]. If $f(x)$ calculates the index after $x$ collisions, $i$ is the starting index, and $n$ is the number of slots,
 > $$\begin{align*}
 > 	f(x) &= i + x^2 &&\text{in } \Z_{n} \\
-> 	&= i + \sum_{k=1}^x(2k-1)
+> 	&= i + \sum_{k=1}^x(2k-1),
 > \end{align*}$$
-> Which gievs
+> which gives
 > $$\begin{align*}
 > 	f(x) - f(x-1) &\equiv i + \sum_{k=1}^x(2k-1) - i - \sum_{k=1}^{x-1}(2k-1) \\
 > 	&= \sum_{k=1}^x(2k-1) - \sum_{k=1}^{x-1}(2k-1) \\

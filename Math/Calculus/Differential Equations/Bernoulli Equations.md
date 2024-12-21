@@ -19,4 +19,4 @@ Same as ODE ($n = 0$) with [[Integrating Factor Method|integrating factor method
 >	\therefore \displaystyle y^{1-n} = \dfrac{1}{\mu} (1-n) \int q(x) \mu \, dx && (2) \\
 >	\phantom{\therefore\therefore}\displaystyle \text{where } \mu = e^{(1-n)\int p(x) \, dx} \\
 >\end{array}$$
-	> \[$(1)$ [[Linearity]], $(2)$ [[Integrating Factor Method]]\]
+	> \[$(1)$ [[Linear Differential Equations]], $(2)$ [[Integrating Factor Method]]\]

@@ -49,7 +49,7 @@ var h = require("obsidian"),
                 }, 20);
                 setTimeout(() => {
                     clearInterval(n)
-                }, 5e3)
+                }, 10e3)
             })
         }
     };
