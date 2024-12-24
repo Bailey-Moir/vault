@@ -14,12 +14,14 @@ More generally,
 $$ \forall i \in \Z, S: \Z_{\ge i} \to \B, \left( S(i) \land \left( \forall k \in \Z_{\ge i}, S(k) \to S(k+1) \right) \implies \forall n \in \Z_{\ge i}, S(n) \right) $$
 
 >[!proof]-
-> If $S(n)$ is not true for some $n \in \Z_{\ge i}$, then there is a [[Subsets|subset]] $T$ of $\Z_{\ge i}$ for which $S(n)$ is false.
-> Let $m$ be the smallest integer of $T$.
-> From the first [[Argument|premise]], $m \ne i$, so $m > i$.
-> Let $k = m-1$. Then, by the minimality of $m$, $S(k)$ holds.
-> Therefore, by the second [[Argument|premise]], $S(k+1)$ holds. 
-> But $k+1 = m$, so $S(m)$ holds; a contradiction.
+> Suppose $S(n)$ is not true for some $n \in \Z_{\ge i}$.
+> 
+> Then there is a [[Empty Set|non-empty]] [[Subsets|subset]] $A$ of $\Z_{\ge i}$ for which $S(n)$ is false. Let $m$ be the smallest integer of $A$. From the first [[Argument|premise]] ($S(1)$), $m \ne i$, so $m > i$.
+> 
+> Let $k = m-1$. By the minimality of $m$, $S(k)$ holds. Therefore, by the second [[Argument|premise]] ($S(k)\to S(k+1)$), $S(k+1)$ holds. But $k+1 = m$, so $S(m)$ holds; a [[Contradictions|contradiction]].
+> 
+> Thus, $\neg \exists n \in \Z_{\ge i} : \neg S(n)$;  $\forall n \in \Z_{\ge i} : S(n)$
+> 
 > \[[[Proof by Contradiction]]\]
 
 > [!example]-

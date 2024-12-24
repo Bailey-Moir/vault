@@ -3,7 +3,7 @@ tags:
   - atom
   - math
 ---
-Suppose $V_1, \dots, V_m$ are [[Subspaces|subspaces]] of [[Vector Spaces|vector space]] $V$. The sum of these [[Subspaces|subspaces]], denoted by $V_1 + \dots + V_m$, is the set of all possible sums of elements in $V_1, \dots V_m$. More precisely:
+If $V_{1},\dots,V_{m}$ are [[Subspaces|subspaces]] of $V$, $V_1 + \dots + V_m$ is the set of possible sums of elements in $V_1, \dots V_m$;
 $$ V_1 + \dots + V_m = \left\{ \vecbf{v}_1 + \dots + \vecbf{v}_m : \vecbf{v}_1 \in V_1, \dots, \vecbf{v}_m \in V_m \right\} $$
 
 >[!proof]- $V_1 + \dots + V_m$ is the smallest subspace of $V$ containing $V_1,\dots,V_m$.

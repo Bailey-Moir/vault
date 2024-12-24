@@ -7,7 +7,7 @@ For any $A\in\mathcal{M}(m,n)$[^1] and $\vecbf{v}\in\R^n$,
 $$A\vecbf{v}=A\begin{bmatrix}
 	v_{1} \\
 	v_{2} \\
-	\dots \\
+	\vdots \\
 	v_{n}
 \end{bmatrix} = v_{1}A\vecbf{e}_{1} + v_{2}A\vecbf{e}_{2} + \dots + v_{n}A\vecbf{e}_{n}$$
 > [!note]- 2x2 Version

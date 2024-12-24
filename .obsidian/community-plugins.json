@@ -3,12 +3,13 @@
   "omnisearch",
   "persistent-graph",
   "obsidian-latex-suite",
-  "latex-callouts",
   "obsidian-icon-folder",
   "folder-notes",
   "file-explorer-plus",
   "file-explorer-note-count",
   "obsidian-latex",
   "avatar",
-  "hide-properties"
+  "hide-properties",
+  "obsidian-prozen",
+  "latex-callouts"
 ]

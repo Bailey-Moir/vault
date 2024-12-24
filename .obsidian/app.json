@@ -12,5 +12,6 @@
   },
   "propertiesInDocument": "visible",
   "showRibbon": false,
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "showLineNumber": true
 }

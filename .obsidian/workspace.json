@@ -4,22 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "09a0d5d47a94e0ab",
+        "id": "59522a7791c06820",
         "type": "tabs",
         "children": [
           {
-            "id": "3c287c8453077bf4",
+            "id": "097b6591e66a61e9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Math/Calculus/Umbral Calculus/Linearity.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
+                "file": "Math/Linear Algebra/Done Right/Done Right.canvas",
+                "viewState": {
+                  "x": 563.5269472122027,
+                  "y": 140.16099733609963,
+                  "zoom": -1.5560385058209256
+                }
               },
-              "icon": "lucide-file",
-              "title": "Linearity"
+              "icon": "lucide-layout-dashboard",
+              "title": "Done Right"
             }
           }
         ]
@@ -78,7 +80,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Math/Calculus/Umbral Calculus/Linearity.md",
+                "file": "Math/Linear Algebra/Done Right/Done Right.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -106,7 +108,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Linearity"
+              "title": "Graph of Done Right"
             }
           }
         ]
@@ -200,35 +202,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3c287c8453077bf4",
+  "active": "097b6591e66a61e9",
   "lastOpenFiles": [
-    "Math/Calculus/Umbral Calculus/Forward Difference Operation.md",
-    "Math/Calculus/Umbral Calculus/Linearity.md",
-    "Math/Calculus/Umbral Calculus/Indefinite Sum.md",
-    "Math/Calculus/Umbral Calculus/Fundamental Theorem of Discrete Calculus.md",
-    "Math/Calculus/Umbral Calculus/Falling Powers.md",
-    "Math/Calculus/Integration/Fundamental Theorem of Calculus.md",
-    "Math/Calculus/Differentiation/Differentials.md",
-    "Math/Calculus/Limits/Continuity of Combined Functions.md",
-    "Math/Algebra/Functions/Types of Functions.md",
-    "Math/Algebra/Functions/Transforming Functions.md",
-    "Math/Algebra/Functions/Polynomial and Linear Functions.md",
-    "Math/Algebra/Functions/Increasing and Decreasing Functions.md",
-    "Math/Algebra/Functions/Even and Odd Functions.md",
-    "Math/Algebra/Functions/Equality of Functions.md",
-    "Math/Algebra/Functions/Algebraic and Transcendental Functions.md",
-    "Math/Discrete/Set Theory/Functions/Surjective Functions.md",
-    "Math/Discrete/Set Theory/Functions/Range.md",
-    "Math/Discrete/Set Theory/Functions/Inverse Functions.md",
-    "Math/Discrete/Set Theory/Functions/Injective Functions.md",
-    "Math/Discrete/Set Theory/Functions/Domain.md",
-    "Math/Discrete/Set Theory/Functions/Composite Functions.md",
-    "Math/Discrete/Set Theory/Functions/Codomain.md",
-    "Math/Discrete/Set Theory/Functions/Bijective Functions.md",
-    "Math/Discrete/Set Theory/Functions/Functions.md",
-    "Math/Discrete/Number Theory/Modular Arithmetic/Congruence.md",
-    "Math/Linear Algebra/Done Right/Basics/Sets of Functions.md",
-    "Math/Calculus/Umbral Calculus",
+    "Math/Linear Algebra/Done Right/Linear Independence.md",
+    "Math/Linear Algebra/Done Right/Done Right.canvas",
+    "Math/Linear Algebra/Done Right/Basis Reduction and Extension Theorem.md",
+    "Math/Linear Algebra/Done Right.canvas",
+    "Math/Linear Algebra/Linear Algebra MOC.canvas",
+    "Math/Linear Algebra/Done Right/Linear Combinations.md",
+    "Math/Linear Algebra/Linear Algebra.md",
+    "Math/Linear Algebra/Done Right/Subspace Complement Theorem.md",
+    "Math/Discrete/Propositional Logic/Arguments and Proofs/Induction.md",
+    "Math/Discrete/Set Theory/Basics/Subsets.md",
+    "Physics/Electricity/Inductors.md",
+    "Math/Linear Algebra/Done Right/Finite-Dimensional Vector Spaces.md",
+    "Math/Discrete/Propositional Logic/Arguments and Proofs/Lemmas.md",
+    "Math/Linear Algebra/Done Right/Basis.md",
+    "Math/Linear Algebra/Done Right/Steinitz Exchange Lemma.md",
+    "Math/Linear Algebra/Vectors/Definitions/Basis Vectors.md",
+    "Blog Ideas.md",
+    "Courses.md",
+    "Law of Diminishing Marginal Utility.md",
+    "Untitled.md",
+    "Sum of Spans.md",
+    "Math/Linear Algebra/Done Right/Dimension.md",
+    "Math/Linear Algebra/Done Right/Direct Sums.md",
+    "Math/Linear Algebra/Done Right/Vector Spaces.md",
+    "Computer Science/Abstract Data Types/Hash Tables/Linear Probing.md",
+    "Math/Linear Algebra/Done Right/Span.md",
+    "Math/Linear Algebra/Done Right/Linear Dependence Lemma.md",
+    "Math/Linear Algebra/Done Right/Basics/Polynomials.md",
+    "Math/Calculus/Operational Calculus",
     "Assets/treble-clef-Recovered.png",
     "Assets/treble-clef.png",
     "Assets/excali/scripts/Downloaded/Concatenate lines.svg",
@@ -245,7 +249,6 @@
     "Assets/excali/scripts",
     "Math/Calculus/Limits/Limits.canvas",
     "Lecture Notes",
-    "Math/Linear Algebra/Linear Algebra.canvas",
     "Assets/Pasted image 20240228143304.png",
     "Assets/Pasted image 20240226153111.png",
     "Assets/Pasted image 20240304144131.png",

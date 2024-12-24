@@ -1,3454 +1,3494 @@
 {
   "nodePositions": [
     {
-      "id": "Statistics/Structure of Data/Confounding Variables and Spurious Correlation.md",
-      "x": 3598.973876953125,
-      "y": -3199.19921875
-    },
-    {
-      "id": "Statistics/Structure of Data/Control Groups.md",
-      "x": 3402.427490234375,
-      "y": -3019.395263671875
-    },
-    {
-      "id": "Statistics/Structure of Data/Double-Blind.md",
-      "x": 3225.848876953125,
-      "y": -2913.925048828125
-    },
-    {
-      "id": "Statistics/Structure of Data/Experimental and Observational Studies.md",
-      "x": 3390.34619140625,
-      "y": -3466.932861328125
-    },
-    {
-      "id": "Statistics/Structure of Data/Explanatory and Response Variables.md",
-      "x": 2943.857666015625,
-      "y": -3698.675537109375
-    },
-    {
-      "id": "Statistics/Structure of Data/Population v. Sample.md",
-      "x": 2085.982177734375,
-      "y": -4264.38330078125
-    },
-    {
-      "id": "Statistics/Structure of Data/Randomisation Experiments.md",
-      "x": 3155.41162109375,
-      "y": -3251.724853515625
-    },
-    {
-      "id": "Statistics/Structure of Data/Response and Non-Response Bias.md",
-      "x": 3439.71875,
-      "y": -3742.8046875
-    },
-    {
-      "id": "Statistics/Structure of Data/Sampling Bias.md",
-      "x": 3873.286865234375,
-      "y": -2583.524169921875
-    },
-    {
-      "id": "Statistics/Structure of Data/Simple Random Sampling.md",
-      "x": 4040.607421875,
-      "y": -2816.64306640625
-    },
-    {
-      "id": "Statistics/Structure of Data/Statistical Inference.md",
-      "x": 1779.2518310546875,
-      "y": -3860.37158203125
-    },
-    {
-      "id": "Statistics/Structure of Data/Statistics and Parameters.md",
-      "x": 969.6331176757812,
-      "y": -3651.072998046875
-    },
-    {
-      "id": "Statistics/Structure of Data/Variable Types.md",
-      "x": 1015.34228515625,
-      "y": -4254.98681640625
-    },
-    {
-      "id": "Statistics/The 3 Steps of Statistics.md",
-      "x": 3463.598876953125,
-      "y": -2522.604736328125
-    },
-    {
-      "id": "Statistics/Variance.md",
-      "x": 668.885986328125,
-      "y": -2884.238525390625
-    },
-    {
-      "id": "Statistics/t-distributions.md",
-      "x": 1483.866943359375,
-      "y": -3697.853515625
-    },
-    {
-      "id": "Test Statistic",
-      "x": 1265.3873291015625,
-      "y": -4293.49853515625
-    },
-    {
-      "id": "Normal Distributions",
-      "x": 575.3112182617188,
-      "y": -3665.86083984375
-    },
-    {
-      "id": "Computer Science/Abstract Data Types/Abstract Data Types.md",
-      "x": -3052.15771484375,
-      "y": -3055.760009765625
-    },
-    {
-      "id": "Computer Science/Abstract Data Types/Deques.md",
-      "x": -2749.933349609375,
-      "y": -3094.563720703125
-    },
-    {
-      "id": "Computer Science/Abstract Data Types/Graphs.md",
-      "x": -3018.29150390625,
-      "y": -174.8578338623047
-    },
-    {
-      "id": "Multigraphs",
-      "x": -3268.384521484375,
-      "y": -422.3460388183594
-    },
-    {
-      "id": "Directed Graphs",
-      "x": -2706.46142578125,
-      "y": -651.6502075195312
-    },
-    {
-      "id": "Computer Science/Abstract Data Types/Hash Tables/Chaining.md",
-      "x": -2879.7490234375,
-      "y": -3642.857666015625
-    },
-    {
-      "id": "Computer Science/Abstract Data Types/Hash Tables/Hash Tables.md",
-      "x": -2547.03955078125,
-      "y": -3535.640869140625
-    },
-    {
-      "id": "Computer Science/Abstract Data Types/Hash Tables/Hash.md",
-      "x": -2342.847900390625,
-      "y": -3788.42236328125
-    },
-    {
-      "id": "Computer Science/Abstract Data Types/Hash Tables/Linear Probing.md",
-      "x": -2096.294189453125,
-      "y": -3514.056884765625
-    },
-    {
-      "id": "Computer Science/Abstract Data Types/Hash Tables/Load Factor.md",
-      "x": -2784.616455078125,
-      "y": -3893.65234375
-    },
-    {
-      "id": "Computer Science/Abstract Data Types/Hash Tables/Open Addressing.md",
-      "x": -2332.30615234375,
-      "y": -3395.580810546875
-    },
-    {
-      "id": "Computer Science/Abstract Data Types/Hash Tables/Quadratic Probing.md",
-      "x": -2032.2103271484375,
-      "y": -3094.986328125
-    },
-    {
-      "id": "Computer Science/Abstract Data Types/Hash Tables/Rehashing.md",
-      "x": -2612.406494140625,
-      "y": -3860.9970703125
-    },
-    {
-      "id": "Computer Science/Abstract Data Types/Heaps/Binary Heaps.md",
-      "x": -2366.374267578125,
-      "y": -2541.10205078125
-    },
-    {
-      "id": "Computer Science/Abstract Data Types/Heaps/Heapify.md",
-      "x": -2572.8310546875,
-      "y": -2347.58984375
-    },
-    {
-      "id": "Computer Science/Abstract Data Types/Heaps/Heaps.md",
-      "x": -2602.920166015625,
-      "y": -2657.066650390625
-    },
-    {
-      "id": "Computer Science/Abstract Data Types/Heaps/d-Heaps.md",
-      "x": -2442.086669921875,
-      "y": -1979.4237060546875
-    },
-    {
-      "id": "Computer Science/Abstract Data Types/Linked Lists/Circular Linked Lists.md",
-      "x": -3416.5810546875,
-      "y": -3150.685546875
-    },
-    {
-      "id": "Computer Science/Abstract Data Types/Linked Lists/Double-Linked List.md",
-      "x": -3121.721923828125,
-      "y": -3364.334228515625
-    },
-    {
-      "id": "Computer Science/Abstract Data Types/Linked Lists/Linked Lists.md",
-      "x": -3424.179931640625,
-      "y": -3400.548095703125
-    },
-    {
-      "id": "Computer Science/Abstract Data Types/Linked Lists/Lists vs. Linked Lists.md",
-      "x": -3702.0146484375,
-      "y": -3516.4462890625
-    },
-    {
-      "id": "Computer Science/Abstract Data Types/Linked Lists/Ordered Linked Lists.md",
-      "x": -3160.482421875,
-      "y": -3502.681396484375
-    },
-    {
-      "id": "Computer Science/Abstract Data Types/Priority Queues.md",
-      "x": -2348.030029296875,
-      "y": -2320.8837890625
-    },
-    {
-      "id": "Computer Science/Abstract Data Types/Queues.md",
-      "x": -2805.289306640625,
-      "y": -2654.2861328125
-    },
-    {
-      "id": "Computer Science/Abstract Data Types/Stacks.md",
-      "x": -3096.522705078125,
-      "y": -2279.1044921875
-    },
-    {
-      "id": "Computer Science/Abstract Data Types/Trees/Binary Search Trees.md",
-      "x": -3659.6103515625,
-      "y": -2569.9560546875
-    },
-    {
-      "id": "Computer Science/Abstract Data Types/Trees/Binary Trees.md",
-      "x": -3185.241943359375,
-      "y": -2382.9677734375
-    },
-    {
-      "id": "Computer Science/Abstract Data Types/Trees/Definitions/Leaf Nodes.md",
-      "x": -2792.229736328125,
-      "y": -2174.14404296875
-    },
-    {
-      "id": "Computer Science/Abstract Data Types/Trees/Definitions/Node Level.md",
-      "x": -3500.600830078125,
-      "y": -2187.19189453125
-    },
-    {
-      "id": "Computer Science/Abstract Data Types/Trees/Definitions/Parent, Children, and Sibling Nodes.md",
-      "x": -2839.73779296875,
-      "y": -2402.124267578125
-    },
-    {
-      "id": "Computer Science/Abstract Data Types/Trees/Definitions/Root.md",
-      "x": -3108.91015625,
-      "y": -2665.068603515625
-    },
-    {
-      "id": "Computer Science/Abstract Data Types/Trees/Definitions/Tree Height.md",
-      "x": -3833.912841796875,
-      "y": -2420.687255859375
-    },
-    {
-      "id": "Computer Science/Abstract Data Types/Trees/Parse Trees.md",
-      "x": -3687.924072265625,
-      "y": -2888.00244140625
-    },
-    {
-      "id": "Computer Science/Abstract Data Types/Trees/Search Trees.md",
-      "x": -3892.861572265625,
-      "y": -2756.412109375
-    },
-    {
-      "id": "Computer Science/Abstract Data Types/Trees/Tree Traversal.md",
-      "x": -3339.369873046875,
-      "y": -2043.451904296875
-    },
-    {
-      "id": "Computer Science/Abstract Data Types/Trees/Trees.md",
-      "x": -3445.19287109375,
-      "y": -2621.695068359375
-    },
-    {
-      "id": "Computer Science/Algorithm.md",
-      "x": -1252.9161376953125,
-      "y": -3936.672607421875
-    },
-    {
-      "id": "Computer Science/Algorithms/Euclidean Greatest Common Divisor Algorithm.md",
-      "x": -2138.4091796875,
-      "y": 1038.660888671875
-    },
-    {
-      "id": "Computer Science/Algorithms/Primes Algorithms/MillarRabin.md",
-      "x": -4413.9248046875,
-      "y": -2397.083984375
-    },
-    {
-      "id": "Computer Science/Algorithms/Primes Algorithms/Sieve of Eratosthenes.md",
-      "x": -2815.61376953125,
-      "y": 1988.4437255859375
-    },
-    {
-      "id": "Computer Science/Algorithms/Primes Algorithms/Trial Division.md",
-      "x": -1146.639892578125,
-      "y": -4847.2333984375
-    },
-    {
-      "id": "Computer Science/Algorithms/Search Algorithms/Binary Search.md",
-      "x": -1390.62841796875,
-      "y": -4538.56103515625
-    },
-    {
-      "id": "Computer Science/Algorithms/Search Algorithms/Sequential Search.md",
-      "x": -1655.4874267578125,
-      "y": -2737.281982421875
-    },
-    {
-      "id": "Computer Science/Algorithms/Sorting Algorithms/Bogo Sort.md",
-      "x": -560.0591430664062,
-      "y": -1957.9173583984375
-    },
-    {
-      "id": "Computer Science/Algorithms/Sorting Algorithms/Bubble Sort.md",
-      "x": -1096.9605712890625,
-      "y": -2262.02294921875
-    },
-    {
-      "id": "Computer Science/Algorithms/Sorting Algorithms/Heap Sort.md",
-      "x": -2003.402099609375,
-      "y": -2384.17626953125
-    },
-    {
-      "id": "Computer Science/Algorithms/Sorting Algorithms/Insertion Sort.md",
-      "x": -1570.84326171875,
-      "y": -2071.640625
-    },
-    {
-      "id": "Computer Science/Algorithms/Sorting Algorithms/Merge Sort.md",
-      "x": -1137.3975830078125,
-      "y": -2883.0380859375
-    },
-    {
-      "id": "Computer Science/Algorithms/Sorting Algorithms/Quick Sort.md",
-      "x": -1078.7425537109375,
-      "y": -3461.82763671875
-    },
-    {
-      "id": "Computer Science/Algorithms/Sorting Algorithms/Selection Sort.md",
-      "x": -1560.8011474609375,
-      "y": -2356.3525390625
-    },
-    {
-      "id": "Computer Science/Algorithms/Sorting Algorithms/Shell Sort.md",
-      "x": -1232.187744140625,
-      "y": -1173.6107177734375
-    },
-    {
-      "id": "Computer Science/Algorithms/Trees/Breadth First Search.md",
-      "x": -2689.62744140625,
-      "y": -1787.1439208984375
-    },
-    {
-      "id": "Computer Science/Algorithms/Trees/Depth First Search.md",
-      "x": -3131.11474609375,
-      "y": -1595.4857177734375
-    },
-    {
-      "id": "Computer Science/Algorithms/Trees/Dijkstra's Algorithm.md",
-      "x": -2872.697998046875,
-      "y": -1899.5732421875
-    },
-    {
-      "id": "Computer Science/Algorithms/Trees/Kruskal's Algorithm.md",
-      "x": -2520.83203125,
-      "y": -1127.3492431640625
-    },
-    {
-      "id": "Computer Science/Algorithms/Trees/Prim's Algorithm.md",
-      "x": -2711.859619140625,
-      "y": -1264.292724609375
-    },
-    {
-      "id": "Computer Science/Asymptotic Analysis.md",
-      "x": -863.31005859375,
-      "y": -1941.21337890625
-    },
-    {
-      "id": "Computer Science/Cryptohack/ASCII.md",
-      "x": -986.7385864257812,
-      "y": -4548.65625
-    },
-    {
-      "id": "Computer Science/Cryptohack/Base64.md",
-      "x": -1042.6982421875,
-      "y": -4262.9345703125
-    },
-    {
-      "id": "Computer Science/Cryptohack/Hexadecimal.md",
-      "x": -1608.735595703125,
-      "y": -3798.015625
-    },
-    {
-      "id": "Computer Science/Cryptohack/Strings as Numbers.md",
-      "x": 1580.104736328125,
-      "y": 956.7748413085938
-    },
-    {
-      "id": "Computer Science/Prefix, Infix, and Postfix Notation.md",
-      "x": -2647.649658203125,
-      "y": -1525.127197265625
-    },
-    {
-      "id": "Computer Science/Recursion.md",
-      "x": -1519.27734375,
-      "y": -3296.168212890625
-    },
-    {
-      "id": "Japanese/Languages & Nationalities.md",
-      "x": 4238.06396484375,
-      "y": -32.941741943359375
-    },
-    {
-      "id": "Japanese/Not.md",
-      "x": 4475.2265625,
-      "y": 363.0088806152344
-    },
-    {
-      "id": "Japanese/Particles.md",
-      "x": 4543.783203125,
-      "y": 963.5756225585938
-    },
-    {
-      "id": "Na-adjectives",
-      "x": 4838.380859375,
-      "y": 937.2327880859375
-    },
-    {
-      "id": "Japanese/Possession.md",
-      "x": 4851.1826171875,
-      "y": 550.6694946289062
-    },
-    {
-      "id": "Japanese/States of Being.md",
-      "x": 3322.344970703125,
-      "y": 3838.020751953125
-    },
-    {
-      "id": "Japanese/Subjects of Sentences.md",
-      "x": 4747.98876953125,
-      "y": 255.73477172851562
-    },
-    {
-      "id": "Japanese/This, That, There, Etc.md",
-      "x": 4557.60107421875,
-      "y": 660.476318359375
-    },
-    {
-      "id": "Japanese/Time.md",
-      "x": 5006.79833984375,
-      "y": 136.9851531982422
-    },
-    {
-      "id": "Law of Diminishing Marginal Utility.md",
-      "x": -1565.8594970703125,
-      "y": -4778.7236328125
-    },
-    {
-      "id": "Learning/Chunking.md",
-      "x": -936.498046875,
-      "y": 3051.115478515625
-    },
-    {
-      "id": "Learning/Forgetting Curve.md",
-      "x": -259.6761779785156,
-      "y": 2869.23974609375
-    },
-    {
-      "id": "Learning/Neural Network Model.md",
-      "x": -3160.578369140625,
-      "y": -1073.5762939453125
-    },
-    {
-      "id": "Learning/Search of Associative Memory.md",
-      "x": -322.80877685546875,
-      "y": 2568.551513671875
-    },
-    {
-      "id": "Learning/Types of Encoding.md",
-      "x": -650.9406127929688,
-      "y": 2885.87548828125
-    },
-    {
-      "id": "Math/Algebra/Algebraic Laws.md",
-      "x": -4681.10595703125,
-      "y": 1513.4534912109375
-    },
-    {
-      "id": "Math/Algebra/Basics/Absolute Values.md",
-      "x": 409.9892578125,
-      "y": -552.85546875
-    },
-    {
-      "id": "Math/Algebra/Basics/Euler's Number.md",
-      "x": 2888.620849609375,
-      "y": 838.7830810546875
-    },
-    {
-      "id": "Math/Algebra/Basics/Exponent Laws.md",
-      "x": 3813.557861328125,
-      "y": 2579.17236328125
-    },
-    {
-      "id": "Math/Algebra/Basics/Exponential Functions.md",
-      "x": 2924.567138671875,
-      "y": 542.7449951171875
-    },
-    {
-      "id": "Math/Algebra/Basics/Inequalities.md",
-      "x": 744.8049926757812,
-      "y": -638.56396484375
-    },
-    {
-      "id": "Math/Algebra/Basics/Intervals.md",
-      "x": 1645.0736083984375,
-      "y": -980.0543212890625
-    },
-    {
-      "id": "Math/Algebra/Basics/Logarithm Laws.md",
-      "x": 3913.4013671875,
-      "y": 3167.050537109375
-    },
-    {
-      "id": "Math/Algebra/Basics/Logarithmic Functions.md",
-      "x": 2573.6767578125,
-      "y": 610.6580200195312
-    },
-    {
-      "id": "Math/Algebra/Complex Numbers/Argand Diagrams.md",
-      "x": 1468.4354248046875,
-      "y": -576.9328002929688
-    },
-    {
-      "id": "Math/Algebra/Complex Numbers/Complex Conjugates.md",
-      "x": 3018.611328125,
-      "y": 3796.03662109375
-    },
-    {
-      "id": "Math/Algebra/Complex Numbers/Complex Modulus.md",
-      "x": 1166.8873291015625,
-      "y": -439.3941345214844
-    },
-    {
-      "id": "Math/Algebra/Complex Numbers/Complex Numbers in Polar Form.md",
-      "x": 1746.2667236328125,
-      "y": 90.30108642578125
-    },
-    {
-      "id": "Math/Algebra/Complex Numbers/Complex Numbers.md",
-      "x": 632.8071899414062,
-      "y": -871.2677001953125
-    },
-    {
-      "id": "Math/Algebra/Complex Numbers/Complex Roots.md",
-      "x": 1795.597900390625,
-      "y": 695.8175659179688
-    },
-    {
-      "id": "Math/Algebra/Complex Numbers/De Moivre's Formula.md",
-      "x": 1527.201171875,
-      "y": 1364.067626953125
-    },
-    {
-      "id": "Math/Algebra/Complex Numbers/Euler's Formula.md",
-      "x": 1964.0372314453125,
-      "y": 380.9410400390625
-    },
-    {
-      "id": "Math/Algebra/Complex Numbers/Rectangular Form.md",
-      "x": 2100.7373046875,
-      "y": 269.1931457519531
-    },
-    {
-      "id": "Math/Algebra/Coordinate Forms/Parametric Area.md",
-      "x": 1849.89892578125,
-      "y": 4033.872314453125
-    },
-    {
-      "id": "Atoms/Calculus/Integration/Integration",
-      "x": 1677.577392578125,
-      "y": 3774.984619140625
-    },
-    {
-      "id": "Math/Algebra/Coordinate Forms/Parametric Form.md",
-      "x": 1979.8511962890625,
-      "y": 3733.693603515625
-    },
-    {
       "id": "Atoms/Calculus/Linear Algebra/Vectors/Vectors",
-      "x": 2172.192138671875,
-      "y": 3974.0986328125
-    },
-    {
-      "id": "Math/Algebra/Coordinate Forms/Polar Arc Length Formula.md",
-      "x": 1986.353759765625,
-      "y": 3296.445556640625
-    },
-    {
-      "id": "Math/Algebra/Coordinate Forms/Polar Area.md",
-      "x": 2662.68017578125,
-      "y": 1709.158935546875
-    },
-    {
-      "id": "Math/Algebra/Coordinate Forms/Polar Form.md",
-      "x": 2636.21337890625,
-      "y": 1188.156005859375
-    },
-    {
-      "id": "Math/Algebra/Coordinate Forms/Slope and Concavity of Parametric Form.md",
-      "x": 2286.850341796875,
-      "y": 3702.424560546875
-    },
-    {
-      "id": "Math/Algebra/Coordinate Forms/Slope of Polar Form.md",
-      "x": 2498.353271484375,
-      "y": 1487.72998046875
-    },
-    {
-      "id": "Math/Algebra/Functions/Algebraic and Transcendental Functions.md",
-      "x": 2979.574462890625,
-      "y": 306.4112243652344
-    },
-    {
-      "id": "Math/Algebra/Functions/Equality of Functions.md",
-      "x": 4054.31396484375,
-      "y": 2330.577392578125
-    },
-    {
-      "id": "Math/Algebra/Functions/Even and Odd Functions.md",
-      "x": 1101.0821533203125,
-      "y": 848.282470703125
-    },
-    {
-      "id": "Math/Algebra/Functions/Increasing and Decreasing Functions.md",
-      "x": 1150.7044677734375,
-      "y": 171.7373504638672
-    },
-    {
-      "id": "Math/Algebra/Functions/Polynomial and Linear Functions.md",
-      "x": 3598.315185546875,
-      "y": 637.0765380859375
-    },
-    {
-      "id": "Math/Algebra/Functions/Transforming Functions.md",
-      "x": 3124.50439453125,
-      "y": 3056.970458984375
-    },
-    {
-      "id": "Math/Algebra/Functions/Types of Functions.md",
-      "x": 3279.9150390625,
-      "y": 545.0272216796875
-    },
-    {
-      "id": "Math/Algebra/Lambert W Function.md",
-      "x": 945.1000366210938,
-      "y": 454.1047058105469
-    },
-    {
-      "id": "Math/Algebra/Partial Fraction Decomposition.md",
-      "x": 3791.9384765625,
-      "y": 469.4574279785156
-    },
-    {
-      "id": "Math/Calculus/Integration/Integration",
-      "x": 4099.935546875,
-      "y": 543.7777709960938
-    },
-    {
-      "id": "Math/Algebra/Sequences & Series/Sequences & Series",
-      "x": 4037.214599609375,
-      "y": 266.86883544921875
-    },
-    {
-      "id": "Math/Algebra/Sequences & Series/Sequences/Bounded Sequences.md",
-      "x": 2819.134765625,
-      "y": -1460.6004638671875
-    },
-    {
-      "id": "Math/Algebra/Sequences & Series/Sequences/Comparison Theorem for Sequences.md",
-      "x": 2956.8095703125,
-      "y": -2015.4429931640625
-    },
-    {
-      "id": "Math/Algebra/Sequences & Series/Sequences/Convergence and Divergence of Sequences.md",
-      "x": 1608.031005859375,
-      "y": -1186.6336669921875
-    },
-    {
-      "id": "Math/Calculus/Limits/Limits",
-      "x": 1990.5439453125,
-      "y": -1273.7730712890625
-    },
-    {
-      "id": "Math/Algebra/Sequences & Series/Sequences/Extending Sequences.md",
-      "x": 1125.8607177734375,
-      "y": -730.0313110351562
-    },
-    {
-      "id": "Math/Algebra/Sequences & Series/Sequences/Fibonacci Sequence.md",
-      "x": 640.8759765625,
-      "y": -1695.8931884765625
-    },
-    {
-      "id": "Math/Algebra/Sequences & Series/Sequences/Limits of Recursive Sequences.md",
-      "x": 959.5966796875,
-      "y": -1387.6630859375
-    },
-    {
-      "id": "Math/Algebra/Sequences & Series/Sequences/Monotone Convergence Theorem.md",
-      "x": 2171.229736328125,
-      "y": -1419.0543212890625
-    },
-    {
-      "id": "Math/Algebra/Sequences & Series/Sequences/Monotonic Sequences.md",
-      "x": 1382.5838623046875,
-      "y": -1239.4818115234375
-    },
-    {
-      "id": "Math/Algebra/Sequences & Series/Sequences/Sequences.md",
-      "x": 419.29052734375,
-      "y": -1450.2061767578125
-    },
-    {
-      "id": "Math/Algebra/Sequences & Series/Series/Definitions/Summand.md",
-      "x": 1792.212890625,
-      "y": -1507.36669921875
-    },
-    {
-      "id": "Math/Algebra/Sequences & Series/Series/Geometric Series.md",
-      "x": 1717.4295654296875,
-      "y": -552.8910522460938
-    },
-    {
-      "id": "Math/Algebra/Sequences & Series/Series/Harmonic Series.md",
-      "x": 2404.40771484375,
-      "y": -1180.2777099609375
-    },
-    {
-      "id": "Math/Algebra/Sequences & Series/Series/Interval of Convergence.md",
-      "x": 1234.5245361328125,
-      "y": 387.2598571777344
-    },
-    {
-      "id": "Math/Algebra/Sequences & Series/Series/Partial Sums.md",
-      "x": 1206.40185546875,
-      "y": -1773.1214599609375
-    },
-    {
-      "id": "Math/Algebra/Sequences & Series/Series/Power Series.md",
-      "x": 1474.618896484375,
-      "y": -232.88099670410156
-    },
-    {
-      "id": "Math/Algebra/Sequences & Series/Series/Series.md",
-      "x": 1484.8863525390625,
-      "y": -1413.8375244140625
-    },
-    {
-      "id": "Math/Algebra/Sequences & Series/Series/Taylor Series/Common Taylor Series.md",
-      "x": 2111.832763671875,
-      "y": -387.05950927734375
-    },
-    {
-      "id": "Math/Algebra/Sequences & Series/Series/Taylor Series/Landua's Big Oh Notation.md",
-      "x": -653.0779418945312,
-      "y": -1620.9442138671875
-    },
-    {
-      "id": "Math/Algebra/Functions/Definitions/Domain",
-      "x": -720.5826416015625,
-      "y": -1975.762939453125
-    },
-    {
-      "id": "Supersets",
-      "x": 99.9454345703125,
-      "y": -1012.1926879882812
-    },
-    {
-      "id": "Math/Algebra/Sequences & Series/Series/Taylor Series/Maclaurin Series.md",
-      "x": 2137.385498046875,
-      "y": -91.01739501953125
-    },
-    {
-      "id": "Math/Algebra/Sequences & Series/Series/Taylor Series/Substitutions.md",
-      "x": 2865.488525390625,
-      "y": 4112.42626953125
-    },
-    {
-      "id": "Math/Algebra/Sequences & Series/Series/Taylor Series/Taylor Series.md",
-      "x": 1765.3275146484375,
-      "y": -244.78131103515625
-    },
-    {
-      "id": "Math/Algebra/Sequences & Series/Series/Taylor Series/Taylor's Inequality.md",
-      "x": 2141.346435546875,
-      "y": -235.2646942138672
-    },
-    {
-      "id": "Math/Algebra/Sequences & Series/Series/Taylor Series/Taylor's Remainder Theorem.md",
-      "x": 2014.135498046875,
-      "y": 9.360091209411621
-    },
-    {
-      "id": "Math/Algebra/Sequences & Series/Series/Taylor Series/Uniqueness Theorem for Taylor Series.md",
-      "x": 1891.19287109375,
-      "y": -584.6099243164062
-    },
-    {
-      "id": "Math/Algebra/Sequences & Series/Series/Telescoping Series.md",
-      "x": 1126.3116455078125,
-      "y": -1624.58740234375
-    },
-    {
-      "id": "Math/Algebra/Sequences & Series/Series/Tests/Absolute Convergence.md",
-      "x": 836.604736328125,
-      "y": -1068.0882568359375
-    },
-    {
-      "id": "Math/Algebra/Sequences & Series/Series/Tests/Alternating Series Test.md",
-      "x": 1538.633544921875,
-      "y": -1607.47119140625
-    },
-    {
-      "id": "Math/Algebra/Sequences & Series/Series/Tests/Comparison Theorem for Series.md",
-      "x": 2048.556396484375,
-      "y": -1675.944580078125
-    },
-    {
-      "id": "Math/Algebra/Sequences & Series/Series/Tests/Remainder Estimate for Integral Test.md",
-      "x": 1854.936767578125,
-      "y": -1806.4468994140625
-    },
-    {
-      "id": "Math/Algebra/Sequences & Series/Series/Tests/The Integral Test.md",
-      "x": 1814.691162109375,
-      "y": -1319.682373046875
-    },
-    {
-      "id": "Math/Algebra/Sequences & Series/Series/Tests/The Ratio Test.md",
-      "x": 1230.737060546875,
-      "y": -1123.5738525390625
-    },
-    {
-      "id": "Math/Algebra/Sequences & Series/Series/Tests/The Root Test.md",
-      "x": 1165.0306396484375,
-      "y": -1413.421875
-    },
-    {
-      "id": "Math/Algebra/Sequences & Series/Series/p-series.md",
-      "x": 2047.0999755859375,
-      "y": -1014.1519165039062
-    },
-    {
-      "id": "Math/Calculus/Differential Equations/Auxiliary Equations.md",
-      "x": 1086.8826904296875,
-      "y": 1636.6982421875
-    },
-    {
-      "id": "Math/Calculus/Differential Equations/Bernoulli Equations.md",
-      "x": 1959.647705078125,
-      "y": 2060.031494140625
-    },
-    {
-      "id": "Math/Calculus/Differential Equations/Definitions/Direction Fields.md",
-      "x": 4254.69873046875,
-      "y": 2624.529296875
-    },
-    {
-      "id": "Math/Calculus/Differential Equations/Definitions/General vs Particular Solution.md",
-      "x": 700.9637451171875,
-      "y": 2794.781005859375
-    },
-    {
-      "id": "Math/Calculus/Differential Equations/Definitions/Homogeneous Differential Equations.md",
-      "x": 349.84771728515625,
-      "y": 2200.699462890625
-    },
-    {
-      "id": "Math/Calculus/Differential Equations/Definitions/Initial Value Problem.md",
-      "x": 1059.2198486328125,
-      "y": 2828.8134765625
-    },
-    {
-      "id": "Math/Calculus/Differential Equations/Definitions/Linearity.md",
-      "x": 1323.6661376953125,
-      "y": 2146.209716796875
-    },
-    {
-      "id": "Math/Calculus/Differential Equations/Definitions/Order.md",
-      "x": 1262.088134765625,
-      "y": 2522.656494140625
-    },
-    {
-      "id": "Math/Calculus/Differential Equations/Definitions/Orthogonal Trajectories.md",
-      "x": 1962.0909423828125,
-      "y": 4620.9189453125
-    },
-    {
-      "id": "Math/Calculus/Differential Equations/Differential Equations.md",
-      "x": 891.5604248046875,
-      "y": 2949.939697265625
-    },
-    {
-      "id": "Math/Calculus/Differential Equations/Differential Operators.md",
-      "x": 1783.3336181640625,
-      "y": 1915.6043701171875
-    },
-    {
-      "id": "Math/Calculus/Differential Equations/Euler's Method.md",
-      "x": -1686.707763671875,
-      "y": 4704.6923828125
-    },
-    {
-      "id": "Math/Calculus/Differential Equations/Integrating Factor Method.md",
-      "x": 1693.291015625,
-      "y": 2214.3759765625
-    },
-    {
-      "id": "Math/Calculus/Differential Equations/Method of Undetermined Coefficients.md",
-      "x": 176.7256622314453,
-      "y": 2561.67431640625
-    },
-    {
-      "id": "Math/Calculus/Differential Equations/Separation of Variables.md",
-      "x": 1781.012939453125,
-      "y": 2417.375732421875
-    },
-    {
-      "id": "Math/Calculus/Differential Equations/Solving Non-Homogeneous Differential Equations.md",
-      "x": 730.8069458007812,
-      "y": 2427.154296875
-    },
-    {
-      "id": "Math/Calculus/Differential Equations/Splitting Second Order DEs.md",
-      "x": 1510.014404296875,
-      "y": 1992.40966796875
-    },
-    {
-      "id": "Math/Calculus/Differential Equations/Standards of Differential Equations.md",
-      "x": 2119.998291015625,
-      "y": 2239.320556640625
-    },
-    {
-      "id": "Math/Calculus/Differentiation/Checklist for Graphing Functions.md",
-      "x": 2457.321533203125,
-      "y": 4361.62060546875
-    },
-    {
-      "id": "Math/Calculus/Differentiation/Critical Points.md",
-      "x": 3483.069580078125,
-      "y": -1070.784423828125
-    },
-    {
-      "id": "Math/Calculus/Differentiation/Differentiability.md",
-      "x": 3159.818603515625,
-      "y": -1091.5076904296875
-    },
-    {
-      "id": "Math/Calculus/Differentiation/Differentials.md",
-      "x": 2189.7724609375,
-      "y": 2678.9873046875
-    },
-    {
-      "id": "Math/Calculus/Differentiation/Extreme Value Theorem.md",
-      "x": 2230.710205078125,
-      "y": -927.1914672851562
-    },
-    {
-      "id": "Math/Calculus/Differentiation/Fermat's Theorem.md",
-      "x": 3686.40283203125,
-      "y": -846.593505859375
-    },
-    {
-      "id": "Math/Calculus/Differentiation/First Derivative Test.md",
-      "x": -4639.31640625,
-      "y": 1866.703857421875
-    },
-    {
-      "id": "Math/Calculus/Differentiation/Hyperbolic Functions.md",
-      "x": 3134.52734375,
-      "y": 1113.3502197265625
-    },
-    {
-      "id": "Atoms/Geometry/Trigonometry/Trigonometry",
-      "x": 3422.97509765625,
-      "y": 1195.87548828125
-    },
-    {
-      "id": "Math/Calculus/Differentiation/Hyperbolic Identities.md",
-      "x": 3434.136474609375,
-      "y": 968.905517578125
-    },
-    {
-      "id": "Math/Calculus/Differentiation/Inflection Points.md",
-      "x": 2560.056884765625,
-      "y": 4034.230712890625
-    },
-    {
-      "id": "Math/Calculus/Differentiation/Inverse Hyperbolic Functions.md",
-      "x": 2520.885498046875,
-      "y": 948.0242919921875
-    },
-    {
-      "id": "Math/Calculus/Differentiation/Inverse Trigonometric Function Derivatives.md",
-      "x": 1919.254150390625,
-      "y": 1075.432861328125
-    },
-    {
-      "id": "Math/Calculus/Differentiation/Local Extrema.md",
-      "x": 3620.952392578125,
-      "y": -1353.7894287109375
-    },
-    {
-      "id": "Math/Calculus/Differentiation/Newton's Method for Non-linear Equations.md",
-      "x": 1757.5887451171875,
-      "y": 887.9169311523438
-    },
-    {
-      "id": "Math/Calculus/Differentiation/Second Derivative Test.md",
-      "x": 2861.4873046875,
-      "y": -667.9440307617188
-    },
-    {
-      "id": "Math/Calculus/Integration/Approximate/Approximate Integration.md",
-      "x": 2401.330078125,
-      "y": 2812.759033203125
-    },
-    {
-      "id": "Math/Calculus/Integration/Approximate/Error Bounds.md",
-      "x": 2722.142333984375,
-      "y": 3009.800537109375
-    },
-    {
-      "id": "Math/Calculus/Integration/Approximate/Midpoint Rule.md",
-      "x": 2662.33544921875,
-      "y": 2673.478515625
-    },
-    {
-      "id": "Math/Calculus/Integration/Approximate/Riemann Sums.md",
-      "x": 2606.185302734375,
-      "y": 2430.852294921875
-    },
-    {
-      "id": "Math/Calculus/Integration/Approximate/Simpson's Rule.md",
-      "x": 2495.7587890625,
-      "y": 3149.707275390625
-    },
-    {
-      "id": "Math/Calculus/Integration/Approximate/Trapezium Rule.md",
-      "x": 2799.600830078125,
-      "y": 2745.877685546875
-    },
-    {
-      "id": "Math/Calculus/Integration/Arc Length Formula.md",
-      "x": 2078.953125,
-      "y": 2958.879150390625
-    },
-    {
-      "id": "Math/Calculus/Integration/Average Value Function.md",
-      "x": 2981.437744140625,
-      "y": 1418.1722412109375
-    },
-    {
-      "id": "Math/Calculus/Integration/Comparison Theorem.md",
-      "x": 2619.332763671875,
-      "y": -1951.599609375
-    },
-    {
-      "id": "Math/Calculus/Integration/Fundamental Theorem of Calculus.md",
-      "x": 1441.544677734375,
-      "y": 2938.661865234375
-    },
-    {
-      "id": "Math/Calculus/Integration/Improper Integrals.md",
-      "x": 2326.673583984375,
-      "y": -1602.570068359375
-    },
-    {
-      "id": "Math/Calculus/Integration/Integration by First Principals.md",
-      "x": 2663.238037109375,
-      "y": 2095.154541015625
-    },
-    {
-      "id": "Math/Calculus/Integration/Inverse Trigonometric Integration Identities.md",
-      "x": 2082.3134765625,
-      "y": 791.24365234375
-    },
-    {
-      "id": "Math/Calculus/Integration/Mean Value Theorem for Integrals.md",
-      "x": 3255.836181640625,
-      "y": 379.6331481933594
-    },
-    {
-      "id": "Math/Calculus/Integration/Net Change Theorem.md",
-      "x": 1725.0206298828125,
-      "y": 3041.55615234375
-    },
-    {
-      "id": "Math/Calculus/Integration/Quadratics in the Denominator.md",
-      "x": 2248.716064453125,
-      "y": 1108.0819091796875
-    },
-    {
-      "id": "Math/Calculus/Integration/Volumes/Definition of Volume.md",
-      "x": 3541.117919921875,
-      "y": 2379.105224609375
-    },
-    {
-      "id": "Math/Calculus/Integration/Volumes/Surfaces of Revolution.md",
-      "x": 2235.41064453125,
-      "y": 3226.726806640625
-    },
-    {
-      "id": "Math/Calculus/Integration/Volumes/Volumes by Cylindrical Shells.md",
-      "x": 3024.622802734375,
-      "y": 2150.306640625
-    },
-    {
-      "id": "Math/Calculus/Integration/Volumes/Volumes by Disks.md",
-      "x": 3240.0419921875,
-      "y": 2377.375
-    },
-    {
-      "id": "Math/Calculus/Integration/Volumes/Volumes of Revolution.md",
-      "x": 3331.384765625,
-      "y": 2086.793701171875
-    },
-    {
-      "id": "Math/Calculus/Limits/Asymptotes.md",
-      "x": 3553.10693359375,
-      "y": 237.7343292236328
-    },
-    {
-      "id": "Math/Calculus/Limits/Composite Limit Theorem.md",
-      "x": 2845.073486328125,
-      "y": -1164.5872802734375
-    },
-    {
-      "id": "Math/Calculus/Limits/Continuity & Combining Functions.md",
-      "x": 1436.63818359375,
-      "y": 4819.28662109375
-    },
-    {
-      "id": "Math/Calculus/Limits/Definition of Continuity.md",
-      "x": 2618.5458984375,
-      "y": -875.2821655273438
-    },
-    {
-      "id": "Math/Calculus/Limits/Direct Substitution Property.md",
-      "x": 2526.60205078125,
-      "y": 160.67166137695312
-    },
-    {
-      "id": "Math/Calculus/Limits/Indeterminate Forms.md",
-      "x": 3427.9091796875,
-      "y": 3169.433837890625
-    },
-    {
-      "id": "Math/Calculus/Limits/Intermediate and Mean Value Theorem.md",
-      "x": 3250.940185546875,
-      "y": -419.17584228515625
-    },
-    {
-      "id": "Math/Calculus/Limits/L'Hôpital's Rule.md",
-      "x": 3631.593017578125,
-      "y": 3377.653564453125
-    },
-    {
-      "id": "Math/Calculus/Limits/Limit Laws.md",
-      "x": 2663.34619140625,
-      "y": -567.2940673828125
-    },
-    {
-      "id": "Math/Calculus/Limits/Precise Definition of a Limit.md",
-      "x": -1293.072509765625,
-      "y": 4572.8544921875
-    },
-    {
-      "id": "Math/Calculus/Limits/Rational Limits at Infinity.md",
-      "x": 3255.28173828125,
-      "y": -11.199543952941895
-    },
-    {
-      "id": "Math/Calculus/Limits/Rolle's Theorem.md",
-      "x": 3588.70751953125,
-      "y": -346.8123474121094
-    },
-    {
-      "id": "Math/Calculus/Limits/Squeeze Theorem.md",
-      "x": 2842.66845703125,
-      "y": -2212.57373046875
-    },
-    {
-      "id": "Math/Calculus/Limits/Two-Sided Limit Theorem.md",
-      "x": 3319.1083984375,
-      "y": 2718.61767578125
-    },
-    {
-      "id": "Math/Calculus/Limits/Types of Discontinuities.md",
-      "x": 2854.326171875,
-      "y": 92.79932403564453
-    },
-    {
-      "id": "Math/Calculus/Multi-variable Calculus/Critical Points of Surfaces.md",
-      "x": 3116.0478515625,
-      "y": -654.9593505859375
-    },
-    {
-      "id": "Math/Calculus/Multi-variable Calculus/Level Curves.md",
-      "x": 1235.5628662109375,
-      "y": -63.609615325927734
-    },
-    {
-      "id": "Math/Calculus/Multi-variable Calculus/MATH201/Spherical Coordinates.md",
-      "x": 2767.01611328125,
-      "y": 1481.92333984375
-    },
-    {
-      "id": "Math/Calculus/Multi-variable Calculus/MATH201/Surface Integrals.md",
-      "x": 2988.30810546875,
-      "y": 3395.80224609375
-    },
-    {
-      "id": "Math/Calculus/Multi-variable Calculus/Partial Derivatives.md",
-      "x": 2908.44287109375,
-      "y": -475.9973449707031
-    },
-    {
-      "id": "Math/Calculus/Multi-variable Calculus/Quadric Surfaces/Ellipsoid.md",
-      "x": 4221.04638671875,
-      "y": 1273.674560546875
-    },
-    {
-      "id": "Math/Calculus/Multi-variable Calculus/Quadric Surfaces/Elliptic Cone.md",
-      "x": 4357.26806640625,
-      "y": 1400.5546875
-    },
-    {
-      "id": "Math/Calculus/Multi-variable Calculus/Quadric Surfaces/Elliptic Paraboloid.md",
-      "x": 4422.751953125,
-      "y": 1664.004150390625
-    },
-    {
-      "id": "Math/Calculus/Multi-variable Calculus/Quadric Surfaces/Hyperbolic Paraboloid.md",
-      "x": 3856.61474609375,
-      "y": 1949.70947265625
-    },
-    {
-      "id": "Math/Calculus/Multi-variable Calculus/Quadric Surfaces/Hyperboloids.md",
-      "x": 3838.268798828125,
-      "y": 1762.01025390625
-    },
-    {
-      "id": "Math/Calculus/Multi-variable Calculus/Quadric Surfaces/Quadric Surfaces.md",
-      "x": 4156.36962890625,
-      "y": 1651.66259765625
-    },
-    {
-      "id": "Math/Calculus/Multi-variable Calculus/The Second Partials Test.md",
-      "x": 2489.120849609375,
-      "y": -426.2269592285156
-    },
-    {
-      "id": "Math/Calculus/Vector Calculus/Advanced/Curl.md",
-      "x": 1071.4302978515625,
-      "y": 3652.36962890625
-    },
-    {
-      "id": "Math/Calculus/Vector Calculus/Advanced/Divergence.md",
-      "x": 438.3839416503906,
-      "y": 3513.11328125
-    },
-    {
-      "id": "Math/Calculus/Vector Calculus/Advanced/Flow Lines.md",
-      "x": 330.8493957519531,
-      "y": 3284.75634765625
-    },
-    {
-      "id": "Math/Calculus/Vector Calculus/Advanced/Gradient.md",
-      "x": 825.6613159179688,
-      "y": 3189.760986328125
-    },
-    {
-      "id": "Level Set",
-      "x": 1171.3197021484375,
-      "y": 3296.449951171875
-    },
-    {
-      "id": "Math/Calculus/Vector Calculus/Advanced/Nabla Operator.md",
-      "x": 802.39599609375,
-      "y": 3498.766845703125
-    },
-    {
-      "id": "Math/Calculus/Vector Calculus/Binormal Vectors.md",
-      "x": 289.770751953125,
-      "y": 3897.342041015625
-    },
-    {
-      "id": "Math/Calculus/Vector Calculus/Curvature.md",
-      "x": 1158.552978515625,
-      "y": 3951.6396484375
-    },
-    {
-      "id": "Math/Calculus/Vector Calculus/Derivatives of Vector-Valued Functions.md",
-      "x": 147.72679138183594,
-      "y": 4145.24462890625
-    },
-    {
-      "id": "Math/Calculus/Vector Calculus/Limits of Vector-Valued Functions.md",
-      "x": 2949.15283203125,
-      "y": -996.82275390625
-    },
-    {
-      "id": "Math/Calculus/Vector Calculus/Parametric Arc Length.md",
-      "x": 1705.433837890625,
-      "y": 3434.026611328125
-    },
-    {
-      "id": "Math/Calculus/Vector Calculus/Scalar Fields.md",
-      "x": 936.7437133789062,
-      "y": 2249.383544921875
-    },
-    {
-      "id": "Math/Calculus/Vector Calculus/Unit Normal Vectors.md",
-      "x": 514.98046875,
-      "y": 3987.08251953125
-    },
-    {
-      "id": "Math/Calculus/Vector Calculus/Unit Tangent Vectors.md",
-      "x": 492.1027526855469,
-      "y": 4267.40283203125
-    },
-    {
-      "id": "Math/Calculus/Vector Calculus/Vector Fields.md",
-      "x": 584.4530029296875,
-      "y": 3236.779541015625
-    },
-    {
-      "id": "Math/Discrete/Cryptography/Affine Cipher.md",
-      "x": -1659.32080078125,
-      "y": 695.6117553710938
-    },
-    {
-      "id": "Math/Discrete/Cryptography/Caesar Cipher.md",
-      "x": -1715.4271240234375,
-      "y": 1065.0631103515625
-    },
-    {
-      "id": "Math/Discrete/Cryptography/Definitions/Cipher.md",
-      "x": -3336.70166015625,
-      "y": 1091.42236328125
-    },
-    {
-      "id": "Math/Discrete/Cryptography/Definitions/Ciphertext.md",
-      "x": -3670.29296875,
-      "y": 1168.565185546875
-    },
-    {
-      "id": "Math/Discrete/Cryptography/Definitions/Code.md",
-      "x": -1937.111328125,
-      "y": 453.6669921875
-    },
-    {
-      "id": "Math/Discrete/Cryptography/Definitions/Cryptoanalysis.md",
-      "x": -3505.349853515625,
-      "y": 1546.1605224609375
-    },
-    {
-      "id": "Math/Discrete/Cryptography/Definitions/Cryptography.md",
-      "x": -3683.74072265625,
-      "y": 1458.3243408203125
-    },
-    {
-      "id": "Math/Discrete/Cryptography/Definitions/Cryptology.md",
-      "x": -3725.82861328125,
-      "y": 1821.6207275390625
-    },
-    {
-      "id": "Math/Discrete/Cryptography/Definitions/Decryption.md",
-      "x": -3737.22509765625,
-      "y": 904.2962036132812
-    },
-    {
-      "id": "Math/Discrete/Cryptography/Definitions/Encryption.md",
-      "x": -3587.081787109375,
-      "y": 937.695556640625
-    },
-    {
-      "id": "Math/Discrete/Cryptography/Definitions/Key.md",
-      "x": -3923.3671875,
-      "y": 650.72119140625
-    },
-    {
-      "id": "Math/Discrete/Cryptography/Definitions/Permutations.md",
-      "x": -1481.2086181640625,
-      "y": 1463.3148193359375
-    },
-    {
-      "id": "Math/Discrete/Cryptography/Definitions/Plaintext.md",
-      "x": -4017.0166015625,
-      "y": 1171.4083251953125
-    },
-    {
-      "id": "Math/Discrete/Cryptography/Euler's Theorem.md",
-      "x": -3223.409423828125,
-      "y": 445.85491943359375
-    },
-    {
-      "id": "Math/Discrete/Cryptography/Euler's Totient Function.md",
-      "x": -2749.431396484375,
-      "y": 288.55413818359375
-    },
-    {
-      "id": "Math/Discrete/Cryptography/RSA.md",
-      "x": -3083.939453125,
-      "y": 581.8912963867188
-    },
-    {
-      "id": "Math/Discrete/Graph Theory/220/Brooks' Theorem.md",
-      "x": -3577.93701171875,
-      "y": -1375.5933837890625
-    },
-    {
-      "id": "Math/Discrete/Graph Theory/220/Chromatic Numbers.md",
-      "x": -3708.899658203125,
-      "y": -1597.0166015625
-    },
-    {
-      "id": "Math/Discrete/Graph Theory/220/Four Colour Theorem.md",
-      "x": -3892.063720703125,
-      "y": -1201.3438720703125
-    },
-    {
-      "id": "Math/Discrete/Graph Theory/220/König's Theorem.md",
-      "x": -2962.19873046875,
-      "y": -1666.9266357421875
-    },
-    {
-      "id": "Math/Discrete/Graph Theory/Bipartite Graphs.md",
-      "x": -2079.86181640625,
-      "y": -1382.938232421875
-    },
-    {
-      "id": "Math/Discrete/Graph Theory/Colouring Graphs.md",
-      "x": -3267.854736328125,
-      "y": -1307.5850830078125
-    },
-    {
-      "id": "Math/Discrete/Graph Theory/Complete Graphs.md",
-      "x": -2968.71435546875,
-      "y": -1272.6422119140625
-    },
-    {
-      "id": "Math/Discrete/Graph Theory/Connectivitiy.md",
-      "x": -1922.6500244140625,
-      "y": -1011.3212280273438
-    },
-    {
-      "id": "Math/Discrete/Graph Theory/Definitions/Bridges.md",
-      "x": -1611.696533203125,
-      "y": -532.8547973632812
-    },
-    {
-      "id": "Math/Discrete/Graph Theory/Definitions/Edges.md",
-      "x": -2697.185791015625,
-      "y": -876.0182495117188
-    },
-    {
-      "id": "Math/Discrete/Graph Theory/Definitions/Forests.md",
-      "x": -2178.494140625,
-      "y": -831.91943359375
-    },
-    {
-      "id": "Math/Discrete/Graph Theory/Definitions/Loops.md",
-      "x": -3211.257568359375,
-      "y": -831.1787109375
-    },
-    {
-      "id": "Math/Discrete/Graph Theory/Definitions/Neighbourhood.md",
-      "x": -3235.075927734375,
-      "y": -1480.2442626953125
-    },
-    {
-      "id": "Math/Discrete/Graph Theory/Definitions/Parallel and Inverted Edges.md",
-      "x": -3156.3671875,
-      "y": -658.8844604492188
-    },
-    {
-      "id": "Math/Discrete/Graph Theory/Definitions/Simple Graphs.md",
-      "x": -3410.203369140625,
-      "y": -917.4548950195312
-    },
-    {
-      "id": "Math/Discrete/Graph Theory/Definitions/Subgraphs.md",
-      "x": -2433.23779296875,
-      "y": -1285.0604248046875
-    },
-    {
-      "id": "Math/Discrete/Graph Theory/Definitions/Trees.md",
-      "x": -2007.0892333984375,
-      "y": -434.786376953125
-    },
-    {
-      "id": "Math/Discrete/Graph Theory/Definitions/Vertex Degrees.md",
-      "x": -3312.547607421875,
-      "y": -1157.15673828125
-    },
-    {
-      "id": "Math/Discrete/Graph Theory/Definitions/Vertices.md",
-      "x": -2846.81640625,
-      "y": -1498.3988037109375
-    },
-    {
-      "id": "Math/Discrete/Graph Theory/Definitions/Weighted Graphs.md",
-      "x": -2962.635986328125,
-      "y": -693.2388305664062
-    },
-    {
-      "id": "Math/Discrete/Graph Theory/Eulerian Circuits and Graphs.md",
-      "x": -2344.7109375,
-      "y": -729.374755859375
-    },
-    {
-      "id": "Math/Discrete/Graph Theory/Graph Isomorphism.md",
-      "x": -1057.9228515625,
-      "y": -186.2828369140625
-    },
-    {
-      "id": "Math/Discrete/Graph Theory/Graphs.md",
-      "x": -2548.1474609375,
-      "y": -827.4882202148438
-    },
-    {
-      "id": "Math/Discrete/Graph Theory/Hamiltonian Cycles and Graphs.md",
-      "x": -2818.06591796875,
-      "y": -1084.4727783203125
-    },
-    {
-      "id": "Math/Discrete/Graph Theory/Spanning Trees.md",
-      "x": -2351.951416015625,
-      "y": -993.4298706054688
-    },
-    {
-      "id": "Math/Discrete/Graph Theory/The Handshaking Lemma.md",
-      "x": -2199.137939453125,
-      "y": -1168.3043212890625
-    },
-    {
-      "id": "Math/Discrete/Graph Theory/Walks.md",
-      "x": -1948.701171875,
-      "y": -1217.2479248046875
-    },
-    {
-      "id": "Math/Discrete/Number Theory/Counting Outcomes/Binomial Coefficient.md",
-      "x": -901.219482421875,
-      "y": -1596.495361328125
-    },
-    {
-      "id": "Math/Discrete/Number Theory/Counting Outcomes/Binomial Theorem.md",
-      "x": -1261.728271484375,
-      "y": -1873.8990478515625
-    },
-    {
-      "id": "Math/Discrete/Number Theory/Counting Outcomes/Counting Outcomes.md",
-      "x": 4697.90576171875,
-      "y": 1914.0364990234375
-    },
-    {
-      "id": "Math/Discrete/Number Theory/Counting Outcomes/Fun Little Fact.md",
-      "x": -1141.7730712890625,
-      "y": -1531.2694091796875
-    },
-    {
-      "id": "Math/Discrete/Number Theory/Counting Outcomes/Pascal's Triangle.md",
-      "x": -1085.62890625,
-      "y": -1933.6339111328125
-    },
-    {
-      "id": "Math/Discrete/Number Theory/Divisibility Tricks.md",
-      "x": -1978.2930908203125,
-      "y": 1345.096435546875
-    },
-    {
-      "id": "Math/Discrete/Number Theory/Divisibility/Bēzout's Identity.md",
-      "x": -2199.68798828125,
-      "y": 1326.119873046875
-    },
-    {
-      "id": "Math/Discrete/Number Theory/Divisibility/Common Divisors.md",
-      "x": -2495.2646484375,
-      "y": 1297.4385986328125
-    },
-    {
-      "id": "Math/Discrete/Number Theory/Divisibility/Common Multiples.md",
-      "x": -2327.025390625,
-      "y": 1621.833984375
-    },
-    {
-      "id": "Math/Discrete/Number Theory/Divisibility/Divisibility.md",
-      "x": -1900.741455078125,
-      "y": 980.5986328125
-    },
-    {
-      "id": "Math/Discrete/Number Theory/Divisibility/Extended Euclidean Algorithm.md",
-      "x": -2830.32861328125,
-      "y": 1312.118408203125
-    },
-    {
-      "id": "Math/Discrete/Number Theory/Divisibility/GCD with LCM.md",
-      "x": -2026.6502685546875,
-      "y": 139.91604614257812
-    },
-    {
-      "id": "Lowest Common Multiple",
-      "x": -2362.84228515625,
-      "y": 390.46697998046875
-    },
-    {
-      "id": "Math/Discrete/Number Theory/Divisibility/Greatest Common Divisor.md",
-      "x": -2695.156005859375,
-      "y": 890.5069580078125
-    },
-    {
-      "id": "Math/Discrete/Number Theory/Divisibility/The Division Algorithm.md",
-      "x": -2230.79248046875,
-      "y": 876.3442993164062
-    },
-    {
-      "id": "Math/Discrete/Number Theory/Divisibility/The Euclidean Algorithm.md",
-      "x": -1886.126220703125,
-      "y": 742.188232421875
-    },
-    {
-      "id": "Math/Discrete/Number Theory/Modular Arithmetic/Congruence and Cyclic Groups.md",
-      "x": -2335.708740234375,
-      "y": -216.4011993408203
-    },
-    {
-      "id": "Math/Discrete/Number Theory/Modular Arithmetic/Congruence.md",
-      "x": -2532.365966796875,
-      "y": 134.52194213867188
-    },
-    {
-      "id": "Math/Discrete/Number Theory/Modular Arithmetic/Cyclic Groups.md",
-      "x": -1860.7982177734375,
-      "y": -567.6878662109375
-    },
-    {
-      "id": "Math/Discrete/Number Theory/Modular Arithmetic/Fermat's Little Theorem.md",
-      "x": -3491.076904296875,
-      "y": 629.0419921875
-    },
-    {
-      "id": "Math/Discrete/Number Theory/Modular Arithmetic/Finding Inverses.md",
-      "x": -2469.82666015625,
-      "y": 1098.7230224609375
-    },
-    {
-      "id": "Math/Discrete/Number Theory/Modular Arithmetic/Invertibility.md",
-      "x": -2450.4013671875,
-      "y": 716.9321899414062
-    },
-    {
-      "id": "Math/Discrete/Number Theory/Modular Arithmetic/Modular Arithmetic.md",
-      "x": -1912.685791015625,
-      "y": -1870.0904541015625
-    },
-    {
-      "id": "Math/Discrete/Number Theory/Modular Arithmetic/Modulus with Remainders.md",
-      "x": -2937.401123046875,
-      "y": 213.4122314453125
-    },
-    {
-      "id": "Math/Discrete/Number Theory/Modular Arithmetic/Properties of Cyclic Groups.md",
-      "x": -2341.87890625,
-      "y": 83.96051788330078
-    },
-    {
-      "id": "Math/Discrete/Number Theory/Primes/Counting Distinct Positive Divisors.md",
-      "x": -2342.511474609375,
-      "y": 1447.92138671875
-    },
-    {
-      "id": "Math/Discrete/Number Theory/Primes/Euclid's Lemma.md",
-      "x": -1946.2603759765625,
-      "y": 1552.8367919921875
-    },
-    {
-      "id": "Math/Discrete/Number Theory/Primes/Fundamental Theorem of Arithmetic.md",
-      "x": -1686.4798583984375,
-      "y": 1773.3328857421875
-    },
-    {
-      "id": "Math/Discrete/Number Theory/Primes/Mersenne Primes.md",
-      "x": -2962.429931640625,
-      "y": 1906.35693359375
-    },
-    {
-      "id": "Math/Discrete/Number Theory/Primes/Primes.md",
-      "x": -2698.10205078125,
-      "y": 1608.379638671875
-    },
-    {
-      "id": "Math/Discrete/Number Theory/Primes/Square Roots of Primes.md",
-      "x": -1890.9547119140625,
-      "y": 2096.505126953125
-    },
-    {
-      "id": "Math/Discrete/Number Theory/Primes/Twin Primes.md",
-      "x": -3046.0341796875,
-      "y": 1756.355224609375
-    },
-    {
-      "id": "Math/Discrete/Propositional Logic/Arguments and Proofs/Argument.md",
-      "x": 228.6355743408203,
-      "y": 1433.58203125
-    },
-    {
-      "id": "Math/Discrete/Propositional Logic/Arguments and Proofs/Direct Proof.md",
-      "x": 356.3136291503906,
-      "y": 1748.7882080078125
-    },
-    {
-      "id": "Math/Discrete/Propositional Logic/Arguments and Proofs/Induction.md",
-      "x": -916.0284423828125,
-      "y": 408.2668151855469
-    },
-    {
-      "id": "Math/Discrete/Propositional Logic/Arguments and Proofs/Lemmas.md",
-      "x": 4418.2783203125,
-      "y": 2284.029541015625
-    },
-    {
-      "id": "Math/Discrete/Propositional Logic/Arguments and Proofs/Proof by Contradiction.md",
-      "x": -127.95508575439453,
-      "y": 596.9312133789062
-    },
-    {
-      "id": "Math/Discrete/Propositional Logic/Arguments and Proofs/Proof by Contraposition.md",
-      "x": -401.060302734375,
-      "y": 845.6774291992188
-    },
-    {
-      "id": "Math/Discrete/Propositional Logic/Arguments and Proofs/Proof by Exhaustion.md",
-      "x": -59.28447341918945,
-      "y": 1605.4134521484375
-    },
-    {
-      "id": "Math/Discrete/Propositional Logic/Arguments and Proofs/Strong Induction.md",
-      "x": -612.7940063476562,
-      "y": 1485.218994140625
-    },
-    {
-      "id": "Math/Discrete/Propositional Logic/Basic Definitions/Compound Statements.md",
-      "x": 747.4581298828125,
-      "y": 2057.279541015625
-    },
-    {
-      "id": "Math/Discrete/Propositional Logic/Basic Definitions/Contingent Statements.md",
-      "x": 556.820556640625,
-      "y": 940.0081787109375
-    },
-    {
-      "id": "Math/Discrete/Propositional Logic/Basic Definitions/Contradictions.md",
-      "x": 118.6707992553711,
-      "y": 435.68731689453125
-    },
-    {
-      "id": "Math/Discrete/Propositional Logic/Basic Definitions/Existential Quantifier.md",
-      "x": -418.0005187988281,
-      "y": 1061.5230712890625
-    },
-    {
-      "id": "Math/Discrete/Propositional Logic/Basic Definitions/Logical Connectives.md",
-      "x": 356.5945129394531,
-      "y": 1911.53125
-    },
-    {
-      "id": "Math/Discrete/Propositional Logic/Basic Definitions/Predicates.md",
-      "x": -474.4410705566406,
-      "y": 1270.3406982421875
-    },
-    {
-      "id": "Math/Discrete/Propositional Logic/Basic Definitions/Primitive Statements.md",
-      "x": 934.8578491210938,
-      "y": 1804.0963134765625
-    },
-    {
-      "id": "Math/Discrete/Propositional Logic/Basic Definitions/Statements and Propositions.md",
-      "x": 148.00340270996094,
-      "y": 1157.1494140625
-    },
-    {
-      "id": "Math/Discrete/Propositional Logic/Basic Definitions/Tautologies.md",
-      "x": 288.3320617675781,
-      "y": 893.66015625
-    },
-    {
-      "id": "Math/Discrete/Propositional Logic/Basic Definitions/Universal Quantifier.md",
-      "x": -892.8063354492188,
-      "y": 815.561279296875
-    },
-    {
-      "id": "Math/Discrete/Propositional Logic/Converse, Inverse, and Contrapositive.md",
-      "x": 478.2667541503906,
-      "y": 723.6723022460938
-    },
-    {
-      "id": "Math/Discrete/Propositional Logic/De Morgan's Laws.md",
-      "x": -11.480375289916992,
-      "y": 1371.37744140625
-    },
-    {
-      "id": "Math/Discrete/Propositional Logic/Distributive Law.md",
-      "x": -105.86848449707031,
-      "y": 2127.21728515625
-    },
-    {
-      "id": "Math/Discrete/Propositional Logic/Logical Connectives/Biconditional.md",
-      "x": 701.574951171875,
-      "y": 1587.494384765625
-    },
-    {
-      "id": "Math/Discrete/Propositional Logic/Logical Connectives/Conjunction.md",
-      "x": -243.79974365234375,
-      "y": 1744.014404296875
-    },
-    {
-      "id": "Math/Discrete/Propositional Logic/Logical Connectives/Disjunction.md",
-      "x": 87.54907989501953,
-      "y": 1772.6046142578125
-    },
-    {
-      "id": "Math/Discrete/Propositional Logic/Logical Connectives/Implication.md",
-      "x": 585.226806640625,
-      "y": 1234.2691650390625
-    },
-    {
-      "id": "Math/Discrete/Propositional Logic/Logical Connectives/Negation.md",
-      "x": -148.23106384277344,
-      "y": 1189.410400390625
-    },
-    {
-      "id": "Math/Discrete/Propositional Logic/Logical Equivalence.md",
-      "x": -73.51097869873047,
-      "y": 987.5910034179688
-    },
-    {
-      "id": "Math/Discrete/Propositional Logic/Logical Implication.md",
-      "x": -361.03192138671875,
-      "y": 555.7238159179688
-    },
-    {
-      "id": "Math/Discrete/Propositional Logic/Negating Quantifiers.md",
-      "x": -762.41845703125,
-      "y": 646.9244995117188
-    },
-    {
-      "id": "Math/Discrete/Propositional Logic/Order of Operations.md",
-      "x": 517.58251953125,
-      "y": 2241.5107421875
-    },
-    {
-      "id": "Math/Discrete/Propositional Logic/Substitution Rules.md",
-      "x": 473.198486328125,
-      "y": 1384.558349609375
-    },
-    {
-      "id": "Math/Discrete/Propositional Logic/Truth Tables.md",
-      "x": 510.4187316894531,
-      "y": 1692.797607421875
-    },
-    {
-      "id": "Math/Discrete/Set Theory/Basics/Empty Set.md",
-      "x": -451.0232849121094,
-      "y": -1006.4124145507812
-    },
-    {
-      "id": "Math/Discrete/Set Theory/Basics/Number Sets.md",
-      "x": 306.1828308105469,
-      "y": -1009.9324951171875
-    },
-    {
-      "id": "Math/Discrete/Set Theory/Basics/Set Difference.md",
-      "x": -315.5732727050781,
-      "y": -529.5133056640625
-    },
-    {
-      "id": "Math/Discrete/Set Theory/Basics/Set Equality.md",
-      "x": -1305.3612060546875,
-      "y": 240.28012084960938
-    },
-    {
-      "id": "Math/Discrete/Set Theory/Basics/Set-Builder Notation.md",
-      "x": -293.5483703613281,
-      "y": -310.58306884765625
-    },
-    {
-      "id": "Math/Discrete/Set Theory/Basics/Sets.md",
-      "x": -654.9404296875,
-      "y": -175.04283142089844
-    },
-    {
-      "id": "Math/Discrete/Set Theory/Basics/Subsets.md",
-      "x": -1393.860107421875,
-      "y": -555.4653930664062
-    },
-    {
-      "id": "Math/Discrete/Set Theory/Basics/Unions and Intersections.md",
-      "x": -1024.46435546875,
-      "y": -950.01220703125
-    },
-    {
-      "id": "Math/Discrete/Set Theory/Cardinality/Cardinality.md",
-      "x": -582.5428466796875,
-      "y": -802.2484741210938
-    },
-    {
-      "id": "Math/Discrete/Set Theory/Cardinality/Countably Infinite Sets.md",
-      "x": -578.0064697265625,
-      "y": -563.0299682617188
-    },
-    {
-      "id": "Math/Discrete/Set Theory/Cardinality/Equivalence of Cardinality.md",
-      "x": 55.41859817504883,
-      "y": -140.08607482910156
-    },
-    {
-      "id": "Math/Discrete/Set Theory/Cartesian Product.md",
-      "x": -819.7152709960938,
-      "y": -65.78669738769531
-    },
-    {
-      "id": "Math/Discrete/Set Theory/Complement.md",
-      "x": -36.726749420166016,
-      "y": -570.1049194335938
-    },
-    {
-      "id": "Math/Discrete/Set Theory/Disjoint Sets.md",
-      "x": -729.849609375,
-      "y": -1243.89013671875
-    },
-    {
-      "id": "Math/Discrete/Set Theory/Functions/Bijective Functions.md",
-      "x": 370.07666015625,
-      "y": 313.4553527832031
-    },
-    {
-      "id": "Math/Discrete/Set Theory/Functions/Codomain.md",
-      "x": 304.8465576171875,
-      "y": -271.5703430175781
-    },
-    {
-      "id": "Math/Discrete/Set Theory/Functions/Composite Functions.md",
-      "x": 758.4520263671875,
-      "y": -223.8966522216797
-    },
-    {
-      "id": "Math/Discrete/Set Theory/Functions/Domain.md",
-      "x": 625.61474609375,
-      "y": 72.84050750732422
-    },
-    {
-      "id": "Math/Discrete/Set Theory/Functions/Functions.md",
-      "x": 899.8754272460938,
-      "y": -52.123565673828125
-    },
-    {
-      "id": "Math/Discrete/Set Theory/Functions/Injective Functions.md",
-      "x": 644.8753051757812,
-      "y": 318.4607238769531
-    },
-    {
-      "id": "Math/Discrete/Set Theory/Functions/Inverse Functions.md",
-      "x": 1523.260009765625,
-      "y": 596.6589965820312
-    },
-    {
-      "id": "Math/Discrete/Set Theory/Functions/Range.md",
-      "x": 249.9573974609375,
-      "y": 93.7857894897461
-    },
-    {
-      "id": "Math/Discrete/Set Theory/Functions/Surjective Functions.md",
-      "x": 404.4296569824219,
-      "y": -91.51539611816406
-    },
-    {
-      "id": "Math/Discrete/Set Theory/Multi-sets.md",
-      "x": -2212.1494140625,
-      "y": 83.08983612060547
-    },
-    {
-      "id": "Math/Discrete/Set Theory/Ordered Sets.md",
-      "x": -1169.50830078125,
-      "y": 396.0895080566406
-    },
-    {
-      "id": "Math/Discrete/Set Theory/Partitions.md",
-      "x": -1454.205810546875,
-      "y": -1443.587890625
-    },
-    {
-      "id": "Math/Discrete/Set Theory/Power Sets.md",
-      "x": -755.199951171875,
-      "y": -1021.1419067382812
-    },
-    {
-      "id": "Math/Discrete/Set Theory/Relations/Antisymmetric Property.md",
-      "x": -1446.836181640625,
-      "y": -32.234344482421875
-    },
-    {
-      "id": "Math/Discrete/Set Theory/Relations/Equivalence Classes.md",
-      "x": -883.1774291992188,
-      "y": -811.8623046875
-    },
-    {
-      "id": "Math/Discrete/Set Theory/Relations/Equivalence Relations.md",
-      "x": -1283.643798828125,
-      "y": -695.0892944335938
-    },
-    {
-      "id": "Math/Discrete/Set Theory/Relations/Hasse Diagrams.md",
-      "x": -2012.7047119140625,
-      "y": -832.468994140625
-    },
-    {
-      "id": "Math/Discrete/Set Theory/Relations/Partial Order.md",
-      "x": -1276.3743896484375,
-      "y": -358.4949035644531
-    },
-    {
-      "id": "Math/Discrete/Set Theory/Relations/Reflexive Property.md",
-      "x": -1691.3704833984375,
-      "y": -145.45301818847656
-    },
-    {
-      "id": "Math/Discrete/Set Theory/Relations/Relation Graphs.md",
-      "x": -2450.771484375,
-      "y": -449.3612976074219
-    },
-    {
-      "id": "Inverted Edges",
-      "x": -2805.818115234375,
-      "y": -272.04986572265625
-    },
-    {
-      "id": "Math/Discrete/Set Theory/Relations/Relations.md",
-      "x": -988.0260009765625,
-      "y": -379.36932373046875
-    },
-    {
-      "id": "Math/Discrete/Set Theory/Relations/Symmetric Property.md",
-      "x": -1713.3924560546875,
-      "y": -374.64324951171875
-    },
-    {
-      "id": "Math/Discrete/Set Theory/Relations/Total Order.md",
-      "x": -1065.2142333984375,
-      "y": -3.0600624084472656
-    },
-    {
-      "id": "Math/Discrete/Set Theory/Relations/Transitive Property.md",
-      "x": -1831.100830078125,
-      "y": -136.6299285888672
-    },
-    {
-      "id": "Math/Discrete/Set Theory/Russell's Paradox.md",
-      "x": -448.9040832519531,
-      "y": 350.24810791015625
-    },
-    {
-      "id": "Math/Discrete/Set Theory/Set Theory and Propositional Logic.md",
-      "x": -136.4835662841797,
-      "y": 377.19439697265625
-    },
-    {
-      "id": "Math/Discrete/Set Theory/Universal Set.md",
-      "x": -199.89398193359375,
-      "y": -82.3397445678711
-    },
-    {
-      "id": "Math/Geometry/Circle Geometry/Alternate Segment Theorem.md",
-      "x": -3256.481689453125,
-      "y": 3083.14404296875
-    },
-    {
-      "id": "Math/Geometry/Circle Geometry/Area of Cyclic Quadrilateral.md",
-      "x": 660.1466674804688,
-      "y": 4973.19091796875
-    },
-    {
-      "id": "Math/Geometry/Circle Geometry/Basic Definitions/Arcs.md",
-      "x": -3694.427490234375,
-      "y": 3286.723876953125
-    },
-    {
-      "id": "Math/Geometry/Circle Geometry/Basic Definitions/Chords.md",
-      "x": -3090.9130859375,
-      "y": 3416.775390625
-    },
-    {
-      "id": "Math/Geometry/Circle Geometry/Basic Definitions/Inscribe.md",
-      "x": -3538.23291015625,
-      "y": 2682.37841796875
-    },
-    {
-      "id": "Math/Geometry/Circle Geometry/Basic Definitions/Segments.md",
-      "x": -3405.835205078125,
-      "y": 3474.822265625
-    },
-    {
-      "id": "Math/Geometry/Circle Geometry/Basic Definitions/Subtended Angles.md",
-      "x": -3700.610107421875,
-      "y": 3053.215087890625
-    },
-    {
-      "id": "Rays",
-      "x": -3832.553466796875,
-      "y": 2760.98486328125
-    },
-    {
-      "id": "Math/Geometry/Circle Geometry/Central Angle Theorem.md",
-      "x": -3316.063232421875,
-      "y": 2852.678466796875
-    },
-    {
-      "id": "Math/Geometry/Circle Geometry/Incircles/Law of Cotangents.md",
-      "x": -3829.843505859375,
-      "y": 2266.358154296875
-    },
-    {
-      "id": "Math/Geometry/Circle Geometry/Incircles/Triangle Incircle Radius.md",
-      "x": -4154.78466796875,
-      "y": 2221.65673828125
-    },
-    {
-      "id": "Math/Geometry/Circle Geometry/Inscribed Angle Theorem.md",
-      "x": -3958.41552734375,
-      "y": 2926.750732421875
-    },
-    {
-      "id": "Math/Geometry/Circle Geometry/Intersecting Chord Theorem.md",
-      "x": -3155.708984375,
-      "y": 3719.34326171875
-    },
-    {
-      "id": "Math/Geometry/Circle Geometry/Law of Sines.md",
-      "x": -4037.1572265625,
-      "y": 2529.91552734375
-    },
-    {
-      "id": "Circumcircles",
-      "x": -4337.8056640625,
-      "y": 2472.536376953125
-    },
-    {
-      "id": "Math/Geometry/Circle Geometry/Opposite Angles of Cyclic Quadrilaterals.md",
-      "x": -3424.550537109375,
-      "y": 3162.860595703125
-    },
-    {
-      "id": "Math/Geometry/Circle Geometry/Seven Key Circle Theorems.md",
-      "x": -3575.83203125,
-      "y": 2881.74853515625
-    },
-    {
-      "id": "Math/Geometry/Conic Sections/Circle.md",
-      "x": 3595.51123046875,
-      "y": 1287.0906982421875
-    },
-    {
-      "id": "Math/Geometry/Conic Sections/Conic Sections.md",
-      "x": 3929.85400390625,
-      "y": 1460.799072265625
-    },
-    {
-      "id": "Math/Geometry/Conic Sections/Ellipse.md",
-      "x": 4013.067138671875,
-      "y": 1104.540771484375
-    },
-    {
-      "id": "Math/Geometry/Conic Sections/Hyperbola.md",
-      "x": 3553.243896484375,
-      "y": 1617.7335205078125
-    },
-    {
-      "id": "Math/Geometry/Conic Sections/Parabolas.md",
-      "x": 4164.0517578125,
-      "y": 1858.361083984375
-    },
-    {
-      "id": "Math/Geometry/Conic Sections/Unified Description of Conics.md",
-      "x": 3301.725341796875,
-      "y": 1429.2919921875
-    },
-    {
-      "id": "Math/Geometry/Semiperimeter.md",
-      "x": -4023.214111328125,
-      "y": 1983.17236328125
-    },
-    {
-      "id": "Math/Geometry/Trigonometry/General Solution Equations.md",
-      "x": -1502.392333984375,
-      "y": 4347.9111328125
-    },
-    {
-      "id": "Math/Geometry/Trigonometry/Heron's Formula.md",
-      "x": -4336.236328125,
-      "y": 1983.2269287109375
-    },
-    {
-      "id": "Math/Geometry/Trigonometry/Identities/Compound Identities.md",
-      "x": -4359.189453125,
-      "y": 1566.29150390625
-    },
-    {
-      "id": "Math/Geometry/Trigonometry/Identities/Double Angle Identities.md",
-      "x": 3645.9375,
-      "y": 2902.470703125
-    },
-    {
-      "id": "Math/Geometry/Trigonometry/Identities/Product to Sum Identities.md",
-      "x": 1512.432861328125,
-      "y": 4294.96728515625
-    },
-    {
-      "id": "Math/Geometry/Trigonometry/Inverse Trigonometric Functions.md",
-      "x": 1363.6427001953125,
-      "y": 162.1763153076172
-    },
-    {
-      "id": "Math/Geometry/Trigonometry/Periodic Functions.md",
-      "x": 4029.04931640625,
-      "y": 2857.265380859375
-    },
-    {
-      "id": "Math/Geometry/Trigonometry/Special Triangles.md",
-      "x": 1216.9542236328125,
-      "y": 4596.2509765625
-    },
-    {
-      "id": "Math/Geometry/Trigonometry/Trigonometric Function with Quadrants.md",
-      "x": 1037.4085693359375,
-      "y": 4833.287109375
-    },
-    {
-      "id": "Math/Lambda Calculus/Alpha Converstion.md",
-      "x": -1425.123046875,
-      "y": -4226.46826171875
-    },
-    {
-      "id": "Math/Lambda Calculus/Alpha Equivalence.md",
-      "x": -2043.0045166015625,
-      "y": -4522.3818359375
-    },
-    {
-      "id": "Math/Lambda Calculus/Application.md",
-      "x": -1778.110595703125,
-      "y": -4073.835205078125
-    },
-    {
-      "id": "Math/Lambda Calculus/Beta Reduction.md",
-      "x": -2558.9560546875,
-      "y": -4332.49853515625
-    },
-    {
-      "id": "Math/Lambda Calculus/Currying.md",
-      "x": -787.6914672851562,
-      "y": -4931.23193359375
-    },
-    {
-      "id": "Math/Lambda Calculus/Free Variables.md",
-      "x": -1906.247802734375,
-      "y": -4395.15185546875
-    },
-    {
-      "id": "Math/Lambda Calculus/Lambda Abstraction.md",
-      "x": -2268.539794921875,
-      "y": -4370.34716796875
-    },
-    {
-      "id": "Math/Lambda Calculus/Lambda Terms.md",
-      "x": -2062.6201171875,
-      "y": -4153.1142578125
-    },
-    {
-      "id": "Math/Linear Algebra/Done Right/Basics/Lists.md",
-      "x": -1163.3046875,
-      "y": 1922.759521484375
-    },
-    {
-      "id": "Math/Linear Algebra/Done Right/Basics/Polynomials.md",
-      "x": -896.3787841796875,
-      "y": 2447.200927734375
-    },
-    {
-      "id": "Math/Linear Algebra/Done Right/Basics/Sets of Functions.md",
-      "x": 181.32847595214844,
-      "y": 569.7263793945312
-    },
-    {
-      "id": "Math/Linear Algebra/Done Right/Direct Sums.md",
-      "x": -1455.6099853515625,
-      "y": 1191.2529296875
-    },
-    {
-      "id": "Math/Linear Algebra/Done Right/Done Right.md",
-      "x": -947.5908813476562,
-      "y": 1588.2899169921875
-    },
-    {
-      "id": "Linear Maps",
-      "x": -961.900634765625,
-      "y": 1953.4114990234375
-    },
-    {
-      "id": "Math/Linear Algebra/Done Right/Finite-Dimensional Vector Spaces.md",
-      "x": -729.260986328125,
-      "y": 1897.7486572265625
-    },
-    {
-      "id": "Math/Linear Algebra/Done Right/Linear Combinations.md",
-      "x": -1443.20458984375,
-      "y": 1712.38232421875
-    },
-    {
-      "id": "Math/Linear Algebra/Done Right/Linear Independence.md",
-      "x": -814.7469482421875,
-      "y": 2123.826171875
-    },
-    {
-      "id": "Math/Linear Algebra/Done Right/Span.md",
-      "x": -867.578125,
-      "y": 1136.4534912109375
-    },
-    {
-      "id": "Math/Linear Algebra/Done Right/Subspaces.md",
-      "x": -1237.8028564453125,
-      "y": 728.032958984375
-    },
-    {
-      "id": "Math/Linear Algebra/Done Right/Sums of Subspaces.md",
-      "x": -1195.672607421875,
-      "y": 1171.9134521484375
-    },
-    {
-      "id": "Math/Linear Algebra/Done Right/Vector Spaces.md",
-      "x": -688.73046875,
-      "y": 1002.13427734375
-    },
-    {
-      "id": "Math/Linear Algebra/Linear Transformations/Characteristic Polynomial.md",
-      "x": -1243.1495361328125,
-      "y": 2707.216552734375
-    },
-    {
-      "id": "Math/Linear Algebra/Linear Transformations/Co-factor Expansion.md",
-      "x": -2580.793212890625,
-      "y": 2796.564208984375
-    },
-    {
-      "id": "Math/Linear Algebra/Linear Transformations/Determinant of a 2x2 Matrix.md",
-      "x": -2633.02392578125,
-      "y": 3212.965087890625
-    },
-    {
-      "id": "Math/Linear Algebra/Linear Transformations/Determinant of a 3x3 Matrix.md",
-      "x": -2781.667724609375,
-      "y": 2965.322265625
-    },
-    {
-      "id": "Math/Linear Algebra/Linear Transformations/Determinants.md",
-      "x": -2018.7960205078125,
-      "y": 2828.126220703125
-    },
-    {
-      "id": "Math/Linear Algebra/Linear Transformations/Eigenvectors & Eigenvalues.md",
-      "x": -1318.04052734375,
-      "y": 3032.365966796875
-    },
-    {
-      "id": "Math/Linear Algebra/Linear Transformations/Linear Transformations.md",
-      "x": -1083.843994140625,
-      "y": 3343.85107421875
-    },
-    {
-      "id": "Math/Linear Algebra/Linear Transformations/Row and Column Operations with Determinants.md",
-      "x": -2334.10009765625,
-      "y": 3120.958740234375
-    },
-    {
-      "id": "Math/Linear Algebra/Linear Transformations/Triangular Product of Diagonals.md",
-      "x": -2335.72265625,
-      "y": 2879.999755859375
-    },
-    {
-      "id": "Math/Linear Algebra/Matrices/Definitions/Block Matrices.md",
-      "x": 4821.65478515625,
-      "y": 1304.066650390625
-    },
-    {
-      "id": "Math/Linear Algebra/Matrices/Definitions/Diagonal Matrices.md",
-      "x": 3336.481201171875,
-      "y": 3526.0458984375
-    },
-    {
-      "id": "Math/Linear Algebra/Matrices/Definitions/Equality of Matrices.md",
-      "x": -1297.5521240234375,
-      "y": 4876.03369140625
-    },
-    {
-      "id": "Math/Linear Algebra/Matrices/Definitions/Exponentiation of Matrices.md",
-      "x": 2121.607177734375,
-      "y": 4357.52197265625
-    },
-    {
-      "id": "Math/Linear Algebra/Matrices/Definitions/Identity Matrices.md",
-      "x": -1701.4144287109375,
-      "y": 3295.37451171875
-    },
-    {
-      "id": "Math/Linear Algebra/Matrices/Definitions/Matrix Addition.md",
-      "x": -1182.6036376953125,
-      "y": 3767.562744140625
-    },
-    {
-      "id": "Math/Linear Algebra/Matrices/Definitions/Matrix Scalar Multiplication.md",
-      "x": -21.085895538330078,
-      "y": 4708.11279296875
-    },
-    {
-      "id": "Math/Linear Algebra/Matrices/Definitions/Minors.md",
-      "x": -2412.042236328125,
-      "y": 2645.751953125
-    },
-    {
-      "id": "Math/Linear Algebra/Matrices/Definitions/Sets of Matrices.md",
-      "x": -1310.85205078125,
-      "y": 2073.635986328125
-    },
-    {
-      "id": "Math/Linear Algebra/Matrices/Definitions/Singular Matrices.md",
-      "x": -1710.9146728515625,
-      "y": 2756.560302734375
-    },
-    {
-      "id": "Math/Linear Algebra/Matrices/Definitions/Symmetric Matrices.md",
-      "x": -2987.246337890625,
-      "y": 883.6488037109375
-    },
-    {
-      "id": "Math/Linear Algebra/Matrices/Definitions/Transposition.md",
-      "x": -2503.95849609375,
-      "y": 2159.399658203125
-    },
-    {
-      "id": "Math/Linear Algebra/Matrices/Definitions/Zero Matrices.md",
-      "x": -1241.7965087890625,
-      "y": 2285.481201171875
-    },
-    {
-      "id": "Math/Linear Algebra/Matrices/Inversion by Row Reduction.md",
-      "x": -2248.108642578125,
-      "y": 3591.728759765625
-    },
-    {
-      "id": "Math/Linear Algebra/Matrices/Inverting Matrices.md",
-      "x": -1919.7755126953125,
-      "y": 3122.381591796875
-    },
-    {
-      "id": "Math/Linear Algebra/Matrices/Matrices as Vectors.md",
-      "x": -875.9321899414062,
-      "y": 3642.0205078125
-    },
-    {
-      "id": "Math/Linear Algebra/Matrices/Matrices.md",
-      "x": -2036.187744140625,
-      "y": 2447.0224609375
-    },
-    {
-      "id": "Math/Linear Algebra/Matrices/Matrix Invertibility.md",
-      "x": -1411.9442138671875,
-      "y": 2461.781005859375
-    },
-    {
-      "id": "Math/Linear Algebra/Matrices/Matrix Multiplication.md",
-      "x": -1357.786376953125,
-      "y": 3291.466796875
-    },
-    {
-      "id": "Math/Linear Algebra/Systems of Linear Equations/Curve Fitting.md",
-      "x": -1754.3272705078125,
-      "y": 4000.3017578125
-    },
-    {
-      "id": "Math/Linear Algebra/Systems of Linear Equations/Diagnosing Linear Systems.md",
-      "x": -2026.477783203125,
-      "y": 4536.77880859375
-    },
-    {
-      "id": "Augmented Matrices",
-      "x": -1921.1533203125,
-      "y": 4250.0546875
-    },
-    {
-      "id": "Math/Linear Algebra/Systems of Linear Equations/EF & REF.md",
-      "x": -2541.357177734375,
-      "y": 3882.964111328125
-    },
-    {
-      "id": "Math/Linear Algebra/Systems of Linear Equations/Gaussian Elimination.md",
-      "x": -2055.95947265625,
-      "y": 3921.322265625
-    },
-    {
-      "id": "Atoms/Calculus/Linear Algebra/Matrices/Matrices",
-      "x": -2207.037841796875,
-      "y": 4198.6337890625
-    },
-    {
-      "id": "Math/Linear Algebra/Systems of Linear Equations/Homogeneous Systems.md",
-      "x": -1731.217041015625,
-      "y": 3060.49462890625
-    },
-    {
-      "id": "Math/Linear Algebra/Systems of Linear Equations/Inconsistent Systems in REF.md",
-      "x": -2811.419189453125,
-      "y": 3742.07763671875
-    },
-    {
-      "id": "Math/Linear Algebra/Systems of Linear Equations/Linear Systems Dictionary.md",
-      "x": 1658.711669921875,
-      "y": 4551.1943359375
-    },
-    {
-      "id": "Math/Linear Algebra/Systems of Linear Equations/Linear Systems.md",
-      "x": -1952.3060302734375,
-      "y": 3558.291748046875
-    },
-    {
-      "id": "Math/Linear Algebra/Systems of Linear Equations/Parameterizing Solutions.md",
-      "x": 2706.4384765625,
-      "y": 3640.42822265625
-    },
-    {
-      "id": "Math/Linear Algebra/Systems of Linear Equations/Pivots and Free Variables.md",
-      "x": -2840.58056640625,
-      "y": 4030.7138671875
-    },
-    {
-      "id": "Math/Linear Algebra/Systems of Linear Equations/Reduced REF (RREF).md",
-      "x": -2292.57470703125,
-      "y": 3907.89892578125
-    },
-    {
-      "id": "Math/Linear Algebra/Vectors/Areas & Volumes/Area of Parallelograms.md",
-      "x": -123.49098205566406,
-      "y": 4168.3115234375
-    },
-    {
-      "id": "Math/Linear Algebra/Vectors/Areas & Volumes/Area of Triangles.md",
-      "x": -461.07366943359375,
-      "y": 4181.52294921875
-    },
-    {
-      "id": "Math/Linear Algebra/Vectors/Areas & Volumes/Volume of Parallelepipeds.md",
-      "x": 336.8218078613281,
-      "y": 4522.84326171875
-    },
-    {
-      "id": "Math/Linear Algebra/Vectors/Basics/Cosine Similarity Formula.md",
-      "x": -82.58338165283203,
-      "y": 3337.0400390625
+      "x": 2347.63232421875,
+      "y": 3701.9716796875
     },
     {
       "id": "Cosine Rule",
-      "x": -386.86700439453125,
-      "y": 3271.50927734375
+      "x": -206.27061462402344,
+      "y": 3407.287353515625
+    },
+    {
+      "id": "Multigraphs",
+      "x": -3367.781005859375,
+      "y": -233.9615020751953
+    },
+    {
+      "id": "Directed Graphs",
+      "x": -2877.129638671875,
+      "y": -481.4372863769531
+    },
+    {
+      "id": "Computer Science/Algorithms/Sorting Algorithms/Insertion Sort.md",
+      "x": -1728.860595703125,
+      "y": -2017.0255126953125
+    },
+    {
+      "id": "Computer Science/Algorithms/Sorting Algorithms/Merge Sort.md",
+      "x": -1292.0653076171875,
+      "y": -2901.027099609375
+    },
+    {
+      "id": "Computer Science/Algorithms/Sorting Algorithms/Quick Sort.md",
+      "x": -1217.26416015625,
+      "y": -3482.79052734375
+    },
+    {
+      "id": "Computer Science/Algorithms/Sorting Algorithms/Selection Sort.md",
+      "x": -1723.413330078125,
+      "y": -2303.78759765625
+    },
+    {
+      "id": "Computer Science/Algorithms/Sorting Algorithms/Shell Sort.md",
+      "x": -1368.460693359375,
+      "y": -1120.5350341796875
+    },
+    {
+      "id": "Computer Science/Algorithms/Trees/Breadth First Search.md",
+      "x": -2858.92724609375,
+      "y": -1645.5057373046875
+    },
+    {
+      "id": "Computer Science/Algorithms/Trees/Depth First Search.md",
+      "x": -3216.508544921875,
+      "y": -1467.42333984375
+    },
+    {
+      "id": "Computer Science/Algorithms/Trees/Dijkstra's Algorithm.md",
+      "x": -3044.808837890625,
+      "y": -1743.771484375
+    },
+    {
+      "id": "Computer Science/Algorithms/Trees/Kruskal's Algorithm.md",
+      "x": -2686.239013671875,
+      "y": -942.5908203125
+    },
+    {
+      "id": "Computer Science/Algorithms/Trees/Prim's Algorithm.md",
+      "x": -2878.43994140625,
+      "y": -1081.912109375
+    },
+    {
+      "id": "Computer Science/Asymptotic Analysis.md",
+      "x": -910.7117309570312,
+      "y": -1995.2939453125
+    },
+    {
+      "id": "Computer Science/Cryptohack/ASCII.md",
+      "x": -1167.403564453125,
+      "y": -4690.90869140625
+    },
+    {
+      "id": "Computer Science/Cryptohack/Base64.md",
+      "x": -977.2001342773438,
+      "y": -4477.16845703125
+    },
+    {
+      "id": "Computer Science/Cryptohack/Hexadecimal.md",
+      "x": -1736.392333984375,
+      "y": -3826.467529296875
+    },
+    {
+      "id": "Computer Science/Cryptohack/Strings as Numbers.md",
+      "x": 1947.2115478515625,
+      "y": 446.7697448730469
+    },
+    {
+      "id": "Computer Science/Prefix, Infix, and Postfix Notation.md",
+      "x": -2141.097900390625,
+      "y": -1517.515380859375
+    },
+    {
+      "id": "Computer Science/Recursion.md",
+      "x": -1666.824951171875,
+      "y": -3305.42626953125
+    },
+    {
+      "id": "Japanese/Languages & Nationalities.md",
+      "x": 4740.3466796875,
+      "y": 93.03052520751953
+    },
+    {
+      "id": "Japanese/Not.md",
+      "x": 4788.5703125,
+      "y": 665.2579345703125
+    },
+    {
+      "id": "Japanese/Particles.md",
+      "x": 4601.7275390625,
+      "y": 380.1241149902344
+    },
+    {
+      "id": "Na-adjectives",
+      "x": 4325.5185546875,
+      "y": 483.5024719238281
+    },
+    {
+      "id": "Japanese/Possession.md",
+      "x": 4612.7109375,
+      "y": 1010.4861450195312
+    },
+    {
+      "id": "Japanese/States of Being.md",
+      "x": 5045.763671875,
+      "y": 32.590248107910156
+    },
+    {
+      "id": "Japanese/Subjects of Sentences.md",
+      "x": 4908.98095703125,
+      "y": 967.8971557617188
+    },
+    {
+      "id": "Japanese/This, That, There, Etc.md",
+      "x": 4497.1220703125,
+      "y": 715.1734619140625
+    },
+    {
+      "id": "Japanese/Time.md",
+      "x": 5037.46826171875,
+      "y": 690.533447265625
+    },
+    {
+      "id": "Law of Diminishing Marginal Utility.md",
+      "x": -1801.0186767578125,
+      "y": -4695.6064453125
+    },
+    {
+      "id": "Learning/Chunking.md",
+      "x": -624.2640991210938,
+      "y": 3112.705078125
+    },
+    {
+      "id": "Learning/Forgetting Curve.md",
+      "x": -109.63065338134766,
+      "y": 2797.749267578125
+    },
+    {
+      "id": "Learning/Neural Network Model.md",
+      "x": -3289.601806640625,
+      "y": -919.0086059570312
+    },
+    {
+      "id": "Learning/Search of Associative Memory.md",
+      "x": -172.7517852783203,
+      "y": 2475.737060546875
+    },
+    {
+      "id": "Learning/Types of Encoding.md",
+      "x": -362.7212219238281,
+      "y": 2933.63916015625
+    },
+    {
+      "id": "Math/Algebra/Algebraic Laws.md",
+      "x": -4746.48583984375,
+      "y": 1488.4307861328125
+    },
+    {
+      "id": "Math/Algebra/Basics/Absolute Values.md",
+      "x": 196.87875366210938,
+      "y": -685.79052734375
+    },
+    {
+      "id": "Math/Algebra/Basics/Euler's Number.md",
+      "x": 3057.487060546875,
+      "y": 536.0556030273438
+    },
+    {
+      "id": "Math/Algebra/Basics/Exponent Laws.md",
+      "x": 3805.859375,
+      "y": 2786.080078125
+    },
+    {
+      "id": "Math/Algebra/Basics/Exponential Functions.md",
+      "x": 3041.44921875,
+      "y": 234.3854217529297
+    },
+    {
+      "id": "Math/Algebra/Basics/Inequalities.md",
+      "x": 506.1083984375,
+      "y": -813.8508911132812
+    },
+    {
+      "id": "Math/Algebra/Basics/Intervals.md",
+      "x": 1549.0830078125,
+      "y": -1221.13134765625
+    },
+    {
+      "id": "Math/Algebra/Basics/Logarithm Laws.md",
+      "x": 3921.789794921875,
+      "y": 3120.959228515625
+    },
+    {
+      "id": "Math/Algebra/Basics/Logarithmic Functions.md",
+      "x": 2708.398193359375,
+      "y": 310.1822509765625
+    },
+    {
+      "id": "Math/Algebra/Complex Numbers/Argand Diagrams.md",
+      "x": 1211.847412109375,
+      "y": -874.391357421875
+    },
+    {
+      "id": "Math/Algebra/Complex Numbers/Complex Conjugates.md",
+      "x": 2944.94873046875,
+      "y": 3596.933349609375
+    },
+    {
+      "id": "Math/Algebra/Complex Numbers/Complex Modulus.md",
+      "x": 957.142822265625,
+      "y": -621.2313842773438
+    },
+    {
+      "id": "Math/Algebra/Complex Numbers/Complex Numbers in Polar Form.md",
+      "x": 1673.408935546875,
+      "y": -91.56501007080078
+    },
+    {
+      "id": "Math/Algebra/Complex Numbers/Complex Numbers.md",
+      "x": 469.30865478515625,
+      "y": -1028.7701416015625
+    },
+    {
+      "id": "Math/Algebra/Complex Numbers/Complex Roots.md",
+      "x": 1740.0943603515625,
+      "y": 646.4252319335938
+    },
+    {
+      "id": "Math/Algebra/Complex Numbers/De Moivre's Formula.md",
+      "x": 1528.746337890625,
+      "y": 1361.7103271484375
+    },
+    {
+      "id": "Math/Algebra/Complex Numbers/Euler's Formula.md",
+      "x": 1972.3848876953125,
+      "y": 127.32246398925781
+    },
+    {
+      "id": "Math/Algebra/Complex Numbers/Rectangular Form.md",
+      "x": 2082.16552734375,
+      "y": -10.848782539367676
+    },
+    {
+      "id": "Math/Algebra/Coordinate Forms/Parametric Area.md",
+      "x": 2044.9190673828125,
+      "y": 3736.0849609375
+    },
+    {
+      "id": "Atoms/Calculus/Integration/Integration",
+      "x": 1916.74951171875,
+      "y": 3444.6591796875
+    },
+    {
+      "id": "Math/Algebra/Coordinate Forms/Parametric Form.md",
+      "x": 2195.2265625,
+      "y": 3429.23876953125
+    },
+    {
+      "id": "Math/Algebra/Coordinate Forms/Polar Arc Length Formula.md",
+      "x": 2225.78076171875,
+      "y": 3038.255859375
+    },
+    {
+      "id": "Math/Algebra/Coordinate Forms/Polar Area.md",
+      "x": 2851.68359375,
+      "y": 1491.2738037109375
+    },
+    {
+      "id": "Math/Algebra/Coordinate Forms/Polar Form.md",
+      "x": 2703.246337890625,
+      "y": 1021.1907958984375
+    },
+    {
+      "id": "Math/Algebra/Coordinate Forms/Slope and Concavity of Parametric Form.md",
+      "x": 2502.245361328125,
+      "y": 3455.68115234375
+    },
+    {
+      "id": "Math/Algebra/Coordinate Forms/Slope of Polar Form.md",
+      "x": 2640.74609375,
+      "y": 1343.9671630859375
+    },
+    {
+      "id": "Math/Algebra/Functions/Algebraic and Transcendental Functions.md",
+      "x": 3051.197021484375,
+      "y": 5.032868385314941
+    },
+    {
+      "id": "Math/Algebra/Functions/Equality of Functions.md",
+      "x": 4532.4140625,
+      "y": 2231.06689453125
+    },
+    {
+      "id": "Math/Algebra/Functions/Even and Odd Functions.md",
+      "x": 1013.6140747070312,
+      "y": 843.5838623046875
+    },
+    {
+      "id": "Math/Algebra/Functions/Increasing and Decreasing Functions.md",
+      "x": 1106.6280517578125,
+      "y": 57.661258697509766
+    },
+    {
+      "id": "Math/Algebra/Functions/Polynomial and Linear Functions.md",
+      "x": 3693.1328125,
+      "y": 367.3876037597656
+    },
+    {
+      "id": "Math/Algebra/Functions/Transforming Functions.md",
+      "x": 3166.212890625,
+      "y": 3067.024169921875
+    },
+    {
+      "id": "Math/Algebra/Functions/Types of Functions.md",
+      "x": 3388.834228515625,
+      "y": 240.20838928222656
+    },
+    {
+      "id": "Math/Algebra/Gamma Function.md",
+      "x": -1213.4375,
+      "y": 4896.400390625
+    },
+    {
+      "id": "Math/Algebra/Lambert W Function.md",
+      "x": 851.0776977539062,
+      "y": 256.68585205078125
+    },
+    {
+      "id": "Math/Algebra/Partial Fraction Decomposition.md",
+      "x": 3863.136474609375,
+      "y": 161.68434143066406
+    },
+    {
+      "id": "Math/Calculus/Integration/Integration",
+      "x": 4169.61767578125,
+      "y": 208.89395141601562
+    },
+    {
+      "id": "Math/Algebra/Sequences & Series/Sequences & Series",
+      "x": 4099.15087890625,
+      "y": -54.848785400390625
+    },
+    {
+      "id": "Math/Algebra/Sequences & Series/Sequences/Bounded Sequences.md",
+      "x": 2711.385986328125,
+      "y": -1761.539306640625
+    },
+    {
+      "id": "Math/Algebra/Sequences & Series/Sequences/Comparison Theorem for Sequences.md",
+      "x": 2864.98583984375,
+      "y": -2128.754150390625
+    },
+    {
+      "id": "Math/Algebra/Sequences & Series/Sequences/Convergence and Divergence of Sequences.md",
+      "x": 1461.4666748046875,
+      "y": -1699.8719482421875
+    },
+    {
+      "id": "Math/Calculus/Limits/Limits",
+      "x": 1736.9300537109375,
+      "y": -1995.7479248046875
+    },
+    {
+      "id": "Math/Algebra/Sequences & Series/Sequences/Extending Sequences.md",
+      "x": 1006.8103637695312,
+      "y": -953.6364135742188
+    },
+    {
+      "id": "Math/Algebra/Sequences & Series/Sequences/Fibonacci Sequence.md",
+      "x": 475.14410400390625,
+      "y": -1733.987060546875
+    },
+    {
+      "id": "Math/Algebra/Sequences & Series/Sequences/Limits of Recursive Sequences.md",
+      "x": 831.3768920898438,
+      "y": -1711.043212890625
+    },
+    {
+      "id": "Math/Algebra/Sequences & Series/Sequences/Monotone Convergence Theorem.md",
+      "x": 2041.433349609375,
+      "y": -1858.53564453125
+    },
+    {
+      "id": "Math/Algebra/Sequences & Series/Sequences/Monotonic Sequences.md",
+      "x": 1296.2896728515625,
+      "y": -1558.930908203125
+    },
+    {
+      "id": "Math/Algebra/Sequences & Series/Sequences/Sequences.md",
+      "x": 324.2803955078125,
+      "y": -1435.6417236328125
+    },
+    {
+      "id": "Math/Algebra/Sequences & Series/Series/Definitions/Summand.md",
+      "x": 1726.4532470703125,
+      "y": -938.6066284179688
+    },
+    {
+      "id": "Math/Algebra/Sequences & Series/Series/Geometric Series.md",
+      "x": 1528.4486083984375,
+      "y": -759.913330078125
+    },
+    {
+      "id": "Math/Algebra/Sequences & Series/Series/Harmonic Series.md",
+      "x": 2351.02587890625,
+      "y": -1165.6143798828125
+    },
+    {
+      "id": "Math/Algebra/Sequences & Series/Series/Interval of Convergence.md",
+      "x": 1127.8734130859375,
+      "y": 241.3469696044922
+    },
+    {
+      "id": "Math/Algebra/Sequences & Series/Series/Partial Sums.md",
+      "x": 1078.0352783203125,
+      "y": -1717.447998046875
+    },
+    {
+      "id": "Math/Algebra/Sequences & Series/Series/Power Series.md",
+      "x": 1313.3048095703125,
+      "y": -383.6767883300781
+    },
+    {
+      "id": "Math/Algebra/Sequences & Series/Series/Series.md",
+      "x": 1372.047119140625,
+      "y": -1327.1005859375
+    },
+    {
+      "id": "Math/Algebra/Sequences & Series/Series/Taylor Series/Common Taylor Series.md",
+      "x": 1953.958984375,
+      "y": -557.8158569335938
+    },
+    {
+      "id": "Math/Algebra/Sequences & Series/Series/Taylor Series/Landua's Big Oh Notation.md",
+      "x": -807.9791870117188,
+      "y": -1622.5726318359375
+    },
+    {
+      "id": "Math/Algebra/Functions/Definitions/Domain",
+      "x": -1022.4354248046875,
+      "y": -1887.3858642578125
+    },
+    {
+      "id": "Supersets",
+      "x": -46.52637481689453,
+      "y": -1069.409912109375
+    },
+    {
+      "id": "Math/Algebra/Sequences & Series/Series/Taylor Series/Maclaurin Series.md",
+      "x": 2038.603515625,
+      "y": -297.6004943847656
+    },
+    {
+      "id": "Math/Algebra/Sequences & Series/Series/Taylor Series/Substitutions.md",
+      "x": 2947.807373046875,
+      "y": 4067.188720703125
+    },
+    {
+      "id": "Math/Algebra/Sequences & Series/Series/Taylor Series/Taylor Series.md",
+      "x": 1623.2230224609375,
+      "y": -365.0086669921875
+    },
+    {
+      "id": "Math/Algebra/Sequences & Series/Series/Taylor Series/Taylor's Inequality.md",
+      "x": 1998.9476318359375,
+      "y": -424.04168701171875
+    },
+    {
+      "id": "Math/Algebra/Sequences & Series/Series/Taylor Series/Taylor's Remainder Theorem.md",
+      "x": 1922.107421875,
+      "y": -180.82183837890625
+    },
+    {
+      "id": "Math/Algebra/Sequences & Series/Series/Taylor Series/Uniqueness Theorem for Taylor Series.md",
+      "x": 1721.0885009765625,
+      "y": -724.612060546875
+    },
+    {
+      "id": "Math/Algebra/Sequences & Series/Series/Telescoping Series.md",
+      "x": 1229.95361328125,
+      "y": -676.4585571289062
+    },
+    {
+      "id": "Math/Algebra/Sequences & Series/Series/Tests/Absolute Convergence.md",
+      "x": 710.0729370117188,
+      "y": -1118.481201171875
+    },
+    {
+      "id": "Math/Algebra/Sequences & Series/Series/Tests/Alternating Series Test.md",
+      "x": 1406.2567138671875,
+      "y": -1924.1121826171875
+    },
+    {
+      "id": "Math/Algebra/Sequences & Series/Series/Tests/Comparison Theorem for Series.md",
+      "x": 1949.35791015625,
+      "y": -1544.6744384765625
+    },
+    {
+      "id": "Math/Algebra/Sequences & Series/Series/Tests/Remainder Estimate for Integral Test.md",
+      "x": 1755.1898193359375,
+      "y": -1746.59765625
+    },
+    {
+      "id": "Math/Algebra/Sequences & Series/Series/Tests/The Integral Test.md",
+      "x": 1753.3421630859375,
+      "y": -1421.686279296875
+    },
+    {
+      "id": "Math/Algebra/Sequences & Series/Series/Tests/The Ratio Test.md",
+      "x": 1068.712646484375,
+      "y": -1303.845703125
+    },
+    {
+      "id": "Math/Algebra/Sequences & Series/Series/Tests/The Root Test.md",
+      "x": 1013.336181640625,
+      "y": -1517.28955078125
+    },
+    {
+      "id": "Math/Algebra/Sequences & Series/Series/p-series.md",
+      "x": 2020.5213623046875,
+      "y": -1014.6827392578125
+    },
+    {
+      "id": "Math/Calculus/Differential Equations/Auxiliary Equations.md",
+      "x": 1077.3011474609375,
+      "y": 1635.169677734375
+    },
+    {
+      "id": "Math/Calculus/Differential Equations/Bernoulli Equations.md",
+      "x": 2050.748046875,
+      "y": 1887.6080322265625
+    },
+    {
+      "id": "Math/Calculus/Differential Equations/Definitions/Direction Fields.md",
+      "x": 4069.661865234375,
+      "y": 2360.833984375
+    },
+    {
+      "id": "Math/Calculus/Differential Equations/Definitions/General vs Particular Solution.md",
+      "x": 746.7921752929688,
+      "y": 2831.989990234375
+    },
+    {
+      "id": "Math/Calculus/Differential Equations/Definitions/Homogeneous Differential Equations.md",
+      "x": 373.1732177734375,
+      "y": 2204.92626953125
+    },
+    {
+      "id": "Math/Calculus/Differential Equations/Definitions/Initial Value Problem.md",
+      "x": 1108.4132080078125,
+      "y": 2827.90185546875
+    },
+    {
+      "id": "Math/Calculus/Differential Equations/Definitions/Linear Differential Equations.md",
+      "x": 1418.9598388671875,
+      "y": 1931.11279296875
+    },
+    {
+      "id": "Math/Calculus/Differential Equations/Definitions/Order.md",
+      "x": 1291.2442626953125,
+      "y": 2553.4423828125
+    },
+    {
+      "id": "Math/Calculus/Differential Equations/Definitions/Orthogonal Trajectories.md",
+      "x": 2304.856689453125,
+      "y": 4464.7880859375
+    },
+    {
+      "id": "Math/Calculus/Differential Equations/Differential Equations.md",
+      "x": 954.3110961914062,
+      "y": 2974.61083984375
+    },
+    {
+      "id": "Math/Calculus/Differential Equations/Differential Operators.md",
+      "x": 1783.2296142578125,
+      "y": 1875.373779296875
+    },
+    {
+      "id": "Math/Calculus/Differential Equations/Euler's Method.md",
+      "x": -1481.73828125,
+      "y": 4724.24462890625
+    },
+    {
+      "id": "Math/Calculus/Differential Equations/Integrating Factor Method.md",
+      "x": 1793.4324951171875,
+      "y": 2114.1708984375
+    },
+    {
+      "id": "Math/Calculus/Differential Equations/Method of Undetermined Coefficients.md",
+      "x": 185.4599609375,
+      "y": 2622.825439453125
+    },
+    {
+      "id": "Math/Calculus/Differential Equations/Separation of Variables.md",
+      "x": 1844.35693359375,
+      "y": 2371.6142578125
+    },
+    {
+      "id": "Math/Calculus/Differential Equations/Solving Non-Homogeneous Differential Equations.md",
+      "x": 713.75732421875,
+      "y": 2459.3212890625
+    },
+    {
+      "id": "Math/Calculus/Differential Equations/Splitting Second Order DEs.md",
+      "x": 1488.74560546875,
+      "y": 2134.56494140625
+    },
+    {
+      "id": "Math/Calculus/Differential Equations/Standards of Differential Equations.md",
+      "x": 2160.36474609375,
+      "y": 2145.601806640625
+    },
+    {
+      "id": "Math/Calculus/Differentiation/Checklist for Graphing Functions.md",
+      "x": 2630.779541015625,
+      "y": 4249.39208984375
+    },
+    {
+      "id": "Math/Calculus/Differentiation/Critical Points.md",
+      "x": 3430.267333984375,
+      "y": -1280.537109375
+    },
+    {
+      "id": "Math/Calculus/Differentiation/Differentiability.md",
+      "x": 3087.506103515625,
+      "y": -1395.7587890625
+    },
+    {
+      "id": "Math/Calculus/Differentiation/Differentials.md",
+      "x": 2359.722900390625,
+      "y": 2453.408447265625
+    },
+    {
+      "id": "Math/Calculus/Differentiation/Extreme Value Theorem.md",
+      "x": 2149.49951171875,
+      "y": -1275.7891845703125
+    },
+    {
+      "id": "Math/Calculus/Differentiation/Fermat's Theorem.md",
+      "x": 3656.546142578125,
+      "y": -1483.1553955078125
+    },
+    {
+      "id": "Math/Calculus/Differentiation/First Derivative Test.md",
+      "x": -4691.3828125,
+      "y": 1827.594970703125
+    },
+    {
+      "id": "Math/Calculus/Differentiation/Hyperbolic Functions.md",
+      "x": 3317.696044921875,
+      "y": 867.0643920898438
+    },
+    {
+      "id": "Atoms/Geometry/Trigonometry/Trigonometry",
+      "x": 3637.81884765625,
+      "y": 908.7131958007812
+    },
+    {
+      "id": "Math/Calculus/Differentiation/Hyperbolic Identities.md",
+      "x": 3617.4912109375,
+      "y": 714.852783203125
+    },
+    {
+      "id": "Math/Calculus/Differentiation/Inflection Points.md",
+      "x": 2694.85693359375,
+      "y": 3875.2001953125
+    },
+    {
+      "id": "Math/Calculus/Differentiation/Inverse Hyperbolic Functions.md",
+      "x": 2682.889404296875,
+      "y": 748.1231689453125
+    },
+    {
+      "id": "Math/Calculus/Differentiation/Inverse Trigonometric Function Derivatives.md",
+      "x": 2181.901123046875,
+      "y": 674.453369140625
+    },
+    {
+      "id": "Math/Calculus/Differentiation/Local Extrema.md",
+      "x": 3434.6865234375,
+      "y": -1617.1407470703125
+    },
+    {
+      "id": "Math/Calculus/Differentiation/Newton's Method for Non-linear Equations.md",
+      "x": 1899.7320556640625,
+      "y": 616.2059326171875
+    },
+    {
+      "id": "Math/Calculus/Differentiation/Second Derivative Test.md",
+      "x": 2750.134033203125,
+      "y": -889.6849365234375
+    },
+    {
+      "id": "Math/Calculus/Integration/Approximate/Approximate Integration.md",
+      "x": 2585.966064453125,
+      "y": 2376.37939453125
+    },
+    {
+      "id": "Math/Calculus/Integration/Approximate/Error Bounds.md",
+      "x": 2931.963134765625,
+      "y": 2634.12548828125
+    },
+    {
+      "id": "Math/Calculus/Integration/Approximate/Midpoint Rule.md",
+      "x": 2941.169189453125,
+      "y": 2249.2802734375
+    },
+    {
+      "id": "Math/Calculus/Integration/Approximate/Riemann Sums.md",
+      "x": 2735.860107421875,
+      "y": 2056.407470703125
+    },
+    {
+      "id": "Math/Calculus/Integration/Approximate/Simpson's Rule.md",
+      "x": 2681.829833984375,
+      "y": 2715.765380859375
+    },
+    {
+      "id": "Math/Calculus/Integration/Approximate/Trapezium Rule.md",
+      "x": 2901.243896484375,
+      "y": 2398.52734375
+    },
+    {
+      "id": "Math/Calculus/Integration/Arc Length Formula.md",
+      "x": 2337.888427734375,
+      "y": 2732.091552734375
+    },
+    {
+      "id": "Math/Calculus/Integration/Average Value Function.md",
+      "x": 3161.146240234375,
+      "y": 1101.370849609375
+    },
+    {
+      "id": "Math/Calculus/Integration/Comparison Theorem.md",
+      "x": 2525.418701171875,
+      "y": -1997.009033203125
+    },
+    {
+      "id": "Math/Calculus/Integration/Fundamental Theorem of Calculus.md",
+      "x": 1559.4063720703125,
+      "y": 2344.607177734375
+    },
+    {
+      "id": "Math/Calculus/Integration/Improper Integrals.md",
+      "x": 2220.423095703125,
+      "y": -1670.656005859375
+    },
+    {
+      "id": "Math/Calculus/Integration/Integration by First Principals.md",
+      "x": 2955.1064453125,
+      "y": 1829.9005126953125
+    },
+    {
+      "id": "Math/Calculus/Integration/Inverse Trigonometric Integration Identities.md",
+      "x": 2248.1962890625,
+      "y": 350.9730529785156
+    },
+    {
+      "id": "Math/Calculus/Integration/Mean Value Theorem for Integrals.md",
+      "x": 3336.494873046875,
+      "y": 57.439849853515625
+    },
+    {
+      "id": "Math/Calculus/Integration/Net Change Theorem.md",
+      "x": 1755.0511474609375,
+      "y": 2637.1640625
+    },
+    {
+      "id": "Math/Calculus/Integration/Quadratics in the Denominator.md",
+      "x": 2539.14599609375,
+      "y": 549.3890380859375
+    },
+    {
+      "id": "Math/Calculus/Integration/Volumes/Definition of Volume.md",
+      "x": 3642.774658203125,
+      "y": 2504.434326171875
+    },
+    {
+      "id": "Math/Calculus/Integration/Volumes/Surfaces of Revolution.md",
+      "x": 2527.943115234375,
+      "y": 2985.9013671875
+    },
+    {
+      "id": "Math/Calculus/Integration/Volumes/Volumes by Cylindrical Shells.md",
+      "x": 3344.8564453125,
+      "y": 2018.3511962890625
+    },
+    {
+      "id": "Math/Calculus/Integration/Volumes/Volumes by Disks.md",
+      "x": 3401.340087890625,
+      "y": 2331.7685546875
+    },
+    {
+      "id": "Math/Calculus/Integration/Volumes/Volumes of Revolution.md",
+      "x": 3642.344482421875,
+      "y": 2167.798828125
+    },
+    {
+      "id": "Math/Calculus/Limits/Asymptotes.md",
+      "x": 3632.2177734375,
+      "y": -74.44873046875
+    },
+    {
+      "id": "Math/Calculus/Limits/Composite Limit Theorem.md",
+      "x": 2771.06689453125,
+      "y": -1419.00390625
+    },
+    {
+      "id": "Math/Calculus/Limits/Continuity of Combined Functions.md",
+      "x": 1582.0328369140625,
+      "y": 4817.09912109375
+    },
+    {
+      "id": "Math/Calculus/Limits/Definition of Continuity.md",
+      "x": 2573.072509765625,
+      "y": -1115.4971923828125
+    },
+    {
+      "id": "Math/Calculus/Limits/Direct Substitution Property.md",
+      "x": 2566.10107421875,
+      "y": -127.60401153564453
+    },
+    {
+      "id": "Math/Calculus/Limits/Indeterminate Forms.md",
+      "x": 3511.337890625,
+      "y": 3634.591552734375
+    },
+    {
+      "id": "Math/Calculus/Limits/Intermediate and Mean Value Theorem.md",
+      "x": 3239.23974609375,
+      "y": -748.7015380859375
+    },
+    {
+      "id": "Math/Calculus/Limits/L'Hôpital's Rule.md",
+      "x": 3716.30908203125,
+      "y": 3421.87939453125
+    },
+    {
+      "id": "Math/Calculus/Limits/Limit Laws.md",
+      "x": 2686.166259765625,
+      "y": -644.1378784179688
+    },
+    {
+      "id": "Math/Calculus/Limits/Precise Definition of a Limit.md",
+      "x": -1050.1217041015625,
+      "y": 4568.80078125
+    },
+    {
+      "id": "Math/Calculus/Limits/Rational Limits at Infinity.md",
+      "x": 3324.606689453125,
+      "y": -271.4770202636719
+    },
+    {
+      "id": "Math/Calculus/Limits/Rolle's Theorem.md",
+      "x": 3571.512939453125,
+      "y": -719.7127685546875
+    },
+    {
+      "id": "Math/Calculus/Limits/Squeeze Theorem.md",
+      "x": 2726.439697265625,
+      "y": -2285.97216796875
+    },
+    {
+      "id": "Math/Calculus/Limits/Two-Sided Limit Theorem.md",
+      "x": 3373.673828125,
+      "y": 2764.549560546875
+    },
+    {
+      "id": "Math/Calculus/Limits/Types of Discontinuities.md",
+      "x": 2893.0673828125,
+      "y": -202.638671875
+    },
+    {
+      "id": "Math/Calculus/Multi-variable Calculus/Critical Points of Surfaces.md",
+      "x": 3031.51904296875,
+      "y": -934.1060791015625
+    },
+    {
+      "id": "Math/Calculus/Multi-variable Calculus/Level Curves.md",
+      "x": 1061.539306640625,
+      "y": -187.49879455566406
+    },
+    {
+      "id": "Math/Calculus/Multi-variable Calculus/MATH201/Spherical Coordinates.md",
+      "x": 2924.99609375,
+      "y": 1259.982666015625
+    },
+    {
+      "id": "Math/Calculus/Multi-variable Calculus/MATH201/Surface Integrals.md",
+      "x": 3292.21435546875,
+      "y": 3382.185791015625
+    },
+    {
+      "id": "Math/Calculus/Multi-variable Calculus/Partial Derivatives.md",
+      "x": 2878.19287109375,
+      "y": -761.2929077148438
+    },
+    {
+      "id": "Math/Calculus/Multi-variable Calculus/Quadric Surfaces/Ellipsoid.md",
+      "x": 4323.3779296875,
+      "y": 1311.690185546875
+    },
+    {
+      "id": "Math/Calculus/Multi-variable Calculus/Quadric Surfaces/Elliptic Cone.md",
+      "x": 4434.07275390625,
+      "y": 1480.98779296875
+    },
+    {
+      "id": "Math/Calculus/Multi-variable Calculus/Quadric Surfaces/Elliptic Paraboloid.md",
+      "x": 4448.8779296875,
+      "y": 1762.0843505859375
+    },
+    {
+      "id": "Math/Calculus/Multi-variable Calculus/Quadric Surfaces/Hyperbolic Paraboloid.md",
+      "x": 3851.442626953125,
+      "y": 1846.666015625
+    },
+    {
+      "id": "Math/Calculus/Multi-variable Calculus/Quadric Surfaces/Hyperboloids.md",
+      "x": 3867.65625,
+      "y": 1655.700439453125
+    },
+    {
+      "id": "Math/Calculus/Multi-variable Calculus/Quadric Surfaces/Quadric Surfaces.md",
+      "x": 4198.6494140625,
+      "y": 1661.69921875
+    },
+    {
+      "id": "Math/Calculus/Multi-variable Calculus/The Second Partials Test.md",
+      "x": 2402.551513671875,
+      "y": -653.5109252929688
+    },
+    {
+      "id": "Math/Calculus/Operational Calculus/D-operators.md",
+      "x": 2009.387451171875,
+      "y": 1068.7509765625
+    },
+    {
+      "id": "Additive Property",
+      "x": 1746.4287109375,
+      "y": 1097.6009521484375
+    },
+    {
+      "id": "Math/Calculus/Operational Calculus/Falling Powers.md",
+      "x": 4321.3251953125,
+      "y": 2544.048583984375
+    },
+    {
+      "id": "Math/Calculus/Operational Calculus/Forward Difference Operation.md",
+      "x": 1300.9364013671875,
+      "y": 720.1026611328125
+    },
+    {
+      "id": "Math/Calculus/Operational Calculus/Fundamental Theorem of Discrete Calculus.md",
+      "x": 1500.5201416015625,
+      "y": 1022.7116088867188
+    },
+    {
+      "id": "Math/Calculus/Operational Calculus/Indefinite Sum.md",
+      "x": 1091.996337890625,
+      "y": 418.0293884277344
+    },
+    {
+      "id": "Math/Calculus/Operational Calculus/Linearity.md",
+      "x": 1520.4034423828125,
+      "y": 694.3685913085938
+    },
+    {
+      "id": "Math/Calculus/Vector Calculus/Advanced/Curl.md",
+      "x": 1282.132568359375,
+      "y": 3566.5263671875
+    },
+    {
+      "id": "Math/Calculus/Vector Calculus/Advanced/Divergence.md",
+      "x": 624.69677734375,
+      "y": 3546.900390625
+    },
+    {
+      "id": "Math/Calculus/Vector Calculus/Advanced/Flow Lines.md",
+      "x": 463.539794921875,
+      "y": 3362.695068359375
+    },
+    {
+      "id": "Math/Calculus/Vector Calculus/Advanced/Gradient.md",
+      "x": 1051.2125244140625,
+      "y": 3165.213623046875
+    },
+    {
+      "id": "Level Set",
+      "x": 1406.0330810546875,
+      "y": 3219.08056640625
+    },
+    {
+      "id": "Math/Calculus/Vector Calculus/Advanced/Nabla Operator.md",
+      "x": 994.187744140625,
+      "y": 3455.022705078125
+    },
+    {
+      "id": "Math/Calculus/Vector Calculus/Binormal Vectors.md",
+      "x": 548.6627197265625,
+      "y": 3916.94970703125
+    },
+    {
+      "id": "Math/Calculus/Vector Calculus/Curvature.md",
+      "x": 1448.106201171875,
+      "y": 3769.255126953125
+    },
+    {
+      "id": "Math/Calculus/Vector Calculus/Derivatives of Vector-Valued Functions.md",
+      "x": 450.2470703125,
+      "y": 4170.19970703125
+    },
+    {
+      "id": "Math/Calculus/Vector Calculus/Limits of Vector-Valued Functions.md",
+      "x": 2899.150146484375,
+      "y": -1251.2344970703125
+    },
+    {
+      "id": "Math/Calculus/Vector Calculus/Parametric Arc Length.md",
+      "x": 1917.103759765625,
+      "y": 3103.662841796875
+    },
+    {
+      "id": "Math/Calculus/Vector Calculus/Scalar Fields.md",
+      "x": 991.2565307617188,
+      "y": 2227.29736328125
+    },
+    {
+      "id": "Math/Calculus/Vector Calculus/Unit Normal Vectors.md",
+      "x": 785.23046875,
+      "y": 3952.405517578125
+    },
+    {
+      "id": "Math/Calculus/Vector Calculus/Unit Tangent Vectors.md",
+      "x": 829.8323974609375,
+      "y": 4214.2216796875
+    },
+    {
+      "id": "Math/Calculus/Vector Calculus/Vector Fields.md",
+      "x": 736.5366821289062,
+      "y": 3250.551025390625
+    },
+    {
+      "id": "Math/Discrete/Cryptography/Affine Cipher.md",
+      "x": -1672.728759765625,
+      "y": 770.7548828125
+    },
+    {
+      "id": "Math/Discrete/Cryptography/Caesar Cipher.md",
+      "x": -1731.0770263671875,
+      "y": 1135.855224609375
+    },
+    {
+      "id": "Math/Discrete/Cryptography/Definitions/Cipher.md",
+      "x": -3293.4912109375,
+      "y": 1384.49365234375
+    },
+    {
+      "id": "Math/Discrete/Cryptography/Definitions/Ciphertext.md",
+      "x": -3606.74267578125,
+      "y": 1460.6314697265625
+    },
+    {
+      "id": "Math/Discrete/Cryptography/Definitions/Code.md",
+      "x": -2001.947998046875,
+      "y": 580.9884643554688
+    },
+    {
+      "id": "Math/Discrete/Cryptography/Definitions/Cryptoanalysis.md",
+      "x": -3437.818115234375,
+      "y": 1850.3465576171875
+    },
+    {
+      "id": "Math/Discrete/Cryptography/Definitions/Cryptography.md",
+      "x": -3619.00244140625,
+      "y": 1785.1190185546875
+    },
+    {
+      "id": "Math/Discrete/Cryptography/Definitions/Cryptology.md",
+      "x": -3648.233154296875,
+      "y": 2147.130126953125
+    },
+    {
+      "id": "Math/Discrete/Cryptography/Definitions/Decryption.md",
+      "x": -3690.74365234375,
+      "y": 1206.9581298828125
+    },
+    {
+      "id": "Math/Discrete/Cryptography/Definitions/Encryption.md",
+      "x": -3539.60009765625,
+      "y": 1215.237548828125
+    },
+    {
+      "id": "Math/Discrete/Cryptography/Definitions/Key.md",
+      "x": -3887.828125,
+      "y": 1023.66650390625
+    },
+    {
+      "id": "Math/Discrete/Cryptography/Definitions/Permutations.md",
+      "x": -1462.8572998046875,
+      "y": 1577.6678466796875
+    },
+    {
+      "id": "Math/Discrete/Cryptography/Definitions/Plaintext.md",
+      "x": -3940.919677734375,
+      "y": 1516.5753173828125
+    },
+    {
+      "id": "Math/Discrete/Cryptography/Euler's Theorem.md",
+      "x": -3242.8134765625,
+      "y": 652.5663452148438
+    },
+    {
+      "id": "Math/Discrete/Cryptography/Euler's Totient Function.md",
+      "x": -2781.820556640625,
+      "y": 414.3280029296875
+    },
+    {
+      "id": "Math/Discrete/Cryptography/RSA.md",
+      "x": -3086.458984375,
+      "y": 771.3668212890625
+    },
+    {
+      "id": "Math/Discrete/Graph Theory/220/Brooks' Theorem.md",
+      "x": -3661.250732421875,
+      "y": -1255.8529052734375
+    },
+    {
+      "id": "Math/Discrete/Graph Theory/220/Chromatic Numbers.md",
+      "x": -3830.4033203125,
+      "y": -1440.04833984375
+    },
+    {
+      "id": "Math/Discrete/Graph Theory/220/Four Colour Theorem.md",
+      "x": -4018.0634765625,
+      "y": -1048.9222412109375
+    },
+    {
+      "id": "Math/Discrete/Graph Theory/220/König's Theorem.md",
+      "x": -3087.41748046875,
+      "y": -1497.662353515625
+    },
+    {
+      "id": "Math/Discrete/Graph Theory/Bipartite Graphs.md",
+      "x": -2251.7392578125,
+      "y": -1254.5960693359375
+    },
+    {
+      "id": "Math/Discrete/Graph Theory/Colouring Graphs.md",
+      "x": -3349.851806640625,
+      "y": -1159.8707275390625
+    },
+    {
+      "id": "Math/Discrete/Graph Theory/Complete Graphs.md",
+      "x": -3102.457275390625,
+      "y": -1150.947021484375
+    },
+    {
+      "id": "Math/Discrete/Graph Theory/Connectivitiy.md",
+      "x": -2085.419677734375,
+      "y": -873.4216918945312
+    },
+    {
+      "id": "Math/Discrete/Graph Theory/Definitions/Bridges.md",
+      "x": -1700.7864990234375,
+      "y": -295.854736328125
+    },
+    {
+      "id": "Math/Discrete/Graph Theory/Definitions/Edges.md",
+      "x": -2863.51416015625,
+      "y": -719.2257080078125
+    },
+    {
+      "id": "Math/Discrete/Graph Theory/Definitions/Forests.md",
+      "x": -2345.257568359375,
+      "y": -644.5969848632812
+    },
+    {
+      "id": "Math/Discrete/Graph Theory/Definitions/Loops.md",
+      "x": -3346.69287109375,
+      "y": -720.1649780273438
+    },
+    {
+      "id": "Math/Discrete/Graph Theory/Definitions/Neighbourhood.md",
+      "x": -3374.028076171875,
+      "y": -1355.975830078125
+    },
+    {
+      "id": "Math/Discrete/Graph Theory/Definitions/Parallel and Inverted Edges.md",
+      "x": -3359.706787109375,
+      "y": -522.1345825195312
+    },
+    {
+      "id": "Math/Discrete/Graph Theory/Definitions/Simple Graphs.md",
+      "x": -3552.425537109375,
+      "y": -789.7138671875
+    },
+    {
+      "id": "Math/Discrete/Graph Theory/Definitions/Subgraphs.md",
+      "x": -2626.1865234375,
+      "y": -1129.880615234375
+    },
+    {
+      "id": "Math/Discrete/Graph Theory/Definitions/Trees.md",
+      "x": -2115.8017578125,
+      "y": -317.6552734375
+    },
+    {
+      "id": "Math/Discrete/Graph Theory/Definitions/Vertex Degrees.md",
+      "x": -3465.195556640625,
+      "y": -1037.3009033203125
+    },
+    {
+      "id": "Math/Discrete/Graph Theory/Definitions/Vertices.md",
+      "x": -2912.064697265625,
+      "y": -1356.812744140625
+    },
+    {
+      "id": "Math/Discrete/Graph Theory/Definitions/Weighted Graphs.md",
+      "x": -3142.456787109375,
+      "y": -474.922607421875
+    },
+    {
+      "id": "Math/Discrete/Graph Theory/Eulerian Circuits and Graphs.md",
+      "x": -2511.017333984375,
+      "y": -578.05224609375
+    },
+    {
+      "id": "Math/Discrete/Graph Theory/Graph Isomorphism.md",
+      "x": -1186.317138671875,
+      "y": -123.90036010742188
+    },
+    {
+      "id": "Math/Discrete/Graph Theory/Graphs.md",
+      "x": -2709.585205078125,
+      "y": -674.30126953125
+    },
+    {
+      "id": "Math/Discrete/Graph Theory/Hamiltonian Cycles and Graphs.md",
+      "x": -3007.757568359375,
+      "y": -911.7612915039062
+    },
+    {
+      "id": "Math/Discrete/Graph Theory/Spanning Trees.md",
+      "x": -2504.935302734375,
+      "y": -841.8839721679688
+    },
+    {
+      "id": "Math/Discrete/Graph Theory/The Handshaking Lemma.md",
+      "x": -2373.9453125,
+      "y": -1044.516845703125
+    },
+    {
+      "id": "Math/Discrete/Graph Theory/Walks.md",
+      "x": -2131.897705078125,
+      "y": -1055.3729248046875
+    },
+    {
+      "id": "Math/Discrete/Number Theory/Counting Outcomes/Binomial Coefficient.md",
+      "x": -1084.2913818359375,
+      "y": -1574.3856201171875
+    },
+    {
+      "id": "Math/Discrete/Number Theory/Counting Outcomes/Binomial Theorem.md",
+      "x": -1435.2840576171875,
+      "y": -1855.8963623046875
+    },
+    {
+      "id": "Math/Discrete/Number Theory/Counting Outcomes/Counting Outcomes.md",
+      "x": -4508.59033203125,
+      "y": -2212.2275390625
+    },
+    {
+      "id": "Math/Discrete/Number Theory/Counting Outcomes/Fun Little Fact.md",
+      "x": -1336.8690185546875,
+      "y": -1521.17919921875
+    },
+    {
+      "id": "Math/Discrete/Number Theory/Counting Outcomes/Pascal's Triangle.md",
+      "x": -1255.1422119140625,
+      "y": -1919.9576416015625
+    },
+    {
+      "id": "Math/Discrete/Number Theory/Divisibility Tricks.md",
+      "x": -1983.5360107421875,
+      "y": 1465.7510986328125
+    },
+    {
+      "id": "Math/Discrete/Number Theory/Divisibility/Bēzout's Identity.md",
+      "x": -2206.429443359375,
+      "y": 1443.51220703125
+    },
+    {
+      "id": "Math/Discrete/Number Theory/Divisibility/Common Divisors.md",
+      "x": -2475.581298828125,
+      "y": 1441.7701416015625
+    },
+    {
+      "id": "Math/Discrete/Number Theory/Divisibility/Common Multiples.md",
+      "x": -2304.37646484375,
+      "y": 1766.0806884765625
+    },
+    {
+      "id": "Math/Discrete/Number Theory/Divisibility/Divisibility.md",
+      "x": -1926.6744384765625,
+      "y": 1099.7818603515625
+    },
+    {
+      "id": "Math/Discrete/Number Theory/Divisibility/Extended Euclidean Algorithm.md",
+      "x": -2812.353759765625,
+      "y": 1476.5987548828125
+    },
+    {
+      "id": "Math/Discrete/Number Theory/Divisibility/GCD with LCM.md",
+      "x": -2083.13916015625,
+      "y": 253.98265075683594
+    },
+    {
+      "id": "Lowest Common Multiple",
+      "x": -2402.469970703125,
+      "y": 514.8828735351562
+    },
+    {
+      "id": "Math/Discrete/Number Theory/Divisibility/Greatest Common Divisor.md",
+      "x": -2705.392822265625,
+      "y": 1036.524169921875
+    },
+    {
+      "id": "Math/Discrete/Number Theory/Divisibility/The Division Algorithm.md",
+      "x": -2275.2900390625,
+      "y": 993.2924194335938
+    },
+    {
+      "id": "Math/Discrete/Number Theory/Divisibility/The Euclidean Algorithm.md",
+      "x": -1930.9912109375,
+      "y": 849.4446411132812
+    },
+    {
+      "id": "Math/Discrete/Number Theory/Modular Arithmetic/Congruence and Cyclic Groups.md",
+      "x": -2369.924560546875,
+      "y": -111.01002502441406
+    },
+    {
+      "id": "Math/Discrete/Number Theory/Modular Arithmetic/Congruence.md",
+      "x": -2581.2158203125,
+      "y": 281.6595764160156
+    },
+    {
+      "id": "Math/Discrete/Number Theory/Modular Arithmetic/Cyclic Groups.md",
+      "x": -1920.763671875,
+      "y": -520.2522583007812
+    },
+    {
+      "id": "Math/Discrete/Number Theory/Modular Arithmetic/Fermat's Little Theorem.md",
+      "x": -3501.97314453125,
+      "y": 857.7872314453125
+    },
+    {
+      "id": "Math/Discrete/Number Theory/Modular Arithmetic/Finding Inverses.md",
+      "x": -2476.511474609375,
+      "y": 1234.268310546875
+    },
+    {
+      "id": "Math/Discrete/Number Theory/Modular Arithmetic/Invertibility.md",
+      "x": -2458.367431640625,
+      "y": 830.6585693359375
+    },
+    {
+      "id": "Math/Discrete/Number Theory/Modular Arithmetic/Modular Arithmetic.md",
+      "x": -2043.214111328125,
+      "y": -1851.270263671875
+    },
+    {
+      "id": "Math/Discrete/Number Theory/Modular Arithmetic/Modulus with Remainders.md",
+      "x": -2982.116455078125,
+      "y": 406.7234802246094
+    },
+    {
+      "id": "Math/Discrete/Number Theory/Modular Arithmetic/Properties of Cyclic Groups.md",
+      "x": -2261.615478515625,
+      "y": 171.26243591308594
+    },
+    {
+      "id": "Math/Discrete/Number Theory/Primes/Counting Distinct Positive Divisors.md",
+      "x": -2319.46435546875,
+      "y": 1600.511474609375
+    },
+    {
+      "id": "Math/Discrete/Number Theory/Primes/Euclid's Lemma.md",
+      "x": -1968.823486328125,
+      "y": 1681.7818603515625
+    },
+    {
+      "id": "Math/Discrete/Number Theory/Primes/Fundamental Theorem of Arithmetic.md",
+      "x": -1682.3642578125,
+      "y": 1853.6605224609375
+    },
+    {
+      "id": "Math/Discrete/Number Theory/Primes/Mersenne Primes.md",
+      "x": -2898.87255859375,
+      "y": 2105.819091796875
+    },
+    {
+      "id": "Math/Discrete/Number Theory/Primes/Primes.md",
+      "x": -2661.658203125,
+      "y": 1773.3714599609375
+    },
+    {
+      "id": "Math/Discrete/Number Theory/Primes/Square Roots of Primes.md",
+      "x": -1865.0611572265625,
+      "y": 2203.898681640625
+    },
+    {
+      "id": "Math/Discrete/Number Theory/Primes/Twin Primes.md",
+      "x": -2991.01025390625,
+      "y": 1962.57470703125
+    },
+    {
+      "id": "Math/Discrete/Propositional Logic/Arguments and Proofs/Argument.md",
+      "x": 217.81410217285156,
+      "y": 1426.00341796875
+    },
+    {
+      "id": "Math/Discrete/Propositional Logic/Arguments and Proofs/Direct Proof.md",
+      "x": 357.6199035644531,
+      "y": 1734.8519287109375
+    },
+    {
+      "id": "Math/Discrete/Propositional Logic/Arguments and Proofs/Induction.md",
+      "x": -1031.30908203125,
+      "y": 458.37286376953125
+    },
+    {
+      "id": "Math/Discrete/Propositional Logic/Arguments and Proofs/Lemmas.md",
+      "x": -701.2120971679688,
+      "y": 2237.13623046875
+    },
+    {
+      "id": "Math/Discrete/Propositional Logic/Arguments and Proofs/Proof by Contradiction.md",
+      "x": -173.09112548828125,
+      "y": 631.6636352539062
+    },
+    {
+      "id": "Math/Discrete/Propositional Logic/Arguments and Proofs/Proof by Contraposition.md",
+      "x": -432.0045166015625,
+      "y": 868.59716796875
+    },
+    {
+      "id": "Math/Discrete/Propositional Logic/Arguments and Proofs/Proof by Exhaustion.md",
+      "x": -63.05667495727539,
+      "y": 1606.5489501953125
+    },
+    {
+      "id": "Math/Discrete/Propositional Logic/Arguments and Proofs/Strong Induction.md",
+      "x": -619.4490966796875,
+      "y": 1515.779052734375
+    },
+    {
+      "id": "Math/Discrete/Propositional Logic/Basic Definitions/Compound Statements.md",
+      "x": 731.17578125,
+      "y": 2076.31298828125
+    },
+    {
+      "id": "Math/Discrete/Propositional Logic/Basic Definitions/Contingent Statements.md",
+      "x": 537.2923583984375,
+      "y": 944.0722045898438
+    },
+    {
+      "id": "Math/Discrete/Propositional Logic/Basic Definitions/Contradictions.md",
+      "x": 101.52677917480469,
+      "y": 577.3595581054688
+    },
+    {
+      "id": "Math/Discrete/Propositional Logic/Basic Definitions/Existential Quantifier.md",
+      "x": -487.9787292480469,
+      "y": 1085.8560791015625
+    },
+    {
+      "id": "Math/Discrete/Propositional Logic/Basic Definitions/Logical Connectives.md",
+      "x": 344.1285400390625,
+      "y": 1908.7691650390625
+    },
+    {
+      "id": "Math/Discrete/Propositional Logic/Basic Definitions/Predicates.md",
+      "x": -522.6336059570312,
+      "y": 1291.9005126953125
+    },
+    {
+      "id": "Math/Discrete/Propositional Logic/Basic Definitions/Primitive Statements.md",
+      "x": 917.3731689453125,
+      "y": 1805.794189453125
+    },
+    {
+      "id": "Math/Discrete/Propositional Logic/Basic Definitions/Statements and Propositions.md",
+      "x": 101.1123046875,
+      "y": 1143.4002685546875
+    },
+    {
+      "id": "Math/Discrete/Propositional Logic/Basic Definitions/Tautologies.md",
+      "x": 280.6055908203125,
+      "y": 907.8178100585938
+    },
+    {
+      "id": "Math/Discrete/Propositional Logic/Basic Definitions/Universal Quantifier.md",
+      "x": -1010.722900390625,
+      "y": 892.552490234375
+    },
+    {
+      "id": "Math/Discrete/Propositional Logic/Converse, Inverse, and Contrapositive.md",
+      "x": 414.51739501953125,
+      "y": 667.5814208984375
+    },
+    {
+      "id": "Math/Discrete/Propositional Logic/De Morgan's Laws.md",
+      "x": 5.954012393951416,
+      "y": 1350.801513671875
+    },
+    {
+      "id": "Math/Discrete/Propositional Logic/Distributive Law.md",
+      "x": -67.5670166015625,
+      "y": 2110.74267578125
+    },
+    {
+      "id": "Math/Discrete/Propositional Logic/Logical Connectives/Biconditional.md",
+      "x": 681.7752075195312,
+      "y": 1565.0682373046875
+    },
+    {
+      "id": "Math/Discrete/Propositional Logic/Logical Connectives/Conjunction.md",
+      "x": -238.30532836914062,
+      "y": 1750.711669921875
+    },
+    {
+      "id": "Math/Discrete/Propositional Logic/Logical Connectives/Disjunction.md",
+      "x": 108.60897064208984,
+      "y": 1739.416748046875
+    },
+    {
+      "id": "Math/Discrete/Propositional Logic/Logical Connectives/Implication.md",
+      "x": 543.7806396484375,
+      "y": 1210.176025390625
+    },
+    {
+      "id": "Math/Discrete/Propositional Logic/Logical Connectives/Negation.md",
+      "x": -194.5576171875,
+      "y": 1243.544921875
+    },
+    {
+      "id": "Math/Discrete/Propositional Logic/Logical Equivalence.md",
+      "x": -112.72799682617188,
+      "y": 1008.7698974609375
+    },
+    {
+      "id": "Math/Discrete/Propositional Logic/Logical Implication.md",
+      "x": -389.13983154296875,
+      "y": 566.546142578125
+    },
+    {
+      "id": "Math/Discrete/Propositional Logic/Negating Quantifiers.md",
+      "x": -896.2409057617188,
+      "y": 739.1845703125
+    },
+    {
+      "id": "Math/Discrete/Propositional Logic/Order of Operations.md",
+      "x": 522.12939453125,
+      "y": 2241.276611328125
+    },
+    {
+      "id": "Math/Discrete/Propositional Logic/Substitution Rules.md",
+      "x": 453.8725280761719,
+      "y": 1374.5892333984375
+    },
+    {
+      "id": "Math/Discrete/Propositional Logic/Truth Tables.md",
+      "x": 513.4161376953125,
+      "y": 1705.5919189453125
+    },
+    {
+      "id": "Math/Discrete/Set Theory/Basics/Empty Set.md",
+      "x": -635.7569580078125,
+      "y": -1022.5515747070312
+    },
+    {
+      "id": "Math/Discrete/Set Theory/Basics/Number Sets.md",
+      "x": 115.74862670898438,
+      "y": -1173.0648193359375
+    },
+    {
+      "id": "Math/Discrete/Set Theory/Basics/Set Difference.md",
+      "x": -509.7283630371094,
+      "y": -580.2567749023438
+    },
+    {
+      "id": "Math/Discrete/Set Theory/Basics/Set Equality.md",
+      "x": -1435.81689453125,
+      "y": 280.5097351074219
+    },
+    {
+      "id": "Math/Discrete/Set Theory/Basics/Set-Builder Notation.md",
+      "x": -386.1698913574219,
+      "y": -386.7903747558594
+    },
+    {
+      "id": "Math/Discrete/Set Theory/Basics/Sets.md",
+      "x": -799.6087036132812,
+      "y": -189.23033142089844
+    },
+    {
+      "id": "Math/Discrete/Set Theory/Basics/Subsets.md",
+      "x": -1569.7882080078125,
+      "y": -501.1534729003906
+    },
+    {
+      "id": "Math/Discrete/Set Theory/Basics/Unions and Intersections.md",
+      "x": -1191.2301025390625,
+      "y": -908.2960205078125
+    },
+    {
+      "id": "Math/Discrete/Set Theory/Cardinality/Cardinality.md",
+      "x": -743.3916625976562,
+      "y": -815.96630859375
+    },
+    {
+      "id": "Math/Discrete/Set Theory/Cardinality/Countably Infinite Sets.md",
+      "x": -772.1437377929688,
+      "y": -581.7100830078125
+    },
+    {
+      "id": "Math/Discrete/Set Theory/Cardinality/Equivalence of Cardinality.md",
+      "x": -74.35269165039062,
+      "y": -170.79269409179688
+    },
+    {
+      "id": "Math/Discrete/Set Theory/Cartesian Product.md",
+      "x": -952.2649536132812,
+      "y": -22.728666305541992
+    },
+    {
+      "id": "Math/Discrete/Set Theory/Complement.md",
+      "x": -209.33737182617188,
+      "y": -646.0678100585938
+    },
+    {
+      "id": "Math/Discrete/Set Theory/Disjoint Sets.md",
+      "x": -909.9725952148438,
+      "y": -1248.446533203125
+    },
+    {
+      "id": "Math/Discrete/Set Theory/Functions/Bijective Functions.md",
+      "x": 288.4544372558594,
+      "y": 259.4511413574219
+    },
+    {
+      "id": "Math/Discrete/Set Theory/Functions/Codomain.md",
+      "x": 183.90333557128906,
+      "y": -339.1629638671875
+    },
+    {
+      "id": "Math/Discrete/Set Theory/Functions/Composite Functions.md",
+      "x": 663.9549560546875,
+      "y": -327.0580139160156
+    },
+    {
+      "id": "Math/Discrete/Set Theory/Functions/Domain.md",
+      "x": 492.5155334472656,
+      "y": -92.22624969482422
+    },
+    {
+      "id": "Math/Discrete/Set Theory/Functions/Functions.md",
+      "x": 780.3245239257812,
+      "y": -31.01035499572754
+    },
+    {
+      "id": "Math/Discrete/Set Theory/Functions/Injective Functions.md",
+      "x": 526.824951171875,
+      "y": 218.11361694335938
+    },
+    {
+      "id": "Math/Discrete/Set Theory/Functions/Inverse Functions.md",
+      "x": 1587.0146484375,
+      "y": 355.6411437988281
+    },
+    {
+      "id": "Math/Discrete/Set Theory/Functions/Range.md",
+      "x": 117.08390808105469,
+      "y": 1.8978959321975708
+    },
+    {
+      "id": "Math/Discrete/Set Theory/Functions/Surjective Functions.md",
+      "x": 274.3560485839844,
+      "y": -127.98419952392578
+    },
+    {
+      "id": "Math/Discrete/Set Theory/Multi-sets.md",
+      "x": -2411.075927734375,
+      "y": 199.36416625976562
+    },
+    {
+      "id": "Math/Discrete/Set Theory/Ordered Sets.md",
+      "x": -1308.1744384765625,
+      "y": 478.4678039550781
+    },
+    {
+      "id": "Math/Discrete/Set Theory/Partitions.md",
+      "x": -1628.76123046875,
+      "y": -1377.07177734375
+    },
+    {
+      "id": "Math/Discrete/Set Theory/Power Sets.md",
+      "x": -949.0569458007812,
+      "y": -1022.294677734375
+    },
+    {
+      "id": "Math/Discrete/Set Theory/Relations/Antisymmetric Property.md",
+      "x": -1588.646728515625,
+      "y": 53.816036224365234
+    },
+    {
+      "id": "Math/Discrete/Set Theory/Relations/Equivalence Classes.md",
+      "x": -1050.8607177734375,
+      "y": -807.6273803710938
+    },
+    {
+      "id": "Math/Discrete/Set Theory/Relations/Equivalence Relations.md",
+      "x": -1432.4521484375,
+      "y": -612.3751220703125
+    },
+    {
+      "id": "Math/Discrete/Set Theory/Relations/Hasse Diagrams.md",
+      "x": -2166.583251953125,
+      "y": -716.233642578125
+    },
+    {
+      "id": "Math/Discrete/Set Theory/Relations/Partial Order.md",
+      "x": -1413.9100341796875,
+      "y": -304.1236877441406
+    },
+    {
+      "id": "Math/Discrete/Set Theory/Relations/Reflexive Property.md",
+      "x": -1822.044677734375,
+      "y": 39.81779098510742
+    },
+    {
+      "id": "Math/Discrete/Set Theory/Relations/Relation Graphs.md",
+      "x": -2594.883056640625,
+      "y": -294.8846740722656
+    },
+    {
+      "id": "Inverted Edges",
+      "x": -2938.02099609375,
+      "y": -97.99573516845703
+    },
+    {
+      "id": "Math/Discrete/Set Theory/Relations/Relations.md",
+      "x": -1103.842041015625,
+      "y": -322.31109619140625
+    },
+    {
+      "id": "Math/Discrete/Set Theory/Relations/Symmetric Property.md",
+      "x": -1864.2999267578125,
+      "y": -296.4335632324219
+    },
+    {
+      "id": "Math/Discrete/Set Theory/Relations/Total Order.md",
+      "x": -1196.3292236328125,
+      "y": 57.69309616088867
+    },
+    {
+      "id": "Math/Discrete/Set Theory/Relations/Transitive Property.md",
+      "x": -1906.02978515625,
+      "y": -69.38947296142578
+    },
+    {
+      "id": "Math/Discrete/Set Theory/Russell's Paradox.md",
+      "x": -537.9080810546875,
+      "y": 407.5796203613281
+    },
+    {
+      "id": "Math/Discrete/Set Theory/Set Theory and Propositional Logic.md",
+      "x": -202.89183044433594,
+      "y": 380.62127685546875
+    },
+    {
+      "id": "Math/Discrete/Set Theory/Universal Set.md",
+      "x": -322.7205810546875,
+      "y": -127.48612976074219
+    },
+    {
+      "id": "Math/Geometry/Circle Geometry/Alternate Segment Theorem.md",
+      "x": -3117.4599609375,
+      "y": 3289.4384765625
+    },
+    {
+      "id": "Math/Geometry/Circle Geometry/Area of Cyclic Quadrilateral.md",
+      "x": 1149.1600341796875,
+      "y": 4886.771484375
+    },
+    {
+      "id": "Math/Geometry/Circle Geometry/Basic Definitions/Arcs.md",
+      "x": -3568.3486328125,
+      "y": 3477.154296875
+    },
+    {
+      "id": "Math/Geometry/Circle Geometry/Basic Definitions/Chords.md",
+      "x": -2941.31982421875,
+      "y": 3616.428955078125
+    },
+    {
+      "id": "Math/Geometry/Circle Geometry/Basic Definitions/Inscribe.md",
+      "x": -3374.300048828125,
+      "y": 2867.666015625
+    },
+    {
+      "id": "Math/Geometry/Circle Geometry/Basic Definitions/Segments.md",
+      "x": -3262,
+      "y": 3660.06787109375
+    },
+    {
+      "id": "Math/Geometry/Circle Geometry/Basic Definitions/Subtended Angles.md",
+      "x": -3563.666259765625,
+      "y": 3241.41015625
+    },
+    {
+      "id": "Rays",
+      "x": -3678.865478515625,
+      "y": 2942.532470703125
+    },
+    {
+      "id": "Math/Geometry/Circle Geometry/Central Angle Theorem.md",
+      "x": -3180.07861328125,
+      "y": 3074.650634765625
+    },
+    {
+      "id": "Math/Geometry/Circle Geometry/Incircles/Law of Cotangents.md",
+      "x": -3984.976806640625,
+      "y": 2409.633056640625
+    },
+    {
+      "id": "Math/Geometry/Circle Geometry/Incircles/Triangle Incircle Radius.md",
+      "x": -4299.05322265625,
+      "y": 2454.870361328125
+    },
+    {
+      "id": "Math/Geometry/Circle Geometry/Inscribed Angle Theorem.md",
+      "x": -3811.05859375,
+      "y": 3095.412109375
+    },
+    {
+      "id": "Math/Geometry/Circle Geometry/Intersecting Chord Theorem.md",
+      "x": -3020.023681640625,
+      "y": 3911.216552734375
+    },
+    {
+      "id": "Math/Geometry/Circle Geometry/Law of Sines.md",
+      "x": -3844.07275390625,
+      "y": 2681.98681640625
+    },
+    {
+      "id": "Circumcircles",
+      "x": -4122.8974609375,
+      "y": 2783.445556640625
+    },
+    {
+      "id": "Math/Geometry/Circle Geometry/Opposite Angles of Cyclic Quadrilaterals.md",
+      "x": -3310.001708984375,
+      "y": 3357.3271484375
+    },
+    {
+      "id": "Math/Geometry/Circle Geometry/Seven Key Circle Theorems.md",
+      "x": -3435.5537109375,
+      "y": 3056.265380859375
+    },
+    {
+      "id": "Math/Geometry/Conic Sections/Circle.md",
+      "x": 3719.10986328125,
+      "y": 1131.5068359375
+    },
+    {
+      "id": "Math/Geometry/Conic Sections/Conic Sections.md",
+      "x": 4011.624755859375,
+      "y": 1413.8306884765625
+    },
+    {
+      "id": "Math/Geometry/Conic Sections/Ellipse.md",
+      "x": 4152.66064453125,
+      "y": 1087.6026611328125
+    },
+    {
+      "id": "Math/Geometry/Conic Sections/Hyperbola.md",
+      "x": 3639.537109375,
+      "y": 1430.2342529296875
+    },
+    {
+      "id": "Math/Geometry/Conic Sections/Parabolas.md",
+      "x": 4157.80712890625,
+      "y": 1867.38232421875
+    },
+    {
+      "id": "Math/Geometry/Conic Sections/Unified Description of Conics.md",
+      "x": 3382.505126953125,
+      "y": 1294.7894287109375
+    },
+    {
+      "id": "Math/Geometry/Semiperimeter.md",
+      "x": -4173.947265625,
+      "y": 2162.95556640625
+    },
+    {
+      "id": "Math/Geometry/Trigonometry/General Solution Equations.md",
+      "x": -1326.060302734375,
+      "y": 4377.2978515625
+    },
+    {
+      "id": "Math/Geometry/Trigonometry/Heron's Formula.md",
+      "x": -4473.65478515625,
+      "y": 2210.0888671875
+    },
+    {
+      "id": "Math/Geometry/Trigonometry/Identities/Compound Identities.md",
+      "x": -4387.8955078125,
+      "y": 1805.263916015625
+    },
+    {
+      "id": "Math/Geometry/Trigonometry/Identities/Double Angle Identities.md",
+      "x": 3572.752685546875,
+      "y": 3089.011962890625
+    },
+    {
+      "id": "Math/Geometry/Trigonometry/Identities/Product to Sum Identities.md",
+      "x": 1927.5166015625,
+      "y": 4163.26171875
+    },
+    {
+      "id": "Math/Geometry/Trigonometry/Inverse Trigonometric Functions.md",
+      "x": 1294.55908203125,
+      "y": -81.53501892089844
+    },
+    {
+      "id": "Math/Geometry/Trigonometry/Periodic Functions.md",
+      "x": 4129.77001953125,
+      "y": 2825.358642578125
+    },
+    {
+      "id": "Math/Geometry/Trigonometry/Special Triangles.md",
+      "x": 1703.9708251953125,
+      "y": 4382.7197265625
+    },
+    {
+      "id": "Math/Geometry/Trigonometry/Trigonometric Function with Quadrants.md",
+      "x": 1464.425048828125,
+      "y": 4542.14697265625
+    },
+    {
+      "id": "Math/Lambda Calculus/Alpha Converstion.md",
+      "x": -1199.73388671875,
+      "y": -4221.8984375
+    },
+    {
+      "id": "Math/Lambda Calculus/Alpha Equivalence.md",
+      "x": -2218.770751953125,
+      "y": -4428.83740234375
+    },
+    {
+      "id": "Math/Lambda Calculus/Application.md",
+      "x": -1786.469970703125,
+      "y": -4167.44677734375
+    },
+    {
+      "id": "Math/Lambda Calculus/Beta Reduction.md",
+      "x": -2628.13037109375,
+      "y": -4297.08837890625
+    },
+    {
+      "id": "Math/Lambda Calculus/Currying.md",
+      "x": -960.6578369140625,
+      "y": -4950.36962890625
+    },
+    {
+      "id": "Math/Lambda Calculus/Free Variables.md",
+      "x": -2038.973876953125,
+      "y": -4362.19775390625
+    },
+    {
+      "id": "Math/Lambda Calculus/Lambda Abstraction.md",
+      "x": -2351.9912109375,
+      "y": -4193.34814453125
+    },
+    {
+      "id": "Math/Lambda Calculus/Lambda Terms.md",
+      "x": -2077.612548828125,
+      "y": -4079.233642578125
+    },
+    {
+      "id": "Math/Linear Algebra/Done Right/Basics/Lists.md",
+      "x": -1135.0513916015625,
+      "y": 2106.63720703125
+    },
+    {
+      "id": "Math/Linear Algebra/Done Right/Basics/Polynomials.md",
+      "x": -874.3892211914062,
+      "y": 2585.24755859375
+    },
+    {
+      "id": "Math/Linear Algebra/Done Right/Basics/Sets of Functions.md",
+      "x": 32.462120056152344,
+      "y": 377.78314208984375
+    },
+    {
+      "id": "Math/Linear Algebra/Done Right/Direct Sums.md",
+      "x": -1477.76123046875,
+      "y": 1258.9671630859375
+    },
+    {
+      "id": "Math/Linear Algebra/Done Right/Done Right.md",
+      "x": -943.2335205078125,
+      "y": 1630.876708984375
+    },
+    {
+      "id": "Linear Maps",
+      "x": -1142.555908203125,
+      "y": 1926.2679443359375
+    },
+    {
+      "id": "Math/Linear Algebra/Done Right/Finite-Dimensional Vector Spaces.md",
+      "x": -732.8906860351562,
+      "y": 1999.2752685546875
+    },
+    {
+      "id": "Math/Linear Algebra/Done Right/Linear Combinations.md",
+      "x": -1447.915283203125,
+      "y": 1834.1375732421875
+    },
+    {
+      "id": "Math/Linear Algebra/Done Right/Linear Independence.md",
+      "x": -865.2794799804688,
+      "y": 2272.14208984375
+    },
+    {
+      "id": "Math/Linear Algebra/Done Right/Span.md",
+      "x": -890.465576171875,
+      "y": 1251.1961669921875
+    },
+    {
+      "id": "Math/Linear Algebra/Done Right/Subspaces.md",
+      "x": -1345.5911865234375,
+      "y": 766.8367309570312
+    },
+    {
+      "id": "Math/Linear Algebra/Done Right/Sums of Subspaces.md",
+      "x": -1307.2940673828125,
+      "y": 1029.0325927734375
+    },
+    {
+      "id": "Math/Linear Algebra/Done Right/Vector Spaces.md",
+      "x": -753.6638793945312,
+      "y": 978.6902465820312
+    },
+    {
+      "id": "Math/Linear Algebra/Linear Transformations/Characteristic Polynomial.md",
+      "x": -1138.220703125,
+      "y": 2892.021728515625
+    },
+    {
+      "id": "Math/Linear Algebra/Linear Transformations/Co-factor Expansion.md",
+      "x": -2431.219482421875,
+      "y": 2989.29052734375
+    },
+    {
+      "id": "Math/Linear Algebra/Linear Transformations/Determinant of a 2x2 Matrix.md",
+      "x": -2512.131103515625,
+      "y": 3383.3798828125
+    },
+    {
+      "id": "Math/Linear Algebra/Linear Transformations/Determinant of a 3x3 Matrix.md",
+      "x": -2649.877197265625,
+      "y": 3129.99755859375
+    },
+    {
+      "id": "Math/Linear Algebra/Linear Transformations/Determinants.md",
+      "x": -1868.50537109375,
+      "y": 3032.42626953125
+    },
+    {
+      "id": "Math/Linear Algebra/Linear Transformations/Eigenvectors & Eigenvalues.md",
+      "x": -1121.1109619140625,
+      "y": 3211.70849609375
+    },
+    {
+      "id": "Math/Linear Algebra/Linear Transformations/Linear Transformations.md",
+      "x": -871.2020263671875,
+      "y": 3473.157958984375
+    },
+    {
+      "id": "Math/Linear Algebra/Linear Transformations/Row and Column Operations with Determinants.md",
+      "x": -2201.00634765625,
+      "y": 3304.25830078125
+    },
+    {
+      "id": "Math/Linear Algebra/Linear Transformations/Triangular Product of Diagonals.md",
+      "x": -2186.939697265625,
+      "y": 3071.660888671875
+    },
+    {
+      "id": "Math/Linear Algebra/Matrices/Definitions/Block Matrices.md",
+      "x": 4865.4736328125,
+      "y": 1466.472900390625
+    },
+    {
+      "id": "Math/Linear Algebra/Matrices/Definitions/Diagonal Matrices.md",
+      "x": 3194.87158203125,
+      "y": 3829.926513671875
+    },
+    {
+      "id": "Math/Linear Algebra/Matrices/Definitions/Equality of Matrices.md",
+      "x": -877.4365234375,
+      "y": 4920.04345703125
+    },
+    {
+      "id": "Math/Linear Algebra/Matrices/Definitions/Exponentiation of Matrices.md",
+      "x": 2292.484375,
+      "y": 4121.0087890625
+    },
+    {
+      "id": "Math/Linear Algebra/Matrices/Definitions/Identity Matrices.md",
+      "x": -1515.337646484375,
+      "y": 3507.14697265625
+    },
+    {
+      "id": "Math/Linear Algebra/Matrices/Definitions/Matrix Addition.md",
+      "x": -956.514892578125,
+      "y": 3911.610107421875
+    },
+    {
+      "id": "Math/Linear Algebra/Matrices/Definitions/Matrix Scalar Multiplication.md",
+      "x": 387.4565734863281,
+      "y": 4744.3779296875
+    },
+    {
+      "id": "Math/Linear Algebra/Matrices/Definitions/Minors.md",
+      "x": -2272.739013671875,
+      "y": 2834.041259765625
+    },
+    {
+      "id": "Math/Linear Algebra/Matrices/Definitions/Sets of Matrices.md",
+      "x": -1224.5084228515625,
+      "y": 2238.125732421875
+    },
+    {
+      "id": "Math/Linear Algebra/Matrices/Definitions/Singular Matrices.md",
+      "x": -1559.9180908203125,
+      "y": 2996.614013671875
+    },
+    {
+      "id": "Math/Linear Algebra/Matrices/Definitions/Symmetric Matrices.md",
+      "x": -3000.19189453125,
+      "y": 1084.7557373046875
+    },
+    {
+      "id": "Math/Linear Algebra/Matrices/Definitions/Transposition.md",
+      "x": -2407.559326171875,
+      "y": 2363.361328125
+    },
+    {
+      "id": "Math/Linear Algebra/Matrices/Definitions/Zero Matrices.md",
+      "x": -1353.98876953125,
+      "y": 2425.692138671875
+    },
+    {
+      "id": "Math/Linear Algebra/Matrices/Inversion by Row Reduction.md",
+      "x": -2131.496826171875,
+      "y": 3754.951171875
+    },
+    {
+      "id": "Math/Linear Algebra/Matrices/Inverting Matrices.md",
+      "x": -1757.4339599609375,
+      "y": 3323.21923828125
+    },
+    {
+      "id": "Math/Linear Algebra/Matrices/Matrices as Vectors.md",
+      "x": -656.8163452148438,
+      "y": 3781.389892578125
+    },
+    {
+      "id": "Math/Linear Algebra/Matrices/Matrices.md",
+      "x": -1911.831787109375,
+      "y": 2637.23291015625
+    },
+    {
+      "id": "Math/Linear Algebra/Matrices/Matrix Invertibility.md",
+      "x": -1298.7769775390625,
+      "y": 2655.5390625
+    },
+    {
+      "id": "Math/Linear Algebra/Matrices/Matrix Multiplication.md",
+      "x": -1163.505859375,
+      "y": 3459.643798828125
+    },
+    {
+      "id": "Math/Linear Algebra/Systems of Linear Equations/Curve Fitting.md",
+      "x": -1685.0145263671875,
+      "y": 4171.236328125
+    },
+    {
+      "id": "Math/Linear Algebra/Systems of Linear Equations/Diagnosing Linear Systems.md",
+      "x": -1828.31689453125,
+      "y": 4702.39013671875
+    },
+    {
+      "id": "Augmented Matrices",
+      "x": -1840.0489501953125,
+      "y": 4406.7861328125
+    },
+    {
+      "id": "Math/Linear Algebra/Systems of Linear Equations/EF & REF.md",
+      "x": -2458.775390625,
+      "y": 3985.926513671875
+    },
+    {
+      "id": "Math/Linear Algebra/Systems of Linear Equations/Gaussian Elimination.md",
+      "x": -1987.0966796875,
+      "y": 4094.461181640625
+    },
+    {
+      "id": "Atoms/Calculus/Linear Algebra/Matrices/Matrices",
+      "x": -2127.173095703125,
+      "y": 4378.037109375
+    },
+    {
+      "id": "Math/Linear Algebra/Systems of Linear Equations/Homogeneous Systems.md",
+      "x": -1534.334228515625,
+      "y": 3306.88818359375
+    },
+    {
+      "id": "Math/Linear Algebra/Systems of Linear Equations/Inconsistent Systems in REF.md",
+      "x": -2755.095703125,
+      "y": 4109.37353515625
+    },
+    {
+      "id": "Math/Linear Algebra/Systems of Linear Equations/Linear Systems Dictionary.md",
+      "x": 1981.9439697265625,
+      "y": 4594.2666015625
+    },
+    {
+      "id": "Math/Linear Algebra/Systems of Linear Equations/Linear Systems.md",
+      "x": -1833.9388427734375,
+      "y": 3749.29638671875
+    },
+    {
+      "id": "Math/Linear Algebra/Systems of Linear Equations/Parameterizing Solutions.md",
+      "x": 2879.859619140625,
+      "y": 3291.898193359375
+    },
+    {
+      "id": "Math/Linear Algebra/Systems of Linear Equations/Pivots and Free Variables.md",
+      "x": -2544.33056640625,
+      "y": 4308.81591796875
+    },
+    {
+      "id": "Math/Linear Algebra/Systems of Linear Equations/Reduced REF (RREF).md",
+      "x": -2220.44970703125,
+      "y": 4068.86328125
+    },
+    {
+      "id": "Math/Linear Algebra/Vectors/Areas & Volumes/Area of Parallelograms.md",
+      "x": 160.04473876953125,
+      "y": 4240.373046875
+    },
+    {
+      "id": "Math/Linear Algebra/Vectors/Areas & Volumes/Area of Triangles.md",
+      "x": -172.900146484375,
+      "y": 4287.3544921875
+    },
+    {
+      "id": "Math/Linear Algebra/Vectors/Areas & Volumes/Volume of Parallelepipeds.md",
+      "x": 709.7034912109375,
+      "y": 4486.34521484375
+    },
+    {
+      "id": "Math/Linear Algebra/Vectors/Basics/Cosine Similarity Formula.md",
+      "x": 98.38603210449219,
+      "y": 3433.71240234375
     },
     {
       "id": "Math/Linear Algebra/Vectors/Basics/Dot Product.md",
-      "x": -151.0105743408203,
-      "y": 3560.15478515625
+      "x": 43.04927062988281,
+      "y": 3646.0302734375
     },
     {
       "id": "Math/Linear Algebra/Vectors/Basics/Vector Addition.md",
-      "x": -863.194091796875,
-      "y": 4004.923095703125
+      "x": -614.765869140625,
+      "y": 4127.00048828125
     },
     {
       "id": "Math/Linear Algebra/Vectors/Basics/Vector Equality.md",
-      "x": -741.686279296875,
-      "y": 3185.69091796875
+      "x": -580.1415405273438,
+      "y": 3327.44287109375
     },
     {
       "id": "Math/Linear Algebra/Vectors/Basics/Vector Length.md",
-      "x": 44.89527130126953,
-      "y": 3888.068115234375
+      "x": 254.9342803955078,
+      "y": 3993.63720703125
     },
     {
       "id": "Math/Linear Algebra/Vectors/Basics/Vector Scalar Multiplication.md",
-      "x": -144.66319274902344,
-      "y": 4374.89208984375
+      "x": 207.95655822753906,
+      "y": 4430.89306640625
     },
     {
       "id": "Math/Linear Algebra/Vectors/Cross Product.md",
-      "x": 722.2603149414062,
-      "y": 3868.78369140625
+      "x": 984.224853515625,
+      "y": 3819.494384765625
     },
     {
       "id": "Math/Linear Algebra/Vectors/Definitions/Basis Vectors.md",
-      "x": -151.346435546875,
-      "y": 3798.7548828125
+      "x": 108.59979248046875,
+      "y": 3855.61962890625
     },
     {
       "id": "Math/Linear Algebra/Vectors/Definitions/Components.md",
-      "x": -626.2484130859375,
-      "y": 3876.522705078125
+      "x": -385.3942565917969,
+      "y": 4002.4013671875
     },
     {
       "id": "Math/Linear Algebra/Vectors/Definitions/Direction Vectors.md",
-      "x": -529.9871215820312,
-      "y": 4457.72998046875
+      "x": -198.4923858642578,
+      "y": 4552.8759765625
     },
     {
       "id": "Math/Linear Algebra/Vectors/Definitions/Position Vectors.md",
-      "x": -736.7823486328125,
-      "y": 4307.64453125
+      "x": -434.5045471191406,
+      "y": 4436.283203125
     },
     {
       "id": "Math/Linear Algebra/Vectors/Definitions/Unit Vectors.md",
-      "x": 145.65823364257812,
-      "y": 4322.525390625
+      "x": 489.11334228515625,
+      "y": 4342.39697265625
     },
     {
       "id": "Math/Linear Algebra/Vectors/Distance between Skew Lines.md",
-      "x": -343.2387390136719,
-      "y": 4868.7978515625
+      "x": 59.77494430541992,
+      "y": 4924.0888671875
     },
     {
       "id": "Math/Linear Algebra/Vectors/Old/Direction Angles and Direction Cosines.md",
-      "x": -402.1853942871094,
-      "y": 3555.73681640625
+      "x": -207.38119506835938,
+      "y": 3699.6416015625
     },
     {
       "id": "Math/Linear Algebra/Vectors/Orthogonal Projection.md",
-      "x": 568.6157836914062,
-      "y": 3654.746337890625
+      "x": 812.4025268554688,
+      "y": 3618.841796875
     },
     {
       "id": "Math/Linear Algebra/Vectors/Orthogonal Vectors.md",
-      "x": 217.4534912109375,
-      "y": 3136.214599609375
+      "x": 394.92169189453125,
+      "y": 3173.029052734375
     },
     {
       "id": "Math/Linear Algebra/Vectors/Parallelogram Law.md",
-      "x": 159.47152709960938,
-      "y": 3612.447265625
+      "x": 355.2836608886719,
+      "y": 3720.6474609375
     },
     {
       "id": "Math/Linear Algebra/Vectors/Vector Parametric Lines.md",
-      "x": -528.7969970703125,
-      "y": 4709.87841796875
+      "x": -149.22406005859375,
+      "y": 4797.833984375
     },
     {
       "id": "Math/Linear Algebra/Vectors/Vector Parametric Planes.md",
-      "x": -823.2647094726562,
-      "y": 4741.1806640625
+      "x": -448.2887268066406,
+      "y": 4867.638671875
     },
     {
       "id": "Math/Linear Algebra/Vectors/Vector Point-Normal Planes.md",
-      "x": -670.8024291992188,
-      "y": 5016.44873046875
+      "x": -243.34947204589844,
+      "y": 5107.21044921875
     },
     {
       "id": "Math/Linear Algebra/Vectors/Vector Projection.md",
-      "x": 744.695556640625,
-      "y": 4264.5791015625
+      "x": 1091.8148193359375,
+      "y": 4179.0078125
     },
     {
       "id": "Math/Linear Algebra/Vectors/Vectors.md",
-      "x": -328.71258544921875,
-      "y": 3846.7060546875
+      "x": -78.7513656616211,
+      "y": 3942.448486328125
     },
     {
       "id": "Math/Real Analysis/Binary Operations.md",
-      "x": -1620.9259033203125,
-      "y": 74.59173583984375
+      "x": -658.5577392578125,
+      "y": -15.216641426086426
     },
     {
       "id": "Math/Real Analysis/Fields.md",
-      "x": -1103.8883056640625,
-      "y": 1021.4862060546875
+      "x": -1020.0706787109375,
+      "y": 1170.15625
     },
     {
       "id": "Math/Real Analysis/Groups.md",
-      "x": -1450.6455078125,
-      "y": 652.8524780273438
+      "x": -794.9617309570312,
+      "y": 624.3167114257812
     },
     {
       "id": "Math/Real Analysis/Ordered Fields.md",
-      "x": -670.707763671875,
-      "y": 195.25482177734375
+      "x": -745.4786987304688,
+      "y": 245.80178833007812
     },
     {
       "id": "Math/Real Analysis/The Real Numbers.md",
-      "x": -174.0756072998047,
-      "y": -801.1828002929688
+      "x": -323.091552734375,
+      "y": -869.9476928710938
     },
     {
       "id": "Math/Real Analysis/Triangle Ineqaulity.md",
-      "x": -740.48583984375,
-      "y": -369.1390075683594
+      "x": -928.6749877929688,
+      "y": -390.39923095703125
     },
     {
       "id": "Math/Triangular Numbers.md",
-      "x": -1304.69580078125,
-      "y": -2402.308349609375
+      "x": -1480.7989501953125,
+      "y": -2382.294189453125
     },
     {
       "id": "Music/Basic Definitions/Common Time.md",
-      "x": -4542.46630859375,
-      "y": -2020.1943359375
+      "x": -4667.95654296875,
+      "y": -1886.693115234375
     },
     {
       "id": "Music/Basic Definitions/Cut Common Time.md",
-      "x": -4430.140625,
-      "y": -1743.275634765625
+      "x": -4525.32958984375,
+      "y": -1626.778076171875
     },
     {
       "id": "Music/Basic Definitions/Octaves.md",
-      "x": -4592.5390625,
-      "y": -998.4498291015625
+      "x": -4676.26904296875,
+      "y": -629.6220703125
     },
     {
       "id": "Music/Basic Definitions/Scales.md",
-      "x": -4608.52001953125,
-      "y": 590.39013671875
+      "x": -4668.17138671875,
+      "y": 901.471923828125
     },
     {
       "id": "Music/Basic Definitions/Tonic.md",
-      "x": -4389.8798828125,
-      "y": -338.3644104003906
+      "x": -4389.33544921875,
+      "y": 111.08001708984375
     },
     {
       "id": "Keys",
-      "x": -4693.6376953125,
-      "y": -403.46234130859375
+      "x": -4669.73388671875,
+      "y": -39.88604736328125
     },
     {
       "id": "Music/Intervals/Diatonic Intervals.md",
-      "x": -4315.3466796875,
-      "y": 85.75672149658203
+      "x": -4287.6630859375,
+      "y": 518.4180908203125
     },
     {
       "id": "Major Scales",
-      "x": -3829.694580078125,
-      "y": -383.97259521484375
+      "x": -3876.374755859375,
+      "y": -27.254018783569336
     },
     {
       "id": "Music/Intervals/Perfect Intervals.md",
-      "x": -4409.2197265625,
-      "y": -764.1981201171875
+      "x": -4499.88525390625,
+      "y": -387.3430480957031
     },
     {
       "id": "Music/Intervals/Seconds.md",
-      "x": -4730.3408203125,
-      "y": -1355.6363525390625
+      "x": -4622.83642578125,
+      "y": -1106.9150390625
     },
     {
       "id": "Music/Intervals/Thirds.md",
-      "x": -4565.97802734375,
-      "y": 960.5211181640625
+      "x": -4864.10205078125,
+      "y": 569.9216918945312
     },
     {
       "id": "Music/Inversions.md",
-      "x": -5013.55908203125,
-      "y": -271.21112060546875
+      "x": -5050.107421875,
+      "y": -122.28487396240234
     },
     {
       "id": "Triads",
-      "x": -5002.0986328125,
-      "y": 22.077064514160156
+      "x": -5084.275390625,
+      "y": 174.52972412109375
     },
     {
       "id": "Music/Minor Scales.md",
-      "x": -4763.3330078125,
-      "y": 344.644287109375
+      "x": -4678.58251953125,
+      "y": 636.1132202148438
     },
     {
       "id": "Music/Passing Notes.md",
-      "x": -4907.63232421875,
-      "y": -1114.733154296875
+      "x": -4893.126953125,
+      "y": -1203.898681640625
     },
     {
       "id": "Dissonance",
-      "x": -4940.20361328125,
-      "y": -813.2289428710938
+      "x": -4951.12890625,
+      "y": -915.651611328125
     },
     {
       "id": "Music/Relative Majors & Minors.md",
-      "x": -4841.23828125,
-      "y": 817.5497436523438
-    },
-    {
-      "id": "Circle of Fifths",
-      "x": -4830.51220703125,
-      "y": 1134.1864013671875
+      "x": -4613.912109375,
+      "y": 243.96022033691406
     },
     {
       "id": "Music/Seventh Chords.md",
-      "x": -4948.90771484375,
-      "y": 578.21337890625
+      "x": -4927.73291015625,
+      "y": 948.4953002929688
     },
     {
       "id": "Music/Symmetry of Fifths.md",
-      "x": -4022.353271484375,
-      "y": -697.734130859375
+      "x": -4164.798828125,
+      "y": -232.5668182373047
     },
     {
       "id": "Music/Tetrachords.md",
-      "x": -2986.545654296875,
-      "y": -909.7805786132812
+      "x": -3151.468994140625,
+      "y": -635.2097778320312
     },
     {
       "id": "Music/Time Signatures.md",
-      "x": -4717.21728515625,
-      "y": -1758.3172607421875
+      "x": -4810.412109375,
+      "y": -1607.512939453125
     },
     {
       "id": "Music/Triplets.md",
-      "x": -2601.146240234375,
-      "y": 4352.69482421875
+      "x": -5014.84716796875,
+      "y": -505.82666015625
     },
     {
       "id": "Physics/Electricity/Alternating Current.md",
-      "x": 4280.49853515625,
-      "y": -1542.4539794921875
+      "x": 4296.6162109375,
+      "y": -1594.1356201171875
     },
     {
       "id": "Voltage",
-      "x": 4292.56201171875,
-      "y": -1072.677001953125
+      "x": 4287.96533203125,
+      "y": -1147.3343505859375
     },
     {
       "id": "Current",
-      "x": 4068.249755859375,
-      "y": -1340.42529296875
+      "x": 4066.0341796875,
+      "y": -1425.0556640625
     },
     {
       "id": "Power",
-      "x": 4334.38525390625,
-      "y": -1886.3416748046875
+      "x": 4365.57080078125,
+      "y": -1931.229248046875
     },
     {
       "id": "Physics/Electricity/Capacitance.md",
-      "x": 4620.98388671875,
-      "y": -475.8016052246094
+      "x": 4615.49658203125,
+      "y": -540.896240234375
     },
     {
       "id": "Charge",
-      "x": 4345.56787109375,
-      "y": -493.8701171875
+      "x": 4336.70263671875,
+      "y": -570.3607177734375
     },
     {
       "id": "Parallel and Series Circuits",
-      "x": 4659.73095703125,
-      "y": -166.76150512695312
+      "x": 4656.55908203125,
+      "y": -236.1600341796875
     },
     {
       "id": "Physics/Electricity/Capacitors.md",
-      "x": 4763.880859375,
-      "y": -790.7758178710938
+      "x": 4751.2392578125,
+      "y": -847.341796875
     },
     {
       "id": "Electric Fields",
-      "x": 4957.001953125,
-      "y": -534.0892944335938
+      "x": 4963.74365234375,
+      "y": -609.2418823242188
     },
     {
       "id": "Energy",
-      "x": 4371.23681640625,
-      "y": -714.2499389648438
+      "x": 4354.11572265625,
+      "y": -787.2227172851562
     },
     {
       "id": "Physics/Electricity/Resistance",
-      "x": 4837.08544921875,
-      "y": -1092.294677734375
+      "x": 4837.03662109375,
+      "y": -1138.7069091796875
     },
     {
       "id": "Physics/Electricity/Electromotive Force.md",
-      "x": 4000.354736328125,
-      "y": -1656.083984375
+      "x": 4045.24560546875,
+      "y": -1758.563720703125
     },
     {
       "id": "Battery",
-      "x": 4064.520263671875,
-      "y": -1977.6397705078125
+      "x": 4130.39990234375,
+      "y": -2077.345703125
     },
     {
       "id": "Physics/Electricity/Faraday's Law.md",
-      "x": 3854.569091796875,
-      "y": -2080.165771484375
+      "x": 3936.598876953125,
+      "y": -2213.58349609375
     },
     {
       "id": "Physics/Electricity/Inductors.md",
-      "x": 4517.8271484375,
-      "y": -1018.8494873046875
+      "x": 4510.251953125,
+      "y": -1077.4320068359375
     },
     {
       "id": "Inductance",
-      "x": 4590.29443359375,
-      "y": -720.5833129882812
+      "x": 4577.63818359375,
+      "y": -777.8950805664062
     },
     {
       "id": "Physics/Electricity/Kirchhoff's Laws.md",
-      "x": 4068.01806640625,
-      "y": -796.6160278320312
+      "x": 4052.205322265625,
+      "y": -882.355712890625
     },
     {
       "id": "Physics/Electricity/Lenz's Law.md",
-      "x": 3697.33544921875,
-      "y": -1806.8975830078125
+      "x": 3750.742431640625,
+      "y": -1960.7696533203125
     },
     {
       "id": "Magnetic Fields",
-      "x": 3414.78271484375,
-      "y": -1991.1192626953125
+      "x": 3467.422607421875,
+      "y": -2165.38916015625
     },
     {
       "id": "Physics/Electricity/Magnetic Flux.md",
-      "x": 3593.541015625,
-      "y": -2207.394287109375
+      "x": 3669.217041015625,
+      "y": -2362.54345703125
     },
     {
       "id": "Physics/Electricity/RC, RL, & LCR.md",
-      "x": 4546.8671875,
-      "y": -1317.8016357421875
+      "x": 4559.66015625,
+      "y": -1372.130126953125
     },
     {
       "id": "Resistor",
-      "x": 4701.03759765625,
-      "y": -1611.0401611328125
+      "x": 4724.05322265625,
+      "y": -1658.3289794921875
     },
     {
       "id": "Polarity",
-      "x": 4516.962890625,
-      "y": -1649.083740234375
+      "x": 4538.7392578125,
+      "y": -1699.4671630859375
     },
     {
       "id": "Reactance",
-      "x": 4842.58544921875,
-      "y": -1410.51708984375
+      "x": 4860.4794921875,
+      "y": -1444.240966796875
     },
     {
       "id": "Physics/Electricity/Transformers.md",
-      "x": 3987.205322265625,
-      "y": -1066.75634765625
+      "x": 3974.687255859375,
+      "y": -1127.0345458984375
     },
     {
       "id": "Physics/Waves/Beats.md",
-      "x": -4293.818359375,
-      "y": 556.787109375
+      "x": -4268.5126953125,
+      "y": 1115.4974365234375
     },
     {
       "id": "Interference",
-      "x": -4079.70947265625,
-      "y": 299.9544372558594
+      "x": -4096.2578125,
+      "y": 794.8846435546875
     },
     {
       "id": "Physics/Waves/Double Slit.md",
-      "x": -3469.214599609375,
-      "y": 185.91358947753906
+      "x": -3504.919189453125,
+      "y": 476.2633972167969
     },
     {
       "id": "Diffraction",
-      "x": -3825.556396484375,
-      "y": 153.79934692382812
+      "x": -3866.802978515625,
+      "y": 484.31549072265625
     },
     {
       "id": "Physics/Waves/Standing Waves.md",
-      "x": -4411.39306640625,
-      "y": 276.03692626953125
+      "x": -4390.0185546875,
+      "y": 953.256103515625
     },
     {
       "id": "Statistics/Central Limit Theorem.md",
-      "x": 2318.898681640625,
-      "y": -2754.29931640625
+      "x": 2231.177978515625,
+      "y": -2835.262451171875
     },
     {
       "id": "Statistics/Chi-Square/Chi-Square Distribution.md",
-      "x": 476.4266662597656,
-      "y": -4906.419921875
+      "x": 331.6468811035156,
+      "y": -4946.6416015625
     },
     {
       "id": "Statistics/Chi-Square/Chi-Square Statistic.md",
-      "x": 548.572021484375,
-      "y": -4666.95556640625
+      "x": 462.3730773925781,
+      "y": -4732.48095703125
+    },
+    {
+      "id": "Test Statistic",
+      "x": 1158.7265625,
+      "y": -4401.44189453125
     },
     {
       "id": "Statistics/Chi-Square/Chi-Square Test for Goodness of Fit.md",
-      "x": 573.6546630859375,
-      "y": -4360.49658203125
+      "x": 457.9147033691406,
+      "y": -4412.193359375
     },
     {
       "id": "Statistics/Chi-Square/Chi-Square Test with Two Categorial Variables.md",
-      "x": 173.96836853027344,
-      "y": -4880.8828125
+      "x": 52.285770416259766,
+      "y": -4909.20556640625
     },
     {
       "id": "Statistics/Chi-Square/Goodness-of-fit.md",
-      "x": 217.5010528564453,
-      "y": -4580.759765625
+      "x": 128.4125213623047,
+      "y": -4625.52490234375
     },
     {
       "id": "Statistics/Describing Data/Cumulative Counts.md",
-      "x": 832.0493774414062,
-      "y": -4548.8994140625
+      "x": 801.935546875,
+      "y": -4502.6611328125
     },
     {
       "id": "Statistics/Describing Data/Difference in Proportions.md",
-      "x": 1712.24365234375,
-      "y": -2938.980712890625
+      "x": 1613.989990234375,
+      "y": -3014.039306640625
     },
     {
       "id": "Statistics/Describing Data/Five Number Summary.md",
-      "x": -487.2751159667969,
-      "y": -4820.48583984375
+      "x": -611.0270385742188,
+      "y": -4878.0810546875
     },
     {
       "id": "Statistics/Describing Data/Interquartile Range (IQR).md",
-      "x": -229.59962463378906,
-      "y": -4350.873046875
+      "x": -296.92108154296875,
+      "y": -4347.857421875
     },
     {
       "id": "Statistics/Describing Data/Mean.md",
-      "x": 334.99530029296875,
-      "y": -3589.75732421875
+      "x": 244.56964111328125,
+      "y": -3611.294189453125
     },
     {
       "id": "Statistics/Describing Data/Median.md",
-      "x": -318.9066162109375,
-      "y": -3843.092041015625
+      "x": -423.7630920410156,
+      "y": -3846.7333984375
     },
     {
       "id": "Statistics/Describing Data/Outliers.md",
-      "x": -551.0977783203125,
-      "y": -4527.01904296875
+      "x": -578.4378051757812,
+      "y": -4581.50048828125
     },
     {
       "id": "Statistics/Describing Data/Percentile.md",
-      "x": 393.0648498535156,
-      "y": -4233.02783203125
+      "x": 304.1839904785156,
+      "y": -4226.36474609375
     },
     {
       "id": "Statistics/Describing Data/Point Estimate.md",
-      "x": 1375.0556640625,
-      "y": -3817.901611328125
+      "x": 1263.822998046875,
+      "y": -3914.234130859375
     },
     {
       "id": "Statistics/Describing Data/Pooled Proportion.md",
-      "x": 2168.425537109375,
-      "y": -3680.592041015625
+      "x": 2057.46435546875,
+      "y": -3742.794677734375
     },
     {
       "id": "Statistics/Describing Data/Proportion.md",
-      "x": 1201.7408447265625,
-      "y": -3142.084716796875
+      "x": 1086.745849609375,
+      "y": -3223.811279296875
     },
     {
       "id": "Statistics/Describing Data/Regression/CI for Slope.md",
-      "x": 1756.73974609375,
-      "y": -4038.7578125
+      "x": 1665.1502685546875,
+      "y": -4110.02734375
     },
     {
       "id": "Statistics/Describing Data/Regression/Coefficient of Determination.md",
-      "x": 1931.1353759765625,
-      "y": -3832.6474609375
+      "x": 1847.2490234375,
+      "y": -3891.575439453125
     },
     {
       "id": "Statistics/Describing Data/Regression/Correlation.md",
-      "x": 1428.6824951171875,
-      "y": -4110.8740234375
+      "x": 1379.91943359375,
+      "y": -4181.38037109375
     },
     {
       "id": "Scatterplot",
-      "x": 1499.2099609375,
-      "y": -4472.37109375
+      "x": 1661.8619384765625,
+      "y": -4445.7861328125
     },
     {
       "id": "Statistics/Describing Data/Regression/Least Square Lines.md",
-      "x": 2541.274169921875,
-      "y": -4289.4619140625
+      "x": 2460.9775390625,
+      "y": -4335.0537109375
     },
     {
       "id": "Statistics/Describing Data/Regression/Residuals.md",
-      "x": 2636.141357421875,
-      "y": -4084.222412109375
+      "x": 2550.370849609375,
+      "y": -4139.32861328125
     },
     {
       "id": "Statistics/Describing Data/Regression/Simple Linear Model.md",
-      "x": 2285.158935546875,
-      "y": -4077.42138671875
+      "x": 2196.080322265625,
+      "y": -4126.8056640625
     },
     {
       "id": "Statistics/Describing Data/Regression/Test for Correlation.md",
-      "x": 1605.638916015625,
-      "y": -4300.24072265625
+      "x": 1426.939697265625,
+      "y": -4450.96826171875
     },
     {
       "id": "Statistics/Describing Data/Resistance.md",
-      "x": 23.1832275390625,
-      "y": -4012.376953125
+      "x": -66.76309204101562,
+      "y": -4005.3828125
     },
     {
       "id": "Statistics/Describing Data/Shape.md",
-      "x": 4251.7041015625,
-      "y": -2479.751953125
+      "x": 4228.81005859375,
+      "y": -2633.859375
     },
     {
       "id": "Statistics/Describing Data/Standard Deviation.md",
-      "x": 735.0264282226562,
-      "y": -3540.897705078125
+      "x": 634.7547607421875,
+      "y": -3568.07080078125
     },
     {
       "id": "Statistics/Describing Data/Statistical Range.md",
-      "x": -286.0498962402344,
-      "y": -4160.3125
+      "x": -374.2038269042969,
+      "y": -4157.82080078125
     },
     {
       "id": "Statistics/Describing Data/The 95% Rule (of Thumb).md",
-      "x": 827.3570556640625,
-      "y": -3315.19482421875
+      "x": 736.7975463867188,
+      "y": -3358.8095703125
     },
     {
       "id": "Statistics/Describing Data/z-score.md",
-      "x": 408.3125,
-      "y": -3352.245361328125
+      "x": 329.8339538574219,
+      "y": -3369.852783203125
     },
     {
       "id": "Statistics/Inference for Means and Proportions/CI for Difference in Means.md",
-      "x": 1935.717041015625,
-      "y": -3413.74267578125
+      "x": 1828.6708984375,
+      "y": -3501.3505859375
     },
     {
       "id": "Statistics/Inference for Means and Proportions/CI for Difference in Proportions.md",
-      "x": 1852.0802001953125,
-      "y": -3177.4462890625
+      "x": 1759.4515380859375,
+      "y": -3267.352783203125
     },
     {
       "id": "Statistics/Inference for Means and Proportions/CI for Mean Difference.md",
-      "x": 2331.03271484375,
-      "y": -3424.385986328125
+      "x": 2234.42626953125,
+      "y": -3506.4580078125
     },
     {
       "id": "Statistics/Inference for Means and Proportions/CI for Means.md",
-      "x": 1133.3472900390625,
-      "y": -3380.452880859375
+      "x": 1028.813232421875,
+      "y": -3458.64208984375
     },
     {
       "id": "Statistics/Inference for Means and Proportions/CI for Proportions.md",
-      "x": 1530.1026611328125,
-      "y": -2988.234619140625
+      "x": 1453.5487060546875,
+      "y": -3079.870849609375
     },
     {
       "id": "Statistics/Inference for Means and Proportions/CLT for Difference in Means.md",
-      "x": 2357.283447265625,
-      "y": -3150.22900390625
+      "x": 2271.230224609375,
+      "y": -3227.729736328125
     },
     {
       "id": "Statistics/Inference for Means and Proportions/CLT for Difference in Proportions.md",
-      "x": 2155.354248046875,
-      "y": -3012.240478515625
+      "x": 2065.010009765625,
+      "y": -3100.799072265625
     },
     {
       "id": "Statistics/Inference for Means and Proportions/CLT for Differences.md",
-      "x": 2556.19921875,
-      "y": -3817.11669921875
+      "x": 2462.87939453125,
+      "y": -3887.71240234375
     },
     {
       "id": "Statistics/Inference for Means and Proportions/CLT for Mean Differences.md",
-      "x": 2535.09912109375,
-      "y": -3002.84130859375
+      "x": 2446.626953125,
+      "y": -3075.990966796875
     },
     {
       "id": "Statistics/Inference for Means and Proportions/CLT for Means.md",
-      "x": 1527.637939453125,
-      "y": -3184.5712890625
+      "x": 1419.6182861328125,
+      "y": -3245.609619140625
     },
     {
       "id": "Statistics/Inference for Means and Proportions/CLT for Proportions.md",
-      "x": 1891.62646484375,
-      "y": -2794.6845703125
+      "x": 1804.61767578125,
+      "y": -2877.489013671875
     },
     {
       "id": "Statistics/Inference for Means and Proportions/Hypothesis Testing for Difference in Proportions.md",
-      "x": 1786.68310546875,
-      "y": -3648.330078125
+      "x": 1668.032958984375,
+      "y": -3730.10302734375
     },
     {
       "id": "Statistics/Inference/Accuracy vs Precision.md",
-      "x": 1712.9820556640625,
-      "y": -2507.7177734375
+      "x": 1551.7510986328125,
+      "y": -2617.139892578125
     },
     {
       "id": "Statistics/Inference/Bootstrapping.md",
-      "x": 787.104248046875,
-      "y": -3920.70458984375
+      "x": 684.7913818359375,
+      "y": -4012.4306640625
     },
     {
       "id": "Statistics/Inference/Confidence Interval.md",
-      "x": 1407.3304443359375,
-      "y": -3436.938720703125
+      "x": 1302.14697265625,
+      "y": -3523.836181640625
     },
     {
       "id": "Margin of Error",
-      "x": 1708.08935546875,
-      "y": -3336.482421875
+      "x": 1591.6322021484375,
+      "y": -3407.7626953125
     },
     {
       "id": "Statistics/Inference/Hypothesis Testing.md",
-      "x": 1179.5465087890625,
-      "y": -4962.21533203125
+      "x": 1067.3856201171875,
+      "y": -5025.38525390625
     },
     {
       "id": "Statistics/Inference/Interval Estimate.md",
-      "x": 1392.3470458984375,
-      "y": -2601.90625
+      "x": 1247.7137451171875,
+      "y": -2735.54736328125
     },
     {
       "id": "Statistics/Inference/Plausibility of the Null.md",
-      "x": 817.5193481445312,
-      "y": -4996.423828125
+      "x": 669.2002563476562,
+      "y": -5067.640625
     },
     {
       "id": "Statistics/Inference/Sampling Distributions.md",
-      "x": 556.002197265625,
-      "y": -3920.5546875
+      "x": 456.005859375,
+      "y": -3963.92822265625
+    },
+    {
+      "id": "Normal Distributions",
+      "x": 481.712158203125,
+      "y": -3720.69189453125
     },
     {
       "id": "Statistics/Inference/Significance Level.md",
-      "x": 1112.3553466796875,
-      "y": -4070.63330078125
+      "x": 1062.0599365234375,
+      "y": -4221.03271484375
     },
     {
       "id": "Statistics/Inference/Statistical Hypotheses.md",
-      "x": 1009.6870727539062,
-      "y": -4631.28955078125
+      "x": 856.2990112304688,
+      "y": -4722.77978515625
     },
     {
       "id": "Statistics/Inference/Type I and Type II Errors.md",
-      "x": 1630.2408447265625,
-      "y": -4624.00048828125
+      "x": 1470.0584716796875,
+      "y": -4697.08740234375
     },
     {
       "id": "Statistics/Inference/p-value.md",
-      "x": 810.5529174804688,
-      "y": -4192.98779296875
+      "x": 717.1145629882812,
+      "y": -4290.3916015625
     },
     {
       "id": "Statistics/Paired Data.md",
-      "x": 2783.689697265625,
-      "y": -3325.72607421875
+      "x": 2698.699951171875,
+      "y": -3401.286376953125
     },
     {
       "id": "Statistics/Probability/Density Curve.md",
-      "x": 1660.8043212890625,
-      "y": -2134.756103515625
+      "x": 1519.6474609375,
+      "y": -2267.212646484375
     },
     {
       "id": "Statistics/Probability/Normal vs. Binomial vs. Poisson.md",
-      "x": -167.1579132080078,
-      "y": -3589.044921875
+      "x": -280.505126953125,
+      "y": -3611.515380859375
     },
     {
       "id": "Binomial Distribution",
-      "x": -588.1206665039062,
-      "y": -3810.0908203125
+      "x": -696.0382080078125,
+      "y": -3847.07275390625
     },
     {
       "id": "Statistics/Probability/Poisson vs. Binomial.md",
-      "x": -527.45703125,
-      "y": -3492.50390625
+      "x": -658.7413940429688,
+      "y": -3528.893798828125
     },
     {
       "id": "Statistics/Probability/Probability Basics/Additive Rule.md",
-      "x": -399.28106689453125,
-      "y": -1869.649658203125
+      "x": -587.0506591796875,
+      "y": -1915.85498046875
     },
     {
       "id": "Statistics/Probability/Probability Basics/Basic Probability Laws.md",
-      "x": -195.5417938232422,
-      "y": -2475.10595703125
+      "x": -393.5445251464844,
+      "y": -2538.19091796875
     },
     {
       "id": "Statistics/Probability/Probability Basics/Bayes' Theorem.md",
-      "x": -823.3160400390625,
-      "y": -3127.15673828125
+      "x": -968.1483154296875,
+      "y": -3174.41650390625
     },
     {
       "id": "Statistics/Probability/Probability Basics/Combining Events.md",
-      "x": -527.4566650390625,
-      "y": -2461.38134765625
+      "x": -751.35400390625,
+      "y": -2504.1708984375
     },
     {
       "id": "Statistics/Probability/Probability Basics/Complement Rule.md",
-      "x": -10.752523422241211,
-      "y": -1892.931640625
+      "x": -189.88995361328125,
+      "y": -1980.3155517578125
     },
     {
       "id": "Statistics/Probability/Probability Basics/Conditional Probability.md",
-      "x": -550.2296142578125,
-      "y": -2728.679443359375
+      "x": -702.5604858398438,
+      "y": -2775.448974609375
     },
     {
       "id": "Statistics/Probability/Probability Basics/Disjoint Events.md",
-      "x": -214.17105102539062,
-      "y": -2233.997314453125
+      "x": -425.1279602050781,
+      "y": -2293.42041015625
     },
     {
       "id": "Statistics/Probability/Probability Basics/Equally Likely Outcomes.md",
-      "x": -261.4433288574219,
-      "y": -1741.0662841796875
+      "x": -440.0462341308594,
+      "y": -1789.66357421875
     },
     {
       "id": "Statistics/Probability/Probability Basics/Events.md",
-      "x": -555.2323608398438,
-      "y": -2215.3291015625
+      "x": -755.4655151367188,
+      "y": -2249.69580078125
     },
     {
       "id": "Statistics/Probability/Probability Basics/Independent Events.md",
-      "x": -111.435302734375,
-      "y": -1600.364501953125
+      "x": -259.4736633300781,
+      "y": -1660.6029052734375
     },
     {
       "id": "Statistics/Probability/Probability Basics/Multiplicative Rule.md",
-      "x": -456.75738525390625,
-      "y": -2942.8740234375
+      "x": -673.163330078125,
+      "y": -3007.121337890625
     },
     {
       "id": "Statistics/Probability/Probability Basics/Partition Theorem.md",
-      "x": -786.1069946289062,
-      "y": -2342.207275390625
+      "x": -984.9515991210938,
+      "y": -2357.235107421875
     },
     {
       "id": "Statistics/Probability/Probability Basics/Probabilities.md",
-      "x": 71.65044403076172,
-      "y": -2515.802490234375
+      "x": -114.73336029052734,
+      "y": -2576.63134765625
     },
     {
       "id": "Statistics/Probability/Probability Basics/Probability Function.md",
-      "x": 214.95394897460938,
-      "y": -1894.4283447265625
+      "x": 25.40450096130371,
+      "y": -1939.900634765625
     },
     {
       "id": "Statistics/Probability/Probability Basics/Sample Space.md",
-      "x": -349.16796875,
-      "y": -1393.5362548828125
+      "x": -538.2498779296875,
+      "y": -1439.211181640625
     },
     {
       "id": "Statistics/Probability/Probability Basics/Total Probability.md",
-      "x": -856.4683227539062,
-      "y": -2797.23193359375
+      "x": -1032.2421875,
+      "y": -2839.0166015625
     },
     {
       "id": "Statistics/Probability/Probability Basics/Tree Diagrams.md",
-      "x": -2217.202392578125,
-      "y": -1473.6488037109375
+      "x": -2412.068115234375,
+      "y": -1309.203857421875
     },
     {
       "id": "[Conditional Probability",
-      "x": -2173.994140625,
-      "y": -1854.8902587890625
+      "x": -2423.031494140625,
+      "y": -1677.320556640625
     },
     {
       "id": "Statistics/Probability/Random Variables.md",
-      "x": 848.7437744140625,
-      "y": -2358.817626953125
+      "x": 640.5389404296875,
+      "y": -2422.2021484375
     },
     {
       "id": "Statistics/Probability/Random Variables/Bernoulli Random Variables.md",
-      "x": 465.9158020019531,
-      "y": -2347.4267578125
+      "x": 266.06842041015625,
+      "y": -2425.64013671875
     },
     {
       "id": "Statistics/Probability/Random Variables/Binomial Random Variable.md",
-      "x": -98.69450378417969,
-      "y": -2035.431640625
+      "x": -305.947509765625,
+      "y": -2078.46728515625
     },
     {
       "id": "Statistics/Probability/Random Variables/Geometric Random Variable.md",
-      "x": 1102.9300537109375,
-      "y": -2114.035888671875
+      "x": 900.4028930664062,
+      "y": -2135.361328125
     },
     {
       "id": "Statistics/Probability/Random Variables/Indicator Variable.md",
-      "x": 65.58329010009766,
-      "y": -2307.138427734375
+      "x": -140.9569854736328,
+      "y": -2371.5537109375
     },
     {
       "id": "Statistics/Probability/Random Variables/Mean of a Discrete Random Variable.md",
-      "x": 632.8941040039062,
-      "y": -2283.019287109375
+      "x": 402.3825988769531,
+      "y": -2312.469482421875
     },
     {
       "id": "Statistics/Probability/Random Variables/Poisson/Mean and Variance of Poisson Distribution.md",
-      "x": 142.58177185058594,
-      "y": -3152.687255859375
+      "x": 6.033623218536377,
+      "y": -3195.059326171875
     },
     {
       "id": "Statistics/Probability/Random Variables/Poisson/Poisson Distribution.md",
-      "x": -237.66094970703125,
-      "y": -2959.81689453125
+      "x": -391.4739685058594,
+      "y": -2997.216064453125
     },
     {
       "id": "Statistics/Probability/Random Variables/Poisson/Poisson Probability Function.md",
-      "x": -377.454345703125,
-      "y": -3277.633056640625
+      "x": -493.5416564941406,
+      "y": -3321.136962890625
     },
     {
       "id": "Statistics/Probability/Random Variables/Variance of a Discrete Random Variable.md",
-      "x": 388.5469970703125,
-      "y": -2619.463623046875
+      "x": 201.32159423828125,
+      "y": -2677.384521484375
     },
     {
       "id": "Statistics/Probability/Uniform Density Curve.md",
-      "x": 2019.8551025390625,
-      "y": -2239.7197265625
+      "x": 1885.6961669921875,
+      "y": -2365.330078125
     },
     {
       "id": "Statistics/Properties of Variance.md",
-      "x": 630.6668701171875,
-      "y": -2083.076416015625
+      "x": 511.8308410644531,
+      "y": -2118.64111328125
     },
     {
       "id": "Statistics/Standard Error.md",
-      "x": 1151.20849609375,
-      "y": -3793.968017578125
+      "x": 1047.3211669921875,
+      "y": -3853.359375
     },
     {
       "id": "Statistics/Structure of Data/Association and Causation.md",
-      "x": 3707.92138671875,
-      "y": -3378.294921875
+      "x": 3534.385009765625,
+      "y": -3686.6083984375
     },
     {
       "id": "Statistics/Structure of Data/Cases and Variables.md",
-      "x": 2972.396240234375,
-      "y": -3002.07373046875
+      "x": 2936.5302734375,
+      "y": -3118.686279296875
+    },
+    {
+      "id": "Statistics/Structure of Data/Confounding Variables and Spurious Correlation.md",
+      "x": 3461.030029296875,
+      "y": -3495.856689453125
+    },
+    {
+      "id": "Statistics/Structure of Data/Control Groups.md",
+      "x": 3372.676513671875,
+      "y": -3227.4072265625
+    },
+    {
+      "id": "Statistics/Structure of Data/Double-Blind.md",
+      "x": 3202.1435546875,
+      "y": -3083.06103515625
+    },
+    {
+      "id": "Statistics/Structure of Data/Experimental and Observational Studies.md",
+      "x": 3228.724853515625,
+      "y": -3730.313232421875
+    },
+    {
+      "id": "Statistics/Structure of Data/Explanatory and Response Variables.md",
+      "x": 2836.32861328125,
+      "y": -3815.990234375
+    },
+    {
+      "id": "Statistics/Structure of Data/Population v. Sample.md",
+      "x": 1987.8446044921875,
+      "y": -4346.5498046875
+    },
+    {
+      "id": "Statistics/Structure of Data/Randomisation Experiments.md",
+      "x": 3090.181884765625,
+      "y": -3401.177001953125
+    },
+    {
+      "id": "Statistics/Structure of Data/Response and Non-Response Bias.md",
+      "x": 3936.364501953125,
+      "y": -3024.001220703125
+    },
+    {
+      "id": "Statistics/Structure of Data/Sampling Bias.md",
+      "x": 3606.060791015625,
+      "y": -2822.2900390625
+    },
+    {
+      "id": "Statistics/Structure of Data/Simple Random Sampling.md",
+      "x": 3876.567138671875,
+      "y": -2718.231201171875
+    },
+    {
+      "id": "Statistics/Structure of Data/Statistical Inference.md",
+      "x": 1696.9315185546875,
+      "y": -3940.64599609375
+    },
+    {
+      "id": "Statistics/Structure of Data/Statistics and Parameters.md",
+      "x": 854.47705078125,
+      "y": -3744.919189453125
+    },
+    {
+      "id": "Statistics/Structure of Data/Variable Types.md",
+      "x": 905.59423828125,
+      "y": -4169.70361328125
+    },
+    {
+      "id": "Statistics/The 3 Steps of Statistics.md",
+      "x": 3269.507568359375,
+      "y": -2587.182861328125
+    },
+    {
+      "id": "Statistics/Variance.md",
+      "x": 545.694580078125,
+      "y": -2910.36279296875
+    },
+    {
+      "id": "Statistics/t-distributions.md",
+      "x": 1369.6502685546875,
+      "y": -3792.68603515625
+    },
+    {
+      "id": "Math/Linear Algebra/Done Right/Linear Dependence Lemma.md",
+      "x": -891.7750244140625,
+      "y": 1874.7589111328125
+    },
+    {
+      "id": "Computer Science/Abstract Data Types/Abstract Data Types.md",
+      "x": -3134.004150390625,
+      "y": -2983.886474609375
+    },
+    {
+      "id": "Computer Science/Abstract Data Types/Deques.md",
+      "x": -2844.036865234375,
+      "y": -3002.298583984375
+    },
+    {
+      "id": "Computer Science/Abstract Data Types/Graphs.md",
+      "x": -3099.12451171875,
+      "y": 33.372440338134766
+    },
+    {
+      "id": "Computer Science/Abstract Data Types/Hash Tables/Chaining.md",
+      "x": -3014.404541015625,
+      "y": -3581.584716796875
+    },
+    {
+      "id": "Computer Science/Abstract Data Types/Hash Tables/Hash Tables.md",
+      "x": -2675.73291015625,
+      "y": -3483.110107421875
+    },
+    {
+      "id": "Computer Science/Abstract Data Types/Hash Tables/Hash.md",
+      "x": -2484.340576171875,
+      "y": -3746.170166015625
+    },
+    {
+      "id": "Computer Science/Abstract Data Types/Hash Tables/Linear Probing.md",
+      "x": -2226.048828125,
+      "y": -3493.2216796875
+    },
+    {
+      "id": "Computer Science/Abstract Data Types/Hash Tables/Load Factor.md",
+      "x": -2919.084716796875,
+      "y": -3838.120849609375
+    },
+    {
+      "id": "Computer Science/Abstract Data Types/Hash Tables/Open Addressing.md",
+      "x": -2461.067626953125,
+      "y": -3368.74462890625
+    },
+    {
+      "id": "Computer Science/Abstract Data Types/Hash Tables/Quadratic Probing.md",
+      "x": -2166.22314453125,
+      "y": -3076.54931640625
+    },
+    {
+      "id": "Computer Science/Abstract Data Types/Hash Tables/Rehashing.md",
+      "x": -2750.81689453125,
+      "y": -3806.998291015625
+    },
+    {
+      "id": "Computer Science/Abstract Data Types/Heaps/Binary Heaps.md",
+      "x": -2474.889404296875,
+      "y": -2436.539794921875
+    },
+    {
+      "id": "Computer Science/Abstract Data Types/Heaps/Heapify.md",
+      "x": -2669.0078125,
+      "y": -2217.224853515625
+    },
+    {
+      "id": "Computer Science/Abstract Data Types/Heaps/Heaps.md",
+      "x": -2702.447265625,
+      "y": -2564.905517578125
+    },
+    {
+      "id": "Computer Science/Abstract Data Types/Heaps/d-Heaps.md",
+      "x": -2540.621826171875,
+      "y": -1868.756591796875
+    },
+    {
+      "id": "Computer Science/Abstract Data Types/Linked Lists/Circular Linked Lists.md",
+      "x": -3502.6982421875,
+      "y": -3038.56591796875
+    },
+    {
+      "id": "Computer Science/Abstract Data Types/Linked Lists/Double-Linked List.md",
+      "x": -3216.7626953125,
+      "y": -3290.1953125
+    },
+    {
+      "id": "Computer Science/Abstract Data Types/Linked Lists/Linked Lists.md",
+      "x": -3540.33642578125,
+      "y": -3279.970947265625
+    },
+    {
+      "id": "Computer Science/Abstract Data Types/Linked Lists/Lists vs. Linked Lists.md",
+      "x": -3663.619140625,
+      "y": -3562.453125
+    },
+    {
+      "id": "Computer Science/Abstract Data Types/Linked Lists/Ordered Linked Lists.md",
+      "x": -3292.642822265625,
+      "y": -3407.011962890625
+    },
+    {
+      "id": "Computer Science/Abstract Data Types/Priority Queues.md",
+      "x": -2492.44140625,
+      "y": -2200.5185546875
+    },
+    {
+      "id": "Computer Science/Abstract Data Types/Queues.md",
+      "x": -2933.741943359375,
+      "y": -2551.791748046875
+    },
+    {
+      "id": "Computer Science/Abstract Data Types/Stacks.md",
+      "x": -3030.508544921875,
+      "y": -2268.364501953125
+    },
+    {
+      "id": "Computer Science/Abstract Data Types/Trees/Binary Search Trees.md",
+      "x": -3740.568115234375,
+      "y": -2414.170166015625
+    },
+    {
+      "id": "Computer Science/Abstract Data Types/Trees/Binary Trees.md",
+      "x": -3276.70703125,
+      "y": -2207.65087890625
+    },
+    {
+      "id": "Computer Science/Abstract Data Types/Trees/Definitions/Leaf Nodes.md",
+      "x": -2865.69873046875,
+      "y": -2018.0302734375
+    },
+    {
+      "id": "Computer Science/Abstract Data Types/Trees/Definitions/Node Level.md",
+      "x": -3540.6279296875,
+      "y": -2041.37353515625
+    },
+    {
+      "id": "Computer Science/Abstract Data Types/Trees/Definitions/Parent, Children, and Sibling Nodes.md",
+      "x": -2884.06591796875,
+      "y": -2279.994140625
+    },
+    {
+      "id": "Computer Science/Abstract Data Types/Trees/Definitions/Root.md",
+      "x": -3177.177001953125,
+      "y": -2579.439697265625
+    },
+    {
+      "id": "Computer Science/Abstract Data Types/Trees/Definitions/Tree Height.md",
+      "x": -3883.913330078125,
+      "y": -2278.567138671875
+    },
+    {
+      "id": "Computer Science/Abstract Data Types/Trees/Parse Trees.md",
+      "x": -3736.6484375,
+      "y": -2772.992919921875
+    },
+    {
+      "id": "Computer Science/Abstract Data Types/Trees/Search Trees.md",
+      "x": -3930.137939453125,
+      "y": -2657.123046875
+    },
+    {
+      "id": "Computer Science/Abstract Data Types/Trees/Tree Traversal.md",
+      "x": -3189.388427734375,
+      "y": -1996.8873291015625
+    },
+    {
+      "id": "Computer Science/Abstract Data Types/Trees/Trees.md",
+      "x": -3504.537841796875,
+      "y": -2499.972412109375
+    },
+    {
+      "id": "Computer Science/Algorithm.md",
+      "x": -1415.9180908203125,
+      "y": -3981.19140625
+    },
+    {
+      "id": "Computer Science/Algorithms/Euclidean Greatest Common Divisor Algorithm.md",
+      "x": -2168.16796875,
+      "y": 1148.9296875
+    },
+    {
+      "id": "Computer Science/Algorithms/Primes Algorithms/MillarRabin.md",
+      "x": -4387.0390625,
+      "y": -2626.818603515625
+    },
+    {
+      "id": "Computer Science/Algorithms/Primes Algorithms/Sieve of Eratosthenes.md",
+      "x": -2739.486572265625,
+      "y": 2153.57470703125
+    },
+    {
+      "id": "Computer Science/Algorithms/Primes Algorithms/Trial Division.md",
+      "x": -1450.1356201171875,
+      "y": -4829.41357421875
+    },
+    {
+      "id": "Computer Science/Algorithms/Search Algorithms/Binary Search.md",
+      "x": -1498.7584228515625,
+      "y": -4433.77685546875
+    },
+    {
+      "id": "Computer Science/Algorithms/Search Algorithms/Sequential Search.md",
+      "x": -1811.489990234375,
+      "y": -2692.6005859375
+    },
+    {
+      "id": "Computer Science/Algorithms/Sorting Algorithms/Bogo Sort.md",
+      "x": -752.0122680664062,
+      "y": -1966.642578125
+    },
+    {
+      "id": "Computer Science/Algorithms/Sorting Algorithms/Bubble Sort.md",
+      "x": -1267.9326171875,
+      "y": -2236.786376953125
+    },
+    {
+      "id": "Computer Science/Algorithms/Sorting Algorithms/Heap Sort.md",
+      "x": -2134.887939453125,
+      "y": -2320.433349609375
     }
   ],
   "automaticallyRestoreNodePositions": true

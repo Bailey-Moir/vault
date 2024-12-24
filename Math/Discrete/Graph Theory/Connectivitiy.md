@@ -4,7 +4,7 @@ tags:
   - math
   - discrete
 ---
-[[Vertices]] $u$ and $v$ are *connected* if there is a [[Walks|walk]] from $u$ to $v$. $\gamma$ denotes the [[Equivalence Relations|equivalence relation]] on $V(G)$ where $\left( u,v \right)\in \gamma$ iff $u$ is *connected* to $v$.
+[[Vertices]] $u$ and $v$ are *connected* iff there is a [[Walks|walk]] from $u$ to $v$. $\gamma$ denotes the [[Equivalence Relations|equivalence relation]] where $\left( u,v \right)\in \gamma$ iff $u$ is *connected* to $v$.
 - This is not an [[Equivalence Relations|equivalence relation]] if $G$ is [[Directed Graphs|directed]] (as it is not [[Symmetric Property|symmetric]]).
 
 > [!proof]- Equivalence Relation
