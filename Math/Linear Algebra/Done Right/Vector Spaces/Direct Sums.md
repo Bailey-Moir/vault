@@ -3,8 +3,8 @@ tags:
   - atom
   - math
 ---
-The [[Sums of Subspaces|sum]] $V_1 + \dots + V_m$ is called a *direct sum* iff each element of $V_1 + \dots + V_m$ has a unique representation $\vecbf{v}_1 + \dots + \vecbf{v}_m$, where each $\vecbf{v}_i \in V_i$.
-- If $V_1 + \dots + V_m$ is a direct sum, then it is denoted $V_1 \oplus \dots \oplus V_m$, with the $\oplus$ notation serving as an indication that it is a direct sum.
+The [[Sums of Subspaces|sum]] $V_1 + \dots + V_m$ is called a *direct sum* iff each element has a unique representation $\vecbf{v}_1 + \dots + \vecbf{v}_m$, where $\vecbf{v}_i \in V_i$.
+$$ \forall \vecbf{v} \in U \oplus W, \exists! \vecbf{u} \in U, \vecbf{w} \in W : \vecbf{v} = \vecbf{u} + \vecbf{w} $$
 
 > [!note] Conditions for a Direct Sum
 > $V_1 + \cdots + V_m \in V$ is a *direct sum* iff the only choice of $\vecbf{v}_1 \in V_{1}, \dots, \vecbf{v}_m \in V_{m}$ that makes

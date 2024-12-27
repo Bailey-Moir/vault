@@ -12,7 +12,7 @@ A *vector space* $V$ s a [[Sets|set]] with a **closed** addition on $V$ and a **
 - **Distributive Property**
   $a(\vecbf{u}+\vecbf{v}) \equiv a\vecbf{u} + a\vecbf{v}$
   $(a+b)\vecbf{v} \equiv a\vecbf{v} + b\vecbf{v}$
-- **Multiplicative Identity**
+- **Scalar Multiplicative Identity**
   $1\vecbf{v} \equiv \vecbf{v}$
 - **Additive Identity**
   $\exists \vecbf{0} \in V : \forall \vecbf{v} \in V, \left( \vecbf{v} + \vecbf{0} = \vecbf{v} \right)$

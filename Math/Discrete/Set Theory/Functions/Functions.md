@@ -15,8 +15,8 @@ tags:
 These properties combined imply $\forall a \in A, \exists! b \in B : f(a) = b$.
 # Notations
 $$\begin{array}{c}
-f(a) = b \iff (a,b) \in f \\
-f : A \to B \iff f \in A\times B && (1) \\
+f(a) = b \implies (a,b) \in f \\
+f : A \to B \implies f \subset A\times B && (1) \\
 \end{array}$$
 
 \[(1) [[Cartesian Product]]\]

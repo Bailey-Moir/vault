@@ -13,5 +13,6 @@
   "propertiesInDocument": "visible",
   "showRibbon": false,
   "showInlineTitle": true,
-  "showLineNumber": true
+  "showLineNumber": false,
+  "showIndentGuide": true
 }

@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "59522a7791c06820",
+        "id": "a8c94d3d2b314ca7",
         "type": "tabs",
         "children": [
           {
-            "id": "097b6591e66a61e9",
+            "id": "e8f19e7ea5f78ff2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Math/Linear Algebra/Done Right/Done Right.canvas",
-                "viewState": {
-                  "x": 563.5269472122027,
-                  "y": 140.16099733609963,
-                  "zoom": -1.5560385058209256
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Done Right"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -56,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "alignat",
+                "query": "tag:#TODO  tag:#TODO  ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +73,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Math/Linear Algebra/Done Right/Done Right.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -108,14 +100,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Done Right"
+              "title": "Graph view"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 283.5
   },
   "right": {
     "id": "2bc9063f21594752",
@@ -202,36 +194,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "097b6591e66a61e9",
+  "active": "e8f19e7ea5f78ff2",
   "lastOpenFiles": [
-    "Math/Linear Algebra/Done Right/Linear Independence.md",
+    "Math/Linear Algebra/Done Right/Vector Spaces/Vector Spaces.md",
     "Math/Linear Algebra/Done Right/Done Right.canvas",
-    "Math/Linear Algebra/Done Right/Basis Reduction and Extension Theorem.md",
-    "Math/Linear Algebra/Done Right.canvas",
+    "Math/Linear Algebra/Done Right/Linear Maps/Linear Maps as Vector Spaces.md",
+    "Math/Linear Algebra/Done Right/Linear Maps/Sets of Linear Maps.md",
+    "Math/Linear Algebra/Done Right/Linear Maps/Identity Operator.md",
+    "Math/Linear Algebra/Done Right/Linear Maps/D-operators.md",
+    "Math/Linear Algebra/Done Right/Linear Maps/Linear Map Lemma.md",
+    "Math/Linear Algebra/Done Right/Linear Maps/Linear Maps.md",
+    "Math/Calculus/Operational Calculus/Forward Difference Operation.md",
+    "Math/Calculus/Operational Calculus/Indefinite Sum.md",
+    "Math/Calculus/Operational Calculus/Fundamental Theorem of Discrete Calculus.md",
+    "Math/Calculus/Operational Calculus/Falling Powers.md",
+    "Statistics/Probability/Probability Basics/Additive Rule.md",
+    "Math/Linear Algebra/Done Right/Vector Spaces/Dimension of a Sum.md",
+    "Math/Linear Algebra/Done Right/Vector Spaces/Dimension Equality Theorem.md",
+    "Linearity.md",
+    "Pasted image 20241227184314.png",
+    "Math/Linear Algebra/Linear Transformations/Linear Transformations.md",
+    "Math/Linear Algebra/Vectors/Vectors.md",
+    "Math/Discrete/Set Theory/Relations/Additive Property.md",
+    "Math/Discrete/Set Theory/Relations/Antisymmetric Property.md",
+    "Math/Discrete/Set Theory/Relations/Equivalence Relations.md",
+    "Math/Discrete/Set Theory/Relations/Reflexive Property.md",
+    "Math/Discrete/Set Theory/Relations/Symmetric Property.md",
+    "Math/Discrete/Set Theory/Relations/Transitive Property.md",
+    "Math/Discrete/Set Theory/Relations/Relation Graphs.md",
+    "Math/Discrete/Set Theory/Relations/Partial Order.md",
+    "Math/Linear Algebra/Done Right/Vector Spaces",
+    "Math/Linear Algebra/Done Right/Linear Maps",
     "Math/Linear Algebra/Linear Algebra MOC.canvas",
-    "Math/Linear Algebra/Done Right/Linear Combinations.md",
-    "Math/Linear Algebra/Linear Algebra.md",
-    "Math/Linear Algebra/Done Right/Subspace Complement Theorem.md",
-    "Math/Discrete/Propositional Logic/Arguments and Proofs/Induction.md",
-    "Math/Discrete/Set Theory/Basics/Subsets.md",
-    "Physics/Electricity/Inductors.md",
-    "Math/Linear Algebra/Done Right/Finite-Dimensional Vector Spaces.md",
-    "Math/Discrete/Propositional Logic/Arguments and Proofs/Lemmas.md",
-    "Math/Linear Algebra/Done Right/Basis.md",
-    "Math/Linear Algebra/Done Right/Steinitz Exchange Lemma.md",
-    "Math/Linear Algebra/Vectors/Definitions/Basis Vectors.md",
-    "Blog Ideas.md",
-    "Courses.md",
-    "Law of Diminishing Marginal Utility.md",
-    "Untitled.md",
-    "Sum of Spans.md",
-    "Math/Linear Algebra/Done Right/Dimension.md",
-    "Math/Linear Algebra/Done Right/Direct Sums.md",
-    "Math/Linear Algebra/Done Right/Vector Spaces.md",
-    "Computer Science/Abstract Data Types/Hash Tables/Linear Probing.md",
-    "Math/Linear Algebra/Done Right/Span.md",
-    "Math/Linear Algebra/Done Right/Linear Dependence Lemma.md",
-    "Math/Linear Algebra/Done Right/Basics/Polynomials.md",
     "Math/Calculus/Operational Calculus",
     "Assets/treble-clef-Recovered.png",
     "Assets/treble-clef.png",
@@ -246,14 +240,11 @@
     "Learning",
     "Assets/excali/scripts/Downloaded/Palette loader.svg",
     "Assets/excali/scripts/Downloaded",
-    "Assets/excali/scripts",
     "Math/Calculus/Limits/Limits.canvas",
-    "Lecture Notes",
     "Assets/Pasted image 20240228143304.png",
     "Assets/Pasted image 20240226153111.png",
     "Assets/Pasted image 20240304144131.png",
     "Assets/Pasted image 20240507120339.png",
-    "Assets/Pasted image 20240804224306.png",
     "Statistics/Inference for Means and Proportions/Inference for Means and Proportions.canvas",
     "Math/Geometry/Trigonometry/Trigonometry.canvas"
   ]

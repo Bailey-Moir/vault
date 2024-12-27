@@ -24,9 +24,11 @@ A *basis* of $V$ is a [[Span|spanning list]] of $V$ that is [[Linear Independenc
 
 > [!proof]- Every [[Finite-Dimensional Vector Spaces|finite-dimensional vector space]] has a *basis*.
 > By definition, every [[Finite-Dimensional Vector Spaces|finite-dimensional vector space]] has a finite [[Span|spanning list]]. 
-> By [[Basis Reduction and Extension Theorem|basis reduction theorem]], this [[Span|spanning list]] can be reduced to a *basis*, meaning every [[Finite-Dimensional Vector Spaces|finite-dimensional vector space]] has a *basis*.
+> This [[Span|spanning list]] can be reduced to a *basis*[^1], meaning every [[Finite-Dimensional Vector Spaces|finite-dimensional vector space]] has a *basis*.
 
 > [!proof]- All *bases* of a [[Finite-Dimensional Vector Spaces|finite-dimensional vector space]] have the same length.
 > Suppose you have two *bases* $B_1$ and $B_2$.
 > 
-> $B_1$ is [[Linear Independence|linearly independent]] and $B_2$ is a [[Span|spanning list]], so by the [[Steinitz Exchange Lemma|Steinitz exchange lemma]], $B_1$ is at most the same size as $B_2$. Reversing the roles gives that they are the same size.
+> $B_1$ is [[Linear Independence|linearly independent]] and $B_2$ is a [[Span|spanning list]], so $B_1$ is at most the same size as $B_2$[^1]. Reversing the roles gives that they are the same size.
+
+[^1]: [[Linear Independence and Span with Dimension]]
