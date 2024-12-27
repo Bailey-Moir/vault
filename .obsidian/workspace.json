@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a8c94d3d2b314ca7",
+        "id": "7b47a828581b3f25",
         "type": "tabs",
         "children": [
           {
-            "id": "e8f19e7ea5f78ff2",
+            "id": "cbb51fcbc2d66ddf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Math/Calculus/Operational Calculus/Fundamental Theorem of Discrete Calculus.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Fundamental Theorem of Discrete Calculus"
             }
           }
         ]
@@ -73,6 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Math/Calculus/Operational Calculus/Fundamental Theorem of Discrete Calculus.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -100,7 +106,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Fundamental Theorem of Discrete Calculus"
             }
           }
         ]
@@ -194,35 +200,35 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e8f19e7ea5f78ff2",
+  "active": "cbb51fcbc2d66ddf",
   "lastOpenFiles": [
-    "Math/Linear Algebra/Done Right/Vector Spaces/Vector Spaces.md",
-    "Math/Linear Algebra/Done Right/Done Right.canvas",
+    "Pasted image 20241227184314.png",
+    "Math/Calculus/Operational Calculus/Fundamental Theorem of Discrete Calculus.md",
+    "Japanese/Languages & Nationalities.md",
+    "Math/Linear Algebra/Done Right/Linear Maps/Linear Maps.md",
     "Math/Linear Algebra/Done Right/Linear Maps/Linear Maps as Vector Spaces.md",
+    "Math/Linear Algebra/Done Right/Linear Maps/Null Space.md",
+    "Math/Discrete/Set Theory/Functions/Injective Functions.md",
+    "Math/Linear Algebra/Done Right/Done Right.canvas",
+    "Math/Linear Algebra/Done Right/Linear Maps/Linear Map Lemma.md",
     "Math/Linear Algebra/Done Right/Linear Maps/Sets of Linear Maps.md",
     "Math/Linear Algebra/Done Right/Linear Maps/Identity Operator.md",
     "Math/Linear Algebra/Done Right/Linear Maps/D-operators.md",
-    "Math/Linear Algebra/Done Right/Linear Maps/Linear Map Lemma.md",
-    "Math/Linear Algebra/Done Right/Linear Maps/Linear Maps.md",
+    "Math/Linear Algebra/Done Right/Vector Spaces/Subspaces.md",
+    "Math/Linear Algebra/Done Right/Basics/Polynomials.md",
+    "Math/Linear Algebra/Done Right/Vector Spaces/Vector Spaces.md",
     "Math/Calculus/Operational Calculus/Forward Difference Operation.md",
     "Math/Calculus/Operational Calculus/Indefinite Sum.md",
-    "Math/Calculus/Operational Calculus/Fundamental Theorem of Discrete Calculus.md",
     "Math/Calculus/Operational Calculus/Falling Powers.md",
     "Statistics/Probability/Probability Basics/Additive Rule.md",
     "Math/Linear Algebra/Done Right/Vector Spaces/Dimension of a Sum.md",
     "Math/Linear Algebra/Done Right/Vector Spaces/Dimension Equality Theorem.md",
     "Linearity.md",
-    "Pasted image 20241227184314.png",
     "Math/Linear Algebra/Linear Transformations/Linear Transformations.md",
     "Math/Linear Algebra/Vectors/Vectors.md",
     "Math/Discrete/Set Theory/Relations/Additive Property.md",
     "Math/Discrete/Set Theory/Relations/Antisymmetric Property.md",
     "Math/Discrete/Set Theory/Relations/Equivalence Relations.md",
-    "Math/Discrete/Set Theory/Relations/Reflexive Property.md",
-    "Math/Discrete/Set Theory/Relations/Symmetric Property.md",
-    "Math/Discrete/Set Theory/Relations/Transitive Property.md",
-    "Math/Discrete/Set Theory/Relations/Relation Graphs.md",
-    "Math/Discrete/Set Theory/Relations/Partial Order.md",
     "Math/Linear Algebra/Done Right/Vector Spaces",
     "Math/Linear Algebra/Done Right/Linear Maps",
     "Math/Linear Algebra/Linear Algebra MOC.canvas",
