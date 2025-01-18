@@ -1,7 +1,9 @@
 
 /*.excalidraw-embedded-img*/
 .theme-light img[filesource*="excalidraw"],
-.theme-light img[src*="excalidraw.svg"] {
+.theme-light img[src*="excalidraw.svg"],
+/*.theme-dark *:has(> iframe) {*/
+{
 	filter: invert(100%) hue-rotate(180deg);
 }
 

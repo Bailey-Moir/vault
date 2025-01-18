@@ -6,7 +6,7 @@ tags:
 $$ A = \dfrac{1}{2} \int_\alpha^\beta r^2 \, d\theta $$
 > [!proof]-
 > $$\begin{align*}
-> 	A &= \dfrac{1}{2}\theta r^2  && \text{Area of a Sector} \\
+> 	A &= \dfrac{1}{2}\theta r^2  && \text{Area of a sector} \\
 > 	\therefore \\
 > 	A &= \lim_{n\to\infty}\sum_{i=1}^n \dfrac{1}{2}\Delta \theta r^2 && \text{Area made up of infinite sectors} \\
 > 	&= \int_\alpha^\beta \dfrac{1}{2}d\theta r^2 && (1) \text{ Integration by First Principles} \\

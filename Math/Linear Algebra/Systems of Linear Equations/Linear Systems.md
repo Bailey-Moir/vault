@@ -42,6 +42,7 @@ $$\begin{array}{c c}
 	\right]
 \end{array}$$
 <center>Both of these examples describe the below system of equations.</center>
+
 $$\begin{align*}
 	 x + 2y &= 3 \\
 	3x + 4y &= 4

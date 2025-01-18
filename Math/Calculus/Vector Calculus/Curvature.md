@@ -26,8 +26,9 @@ $$\begin{align*}
 > By the definition of a [[Unit Tangent Vectors|unit tangent vector]] and [[Parametric Arc Length|parametric arc length]],
 > $$\begin{align*}
 > 	\vecbf{r}' = \left\| \vecbf{r}' \right\| \vecbf{T} &= \dfrac{ds}{dt}\vecbf{T} \\
-> 	\vecbf{r}'' &= \dfrac{d^2s}{dt^2} \vecbf{T} + \dfrac{ds}{dt}\vecbf{T}' && \text{Product Rule}\\
+> 	\vecbf{r}'' &= \dfrac{d^2s}{dt^2} \vecbf{T} + \dfrac{ds}{dt}\vecbf{T}' && \text{(1)}\\
 > \end{align*}$$
+> \[(1) [[Differentiation Rules#Product Rule]]\]
 > By the [[Cross Product#Properties of Cross Product|properties of the cross product]], the cross product of these derivatives gives
 > $$\begin{align*}
 > 	\vecbf{r}' \times \vecbf{r}'' &= \left( \dfrac{ds}{dt}\vecbf{T} \right) \times \left( \dfrac{d^2s}{dt^2}\vecbf{T} + \dfrac{ds}{dt}\vecbf{T}' \right) \\

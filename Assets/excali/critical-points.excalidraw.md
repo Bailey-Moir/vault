@@ -14,7 +14,7 @@ tags:
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.4.0",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.3.0",
 	"elements": [
 		{
 			"type": "line",
@@ -549,8 +549,8 @@ tags:
 		},
 		{
 			"type": "line",
-			"version": 242,
-			"versionNonce": 235717846,
+			"version": 243,
+			"versionNonce": 644301040,
 			"index": "aB",
 			"isDeleted": false,
 			"id": "ILweMaNAOcznb8Ui4I1q_",
@@ -562,7 +562,7 @@ tags:
 			"angle": 0,
 			"x": 6.257873176935163,
 			"y": 170.3766019974634,
-			"strokeColor": "#33b1ff",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 12.174641868031188,
 			"height": 23.92190520039901,
@@ -573,7 +573,7 @@ tags:
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1726305170164,
+			"updated": 1736073552821,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1298,7 +1298,7 @@ tags:
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#1e1e1e",
+		"currentItemStrokeColor": "#98c379",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 1,
@@ -1310,16 +1310,13 @@ tags:
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"currentItemArrowType": "round",
-		"scrollX": 312.64279493423317,
-		"scrollY": 81.34763219248936,
+		"scrollX": 92.5304106356831,
+		"scrollY": -40.696242846382766,
 		"zoom": {
-			"value": 2
+			"value": 4.172403915652666
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
-		"gridStep": 5,
-		"gridModeEnabled": false,
 		"gridColor": {
 			"Bold": "#C9C9C9",
 			"Regular": "#EDEDED"
@@ -1350,19 +1347,14 @@ tags:
 			}
 		},
 		"currentStrokeOptions": null,
+		"previousGridSize": null,
 		"frameRendering": {
 			"enabled": true,
 			"clip": true,
 			"name": true,
 			"outline": true
 		},
-		"objectsSnapModeEnabled": false,
-		"activeTool": {
-			"type": "selection",
-			"customType": null,
-			"locked": false,
-			"lastActiveTool": null
-		}
+		"objectsSnapModeEnabled": false
 	},
 	"files": {}
 }

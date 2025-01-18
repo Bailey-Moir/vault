@@ -64,9 +64,12 @@
   "Math/Discrete/Propositional Logic/Arguments and Proofs": "LiSquare",
   "Math/Discrete/Number Theory/Primes": "LiCross",
   "Math/Algebra/Sequences & Series/Series/Tests": "LiTestTube",
+  "Math/Linear Algebra": "LiMoveDiagonal",
   "Math/Discrete/Cryptography": "LiFileWarning",
   "Math/Discrete/Set Theory/Relations": "®",
   "Math/Discrete/Set Theory": "LiCurlyBraces",
+  "Math/Linear Algebra/Vectors": "↗",
+  "Math/Linear Algebra/Linear Transformations": "LiSquare",
   "Computer Science/Abstract Data Types": "LiType",
   "Math/Discrete/Number Theory/Counting Outcomes": "LiArrowUp10",
   "Computer Science": "LiComputer",
@@ -76,9 +79,5 @@
   "Physics": "LiMoonStar",
   "Statistics": "LiScatterChart",
   "Learning": "LiBrain",
-  "Blog": "LiPencil",
-  "Math/Calculus/Operational Calculus": "LiCircleSlash2",
-  "Math/Linear Algebra": "LiMoveDiagonal",
-  "Math/Linear Algebra/Linear Transformations": "LiSquare",
-  "Math/Linear Algebra/Vectors": "↗"
+  "Math/Calculus/Operational Calculus": "LiCircleSlash2"
 }
