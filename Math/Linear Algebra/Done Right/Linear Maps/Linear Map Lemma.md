@@ -3,6 +3,8 @@ tags:
   - atom
   - math
 ---
+For any mapping of [[Basis Vectors|basis vectors]] in $V$ to vectors in $W$, there exists a **unique** [[Linear Maps|linear map]] $T$ from $V$ to $W$
+or
 If $\vecbf{v}_{1},\dots,\vecbf{v}_{n}$ is a [[Basis|basis]] of $V$, and $\vecbf{w}_{1}, \dots, \vecbf{w}_{n} \in W$, then there exists a **unique** [[Linear Maps|linear map]] $T : V \to W$ such that
 $$ \phantom{\forall k \in \{ 1,\dots,n \}\hspace{2em}} T\,\vecbf{v}_{k} = \vecbf{w}_{k} \hspace{2em}\forall k \in \{ 1,\dots,n \}$$
 - The 'existence' part means that we can find a [[Linear Maps|linear map]] that maps the vectors in a [[Basis|basis]] to whatever we want. 

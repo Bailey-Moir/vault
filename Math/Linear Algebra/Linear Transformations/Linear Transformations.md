@@ -3,7 +3,7 @@ tags:
   - atom
   - math
 ---
-For any $A\in\mathcal{M}(m,n)$[^1] and $\vecbf{v}\in\R^n$,
+For any $A\in\R^{m,n}$[^1] and $\vecbf{v}\in\R^n$,
 $$A\vecbf{v}=A\begin{bmatrix}
 	v_{1} \\
 	v_{2} \\
@@ -11,7 +11,7 @@ $$A\vecbf{v}=A\begin{bmatrix}
 	v_{n}
 \end{bmatrix} = v_{1}A\vecbf{e}_{1} + v_{2}A\vecbf{e}_{2} + \dots + v_{n}A\vecbf{e}_{n}$$
 > [!note]- 2x2 Version
-> For any $A \in \mathcal{M}(2,2)$[^1] and $\vecbf{v}\in\R^2$
+> For any $A \in \R^{2,2}$[^1] and $\vecbf{v}\in\R^2$
 > $$A\vecbf{v}=A\begin{bmatrix}
 > 	v_{1} \\
 > 	v_{2}

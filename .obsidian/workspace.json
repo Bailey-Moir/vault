@@ -4,24 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2ff48529d1ded982",
+        "id": "588b37e72fddef31",
         "type": "tabs",
         "children": [
           {
-            "id": "a6cd76c9a8925c07",
+            "id": "8f8bc44146feb8c4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Math/Linear Algebra/Done Right/Done Right.canvas",
-                "viewState": {
-                  "x": 5664.276552896996,
-                  "y": -234.89245285055333,
-                  "zoom": 0.052777616734865807
-                }
+                "file": "Math/Discrete/Set Theory/Relations/Relation Graphs.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Done Right"
+              "icon": "lucide-file",
+              "title": "Relation Graphs"
             }
           }
         ]
@@ -56,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "prior probability",
+                "query": "\\mathcal{M}",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +78,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Math/Linear Algebra/Done Right/Linear Maps/Linear Systems as Linear Maps.md",
+                "file": "Math/Discrete/Set Theory/Relations/Relation Graphs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -108,7 +106,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Linear Systems as Linear Maps"
+              "title": "Graph of Relation Graphs"
             }
           }
         ]
@@ -192,7 +190,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "random-note:Open random note": false,
-      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -202,36 +199,36 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a6cd76c9a8925c07",
+  "active": "8f8bc44146feb8c4",
   "lastOpenFiles": [
+    "Math/Discrete/Number Theory/Counting Outcomes/Binomial Coefficient.md",
+    "Statistics/Chi-Square/Chi-Square Distribution.md",
+    "Archive/Science/Kaitiakitanga.md",
+    "Math/Calculus/Limits/Direct Substitution Property.md",
+    "Math/Linear Algebra/Matrices/Definitions/Transposition.md",
+    "Math/Linear Algebra/Vectors/Cross Product.md",
+    "Assets/excali/vector-point-normal-planes.excalidraw.md",
+    "Statistics/Structure of Data/Simple Random Sampling.md",
+    "Math/Discrete/Number Theory/Counting Outcomes/Counting Outcomes.md",
+    "Math/Geometry/Circle Geometry/Basic Definitions/Arcs.md",
+    "Math/Linear Algebra/Done Right/Linear Maps/Linear Maps as Matrices.md",
+    "Math/Discrete/Set Theory/Functions/Range & Image.md",
+    "Math/Linear Algebra/Done Right/Linear Maps/Linear Maps as Matrices Old.md",
+    "Math/Linear Algebra/Done Right/Linear Maps/Dimension of a Linear Map.md",
+    "Math/Linear Algebra/Matrices/Definitions/Sets of Matrices.md",
+    "Math/Linear Algebra/Linear Transformations/Linear Transformations.md",
+    "Math/Linear Algebra/Matrices/Linear Maps as Matrices.md",
+    "Math/Linear Algebra/Linear Transformations/Eigenvectors & Eigenvalues.md",
+    "Math/Linear Algebra/Linear Transformations/Characteristic Polynomial.md",
+    "Dimension of a Linear Map.md",
+    "Math/Linear Algebra/Done Right/Linear Maps/Linear Maps as Vector Spaces.md",
+    "Math/Linear Algebra/Done Right/Done Right.canvas",
     "Math/Linear Algebra/Done Right/Linear Maps/Function Types with Dimension.md",
     "Math/Discrete/Set Theory/Complement.md",
     "Math/Linear Algebra/Done Right/Vector Spaces/Dimension Equality Theorem.md",
     "Math/Linear Algebra/Done Right/Vector Spaces/Dimension.md",
     "Math/Discrete/Propositional Logic/Arguments and Proofs/Proof by Contraposition.md",
-    "Math/Linear Algebra/Done Right/Vector Spaces/Direct Sums.md",
-    "Math/Linear Algebra/Done Right/Linear Maps/Rank-Nullity Theorem.md",
-    "Math/Linear Algebra/Done Right/Vector Spaces/Subspace Complement Theorem.md",
-    "Math/Linear Algebra/Done Right/Vector Spaces/Sums of Subspaces.md",
-    "Math/Linear Algebra/Done Right/Vector Spaces/Linear Independence and Span with Dimension.md",
-    "Math/Calculus/Integration/Fundamental Theorem of Calculus.md",
-    "Math/Linear Algebra/Done Right/Done Right.canvas",
-    "Complementary Subspace Theorem.md",
-    "Math/Linear Algebra/Done Right/Linear Maps/Linear Systems as Linear Maps.md",
-    "Math/Linear Algebra/Done Right/Vector Spaces/Span.md",
-    "Math/Linear Algebra/Done Right/Linear Maps/Null Space.md",
-    "Math/Algebra/Functions/Definitions/Domain.md",
     "Math/Algebra/Functions/Definitions",
-    "Math/Discrete/Set Theory/Functions/Domain.md",
-    "Personal/Capitalism and Existentialism.md",
-    "Math/Linear Algebra/Done Right/Linear Maps/Linear Maps.md",
-    "Personal/Abortion.md",
-    "Math/Linear Algebra/Systems of Linear Equations/Linear Systems.md",
-    "Math/Linear Algebra/Systems of Linear Equations/Homogeneous Systems.md",
-    "Math/Discrete/Set Theory/Functions/Surjective Functions.md",
-    "Math/Algebra/Functions/Equality of Functions.md",
-    "Math/Linear Algebra/Linear Transformations/Eigenvectors & Eigenvalues.md",
-    "Assets/excali/modulus.excalidraw.md",
     "Assets/excali/scaling-columns-determinants.excalidraw.svg",
     "Assets/excali/precise-definition-of-limit.excalidraw.svg",
     "Assets/excali/tetrachords-fifths-seventh.excalidraw.svg",

@@ -4,7 +4,7 @@ tags:
   - math
   - discrete
 ---
-A [[Functions|function]] is *surjective* (*onto*) iff the [[Codomain|codomain]] is **equal** to the [[Range|range]];
+A [[Functions|function]] is *surjective* (*onto*) iff the [[Codomain|codomain]] is **equal** to the [[Range & Image|range]];
 $$ \forall b \in B, \exists a \in A : f(a) = b $$
 # Properties of Surjections
 Let $f: A \to B$ be a *surjective [[Functions|function]]*:

@@ -4,7 +4,7 @@ tags:
   - math
   - discrete
 ---
-A [[Functions|function]] is *injective* (*one-to-one*) iff each element in the [[Range|range]] has a **unique** element in the [[Domain|domain]];
+A [[Functions|function]] is *injective* (*one-to-one*) iff each element in the [[Range & Image|range]] has a **unique** element in the [[Domain|domain]];
 $$\begin{array}{c}
 	\forall a_1,a_2 \in A, \left( f(a_1) = f(a_2) \to a_1 = a_2 \right) \\
 	\color{gray}{\small{\forall a_1,a_2 \in A, \left( a_1 \ne a_2 \to f(a_1) \ne f(a_2) \right)}}

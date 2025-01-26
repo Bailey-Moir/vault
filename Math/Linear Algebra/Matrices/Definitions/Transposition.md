@@ -6,7 +6,7 @@ tags:
 ![100](transposing-matrices.gif)
 Transposing a matrix flips a matrix across the main diagonal. A transposed matrix is denoted by $\square^T$.
 $$\begin{array}{c}
-A \in \mathcal{M}(m,n) \iff A^T \in \mathcal{M}(n,m) \\ \begin{bmatrix} 
+A \in \R^{m,n} \iff A^T \in \R^{n,m} \\ \begin{bmatrix} 
 	\textcolor{green}a & b & c \\ 
 	d & \textcolor{green}e & f 
 \end{bmatrix}^T

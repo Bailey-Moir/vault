@@ -7,7 +7,7 @@ None of the trigonometric functions are [[Injective Functions|one-to-one]], mean
 
 |               | $\large\sin^{-1}$                               | $\large\cos^{-1}$       | $\large\tan^{-1}$                               |
 | ------------- | ----------------------------------------------- | ----------------------- | ----------------------------------------------- |
-| **[[Range]]** | $\left[ -\dfrac{\pi}{2},\dfrac{\pi}{2} \right]$ | $\left[ 0, \pi \right]$ | $\left( -\dfrac{\pi}{2},\dfrac{\pi}{2} \right)$ |
+| **[[Range & Image]]** | $\left[ -\dfrac{\pi}{2},\dfrac{\pi}{2} \right]$ | $\left[ 0, \pi \right]$ | $\left( -\dfrac{\pi}{2},\dfrac{\pi}{2} \right)$ |
 
 > [!example]- Inverse Sine
 > For example, $\sin$ is [[Injective Functions|one-to-one]] on the [[Math/Algebra/Basics/Intervals|interval]] $\left[ -\dfrac{\pi}{2},\dfrac{\pi}{2} \right]$, so $\sin^{-1}$ is defined with this restriction.

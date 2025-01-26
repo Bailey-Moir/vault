@@ -1,6 +1,6 @@
 {
   "accentColor": "",
-  "cssTheme": "Oxocarbon",
+  "cssTheme": "Typewriter",
   "theme": "obsidian",
   "enabledCssSnippets": [
     "better-callouts",
@@ -9,6 +9,7 @@
     "center-svg",
     "hidden-properties",
     "larger-inline-math",
+    "wide-math",
     "better-atom",
     "pdfs",
     "typewriter-tables",

@@ -1,15 +1,13 @@
 [
-  "obsidian-excalidraw-plugin",
-  "omnisearch",
-  "persistent-graph",
-  "obsidian-latex-suite",
-  "obsidian-icon-folder",
-  "folder-notes",
-  "file-explorer-plus",
-  "file-explorer-note-count",
-  "obsidian-latex",
-  "avatar",
   "hide-properties",
-  "obsidian-prozen",
-  "latex-callouts"
+  "avatar",
+  "obsidian-excalidraw-plugin",
+  "obsidian-latex",
+  "file-explorer-note-count",
+  "file-explorer-plus",
+  "folder-notes",
+  "obsidian-icon-folder",
+  "latex-callouts",
+  "obsidian-latex-suite",
+  "persistent-graph"
 ]

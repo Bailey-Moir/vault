@@ -3,7 +3,7 @@ tags:
   - atom
   - math
 ---
-Let $A\in\mathcal{M}(n,n)$[^1]. The *characteristic polynomial* $p$ for $A$ is
+Let $A\in \R^{n,n}$[^1]. The *characteristic polynomial* $p$ for $A$ is
 $$p(\lambda) := \left| A-\lambda I \right| $$
 - $\lambda$ is an [[Eigenvectors & Eigenvalues|eigenvalue]] of $A$ iff $p(\lambda) = 0$.
 - $p(\lambda)$ is always [[Polynomials#Degree|degree]] $n$.
