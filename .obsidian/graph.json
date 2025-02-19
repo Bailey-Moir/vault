@@ -1,12 +1,19 @@
 {
-  "collapse-filter": false,
-  "search": "tag:#atom -path:Archive ",
+  "collapse-filter": true,
+  "search": "tag:#atom  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
+    {
+      "query": "tag:#linear  ",
+      "color": {
+        "a": 1,
+        "rgb": 11861736
+      }
+    },
     {
       "query": "tag:discrete",
       "color": {
@@ -67,6 +74,6 @@
   "repelStrength": 17.6041666666667,
   "linkStrength": 1,
   "linkDistance": 280,
-  "scale": 0.08317427835927606,
+  "scale": 0.061990177328924166,
   "close": false
 }

@@ -3,5 +3,4 @@ tags:
   - atom
   - math
 ---
-*Singular matrices* are [[Matrix Invertibility|non-invertible]] **square** [[Matrices|matrices]]. The [[Determinants|determinants]] of these matrices are $0$.
-$$ |A| = 0 $$
+*Singular matrices* are square [[Matrices|matrices]] with [[Determinants|determinants]] of $0$. These are [[Matrix Invertibility|non-invertible]].

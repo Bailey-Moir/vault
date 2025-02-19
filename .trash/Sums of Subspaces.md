@@ -1,0 +1,6 @@
+---
+tags:
+  - atom
+  - math
+  - linear
+---

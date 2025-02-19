@@ -1,0 +1,5 @@
+---
+tags:
+  - atom
+  - math
+---

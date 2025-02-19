@@ -1,0 +1,18 @@
+.collapse-icon {
+    display: none !important;
+}
+
+.tree-item-self > .iconize-icon,
+.tree-item-self > .tree-item-inner {
+    position: relative;
+    right: 2.5ex;
+}
+
+.tree-item-self > .tree-item-inner {
+    min-width: calc(100% + 5ex) !important;
+}
+
+.nav-folder-title[data-count]::after {
+    position: absolute;
+    right: 0px;
+}

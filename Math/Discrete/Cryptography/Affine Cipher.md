@@ -5,12 +5,11 @@ tags:
   - discrete
 ---
 Each letter is viewed as an element in $\Z_{26}$[^1], with $A=00, B=01, \dots, Z=25$. 
-**Definition**: The *affine cipher* is a substitution cipher, where for some fixed $a,b \in \Z_{26}$[^1], each letter $x$ is to encrypted to
+**Definition**: The *affine cipher* is a [[Substitution Ciphers|substitution cipher]], where for some fixed $a,b \in \Z_{26}$[^1], each letter $x$ is to encrypted to
 $$ e(x) = ax + b $$
 in $\Z_{26}$[^1].
 
-$e(x)$ is a [[Permutations|permutation]] of $\Z_{26}$[^1] iff $a$ is an [[Math/Discrete/Number Theory/Modular Arithmetic/Invertibility|invertible]] element of $\Z_{26}$[^1].
-> [!proof]-
+> [!proof]- $e(x)$ is a [[Permutations|permutation]] of $\Z_{26}$[^1] iff $a$ is an [[Math/Discrete/Number Theory/Modular Arithmetic/Invertibility|invertible]] element of $\Z_{26}$[^1].
 > $(\implies)$
 > If $a=0$, the theorem holds.
 > [[Proof by Contraposition|Contrapositive]]: if $a \in \Z_{26} \setminus \{0\}$ is not [[Math/Discrete/Number Theory/Modular Arithmetic/Invertibility|invertible]], then $e(x)$ ($ax+b$) is not a [[Permutations|permutation]].

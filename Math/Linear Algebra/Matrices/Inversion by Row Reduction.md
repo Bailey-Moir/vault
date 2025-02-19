@@ -3,9 +3,9 @@ tags:
   - atom
   - math
 ---
-Using an augmented matrix, you can [[Inverting Matrices|invert]] any given matrix. This is an extended version of [[Gaussian Elimination|gaussian elimination]], called Gauss–Jordan elimination, where the matrix is transformed into into [[Reduced REF (RREF)|RREF]] instead of [[EF & REF|REF]].
+Using an [[Augmented Matrices|augmented matrix]],  you can [[Linear Map Invertibility|invert]] any given [[Matrices|matrix]] via an extended version of [[Gaussian Elimination|Gaussian elimination]], called Gauss–Jordan elimination, where the [[Matrices|matrix]] is transformed into into [[EF & REF#RREF|RREF]] instead of [[EF & REF|REF]].
 
-It should be noted that when transforming these matrices, row operations must be done to both sides of the augmented matrix. There are 3 types of row operations that can be done in order to transform/reduce the matrix.
+ There are 3 row operations:
  - Adding a multiple of a row to another (e.g. $R_2 \leftarrow R_2 + kR_3$).
  - Multiplying rows by (non-zero) constants (e.g. $R_3 \leftarrow kR_3$).
  - Swapping rows (e.g. $R_1 \leftrightarrow R_2$).

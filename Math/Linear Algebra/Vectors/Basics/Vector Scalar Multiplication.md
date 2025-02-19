@@ -20,7 +20,7 @@ $$\begin{align*}
 > 	&= \lambda x_1\vecu{i} + \lambda x_2\vecu{j} \\
 > 	&= \left\langle \lambda x_1, \lambda x_2 \right\rangle \\
 > \end{align*}$$
-> \[[[Basis Vectors]]\]
+> \[[[Basis]]\]
 
 > [!note]- Parallel Vectors
 > Two [[Vectors|vectors]] are **parallel** iff they are *scalar multiples* of one another;

@@ -4,4 +4,4 @@ tags:
   - math
   - discrete
 ---
-A secret piece of information with determines the output of a [[Cipher|cipher]].
+A secret piece of information which determines the output of a [[Cipher|cipher]].

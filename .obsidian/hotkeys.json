@@ -31,5 +31,14 @@
       "key": "`"
     }
   ],
-  "make-md:mk-blink": []
+  "make-md:mk-blink": [],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ],
+  "file-explorer:new-file": []
 }

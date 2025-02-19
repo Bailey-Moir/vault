@@ -1,6 +1,6 @@
 {
   "accentColor": "",
-  "cssTheme": "Typewriter",
+  "cssTheme": "Catppuccin",
   "theme": "obsidian",
   "enabledCssSnippets": [
     "better-callouts",
@@ -9,11 +9,12 @@
     "center-svg",
     "hidden-properties",
     "larger-inline-math",
-    "wide-math",
     "better-atom",
     "pdfs",
     "typewriter-tables",
-    "underline-links",
-    "excali"
-  ]
+    "excali",
+    "no-collapse-icon",
+    "no-folder-icon"
+  ],
+  "showRibbon": false
 }

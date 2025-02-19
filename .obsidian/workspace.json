@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "588b37e72fddef31",
+        "id": "1e6de83323757724",
         "type": "tabs",
         "children": [
           {
-            "id": "8f8bc44146feb8c4",
+            "id": "05f273b21381a3c9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Discrete/Set Theory/Relations/Relation Graphs.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Relation Graphs"
+              "title": "New tab"
             }
           }
         ]
@@ -42,7 +37,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -54,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\\mathcal{M}",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,9 +74,8 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Math/Discrete/Set Theory/Relations/Relation Graphs.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -91,7 +86,7 @@
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": false,
+                  "collapse-display": true,
                   "showArrow": true,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
@@ -101,19 +96,19 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.2860115351370439,
+                  "scale": 0.19722708755350052,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Relation Graphs"
+              "title": "Graph view"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 313
   },
   "right": {
     "id": "2bc9063f21594752",
@@ -189,6 +184,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "media-extended:Open media": false,
       "random-note:Open random note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -199,36 +195,49 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8f8bc44146feb8c4",
+  "active": "05f273b21381a3c9",
   "lastOpenFiles": [
-    "Math/Discrete/Number Theory/Counting Outcomes/Binomial Coefficient.md",
-    "Statistics/Chi-Square/Chi-Square Distribution.md",
-    "Archive/Science/Kaitiakitanga.md",
-    "Math/Calculus/Limits/Direct Substitution Property.md",
-    "Math/Linear Algebra/Matrices/Definitions/Transposition.md",
-    "Math/Linear Algebra/Vectors/Cross Product.md",
-    "Assets/excali/vector-point-normal-planes.excalidraw.md",
-    "Statistics/Structure of Data/Simple Random Sampling.md",
-    "Math/Discrete/Number Theory/Counting Outcomes/Counting Outcomes.md",
-    "Math/Geometry/Circle Geometry/Basic Definitions/Arcs.md",
-    "Math/Linear Algebra/Done Right/Linear Maps/Linear Maps as Matrices.md",
-    "Math/Discrete/Set Theory/Functions/Range & Image.md",
-    "Math/Linear Algebra/Done Right/Linear Maps/Linear Maps as Matrices Old.md",
-    "Math/Linear Algebra/Done Right/Linear Maps/Dimension of a Linear Map.md",
-    "Math/Linear Algebra/Matrices/Definitions/Sets of Matrices.md",
+    "Math/Linear Algebra/Matrices/Matrices.md",
+    "Math/Linear Algebra/Matrices/Definitions/Minors.md",
+    "Math/Linear Algebra/Vectors/Basics/Cosine Similarity Formula.md",
+    "Math/Linear Algebra/Vectors/Basics/Dot Product.md",
+    "Math/Linear Algebra/Vectors/Basics/Vector Addition.md",
+    "Math/Linear Algebra/Vectors/Basics/Vector Equality.md",
+    "Math/Linear Algebra/Vectors/Basics/Vector Length.md",
+    "Math/Linear Algebra/Vectors/Basics/Vector Scalar Multiplication.md",
+    "Math/Linear Algebra/Vectors/Unit Vectors.md",
+    "Math/Linear Algebra/Vectors/Position Vectors.md",
+    "Math/Linear Algebra/Vectors/Direction Vectors.md",
+    "Math/Linear Algebra/Components.md",
+    "Math/Linear Algebra/Vectors/Definitions/Basis Vectors.md",
+    "Math/Linear Algebra/Vector Spaces/Basis.md",
+    "Math/Calculus/Vector Calculus/Advanced/Gradient.md",
+    "Math/Linear Algebra/Vectors/Direction Angles and Direction Cosines.md",
     "Math/Linear Algebra/Linear Transformations/Linear Transformations.md",
-    "Math/Linear Algebra/Matrices/Linear Maps as Matrices.md",
+    "Math/Linear Algebra/Linear Maps/Linear Map Lemma.md",
+    "Math/Linear Algebra/Vectors/Vectors.md",
     "Math/Linear Algebra/Linear Transformations/Eigenvectors & Eigenvalues.md",
     "Math/Linear Algebra/Linear Transformations/Characteristic Polynomial.md",
-    "Dimension of a Linear Map.md",
-    "Math/Linear Algebra/Done Right/Linear Maps/Linear Maps as Vector Spaces.md",
-    "Math/Linear Algebra/Done Right/Done Right.canvas",
-    "Math/Linear Algebra/Done Right/Linear Maps/Function Types with Dimension.md",
-    "Math/Discrete/Set Theory/Complement.md",
-    "Math/Linear Algebra/Done Right/Vector Spaces/Dimension Equality Theorem.md",
-    "Math/Linear Algebra/Done Right/Vector Spaces/Dimension.md",
-    "Math/Discrete/Propositional Logic/Arguments and Proofs/Proof by Contraposition.md",
-    "Math/Algebra/Functions/Definitions",
+    "Math/Linear Algebra/Matrices/Transposition.md",
+    "Math/Linear Algebra/Matrices/Rank.md",
+    "Math/Linear Algebra/Matrices/Matrix of Product of Linear Maps.md",
+    "Math/Linear Algebra/Matrices/Matrix Multiplication.md",
+    "Math/Linear Algebra/Matrices/Matrix Invertibility.md",
+    "Math/Linear Algebra/Done Right.canvas",
+    "Math/Linear Algebra/Untitled",
+    "toggle-theme.py~",
+    "Math/Linear Algebra/Linear Systems",
+    "Computer Science/A.canvas",
+    "Computer Science/Algorithm Analysis",
+    "Computer Science/Cryptography",
+    "Computer Science/Untitled.canvas",
+    "Lecture Notes/MATH203",
+    "Computer Science/Formal Languages/Definitions",
+    "Computer Science/Formal Languages",
+    "Lecture Notes/COSC261",
+    "Lecture Notes/MATH220",
+    "Assets/excali/graph-isomorphism.excalidraw.svg",
+    "Math/Linear Algebra/Done Right/Done Right.sync-conflict-20250130-115551-UPD6M2W.canvas",
     "Assets/excali/scaling-columns-determinants.excalidraw.svg",
     "Assets/excali/precise-definition-of-limit.excalidraw.svg",
     "Assets/excali/tetrachords-fifths-seventh.excalidraw.svg",
@@ -238,18 +247,8 @@
     "Assets/excali/hasse-diagrams.excalidraw.svg",
     "Assets/excali/harmonic-scale.excalidraw.svg",
     "Assets/excali/binary-heap-5.excalidraw.svg",
-    "Assets/excali/additive-rule.excalidraw.svg",
-    "Blog",
-    "Physics/Waves",
-    "Math/Linear Algebra/Done Right/Vector Spaces",
-    "Math/Linear Algebra/Done Right/Linear Maps",
     "Math/Linear Algebra/Linear Algebra MOC.canvas",
-    "Math/Calculus/Operational Calculus",
-    "Music/Intervals",
-    "toggle-theme.py~",
-    "toggle-theme.py",
     "Math/Linear Algebra/Done Right/Properties of Vector Spaces/Properties of Vector Spaces.canvas",
-    "preamble.sty~",
     "Math/Calculus/Limits/Limits.canvas",
     "Statistics/Inference for Means and Proportions/Inference for Means and Proportions.canvas",
     "Math/Geometry/Trigonometry/Trigonometry.canvas"

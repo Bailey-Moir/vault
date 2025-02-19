@@ -24,17 +24,18 @@ mapping = [
     ["red", "orange"],
 ]
 
-for dname, dirs, files in os.walk(f"{os.path.dirname(__file__).replace("\\","/")}/Assets/excali"):
+i = 0
+for dname, dirs, files in os.walk(f"{os.getcwd()}/Assets/excali"):
     for fname in files:
-        fpath = os.path.join(dname, fname)
-        with open(fpath, "r", encoding="utf-8") as f:
+        with open(os.path.join(dname, fname), "r+", encoding="utf-8") as f:
             s = f.read()
 
-        # Replace original with replacement and replacement with original
-        for pair in mapping:
-            s = s.replace(pair[0], "\0fuckoff\0")  # Temporary placeholder to avoid overwriting
-            s = s.replace(pair[1], pair[0])
-            s = s.replace("\0fuckoff\0", pair[1])
+            # Replace original with replacement and replacement with original
+            for pair in mapping:
+                s = s.replace(pair[0], "\0fuckoff\0")  # Temporary placeholder to avoid overwriting
+                s = s.replace(pair[1], pair[0])
+                s = s.replace("\0fuckoff\0", pair[1])
 
-        with open(fpath, "w", encoding="utf-8") as f:
+            f.seek(0)
+            f.truncate()
             f.write(s)

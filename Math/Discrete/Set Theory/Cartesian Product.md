@@ -11,6 +11,8 @@ $$\begin{array}{l}
 \end{array}$$
 - $|A \times B| = |A| \times |B|$[^1]
 - $A \times A = A^2$
+- **NOT** Associative.
+	$A \times B \times C \not\equiv A\times(B\times C) \not\equiv (A\times B)\times C$
 
 Note the *Cartesian plane* is $\R \times \R = \R^2$.
 

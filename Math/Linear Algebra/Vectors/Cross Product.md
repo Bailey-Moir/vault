@@ -59,5 +59,7 @@ The *cross product* is only defined for [[Vectors|vectors]] in $\R^3$. Thus, $\f
 - $\left\|\vecbf{x} \times \vecbf{y}\right\| = \|\vecbf{x}\|\|\vecbf{y}\|\sin\theta$
 - If your fingers curl in the direction of the angle from $\vecbf{x}$ to $\vecbf{y}$, then your thumb points in the direction of $\vecbf{x} \times \vecbf{y}$.
 
+> [!note] The Distributive and Associative Scalar Multiplication properties mean that the *cross product* is a [[Linear Maps|linear map]].
+
 [^1]: [[Orthogonal Vectors]]
 
