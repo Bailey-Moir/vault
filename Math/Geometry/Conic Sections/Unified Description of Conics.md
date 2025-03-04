@@ -13,7 +13,7 @@ $$
 	e>1 & \text{hyperbola} \\
 \end{array}
 $$
-In [[Polar Form|polar form]], a [[Math/Geometry/Conic Sections/Conic Sections|conic section]] of eccentricity $e$ can be represented as
+I [[Polar Form|polar form]], a [[Conic Sections|conic section]] of eccentricity $e$ can be represented as
 $$\begin{array}{rcl}
 	r=\dfrac{k}{\dfrac{1}{e}\pm\cos\theta} & \text{or} & r=\dfrac{k}{\dfrac{1}{e}\pm\sin\theta}
 \end{array}$$

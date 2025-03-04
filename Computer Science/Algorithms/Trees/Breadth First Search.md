@@ -3,7 +3,7 @@ tags:
   - atom
   - comp
 ---
-A *breadth first search* of a [[Math/Discrete/Graph Theory/Graphs|graph]] traverses each [[Vertices|vertex]] in ascending order of **depth** using a [[Queues|queue]].
+A *breadth first search* of a [[Graphs|graph]] traverses each [[Vertices|vertex]] in ascending order of **depth** using a [[Queues|queue]].
 ```
 set all vertices to undiscovered
 mark start as discovered

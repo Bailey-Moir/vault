@@ -5,11 +5,6 @@ tags:
 ---
 Using an [[Augmented Matrices|augmented matrix]],  you can [[Linear Map Invertibility|invert]] any given [[Matrices|matrix]] via an extended version of [[Gaussian Elimination|Gaussian elimination]], called Gauss–Jordan elimination, where the [[Matrices|matrix]] is transformed into into [[EF & REF#RREF|RREF]] instead of [[EF & REF|REF]].
 
- There are 3 row operations:
- - Adding a multiple of a row to another (e.g. $R_2 \leftarrow R_2 + kR_3$).
- - Multiplying rows by (non-zero) constants (e.g. $R_3 \leftarrow kR_3$).
- - Swapping rows (e.g. $R_1 \leftrightarrow R_2$).
-
 > [!example]-
 > $$\begin{align*}
 > 	[A|I] &=
@@ -146,3 +141,5 @@ Using an [[Augmented Matrices|augmented matrix]],  you can [[Linear Map Invertib
 > 	
 > 	&= [I|A^{-1}]
 > \end{align*}$$
+
+\[[[Row Reduction]]\]

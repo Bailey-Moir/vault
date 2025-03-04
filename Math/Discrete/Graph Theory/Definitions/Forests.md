@@ -4,5 +4,5 @@ tags:
   - math
   - discrete
 ---
-A *forest* is a [[Math/Discrete/Graph Theory/Graphs|graph]] with no [[Walks|cycles]].
-- A each component of a *forest* is a [[Math/Discrete/Graph Theory/Definitions/Trees|tree]]. 
+A *forest* is a [[Graphs|graph]] with no [[Walks|cycles]].
+- A each component of a *forest* is a [[Trees|tree]]. 

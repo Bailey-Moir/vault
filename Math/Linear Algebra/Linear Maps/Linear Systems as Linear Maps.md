@@ -22,6 +22,7 @@ $$\begin{array}{cccc}
 > Given the above notation, a system with $n$ variables and $m$ linear equations can be described by $T \in \mathcal{L}(\F^n,\F^m)$[^1]. Thus, if there are more equations than variables, $m > n$, meaning $\dim\text{range}\;T > \dim\text{domain}\;T$, meaning $T$ is not [[Surjective Functions|surjective]][^2], which implies there exist vectors in $\F^m$ that $T$ does not map to.
 > #TODO this proof is flawed
 
+\[[[Linear Systems]]\]
 
 [^1]: [[Linear Maps]]
 [^2]: [[Function Types with Dimension]]

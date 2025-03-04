@@ -11,7 +11,7 @@ $$ \text{span}(\vecbf{v}_1, \dots, \vecbf{v}_n) = \left\{ a_1\vecbf{v}_1 + \dots
 
 > [!example]- Determining if a vector is in the span of others requires solving a [[Linear Systems|system of linear equations]].
 > 
-> Is $\begin{bmatrix}1\\2\\3\end{bmatrix} \in \text{span}\left( \begin{bmatrix}1\\1\\1\end{bmatrix} + \begin{bmatrix}0\\2\\3\end{bmatrix} \right)$?
+> Is $\begin{bmatrix}1\\2\\3\end{bmatrix} \in \text{span}\left( \begin{bmatrix}1\\1\\1\end{bmatrix}, \begin{bmatrix}0\\2\\3\end{bmatrix} \right)$?
 > 
 > This is the case iff there exists $c_{1}$ and $c_{2}$ such that
 > $$\begin{bmatrix}1\\2\\3\end{bmatrix} = c_{1}\begin{bmatrix}1\\1\\1\end{bmatrix} + c_{2}\begin{bmatrix}0\\2\\3\end{bmatrix}$$

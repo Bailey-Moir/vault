@@ -6,8 +6,8 @@ tags:
 ![200|center](gaussian-elimination.excalidraw)
 1. **Augmented Matrix**
    Write the linear system as an [[Augmented Matrices|augmented matrix]].
-2. **Row Reduction**
-   Use a sequence of elementary row operations to put the [[Matrices|matrix]] in [[EF & REF|REF]].
+2. **[[Row Reduction]]**
+   Use a sequence of elementary [[Row Reduction|row operations]] to put the [[Matrices|matrix]] in [[EF & REF|REF]] (preserving the [[Linear Independence|linear independence]] and [[Span|span]] of the columns).
 3. **Solve the System**
    Write out the equivalent system in [[EF & REF|EF]] and solve by back-substitution.
 

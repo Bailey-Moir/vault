@@ -8,4 +8,5 @@ $$\begin{align*}
 	F_n &= F_{n-1} + F_{n-2} \\ 
 	&= \dfrac{(1+\sqrt{5})^n - (1 - \sqrt{5})^n}{2^n\sqrt{5}} \\
 	&= \dfrac{\phi^n - (1 - \phi)^n}{2\phi - 1} &&  \phi = \dfrac{1+\sqrt{5}}{2} \\
+	&= \dfrac{\phi^n - \left(-\dfrac{1}{\phi}\right)^n}{\sqrt{5}} &&  \phi = \dfrac{1+\sqrt{5}}{2} \\
 \end{align*}$$

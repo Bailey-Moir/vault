@@ -5,11 +5,7 @@ tags:
   - linear
 ---
 ![400|center](basis-vectors.excalidraw)
-A *basis* of $V$ is a [[Span|spanning list]] of $V$ that is [[Linear Independence|linearly independent]]. The *standard basis vectors* are denoted
-$$\begin{array}{l}
-	\displaystyle \vecbf{v} = \langle v_1, v_2, v_3 \rangle = v_1\vecu{i} + v_2\vecu{j} +v_3\vecu{k} \\
-	\displaystyle \vecbf{v} =  \langle v_1, v_2, \dots,  v_n \rangle = \sum_{i=1}^n v_i\vecu{e}_{i}
-\end{array}$$
+A *basis* of $V$ is a [[Span|spanning list]] of $V$ that is [[Linear Independence|linearly independent]].
 
 > [!note] Condition for Basis
 > $\vecbf{v}_1, \dots, \vecbf{v}_n$ is a *basis* of $V$ iff every $\vecbf{v} \in V$ can be written **uniquely** in the form
@@ -36,5 +32,7 @@ $$\begin{array}{l}
 > Suppose you have two *bases* $B_1$ and $B_2$.
 > 
 > $B_1$ is [[Linear Independence|linearly independent]] and $B_2$ is a [[Span|spanning list]], so $B_1$ is at most the same size as $B_2$[^1]. Reversing the roles gives that they are the same size.
+
+\[[[Standard Basis Vectors]]\]
 
 [^1]: [[Linear Independence and Span with Dimension]]

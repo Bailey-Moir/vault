@@ -4,12 +4,12 @@ tags:
   - math
   - discrete
 ---
-A *tree* is a connected [[Math/Discrete/Graph Theory/Graphs|graph]] with no [[Walks|cycles]].
-- It follows that a [[Math/Discrete/Graph Theory/Definitions/Trees|tree]] is a [[Simple Graphs|simple graph]].
-- A [[Math/Discrete/Graph Theory/Graphs|graph]] $G$ is a *tree* iff every [[Edges|edge]] is a [[Bridges|bridge]] .
+A *tree* is a connected [[Graphs|graph]] with no [[Walks|cycles]].
+- It follows that a [[Trees|tree]] is a [[Simple Graphs|simple graph]].
+- A [[Graphs|graph]] $G$ is a *tree* iff every [[Edges|edge]] is a [[Bridges|bridge]] .
 > [!proof]-
 > This is [[Logical Equivalence|logically equivalent]] to stating $G$ is not a *tree* [[Logical Implication|iff]] there exists an [[Edges|edge]] that is not a [[Bridges|bridge]][^1]. An [[Edges|edge]] is not a bridge iff it is in a [[Walks|cycle]][^2], meaning the original theorem [[Logical Equivalence|logically equivalent]] to stating $G$ is not a *tree* iff there is a [[Walks|cycle]], which is the same as stating $G$ is a *tree* iff there are no [[Walks|cycles]], the definition of a *tree*.
-- A connected [[Math/Discrete/Graph Theory/Graphs|graph]] $G$ on where $\left| V(G) \right|=n$ is a *tree* iff $\left| E(G) \right| = n-1$ 
+- A connected [[Graphs|graph]] $G$ on where $\left| V(G) \right|=n$ is a *tree* iff $\left| E(G) \right| = n-1$ 
 > [!proof]-
 > $\left( \implies \right)$ **If $G$ is *tree* with $n$ [[Vertices|vertices]], then it has $n-1$ [[Edges|edges]]**
 > **Base Case**

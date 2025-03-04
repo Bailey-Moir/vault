@@ -3,7 +3,7 @@ tags:
   - atom
   - comp
 ---
-A *depth first search* of a [[Math/Discrete/Graph Theory/Graphs|graph]] traverses each [[Vertices|vertex]] using a [[Stacks|stack]]... #TODO 
+A *depth first search* of a [[Graphs|graph]] traverses each [[Vertices|vertex]] using a [[Stacks|stack]]... #TODO 
 ```
 set all vertices to unvisited
 stack.push(start)

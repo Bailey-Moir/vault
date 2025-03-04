@@ -1,6 +1,6 @@
 {
   "collapse-filter": true,
-  "search": "tag:#atom  ",
+  "search": "-path:Archive -path:Assets  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -62,6 +62,13 @@
         "a": 1,
         "rgb": 14701233
       }
+    },
+    {
+      "query": "path:\"Lecture Notes\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16768962
+      }
     }
   ],
   "collapse-display": true,
@@ -74,6 +81,6 @@
   "repelStrength": 17.6041666666667,
   "linkStrength": 1,
   "linkDistance": 280,
-  "scale": 0.061990177328924166,
+  "scale": 0.09329998306332951,
   "close": false
 }

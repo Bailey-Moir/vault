@@ -3,7 +3,7 @@ tags:
   - atom
   - comp
 ---
-*Dijkstra's algorithm* finds the shortest path between [[Vertices|vertices]] on a [[Math/Discrete/Graph Theory/Graphs|graph]] (creates a shortest path tree).
+*Dijkstra's algorithm* finds the shortest path between [[Vertices|vertices]] on a [[Graphs|graph]] (creates a shortest path tree).
 
 A [[Priority Queues|minimum priority queue]] is created, and the start [[Vertices|vertex]] $v_i$ is [[Queues|enqueued]] with distance 0.
 

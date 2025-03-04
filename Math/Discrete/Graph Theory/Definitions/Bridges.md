@@ -4,10 +4,10 @@ tags:
   - math
   - discrete
 ---
-A *bridge* is an [[Edges|edge]] on a [[Connectivitiy|connected]] [[Math/Discrete/Graph Theory/Graphs|graph]] that if removed, results in a [[Connectivitiy|disconnected]] [[Math/Discrete/Graph Theory/Graphs|graph]].
+A *bridge* is an [[Edges|edge]] on a [[Connectivitiy|connected]] [[Graphs|graph]] that if removed, results in a [[Connectivitiy|disconnected]] [[Graphs|graph]].
 - A given [[Edges|edge]] is a *bridge* iff it is not in a [[Walks|cycle]].
 > [!proof]-
-> Let $e = \{ a,b \}$ be the [[Edges|edge]], and $G$ be the [[Connectivitiy|connected]] [[Math/Discrete/Graph Theory/Graphs|graph]].
+> Let $e = \{ a,b \}$ be the [[Edges|edge]], and $G$ be the [[Connectivitiy|connected]] [[Graphs|graph]].
 > $\left( \implies \right)$ **If $e$ is a [[Bridges|bridge]], then is not a in [[Walks|cycle]]**
 > Removing $e$ makes $G\setminus e$ [[Connectivitiy|disconnected]], meaning there exists [[Vertices|vertices]] $u,v \in V(G\setminus e)$ with no [[Walks|path]] connecting them in $G\setminus e$.
 > 
@@ -24,4 +24,4 @@ A *bridge* is an [[Edges|edge]] on a [[Connectivitiy|connected]] [[Math/Discrete
 > Supposed $u,v$ are [[Vertices|vertices]] in $G\setminus e$. Let $t$ be some third [[Vertices|vertex]] not [[Connectivitiy|connected]] to $u$. It follows that $v$ is [[Connectivitiy|connected]] in $G\setminus e$. Therefore, any [[Vertices|vertex]] no connected to $u$ [[Connectivitiy|connected]] be connected to $v$. [[Connectivitiy|connected]], there are precisely two components.
 
 [^1]: [[Proof by Contradiction]]
-[^2]: [[Math/Discrete/Graph Theory/Graphs]]
+[^2]: [[Graphs]]

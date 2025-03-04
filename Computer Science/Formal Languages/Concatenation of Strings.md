@@ -12,5 +12,5 @@ For $a,b \in \Sigma\cup\Sigma^*$[^1][^2], the *concatenation* (product) $ab$ is 
 - **Exponentiation**
 	$a^0 \equiv \varepsilon, a^{n+1} \equiv a^na$
 
-[^1]: [[Set of Strings of Alphabets]]
+[^1]: [[Concatenation of Languages and Alphabets]]
 [^2]: [[Alphabets]]

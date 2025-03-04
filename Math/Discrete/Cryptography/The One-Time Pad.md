@@ -7,4 +7,4 @@ tags:
 ---
 *The One-Time Pad* is a [[Vigenère Cipher|Vigenère cipher]] with a [[Key|key]] that is the same size as the [[Plaintext|plaintext]]. There are then no rows.
 
-This is provably secure (if the [[Key|key]] is random and only used once), but it is very inefficient.
+This is provably secure (if the [[Key|key]] is random and only used once) by [[Shannon's Theorem|Shannon's theorem]], but it is very inefficient.

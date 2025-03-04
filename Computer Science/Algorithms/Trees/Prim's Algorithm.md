@@ -3,7 +3,7 @@ tags:
   - atom
   - comp
 ---
-Given a [[Connectivitiy|connected]] [[Computer Science/Abstract Data Types/Graphs|graph]] and a starting [[Vertices|vertex]], *Prim's algorithm* finds a [[Spanning Trees|minimum spanning tree]] by placing discovered [[Edges|edges]] in a [[Priority Queues|minimum priority queue]] based on [[Weighted Graphs|weight]], and traversing the [[Edges|edges]] given by the [[Priority Queues|priority queue]].
+Given a [[Connectivitiy|connected]] [[Implementing Graphs|graph]] and a starting [[Vertices|vertex]], *Prim's algorithm* finds a [[Spanning Trees|minimum spanning tree]] by placing discovered [[Edges|edges]] in a [[Priority Queues|minimum priority queue]] based on [[Weighted Graphs|weight]], and traversing the [[Edges|edges]] given by the [[Priority Queues|priority queue]].
 
 ```python
 def prim(g, start):

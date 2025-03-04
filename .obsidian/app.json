@@ -11,5 +11,6 @@
     "downscalePercent": 75
   },
   "propertiesInDocument": "visible",
-  "readableLineLength": true
+  "readableLineLength": true,
+  "showIndentGuide": false
 }
