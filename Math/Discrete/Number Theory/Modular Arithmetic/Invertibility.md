@@ -37,4 +37,4 @@ $$ \forall n \in \Z^+, \forall a \in \Z_n, (\exists! a^{-1} \in \Z_n : aa^{-1} =
 
 > [!Corollary] Thus, $\forall p \in \mathbb{P}$, every non-zero element of $\Z_p$ is invertible.
 
-\[[[Greatest Common Divisor]], [[Cyclic Groups]]\]
+\[[[Greatest Common Divisor]], [[Residue Classes]]\]

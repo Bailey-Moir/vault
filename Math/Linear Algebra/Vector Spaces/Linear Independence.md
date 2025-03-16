@@ -15,7 +15,7 @@ $$\forall \vecbf{v} \in \text{span}(\vecbf{v}_1,\dots,\vecbf{v}_n), \exists!a_1,
 > > [!note]- Condition as [[Linear Systems|Linear System]]
 > > $\vecbf{v}_1, \dots, \vecbf{v}_n \in V$ is *linearly independent* iff the only solution to the [[Homogeneous Systems|homogeneous system]] of those vectors as columns is the trivial solution; iff the only solution to the [[Linear Systems|linear system]]
 > > $$\left[ \vecbf{v}_{1}|\cdots|\vecbf{v}_{n} \right]\vecbf{x} = \vecbf{0} $$
-> > is the trivial solution, $\vecbf{x} = \vecbf{0}$.
+> > is the trivial solution, $\vecbf{x} = \vecbf{0}$;  iff the [[EF & REF|REF]] form has $n$-[[Pivots and Free Variables|pivots]].
 
 - All [[Subsets|subsets]] of a *linearly independent* [[Lists|list]]/[[Sets|set]] are *linearly independent*.
 - A [[Lists|list]]/[[Sets|set]] of vectors is *linearly independent* iff no vectors in it can be given as a [[Linear Combinations|linear combination]] of the others.

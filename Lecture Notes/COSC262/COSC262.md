@@ -1,0 +1,8 @@
+[[Lecture Notes/COSC262/Lec1A 17-2]]
+[[Lecture Notes/COSC262/Lec1B 19-2]]
+[[Lecture Notes/COSC262/Lec1C 20-2]]
+[[Lecture Notes/COSC262/Lec2B 26-2]]
+[[Lecture Notes/COSC262/Lec3A 03-3]]
+[[Lecture Notes/COSC262/Lec3B 05-3]]
+[[Lecture Notes/COSC262/Lec3C 06-3]]
+[[Lecture Notes/COSC262/Lec4A 10-3]]

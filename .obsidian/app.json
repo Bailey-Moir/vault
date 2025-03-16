@@ -1,16 +1,3 @@
 {
-  "vimMode": true,
-  "alwaysUpdateLinks": true,
-  "promptDelete": false,
-  "defaultViewMode": "preview",
-  "pdfExportSettings": {
-    "includeName": true,
-    "pageSize": "A4",
-    "landscape": false,
-    "margin": "0",
-    "downscalePercent": 75
-  },
-  "propertiesInDocument": "visible",
-  "readableLineLength": true,
-  "showIndentGuide": false
+  "vimMode": true
 }

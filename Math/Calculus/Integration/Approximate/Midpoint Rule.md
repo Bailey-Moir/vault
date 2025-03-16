@@ -2,6 +2,7 @@
 tags:
   - math
   - atom
+aliases:
 ---
 The *midpoint rule* is a type of [[Approximate Integration|approximate integration]] by centred [[Riemann Sums|Riemann sum]].
 ![400|center](midpoint-rule.excalidraw)

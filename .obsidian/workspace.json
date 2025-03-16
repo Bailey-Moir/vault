@@ -1,40 +1,40 @@
 {
   "main": {
-    "id": "8421266d0672ed35",
+    "id": "17fc11b49036f6a4",
     "type": "split",
     "children": [
       {
-        "id": "2233c356034c47da",
+        "id": "3d12591eb644084f",
         "type": "tabs",
         "children": [
           {
-            "id": "dad4ec628174d3a0",
+            "id": "4bc5f9cc62877464",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Formal Languages/Regular Expressions.md",
+                "file": "Lecture Notes/MATH203/Lec5A 17-3.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Regular Expressions"
+              "title": "Lec5A 17-3"
             }
           },
           {
-            "id": "eb12bfeef81b2566",
+            "id": "aebca1a647a42b20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Daily/25-03-04.md",
-                "mode": "source",
+                "file": "Computer Science/Algorithms/Graphs/Prim's Algorithm.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "25-03-04"
+              "title": "Prim's Algorithm"
             }
           }
         ],
@@ -44,16 +44,16 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9003f89ab266a484",
+    "id": "c6bcf8ae4e11daab",
     "type": "split",
     "children": [
       {
-        "id": "6e311576712da3cc",
+        "id": "4aa14cedb81672fd",
         "type": "tabs",
-        "dimension": 80.6949806949807,
+        "dimension": 67.06349206349206,
         "children": [
           {
-            "id": "3861a78160e5936b",
+            "id": "23cb1ee7ed676cbc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -66,12 +66,12 @@
             }
           },
           {
-            "id": "5a926d5833c31e68",
+            "id": "70a40570e3da68b3",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Big",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,19 +85,19 @@
         ]
       },
       {
-        "id": "976857880322ac09",
+        "id": "eae2edaf5d928b07",
         "type": "tabs",
-        "dimension": 19.305019305019304,
+        "dimension": 32.93650793650794,
         "children": [
           {
-            "id": "cc212aae7d683627",
+            "id": "0b5db1496cca550a",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Personal/Daily/25-03-04.md",
+                "file": "Computer Science/Algorithms/Graphs/Prim's Algorithm.md",
                 "options": {
-                  "collapse-filter": false,
+                  "collapse-filter": true,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
@@ -108,9 +108,9 @@
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": true,
-                  "textFadeMultiplier": 0,
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -3,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": true,
@@ -118,35 +118,35 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.19722708755350052,
+                  "scale": 0.37283035949859367,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 25-03-04"
+              "title": "Graph of Prim's Algorithm"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 313
+    "width": 300
   },
   "right": {
-    "id": "2bc9063f21594752",
+    "id": "b482d6193ecb2f00",
     "type": "split",
     "children": [
       {
-        "id": "50288cdc8cfe43dd",
+        "id": "2b8c2a2972e6c073",
         "type": "tabs",
         "children": [
           {
-            "id": "df2368d316b474f6",
+            "id": "a359713d8fef86ff",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Discrete/Number Theory/Modular Arithmetic/Cyclic Groups.md",
+                "file": "Math/Discrete/Number Theory/Modular Arithmetic/Residue Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,48 +156,54 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cyclic Groups"
+              "title": "Backlinks for Residue Classes"
             }
           },
           {
-            "id": "afa2a61a578e8a7c",
+            "id": "319c6d0a20657f09",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Music/Thirds.md",
+                "file": "Math/Discrete/Number Theory/Modular Arithmetic/Residue Classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Thirds"
+              "title": "Outgoing links from Residue Classes"
             }
           },
           {
-            "id": "2f3e00d56283b542",
+            "id": "6f700c6014b41938",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "b7dfddef28a82391",
+            "id": "c117921393ffeaae",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Math/Linear Algebra/Linear Systems/Solutions of Linear Systems.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Solutions of Linear Systems"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -206,73 +212,50 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "media-extended:Open media": false,
-      "random-note:Open random note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "random-note:Open random note": false,
+      "media-extended:Open media": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "eb12bfeef81b2566",
+  "active": "aebca1a647a42b20",
   "lastOpenFiles": [
-    "Lecture Notes/COSC261/Lec3B 04-3.md",
-    "Personal/Daily/25-03-04.md",
-    "Statistics/Probability/Random Variables/Poisson/Poisson Probability Function.md",
-    "Computer Science/Formal Languages/Regular Expressions.md",
-    "Finite Automata From Regular Expressions.md",
-    "Untitled.md",
-    "Computer Science/Formal Languages/Languages of Regular Expressions.md",
-    "Lecture Notes/COSC261/Lec3A 03-3.md",
-    "Lecture Notes/COSC262/Lec3A 03-3.md",
-    "Assets/excali/p-star-nfa.excalidraw.md",
-    "Assets/excali/p-and-q-nfa.excalidraw.md",
-    "Assets/excali/p-or-q-nfa.excalidraw.md",
-    "Assets/excali/empty-set-nfa.excalidraw.md",
-    "Assets/excali/empty-string-nfa.excalidraw.md",
-    "Math/Discrete/Set Theory/Basics/Empty Set.md",
-    "Assets/excali/deterministic-finite-automata.excalidraw.md",
-    "Math/Discrete/Number Theory/Modular Arithmetic/Changing Base.md",
-    "Computer Science/Formal Languages/Languages of Finite Automata.md",
-    "Math/Discrete/Number Theory/Modular Arithmetic/Fast Exponentiation.md",
-    "Computer Science/Formal Languages/Regular Languages.md",
-    "Math/Discrete/Cryptography/Euler's Totient Function.md",
-    "Computer Science/Formal Languages/Concatenation of Languages and Alphabets.md",
-    "Math/Calculus/Differential Equations/Euler's Method.md",
-    "Computer Science/Formal Languages/Non-Deterministic Finite Automata with Epsilon-Transitions.md",
+    "Archive/Floyd-Warshall Algorithm.md",
+    "Computer Science/Formal Languages/Product Automata.md",
     "Personal/Todo.md",
-    "Computer Science/Algorithms/Trees/Prim's Algorithm.md",
-    "Math/Discrete/Groups",
-    "Math/Discrete/Graph Theory/Definitions/Trees.md~",
-    "Math/Discrete/Graph Theory/Definitions/Parallel and Inverted Edges.md~",
-    "Math/Discrete/Graph Theory/Definitions/Forests.md~",
-    "Math/Discrete/Graph Theory/Definitions/Bridges.md~",
-    "Math/Discrete/Graph Theory/Definitions/Subgraphs.md~",
-    "Math/Discrete/Graph Theory/Walks.md~",
-    "Math/Discrete/Graph Theory/Definitions/Vertices.md~",
-    "Math/Discrete/Graph Theory/Colouring Graphs.md~",
-    "Math/Discrete/Graph Theory/Definitions/Weighted Graphs.md~",
-    "Math/Linear Algebra/Done Right.canvas",
-    "Computer Science/A.canvas",
-    "Computer Science/Untitled.canvas",
-    "Assets/excali/graph-isomorphism.excalidraw.svg",
-    "Math/Linear Algebra/Done Right/Done Right.sync-conflict-20250130-115551-UPD6M2W.canvas",
-    "Assets/excali/scaling-columns-determinants.excalidraw.svg",
-    "Assets/excali/precise-definition-of-limit.excalidraw.svg",
-    "Assets/excali/tetrachords-fifths-seventh.excalidraw.svg",
-    "Assets/excali/parallelogram-area-proof0.excalidraw.svg",
-    "Assets/excali/taylors-remainder-theorem.excalidraw.svg",
-    "Assets/excali/scripts/Downloaded/Palette loader.svg",
-    "Assets/excali/hasse-diagrams.excalidraw.svg",
-    "Assets/excali/harmonic-scale.excalidraw.svg",
-    "Assets/excali/binary-heap-5.excalidraw.svg",
-    "Math/Linear Algebra/Linear Algebra MOC.canvas",
-    "Math/Linear Algebra/Done Right/Properties of Vector Spaces/Properties of Vector Spaces.canvas",
-    "Math/Calculus/Limits/Limits.canvas",
-    "Statistics/Inference for Means and Proportions/Inference for Means and Proportions.canvas",
-    "Math/Geometry/Trigonometry/Trigonometry.canvas"
+    "Computer Science/Formal Languages/Quotient Automata.md",
+    "Computer Science/Algorithms/Graphs/Floyd-Warshall Algorithm.md",
+    "Math/Algebra/Functions/Types of Functions.md",
+    "Math/Discrete/Graph Theory/Definitions/Weighted Graphs.md",
+    "Computer Science/Algorithms/Graphs/Prim's Algorithm.md",
+    "Lecture Notes/MATH203/Lec5A 17-3.md",
+    "Assets/excali/battleship.excalidraw.md",
+    "Pasted Image 20250317110533_807.png",
+    "Lecture Notes/MATH203/Lec4C 16-3.md",
+    "Math/Linear Algebra/Linear Transformations/Characteristic Polynomial.md",
+    "Math/Linear Algebra/Linear Transformations/Eigenspaces.md",
+    "Math/Linear Algebra/Linear Transformations/Geometric and Algebraic Multiplicity.md",
+    "Math/Linear Algebra/Linear Systems/Solutions of Linear Systems.md",
+    "Math/Linear Algebra/Linear Transformations/Eigenvectors & Eigenvalues.md",
+    "Math/Linear Algebra/Linear Maps/Example Maps/Identity Operator.md",
+    "Lecture Notes/MATH220/MATH220.md",
+    "Math/Linear Algebra/Linear Transformations/Linear Transformations.md",
+    "Math/Linear Algebra/Matrices/Definitions/Singular Matrices.md",
+    "Computer Science/Formal Languages/Finite Automata From Regular Expressions.md",
+    "Computer Science/Formal Languages/Shuffle Operation.md",
+    "Screenshot_20250316-140200_Drive.jpg",
+    "Computer Science/Formal Languages/Regular Expressions.md",
+    "Computer Science/Formal Languages/Languages of Regular Expressions.md",
+    "Computer Science/Formal Languages/Minimisation of Deterministic Finite Automata.md",
+    "Math/Discrete/Graph Theory/Strongly Connected Graphs.md",
+    "Pasted image 20250310185319.png",
+    "Computer Science/Formal Languages/Formal Languages.canvas",
+    "Pasted image 20250310162039.png",
+    "Assets/excali/scripts/Downloaded/Boolean Operations.svg"
   ]
 }

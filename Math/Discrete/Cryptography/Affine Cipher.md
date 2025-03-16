@@ -32,4 +32,4 @@ in $\Z_{26}$[^1].
 > \end{align*}$$
 > so $ax + b$ is a [[Permutations|permutation]].
 
-[^1]:  [[Cyclic Groups]]
+[^2]:  [[Residue Classes]]

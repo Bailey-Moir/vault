@@ -18,4 +18,4 @@ For a given [[Vertices|vertex]] $i$ in $d$-heap,
 > \end{align*}$$
 > Thus, when this coefficient is less than or equal to $2$, a $d$-heap is a good alternative to a [[Binary Heaps|binary heap]] (*$\it{2}$-heap*) in both the add and remove functions. This is only true when $d\in \{ 2,3,4 \}$. When $d = 3$, this constant is approximately $1.89$, whereas when $d=4$, this constant is exactly $2$, so the [[Binary Heaps#Remove|remove]] function has the same worst case, but the add function is much better.
 
-[^1]: [[Cyclic Groups]]
+[^1]: [[Residue Classes]]

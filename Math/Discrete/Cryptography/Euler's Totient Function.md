@@ -12,6 +12,6 @@ $$\begin{align*}
 - If $n \in \mathbb{P}$, $\varphi(n) = n-1$
 - If $p,q \in \mathbb{P}$ such that $p \ne q$, $\varphi(pq) = (p-1)(q-1)$
 
-\[$(1)$ [[Invertible Group of Cyclic Groups]]\]
+\[$(1)$ [[Invertible Groups of Residue Classes]]\]
 
-[^1]: [[Cyclic Groups]]
+[^1]: [[Residue Classes]]

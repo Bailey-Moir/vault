@@ -10,7 +10,7 @@ $$\begin{array}{ccc}
 	\vdots \\
 	x = a_{k} \mod m_{k}, \\
 \end{array}$$
-if $m_{1},\dots,m_{k}$ are pairwise co-prime integers (and $a_{1},\dots,a_{k} \in \Z$), has a **unique** solution modulo $m_{1}\cdots m_{k}$.
+iff $m_{1},\dots,m_{k}$ are pairwise co-prime integers (and $a_{1},\dots,a_{k} \in \Z$), has a **unique** solution modulo $m_{1}\cdots m_{k}$.
 
 > [!proof]-
 > **Base Case**

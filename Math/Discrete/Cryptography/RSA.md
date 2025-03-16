@@ -73,5 +73,5 @@ $$ M^{k\phi(n) + 1} \equiv M \pmod n $$
 > \[[[Congruence]]\]
 
 [^1]: [[Euler's Totient Function]]
-[^2]: [[Cyclic Groups]]
+[^2]: [[Residue Classes]]
 [^3]: [[Divisibility]]

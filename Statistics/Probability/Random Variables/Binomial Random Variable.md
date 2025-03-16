@@ -9,7 +9,7 @@ A *binomial random variable* $X \sim \text{Bin}(n,p)$ is a [[Random Variables|di
 $$ P(X=k) = \begin{pmatrix}
 	n \\ k
 \end{pmatrix} p^k (1-p)^{n-k} \hspace{2em} \forall k \in \Z_{n+1} $$
-\[[[Binomial Coefficient]], [[Probability Function]], [[Cyclic Groups]]\]
+\[[[Binomial Coefficient]], [[Probability Function]], [[Residue Classes]]\]
 # Mean and Variance of Binomial Random Variable
 $$\begin{array}{ccc} 
 	\mu_{X} = np &&

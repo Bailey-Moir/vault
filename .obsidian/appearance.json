@@ -1,20 +1,21 @@
 {
   "accentColor": "",
   "cssTheme": "Catppuccin",
-  "theme": "obsidian",
+  "theme": "moonstone",
   "enabledCssSnippets": [
-    "better-callouts",
-    "better-embeds",
     "big-math",
     "center-svg",
     "hidden-properties",
     "larger-inline-math",
-    "better-atom",
     "pdfs",
     "typewriter-tables",
     "excali",
     "no-collapse-icon",
-    "no-folder-icon"
+    "no-folder-icon",
+    "better-atom",
+    "better-embeds",
+    "better-callouts"
   ],
-  "showRibbon": false
+  "showRibbon": false,
+  "showViewHeader": true
 }

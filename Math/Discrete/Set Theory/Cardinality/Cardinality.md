@@ -23,4 +23,4 @@ $$ |A \cup B| = |A| + |B| - |A \cap B|$$
 > [!theorem]
 > $|A| = |B|$ is an [[Equivalence Relations|equivalence relation]].
 
-[^1]: [[Cyclic Groups]]
+[^1]: [[Residue Classes]]

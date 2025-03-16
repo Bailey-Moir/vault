@@ -13,6 +13,6 @@ $M$ may move from $q$ to any state in $\delta(q,\varepsilon)$ without consuming 
 > 	E(q) &= \{ p \in Q : p \text{ is reachable from } q \text{ with a sequence of } \varepsilon\text{-transitions} \} \\
 > 	 &= \hat{\delta}(q,\varepsilon)
 > \end{align*}$$
-> [[[Extended Transition Function]]]
+> \[[[Extended Transition Function]]\]
 
 \[[[Empty String]]\]

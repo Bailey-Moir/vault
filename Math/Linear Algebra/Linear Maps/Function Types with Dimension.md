@@ -6,43 +6,47 @@ tags:
 ---
 Similar to the corresponding rules with [[Cardinality|cardinality]], for $T \in \mathcal{L}(V,W)$ such that $V$ and $W$ are [[Finite-Dimensional Vector Spaces|finite-dimensional]]:
 - $T$ can be [[Injective Functions|injective]] iff $\text{dim}\,V \le \dim\,W$.
-  > [!proof]-
+> [!proof]-
 > ($\implies$)
-> Suppose $T$ is [[Injective Functions|injective]]. By the [[Rank-Nullity Theorem|rank-nullity theorem]],
+> Suppose $T$ is [[Injective Functions|injective]]. Since $\text{null}\,T = \{ \vecbf{0} \}$[^1], by the [[Rank-Nullity Theorem|rank-nullity theorem]],
 > $$\begin{align}
-> 	\text{dim}\,V &= \text{dim}\,\text{null}\,T + \text{dim}\,\text{range}\,T \\
-> 	&= \text{dim}\,\text{range}\,T \\
+> 	\text{dim}\,V &= \text{nullity}\,T + \text{rank}\,T \\
+> 	&= \text{rank}\,T \\
 > 	&\le \text{dim}\,W \\
 > \end{align}$$
 > 
 > ($\impliedby$)
 > Suppose $\text{dim}\,V\le\text{dim}\,W$. By the [[Rank-Nullity Theorem|rank-nullity theorem]],
 > $$\begin{align}
-> 	\text{dim}\,\text{null}\,T &= \text{dim}\,V - \text{dim}\,\text{range}\,T \\
-> 	&\le \text{dim}\,W - \text{dim}\,\text{range}\,T \\
+> 	\text{nullity}\,T &= \text{dim}\,V - \text{rank}\,T \\
+> 	&\le \text{dim}\,W - \text{rank}\,T \\
 > 	&\le \text{dim}\,W - \text{dim}\,W \\
 > 	&\le 0. \\
 > \end{align}$$
-> Thus, $\text{null}\,T = \{ \vecbf{0} \}$, and this is true iff $T$ is [[Injective Functions|injective]][^1].
+> Thus, $\text{null}\,T = \{ \vecbf{0} \}$, meaning $T$ is[[Injective Functions|injective]][^1].
+> 
+> \[[[Nullity]], [[Rank]]\]
 
 - $T$ can be [[Surjective Functions|surjective]] iff $\text{dim}\,V \ge \dim\,W$.
-  > [!proof]-
+> [!proof]-
 > ($\implies$)
 > Suppose $T$ is [[Surjective Functions|surjective]]. By the [[Rank-Nullity Theorem|rank-nullity theorem]],
 > $$\begin{align}
-> 	\text{dim}\,V &= \text{dim}\,\text{null}\,T + \text{dim}\,\text{range}\,T \\
-> 	\text{dim}\,V &= \text{dim}\,\text{null}\,T + \text{dim}\,W \\
+> 	\text{dim}\,V &= \text{nullity}\,T + \text{rank}\,T \\
+> 	\text{dim}\,V &= \text{nullity}\,T + \text{dim}\,W \\
 > 	&\ge \text{dim}\,W \\
 > \end{align}$$
 > 
 > ($\impliedby$)
 > Suppose $\text{dim}\,V<\text{dim}\,W$. By the [[Rank-Nullity Theorem|rank-nullity theorem]],
 > $$\begin{align}
-> 	\text{dim}\,\text{range}\,T &= \text{dim}\,V - \text{dim}\,\text{null}\,T \\
-> 	&< \text{dim}\,W - \text{dim}\,\text{null}\,T \\
-> 	\text{dim}\,\text{range}\,T &< \text{dim}\,W. \\
+> 	\text{rank}\,T &= \text{dim}\,V - \text{nullity}\,T \\
+> 	&< \text{dim}\,W - \text{nullity}\,T \\
+> 	\text{rank}\,T &< \text{dim}\,W. \\
 > \end{align}$$
 Thus, since $\text{range}\,T$ is a [[Subspaces|subspace]] of $W$ and $W$ is [[Finite-Dimensional Vector Spaces|finite-dimensional]], $\text{range}\,T \ne W$[^2], meaning $T$ can not be [[Surjective Functions|surjective]]. Thus, by [[Proof by Contraposition|contraposition]], $T$ can only be [[Surjective Functions|surjective]] if $\text{dim}\,V\ge\text{dim}\,W$.
+> 
+> \[[[Nullity]], [[Rank]]\]
 
 -  $T$ is [[Bijective Functions|bijective]] (and thus [[Linear Map Invertibility|invertible]]) iff $\text{dim}\,V = \text{dim}\,W$ and $T$ is [[Injective Functions|injective]] or [[Surjective Functions|surjective]].
 > [!proof]-
@@ -51,12 +55,14 @@ Thus, since $\text{range}\,T$ is a [[Subspaces|subspace]] of $W$ and $W$ is [[Fi
 > 
 > ($\impliedby$)
 > If $T$ is [[Injective Functions|injective]], $\text{null}\,T = \{ \vecbf{0} \}$[^1], meaning by the [[Rank-Nullity Theorem|rank-nullity theorem]],
-> $$ \text{dim}\,\text{range}\,T = \text{dim}\,V - \text{dim}\,\text{null}\,T = \text{dim}\,V = \text{dim}\,W $$
+> $$ \text{rank}\,T = \text{dim}\,V - \text{nullity}\,T = \text{dim}\,V = \text{dim}\,W $$
 > Thus, $T$ is [[Surjective Functions|surjective]] (and thus [[Bijective Functions|bijective]]).
 > 
 > [[Converse, Inverse, and Contrapositive|Conversely]], if $T$ is [[Surjective Functions|surjective]]
-> $$ \text{dim}\,\text{null}\,T = \text{dim}\,V - \text{dim}\,\text{range}\,T = \text{dim}\,V - \text{dim}\,W = 0 $$
+> $$ \text{nullity}\,T = \text{dim}\,V - \text{rank}\,T = \text{dim}\,V - \text{dim}\,W = 0 $$
 > Thus, $T$ is [[Injective Functions|injective]] (and thus [[Bijective Functions|bijective]]).
+> 
+> \[[[Nullity]], [[Rank]]\]
 
 \[[[Dimension]]\]
 
