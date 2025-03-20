@@ -4,7 +4,7 @@ tags:
   - math
   - discrete
 ---
-Let $G$ be a finite [[Groups|group]], and $H \le G$. Then the [[Order of a Group and Group Elements|order]] of $H$ divides the [[Order of a Group and Group Elements|order]] of $G$.
+Let $G$ be a finite [[Groups|group]], and $H \le G$. Then the [[Order of Groups and Group Elements|order]] of $H$ divides the [[Order of Groups and Group Elements|order]] of $G$.
 
 > [!proof]-
 > Let $g_{1}H, \dots, g_{n}H$ be the [[Cosets|cosets]] of $H$ in $G$.
@@ -40,7 +40,7 @@ Let $G$ be a finite [[Groups|group]], and $H \le G$. Then the [[Order of a Group
 > - **[[Injective Functions|Injectivity]]**
 >   If $\phi(h_{1}) = \phi(h_{2})$, then $gh_{1} = gh_{2}$. By [[Groups#Theorems|cancellation]], we have $h_{1} = h_{2}$.
 
-> [!corollary]- Every [[Groups|group]] of [[Primes|prime]] [[Order of a Group and Group Elements|order]] is [[Cyclic Groups|cyclic]]
+> [!corollary]- Every [[Groups|group]] of [[Primes|prime]] [[Order of Groups and Group Elements|order]] is [[Cyclic Groups|cyclic]]
 > Say $\left| G \right| = p \in \mathbb{P}$.
 > 
 > If $g \in G$ with $g \ne e$, then $\left| g \right| \,{\big|} \left| G \right|$

@@ -9,3 +9,7 @@
 - [[Lecture Notes/MATH220/Lec3C 07-3]]
 - [[Lecture Notes/MATH220/Lec4A 10-3]]
 - [[Lecture Notes/MATH220/Lec4B 12-3]]
+- [[Lecture Notes/MATH220/Lec4C 14-3]]
+- [[Lecture Notes/MATH220/Lec5A 17-3]]
+- [[Lecture Notes/MATH220/Lec5B 19-3]]
+- [[Lecture Notes/MATH220/Lec5C 21-3]]

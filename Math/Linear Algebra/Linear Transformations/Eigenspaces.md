@@ -7,6 +7,7 @@ tags:
 For $T \in \mathcal{L}(V)$[^1] and $\lambda \in \F$, the *$\mathit{\lambda}$-eigenspace* of $T$ is the [[Sets|set]] $E_{\lambda}(T)$ of solutions for $\vecbf{v}$ in the equation
 $$T\,\vecbf{v} = \lambda \vecbf{v},$$
 giving the [[Eigenvectors & Eigenvalues|eigenvectors]] with [[Eigenvectors & Eigenvalues|eigenvalue]] $\lambda$, and the zero vector.
+$$E_{\lambda}(T) = \text{null}(T - \lambda I)$$
 
 > [!note] Iff $\lambda$ is **not** an [[Eigenvectors & Eigenvalues|eigenvalue]], $E_{\lambda}(T) = \{ \vecbf{0} \}$.
 

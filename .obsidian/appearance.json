@@ -1,7 +1,7 @@
 {
   "accentColor": "",
-  "cssTheme": "Catppuccin",
-  "theme": "moonstone",
+  "cssTheme": "Typewriter",
+  "theme": "obsidian",
   "enabledCssSnippets": [
     "big-math",
     "center-svg",

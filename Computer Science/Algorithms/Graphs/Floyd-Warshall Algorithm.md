@@ -8,12 +8,12 @@ $$\begin{array}{rl}
 
 \scriptsize1& \textbf{procedure} \; \text{F{\scriptsize LOYD}}(Distance) \\
 \scriptsize2& \hspace{1em} n \leftarrow \text{number of rows (or columns) of matrix } Distance \\
-\scriptsize4& \hspace{1em} \textbf{for} \; k \; \textbf{from} \; 0 \; \textbf{to} \; n - 1  \\
+\scriptsize3& \hspace{1em} \textbf{for} \; k \; \textbf{from} \; 0 \; \textbf{to} \; n - 1  \\
 \scriptsize4& \hspace{2em} \textbf{for} \; i \; \textbf{from} \; 0 \; \textbf{to} \; n - 1  \\
-\scriptsize4& \hspace{3em} \textbf{for} \; j \; \textbf{from} \; 0 \; \textbf{to} \; n - 1  \\
-\scriptsize5& \hspace{4em} \textbf{if} \; Distance[i][j] < Distance[i][k] + Distance[k][j]  \\
-\scriptsize6& \hspace{5em} Distance[i][j] \leftarrow  Distance[i][k] + Distance[k][j] \\
-\scriptsize10& \hspace{1em} \textbf{return} \; Distance \\
+\scriptsize5& \hspace{3em} \textbf{for} \; j \; \textbf{from} \; 0 \; \textbf{to} \; n - 1  \\
+\scriptsize6& \hspace{4em} \textbf{if} \; Distance[i][j] > Distance[i][k] + Distance[k][j]  \\
+\scriptsize7& \hspace{5em} Distance[i][j] \leftarrow  Distance[i][k] + Distance[k][j] \\
+\scriptsize8& \hspace{1em} \textbf{return} \; Distance \\
 
 \hline
 \end{array}$$
@@ -34,83 +34,16 @@ We now have a [[Types of Functions|piecewise function]] for $d(i,j,-1)$. If we i
 - the result of the function will be smaller, meaning that using the intermediate [[Vertices|vertex]] $k$ gave a shorter path.
 
 If the $d(i,j,k) \ne d(i,j,k-1)$, then we can think of the resulting shortest path as:
+$$n_i, \dots, n_k, \dots, n_j$$
+This path can be split into the sub-paths $n_i, \dots, n_k$ and $n_k, \dots, n_i$, which (as per our assumptions) must be shortest paths themselves.
+
+Thus, if incrementing $k$ changes the result of the function, then
+$$d(i,j,k) = d(i,k,k-1) + d(k,j,k-1)$$
+If incrementing $k$ does not change the result, then obviously $d(i,j,k) = d(i,j,k-1)$.
+
 $$d(i,j,k) = \left\{ \begin{array}{ll}
 	0, & k = -1 \land i = j \\
 	\infty, & k = -1 \land (i, j) \notin E \\
 	w((i,j)), & k = -1 \land (i, j) \in E \\
 	\text{min}(d(i,k,k-1) + d(k,j,k-1), d(i,j,k-1)), & k \geq 0 \\
 \end{array} \right. $$
-$$n_i, \dots, n_k, \dots, n_j$$
-This path can be split into the sub-paths $n_i, \dots, n_k$ and $n_k, \dots, n_i$, which (as per our assumptions), must be shortest paths in an of themselves.
-
-This means that if incrementing $k$ changes the result of the function, then $d(i,j,k) = d(i,k,k-1) + d(k,j,k-1)$. If incrementing $k$ does not change the result, then obviously $d(i,j,k) = d(i,j,k-1)$.
-# Implementations
-## Non-Recursive
-$O(n^3)$
-```
-let dist be a |V| × |V| array of minimum distances initialized to ∞ (infinity)
-for each edge (u, v) do
-    dist[u][v] ← w(u, v)  // The weight of the edge (u, v)
-for each vertex v do
-    dist[v][v] ← 0
-for k from 1 to |V|
-    for i from 1 to |V|
-        for j from 1 to |V|
-            if dist[i][j] > dist[i][k] + dist[k][j] 
-                dist[i][j] ← dist[i][k] + dist[k][j]
-            end if
-```
-
-```python
-# N is number of nodes
-cache = np.full((N,N,N), np.iinfo(np.int32).max, dtype=np.int32)
-
-for i in range(N):
-	for j in range(N):
-		for k in range(N):
-			cache[i,j,k] = min(d(i,k,k-1) + d(k,j,k-1), d(i,j,k-1))
-
-# I can't remember how to make this verison work.
-```
-## Recursive
-$O(3^n)$
-```python
-def d(i,j):
-	# N is number of nodes
-	return d(i,j,N-1)
-
-def d(i,j,k):
-	""" Finds shortest path form i to j, allowing intermediate nodes {0,1,...,k} """
-	if k == -1:
-		if i == j:
-			return 0
-		
-		return w(i,j) # note if no edge, returns np.inf
-	
-	return min(d(i,k,k-1) + d(k,j,k-1), d(i,j,k-1))
-```
-## Mixed
-$<O(n^3)$
-```python
-# N is number of nodes
-defined = np.full((N,N,N), False, dtype=bool)
-cache = np.full((N,N,N), np.iinfo(np.int32).max, dtype=np.int32)
-
-def d(i,j):
-	return d(i,j,N-1)
-
-def d(i,j,k):
-	""" Finds shortest path form i to j, allowing intermediate nodes {0,1,...,k} """
-	if not defined[i][j][k]:
-		if k == -1:
-			if i == j:
-				cache[i][j][k] = 0
-			else: 
-				cache[i][j][k] = w(i,j) # note if no edge, returns np.inf
-		else:
-			cache[i][j][k] = min(d(i,k,k-1) + d(k,j,k-1), d(i,j,k-1))
-
-		defined[i][j][k] = True
-
-	return cache[i][j][k]
-`

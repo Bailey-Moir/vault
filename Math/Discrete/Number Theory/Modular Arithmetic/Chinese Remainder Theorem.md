@@ -39,3 +39,13 @@ For $n = 1$, $x = a_{1} \mod m_{1}$ has a unique solution $a_{1}$ modulo $m_{1}\
 > 	x &= (c+md) + mm_{n+1}l \\
 > 	x &= (c+m_{1}\cdots m_{n}d) + m_{1}\cdots m_{n+1}l \\
 > \end{align}$$
+
+# Alternative Approach
+$$\begin{array}{ccc}
+	x = a \mod p  \\
+	x = b \mod q, \\
+\end{array}$$
+1. Find $u,v \in \Z$ such that $pu + qv = 1$[^1].
+2. The unique solution modulo $pq$ is given by $x = bpu + aqv$.
+
+[^1]: [[Extended Euclidean Algorithm]]

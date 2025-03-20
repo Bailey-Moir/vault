@@ -6,10 +6,10 @@ tags:
 ---
 Each [[Vertices|vertex]] on a [[Network|network]]
 1. Chooses two large distinct [[Primes|primes]] $p$ and $q$, and computes $n = pq$ and $\phi(n) = (p-1)(q-1)$[^1].
-2. Chooses an [[Math/Discrete/Number Theory/Modular Arithmetic/Invertibility|invertible]] element $e \in \Z_{\phi(n)}$[^2][^1].
-4. Computes $e^{-1} \in \Z_{\phi(n)}$[^2][^1].
+2. Chooses element $e \in \Z_{\phi(n)}^\times$[^1][^4].
+3. Computes $e^{-1} \in \Z_{\phi(n)}^\times$[^1][^4].
 
-The [[Vertices|vertices]] **public key** is then $(n,e)$, and its **private key** is then $e^{-1}$.
+The [[Vertices|vertices']] **public key** is then $(n,e)$, and its **private key** is then $e^{-1}$.
 
 **Sending**
 A sender wants to send a message. The sender breaks the message up into [[Network|packets]].  The sender [[Encryption|encrypts]] $m \in \Z_n$ (a [[Network|packet]]) into a [[Ciphertext|ciphertext]]
@@ -25,16 +25,25 @@ using their own **public** and **private key**.
 > $$\begin{array}{l}
 > 	\begin{align*}
 > 		e^{-1}e \equiv 1 \pmod {\phi(n)} \\
-> 		e^{-1}e - 1 \equiv 0 \pmod {\phi(n)} \\
 > 	\end{align*} \\
 > 	e^{-1}e - 1 = k\phi(n) && \exists k \in \Z \\
 > 	e^{-1}e = k\phi(n) + 1 \\
 > \end{array}$$
 > Note that $C^{e^{-1}} \equiv \left(m^{e}\right)^{e^{-1}} \equiv m^{k\phi(n) + 1} \pmod n$, so by the [[#Lemma|lemma]], $C^d \equiv m \pmod n$.
+
+> [!note] The security of this algorithm relies on the difficulty of prime factorisation (for $\phi(n)$) and finding roots (for solving $m$ from $m^e$).
 # Lemma
 For distinct [[Primes|primes]] $p,q$, if $n = pq$, for all integers $M$ and $k$, 
 $$ M^{k\phi(n) + 1} \equiv M \pmod n $$
 > [!proof]-
+> By [[Lagrange's Theorem|Lagrange's theorem]], the order of each element, such as $M$, must have an order that divides $\left| \Z_{n}^\times \right| = \phi(n)$[^1]. Thus,
+> $$\begin{align}
+> 	M^{\frac{\phi(n)}{c}} &\equiv 1 \pmod n \\
+> 	M^{k\phi(n)} &\equiv 1^{kc} \pmod n \\
+> 	M^{k\phi(n)+1} &\equiv M \pmod n \\
+> \end{align}$$
+
+> [!proof]- 120
 > **Case $\mathbf{I}$: $\mathbf{\textbf{gcd}(M,n) = 1}$**
 > [[Euler's Theorem|Euler's theorem]] states that 
 > $$\begin{align*}
@@ -72,6 +81,7 @@ $$ M^{k\phi(n) + 1} \equiv M \pmod n $$
 > 
 > \[[[Congruence]]\]
 
+
 [^1]: [[Euler's Totient Function]]
-[^2]: [[Residue Classes]]
 [^3]: [[Divisibility]]
+[^4]: [[Invertible Groups of Residue Classes]]

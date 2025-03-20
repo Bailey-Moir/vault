@@ -7,8 +7,9 @@ tags:
 ---
 A *components* of a [[Graphs|graph]] $G = (V,E)$ is a [[Subgraphs|subgraph]] $G' = (V',E')$ where
 - $G'$ is a non-empty [[Subgraphs|subgraph]].
-- Every pair of vertices in $G'$ is connected by a [[Walks|path]] in $G$.
-- For all $v' \in V'$ and $u \in V\setminus V'$, there is no [[Walks|path]] between $v'$ and $u$ in $G$.
-- $E'$ contains all [[Edges|edges]] in $E$ that involve [[Vertices|vertices]] in $V'$.
+- $G' \ne \emptyset$
+- Every pair of vertices $G'$ is connected by a [[Walks|path]] in $G$.
+- $\forall v' \in V, u \in V \setminus V', d_{G}(v',u) = \infty$
+- $\forall (u,v) \in E, \left( u \in V' \lor v \in V' \to (u,v) \in E'  \right)$
 
 In other words, a *component* of a [[Graphs|graph]] is a maximal [[Connectivitiy|connected]] [[Subgraphs|subgraph]].

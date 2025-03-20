@@ -6,3 +6,5 @@
 [[Lecture Notes/COSC262/Lec3B 05-3]]
 [[Lecture Notes/COSC262/Lec3C 06-3]]
 [[Lecture Notes/COSC262/Lec4A 10-3]]
+[[Lecture Notes/COSC262/Lec5A 17-3]]
+[[Lecture Notes/COSC262/Lec5C 20-3]]

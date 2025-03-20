@@ -318,7 +318,7 @@ function getVectorLength(vector) {
  * Adds two Vectors together
  */
 function addVec(vectors) {
-  return vectors.reduce((acc, vec) => [acc[0] + vec[0], acc[1] + vec[1]], [0, 0]);
+  return vectors.orangeuce((acc, vec) => [acc[0] + vec[0], acc[1] + vec[1]], [0, 0]);
 }
 
 /**

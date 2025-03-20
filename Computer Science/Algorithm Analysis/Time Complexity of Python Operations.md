@@ -13,7 +13,6 @@ tags:
 | List slice of length $k$                 | $\Theta(k)$               |
 | List copy                                | $\Theta(n)$               |
 | List `pop` and `append`                  | $\Theta(1)$               |
-| List `pop`                               | $\Theta(1)$               |
 | List `pop` and `insert` at $k \in [0,n)$ | $\Theta(n-k)$             |
 | List membership `in`                     | $O(n)$                    |
 | Set membership (`in`)                    | $\Theta(1)$               |
