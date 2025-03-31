@@ -14,7 +14,7 @@ tags: [excalidraw]
 
 2cf022c708efd4ccec535eb408f075b4ac415381: $$g$$
 
-3162b0c0ee103fd57e0515c90ac9e84d481c03c4: $${\color{OliveGreen}{h}} = g^x$$
+3162b0c0ee103fd57e0515c90ac9e84d481c03c4: $${\color{CornflowerBlue}{h}} = g^x$$
 
 f14b59de0aadcc72d07bfc675e76553e6407beef: $$hg^{-m}$$
 
@@ -326,7 +326,7 @@ d824aae5a9fd11766c89f63700285a5b8c5fb327: $$hg^{-2m}$$
 			"width": 0.0001,
 			"height": 0.0001,
 			"angle": 0,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -407,7 +407,7 @@ d824aae5a9fd11766c89f63700285a5b8c5fb327: $$hg^{-2m}$$
 			"width": 33.77477670123025,
 			"height": 17.52066541376314,
 			"angle": 0,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -457,7 +457,7 @@ d824aae5a9fd11766c89f63700285a5b8c5fb327: $$hg^{-2m}$$
 			"width": 33.77477670123022,
 			"height": 17.52066541376314,
 			"angle": 0.22459881179136776,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -507,7 +507,7 @@ d824aae5a9fd11766c89f63700285a5b8c5fb327: $$hg^{-2m}$$
 			"width": 33.77477670123022,
 			"height": 17.52066541376314,
 			"angle": 0.43674528614311203,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -557,7 +557,7 @@ d824aae5a9fd11766c89f63700285a5b8c5fb327: $$hg^{-2m}$$
 			"width": 33.77477670123022,
 			"height": 17.52066541376314,
 			"angle": 0.582807178413578,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -642,7 +642,7 @@ d824aae5a9fd11766c89f63700285a5b8c5fb327: $$hg^{-2m}$$
 			"width": 0.0001,
 			"height": 0.0001,
 			"angle": 0,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -683,7 +683,7 @@ d824aae5a9fd11766c89f63700285a5b8c5fb327: $$hg^{-2m}$$
 			"width": 0.0001,
 			"height": 0.0001,
 			"angle": 0,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -724,7 +724,7 @@ d824aae5a9fd11766c89f63700285a5b8c5fb327: $$hg^{-2m}$$
 			"width": 0.0001,
 			"height": 0.0001,
 			"angle": 0,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -765,7 +765,7 @@ d824aae5a9fd11766c89f63700285a5b8c5fb327: $$hg^{-2m}$$
 			"width": 0.0001,
 			"height": 0.0001,
 			"angle": 0,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -806,7 +806,7 @@ d824aae5a9fd11766c89f63700285a5b8c5fb327: $$hg^{-2m}$$
 			"width": 145.63345451191196,
 			"height": 80.1787104605205,
 			"angle": 0,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -870,7 +870,7 @@ d824aae5a9fd11766c89f63700285a5b8c5fb327: $$hg^{-2m}$$
 			"width": 132.2048019707222,
 			"height": 85.6406743823282,
 			"angle": 5.2570842367368105,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -934,7 +934,7 @@ d824aae5a9fd11766c89f63700285a5b8c5fb327: $$hg^{-2m}$$
 			"width": 125.19017128340828,
 			"height": 80.02243016457473,
 			"angle": 3.509949380666855,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -1086,7 +1086,7 @@ d824aae5a9fd11766c89f63700285a5b8c5fb327: $$hg^{-2m}$$
 			"width": 125.23914789290504,
 			"height": 75.59218272599293,
 			"angle": 4.393783418095593,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -1150,7 +1150,7 @@ d824aae5a9fd11766c89f63700285a5b8c5fb327: $$hg^{-2m}$$
 			"width": 113.71940288959473,
 			"height": 74.01823553467402,
 			"angle": 4.327744686427829,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -1210,7 +1210,7 @@ d824aae5a9fd11766c89f63700285a5b8c5fb327: $$hg^{-2m}$$
 			"width": 8,
 			"height": 25,
 			"angle": 3.509949380666855,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -1248,7 +1248,7 @@ d824aae5a9fd11766c89f63700285a5b8c5fb327: $$hg^{-2m}$$
 			"width": 8,
 			"height": 25,
 			"angle": 3.509949380666855,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -1282,7 +1282,7 @@ d824aae5a9fd11766c89f63700285a5b8c5fb327: $$hg^{-2m}$$
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#98c379",
+		"currentItemStrokeColor": "#61afef",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
@@ -1311,18 +1311,18 @@ d824aae5a9fd11766c89f63700285a5b8c5fb327: $$hg^{-2m}$$
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				],
 				"elementStroke": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				]
 			}
 		},

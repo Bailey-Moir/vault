@@ -7,8 +7,8 @@ The *characteristic polynomial* $P_{T}$ for $T \in \mathcal{L}(V)$ is
 $$P_{T}(\lambda) := \left| T-\lambda I \right| $$
 - $P(\lambda)$ is always [[Polynomials#Degree|degree]] $n$.
 
-> [!proof]- $\lambda$ is an [[Eigenvectors & Eigenvalues|eigenvalue]] of $T$ iff $P_{T}(\lambda) = 0$.
-> $\lambda$ is an [[Eigenvectors & Eigenvalues|eigenvalue]] of $T$ iff
+> [!proof]- $\lambda$ is an [[Eigenvector & Eigenvalues|eigenvalue]] of $T$ iff $P_{T}(\lambda) = 0$.
+> $\lambda$ is an [[Eigenvector & Eigenvalues|eigenvalue]] of $T$ iff
 > $$\begin{align}
 > 	T\,\vecbf{v} &= \lambda \vecbf{v} \\
 > 	T\,\vecbf{v} - \lambda \vecbf{v} &= \vecbf{0} \\

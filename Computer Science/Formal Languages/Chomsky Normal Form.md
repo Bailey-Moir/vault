@@ -16,6 +16,9 @@ A [[Context-Free Grammar|CFG]] $G = (N,\Sigma,P,S)$ is in *Chomsky normal form* 
 > 6. Remove all [[Context-Free Grammar|non-reachable]] non-terminals, along with all productions containing them.
 > 7. Whenever a terminal $a$ appears in a $\text{RHS}$ of length at least $2$, replace it with a non-terminal $A$, with $A \to a \in P$.
 > 8. While possible, split productions of the form $A \to B_{1}B_{2}\dots B_{n}$ where $B_{1},\dots,B_{n} \in N$ into $A \to B_{1}C$ and $C \to B_{2}\dots B_{n}$.
-
+> > [!note] If $\varepsilon$ is needed,
+> > - Add a new non-terminal $S'$ and the production $S'\to\varepsilon$.
+> > - For each $S \to w$ of the start symbol, add $S' \to w$.
+> > - Make $S'$ the new start symbol.
 
 [^1]: [[Empty String]]

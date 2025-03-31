@@ -9,5 +9,20 @@ The *language generated* by the [[Context-Free Grammar|CFG]] $G = \left( N,\Sigm
 
 > [!definition] The [[Sets|set]] of **sentences**  of a $G$ is $$\left\{ x \in \Sigma^* : S \Rightarrow_{G}^* x \right\} $$[^1]
 
+# Closure
+> [!proof]- [[Unions and Intersections|Union]]
+> Let $L_{1} = L(( N_{1}, \Sigma, P_{1}, S_{1} ))$ and $L_{2} = L(( N_{2}, \Sigma, P_{2}, S_{2} ))$, where $N_{1} \cap N_{2} = \emptyset$.
+> 
+> Construct $G = \left( N_{1} \cup N_{2} \cup \{ S \}, \Sigma, P_{1} \cup P_{2} \cup \{ S \to S_{1}, S \to S_{2} \}, S \right)$, where $S \notin N_{1} \cup N_{2}$.
+> 
+> Then $L(G) = L_{1} \cup L_{2}$.
+
+> [!proof]- **NOT** [[Unions and Intersections|Intersection]]
+> $L_{1} = \{ a^kb^nc^n : k, n \in \N \}$ and $L_{2} = \{ a^nb^nc^k : k,n \in \N \}$ are *context-free*, but $L_{1}\cap L_{2} = \{ a^nb^nc^n : n \in N \}$ is **not** *context-free*.
+
+> [!proof]- [[Complement|Complement]]
+> It is closed under [[Unit Vectors|union]], so by [[De Morgan's Laws|De Morgan's laws]], if it was closed under [[Complement|complement]], it would have to be closed under [[Unions and Intersections|intersectionn]] (which it is not).
+
+- [[Concatenation of Languages and Alphabets|concatenation and star]]
 
 [^1]: [[Derivability]]

@@ -29,6 +29,6 @@ A *context-free grammar* (*CFG*) is a structure $G = \left( N,\Sigma,P,S \right)
 Let $u,v,w \in (N \cup \Sigma)^*$ and $A \to w \in P$.
 - $uAv$ yields $uwv$ in one step, by replacing $A$ with $w$; this is denoted
 $$uAv \Rightarrow_G^1 uwv$$
-- Alternatively, $uwv$ is **derivable** from $uAv$ in one step.
+- Alternatively, $uwv$ is **[[Derivability|derivable]]** from $uAv$ in one step.
 
 [^1]: [[Derivability]]

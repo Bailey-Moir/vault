@@ -8,8 +8,8 @@ $A \in \R^{n,n}$[^1] is *diagonalisable* iff there exists a [[Diagonal Matrices|
 $$A = PDP^{-1},$$
 or [[Logical Equivalence|equivalently]]
 $$D = P^{-1}AP$$
-> [!proof]- $A$ is *diagonalisable* iff there is a [[Basis|basis]] of $\R^n$ consisting of [[Eigenvectors & Eigenvalues|eigenvectors]] of $A$.
-> Suppose $\vecbf{p}_{1},\vecbf{p}_{2},\dots,\vecbf{p}_{n}$ is a [[Basis|basis]] for $\R^n$ consisting of [[Eigenvectors & Eigenvalues|eigenvectors]] of $A$.
+> [!proof]- $A$ is *diagonalisable* iff there is a [[Basis|basis]] of $\R^n$ consisting of [[Eigenvector & Eigenvalues|eigenvectors]] of $A$.
+> Suppose $\vecbf{p}_{1},\vecbf{p}_{2},\dots,\vecbf{p}_{n}$ is a [[Basis|basis]] for $\R^n$ consisting of [[Eigenvector & Eigenvalues|eigenvectors]] of $A$.
 > 
 > Set $P = \left[ \vecbf{p}_{1} | \cdots | \vecbf{p}_{n} \right]$. Then
 > $$\begin{align}
@@ -26,7 +26,7 @@ $$D = P^{-1}AP$$
 > Thus, $A = PDP^{-1}$.
 
 > [!note] Generating $P$ and $D$
-> 1. Find all [[Eigenvectors & Eigenvalues|eigenvalues]] of $A$ and a [[Basis|basis]] for each [[Eigenspaces|eigenspace]].
+> 1. Find all [[Eigenvector & Eigenvalues|eigenvalues]] of $A$ and a [[Basis|basis]] for each [[Eigenspaces|eigenspace]].
 > 2. Let $\vecbf{v}_{1},\dots,\vecbf{v}_{k}$ be the [[Basis|basis]] vectors you found (for all of the [[Eigenspaces|eigenspaces]]).
 > 3. If $k < n$, $A$ is not *diagonalisable*
 > 4. Otherwise, $A = PDP^{-1}$ with

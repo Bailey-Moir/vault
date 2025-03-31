@@ -4,37 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "70543b99f5d2884a",
+        "id": "9f50001cf1cd22cc",
         "type": "tabs",
         "children": [
           {
-            "id": "38e5cc12289e2272",
+            "id": "cc172e415a91068b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Notes/MATH220/Lec4B 12-3.md",
-                "mode": "preview",
+                "file": "Lecture Notes/MATH220/Lec7A 31-3.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lec4B 12-3"
+              "title": "Lec7A 31-3"
             }
           },
           {
-            "id": "6c5a84eb49dd7650",
+            "id": "14755b5173d5831d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Discrete/Cryptography/Baby-Step Giant-Step Algorithm.md",
+                "file": "Math/Discrete/Groups/Symmetric Groups/Cycle Notation.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Baby-Step Giant-Step Algorithm"
+              "title": "Cycle Notation"
+            }
+          },
+          {
+            "id": "82c0e8458c8a8f13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Discrete/Groups/Symmetric Groups/Symmetric Groups.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Symmetric Groups"
             }
           }
         ],
@@ -95,7 +110,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Math/Discrete/Cryptography/Baby-Step Giant-Step Algorithm.md",
+                "file": "Math/Discrete/Groups/Symmetric Groups/Cycle Notation.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -123,7 +138,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Baby-Step Giant-Step Algorithm"
+              "title": "Graph of Cycle Notation"
             }
           }
         ]
@@ -223,38 +238,46 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6c5a84eb49dd7650",
+  "active": "14755b5173d5831d",
   "lastOpenFiles": [
-    "Lecture Notes/MATH220/Lec4B 12-3.md",
-    "Lecture Notes/MATH220/Lec4C 14-3.md",
-    "Lecture Notes/MATH220/Lec5A 17-3.md",
-    "Lecture Notes/MATH220/Lec5B 19-3.md",
-    "Math/Discrete/Groups/Quadratic Residue.md",
-    "Math/Discrete/Number Theory/Modular Arithmetic/Chinese Remainder Theorem.md",
-    "Math/Discrete/Cryptography/The Rabin Cipher.md",
-    "Math/Discrete/Cryptography/RSA.md",
-    "Computer Science/Algorithms/Primes Algorithms/Sieve of Eratosthenes.md",
-    "Computer Science/Algorithms/Primes Algorithms/MillarRabin.md",
-    "Computer Science/Algorithms/Primes Algorithms/Trial Division.md",
-    "Lecture Notes/MATH220/Lec5C 21-3.md",
-    "Math/Discrete/Cryptography/Diffie-Hellman Key Exchange.md",
-    "Lecture Notes/MATH220/MATH220.md",
-    "Pasted Image 20250317110533_807.png",
-    "Screenshot_20250316-140200_Drive.jpg",
-    "Computer Science/Formal Languages/Chomsky Normal Form.md",
-    "Computer Science/Formal Languages/Regular Grammar.md",
-    "Computer Science/Algorithm Analysis/Backtracking.md",
-    "Computer Science/Algorithm Analysis/Divide and Conquer.md",
-    "Computer Science/Formal Languages/Context-Free Grammar.md",
-    "Computer Science/Formal Languages/Derivability.md",
-    "Lecture Notes/COSC261/Lec5C 20-3.md",
-    "Lecture Notes/COSC261/Lec5B 18-3.md",
+    "Lecture Notes/MATH220/Lec7A 31-3.md",
+    "Math/Discrete/Groups/Symmetric Groups/Symmetric Groups.md",
+    "Math/Discrete/Groups/Symmetric Groups/Cycle Notation.md",
+    "Lecture Notes/MATH220/Lec6C 28-3.md",
+    "Math/Discrete/Number Theory/Modular Arithmetic/Fermat's Little Theorem.md",
+    "Math/Discrete/Cryptography/RSA Digital Signature.md",
+    "Computer Science/Formal Languages/Pushdown Automata.md",
+    "Lecture Notes/COSC262/Lec7A 31-3.md",
+    "Computer Science/Algorithm Analysis/Greedy Algorithms.md",
+    "Computer Science/Algorithms/Sorting Algorithms/Heap Sort.md",
+    "Fractional Knapsack Problem.md",
+    "Computer Science/Algorithms/Graphs/Kruskal's Algorithm.md",
+    "Computer Science/Algorithms/Graphs/Prim's Algorithm.md",
+    "Math/Discrete/Number Theory/Primes/Primes.md",
+    "Personal/Todo.md",
+    "Lecture Notes/COSC262/Lec6C 27-3.md",
     "Lecture Notes/COSC262/COSC262.md",
-    "Lecture Notes/COSC262/Lec5C 20-3.md",
-    "Lecture Notes/COSC262/Untitled.md",
-    "Computer Science/Algorithms/Graphs/Shortest Paths.md",
-    "Pasted image 20250310185319.png",
+    "Computer Science/Algorithms/Sorting Algorithms/Counting Sort.md",
     "Computer Science/Formal Languages/Formal Languages.canvas",
+    "Lecture Notes/COSC261/Lec6C 27-3.md",
+    "Computer Science/Algorithm Analysis/Stable Sorts.md",
+    "Lecture Notes/COSC262/Lec6B 26-3.md",
+    "Computer Science/Algorithms/Sorting Algorithms/Radix Sort.md",
+    "Math/Discrete/Number Theory/Counting Outcomes/Counting Outcomes.md",
+    "Statistics/Probability/Random Variables/Binomial Random Variable.md",
+    "Math/Discrete/Number Theory/Counting Outcomes/Binomial Coefficient.md",
+    "Math/Discrete/Number Theory/Counting Outcomes/Pascal's Triangle.md",
+    "Math/Discrete/Groups/Symmetric Groups",
+    "Pasted image 20250327134551.png",
+    "Pasted image 20250327132909.png",
+    "Pasted image 20250327132839.png",
+    "Pasted image 20250327132746.png",
+    "Pasted image 20250310185319.png",
+    "Screenshot_20250316-140200_Drive.jpg",
+    "Pasted Image 20250323150812_901.png",
+    "Math/Calculus/Limits/Limits.canvas",
+    "Math/Linear Algebra/Linear Transformations/Eigenvector & Eigenvalues",
+    "Pasted Image 20250317110533_807.png",
     "Pasted image 20250310162039.png",
     "Assets/excali/scripts/Downloaded/Boolean Operations.svg"
   ]

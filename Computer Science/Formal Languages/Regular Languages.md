@@ -47,7 +47,6 @@ which can be proven [[Inductors|inductively]] using the definition of the [[Exte
 > 
 > As proven above, *regular languages* are *closed* under [[Complement|complement]] and [[Unions and Intersections|intersection]], meaning they must also be *closed* under [[Unions and Intersections|union]].
 
-- [[Concatenation of Languages and Alphabets|concatenation]],
-- [[Concatenation of Languages and Alphabets|star]].
+- [[Concatenation of Languages and Alphabets|concatenation and star]],
 
 [^1]: [[Languages of Finite Automata]]

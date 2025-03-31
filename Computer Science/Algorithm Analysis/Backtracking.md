@@ -9,11 +9,14 @@ $$\begin{array}{rl}
 \hline
 
 \scriptsize1& \textbf{procedure} \; \text{DFS-B{\scriptsize ACKTRACK}}(candidate, input, output) \\
-\scriptsize2& \hspace{1em} \textbf{if} \; \text{I{\scriptsize S}-S{\scriptsize OLUTION}}(candidate,input) \\
-\scriptsize3& \hspace{2em} \text{A{\scriptsize DD}-T{\scriptsize O}-O{\scriptsize UTPUT}}(candidate,output) \\
-\scriptsize4& \hspace{1em} \textbf{else} \\
-\scriptsize5& \hspace{2em} \textbf{for} \; child\text{-}candidate  \; \textbf{in} \; \text{C{\scriptsize HILDREN}}(candidate,input) \\
-\scriptsize6& \hspace{3em} \text{DFS-B{\scriptsize ACKTRACK}}(child\text{-}candidate, input, output) \\
+\scriptsize2& \hspace{1em} \textbf{if} \; \text{S{\scriptsize HOULD}-P{\scriptsize RUNE}}(candidate) \\
+\scriptsize3& \hspace{2em} \textbf{return} \\
+\scriptsize4& \hspace{1em} \textbf{if} \; \text{I{\scriptsize S}-S{\scriptsize OLUTION}}(candidate,input) \\
+\scriptsize5& \hspace{2em} \text{A{\scriptsize DD}-T{\scriptsize O}-O{\scriptsize UTPUT}}(candidate,output) \\
+\scriptsize6& \hspace{2em} \textbf{return} \\
+\scriptsize7&\\
+\scriptsize8& \hspace{1em} \textbf{for} \; child\text{-}candidate  \; \textbf{in} \; \text{C{\scriptsize HILDREN}}(candidate,input) \\
+\scriptsize9& \hspace{2em} \text{DFS-B{\scriptsize ACKTRACK}}(child\text{-}candidate, input, output) \\
 
 \hline
 \end{array}$$

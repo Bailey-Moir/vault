@@ -7,7 +7,7 @@ tags:
 An integer $a$ is a *quadratic residue* (*QR*) mod $p$ iff there is a solution to
 $$x^2 = a \hspace{2em} \text{in } \Z_{p}^\times$$
 
-# Quadratic Residue (p)
+# Quadratic Residues (p)
 For $p \in \mathbb{P} > 2$,
 
 > [!theorem]-  Let $g$ be a [[Group Generators|generator]] of $\Z_{p}^\times$. Then $a = g^k$ is a *QR* $\iff$ $2|k$[^1]
@@ -59,7 +59,7 @@ For $p \in \mathbb{P} > 2$,
 > \end{align}$$
 > 
 > \[$(1)$ [[Congruence]]\]
-# Quadratic Residue (n)
+# Quadratic Residues (n)
 The square roots of non-prime *quadratic residues* are given by the square roots of it's [[Chinese Remainder Theorem|CRT]] prime equations.
 #TODO fix wording?
 
