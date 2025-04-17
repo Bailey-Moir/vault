@@ -5,7 +5,7 @@ tags:
   - discrete
   - comp
 ---
-The *Vigenère cipher* is a different [[Caesar Cipher|Caesar cipher]] $x \mapsto x + \beta$ is applied to each letter. The [[Key|key]] is a word of length $n$. The [[Plaintext|plaintext]] is folded into rows of length $n$, and for each character in row $i$, $\beta$ is given by the value of the $i$-th character in the [[Key|key]].
+The *Vigenère cipher* is a different [[Caesar Cipher|Caesar cipher]] $x \mapsto x + \beta$ is applied to each letter. The [[Key|key]] is a word of length $n$. The [[Plaintext|plaintext]] is folded into rows of length $n$, and for each character in column $i$, $\beta$ is given by the value of the $i$-th character in the [[Key|key]].
 
 > [!Example] **[[Plaintext]]**: Hello world** [[Key]]**: Key
 > $$\begin{array}{c}
@@ -32,10 +32,18 @@ The *Vigenère cipher* is a different [[Caesar Cipher|Caesar cipher]] $x \mapsto
 > 	\end{matrix}
 > \end{array}\hspace{2em}\begin{array}{c}
 > 	\begin{matrix}
-> 		\text{7}&\text{4}&\text{11} \\
-> 		\text{11}&\text{14}&\text{22} \\
-> 		\text{14}&\text{17}&\text{11} \\
-> 		\text{3}
+> 		\text{17}&\text{8}&\text{9} \\
+> 		\text{21}&\text{18}&\text{20} \\
+> 		\text{24}&\text{21}&\text{9} \\
+> 		\text{13}
+> 	\end{matrix}  \\
+> 	\phantom{\text{1}}
+> \end{array}\hspace{2em}\begin{array}{c}
+> 	\begin{matrix}
+> 		\text{R}&\text{I}&\text{J} \\
+> 		\text{V}&\text{S}&\text{U} \\
+> 		\text{Y}&\text{V}&\text{J} \\
+> 		\text{N}
 > 	\end{matrix}  \\
 > 	\phantom{\text{1}}
 > \end{array}$$

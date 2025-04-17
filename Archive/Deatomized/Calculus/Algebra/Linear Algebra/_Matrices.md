@@ -48,7 +48,7 @@ tags:
 ![[Determinant of a 2x2 Matrix]]
 
 # Transposition
-![[Transposition]]
+![[Math/Linear Algebra/Matrices/Transposition]]
 ## Properties of Transposition
 ![[Properties of Transposition]]
 

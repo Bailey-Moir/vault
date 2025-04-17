@@ -23,7 +23,7 @@ tags:
 
 $\vecbf{x}_{0},\vecbf{x}_{1},\dots$ [[Convergence and Divergence of Sequences|converges]] to the [[Dominant Eigenvectors & Eigenvalues|dominant eigenvector]] and $m_{0}, m_{1},\dots$ [[Convergence and Divergence of Sequences|converges]] to the [[Dominant Eigenvectors & Eigenvalues|dominant eigenvalue]].
 
-> [!proof]- If $A \in \R^{n,n}$ is [[Diagonalisation|diagonalisable]] with a [[Dominant Eigenvectors & Eigenvalues|dominant eigenvalue]] $\lambda_{1}$, there exists, a non-zero $\vecbf{x} \in\text{domain}\,A$ such that $\text{lim}_{n\to \infty}A^n\vecbf{x}$ is a [[Dominant Eigenvectors & Eigenvalues|dominant eigenvector]].
+> [!proof]- If $A \in \R^{n,n}$ is [[Diagonalisation|diagonalisable]] with a [[Dominant Eigenvectors & Eigenvalues|dominant eigenvalue]] $\lambda_{1}$, there exists a non-zero $\vecbf{x} \in\text{domain}\,A$ such that $\text{lim}_{n\to \infty}A^n\vecbf{x}$ is a [[Dominant Eigenvectors & Eigenvalues|dominant eigenvector]].
 > Suppose $A \in \R^{n,n}$[^2] is [[Diagonalisation|diagonalisable]]. Then, there exists [[Eigenvector & Eigenvalues|eigenvectors]] $\vecbf{v}_{1},\dots,\vecbf{v}_{n}$ of $A$ (with corresponding [[Eigenvector & Eigenvalues|eigenvalues]] $\lambda_{1},\dots,\lambda_{n}$) such that there exists $\vecbf{x} \in\text{domain}\,A$ such that
 > $$ \vecbf{x} = a_{1}\vecbf{v}_{1} + \dots + a_{n}\vecbf{v}_{n} $$
 > for some $a_{1},\dots,a_{n} \in \F$ **where $\mathbf{a_{1} \ne 0}$**. This gives

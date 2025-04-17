@@ -43,4 +43,4 @@ The *determinant* of a [[Matrices|matrix]] $A$, $|A|$, is the **scale factor** o
 > \[[[Row and Column Operations with Determinants]]\]
 
 [^1]: [[Identity Matrices]]
-[^2]: [[Transposition]]
+[^2]: [[Math/Linear Algebra/Matrices/Transposition]]

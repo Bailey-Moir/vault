@@ -8,6 +8,11 @@ After performing a [[Diffie-Hellman Key Exchange|Diffie-Hellman key exchange]], 
 1. Bob sends $(B,mK)$
 2. Alice computes $m = B^{-a}(mK)$
 
+---
+
+1. Bob sends $mK$
+2. Alice computes $m = K^{-1}(mK)$
+
 > [!proof]- Alice recovers $m$
 > $$\begin{align}
 > 	B^{-a} (mK) &= g^{-ab} m g^{ab} \\

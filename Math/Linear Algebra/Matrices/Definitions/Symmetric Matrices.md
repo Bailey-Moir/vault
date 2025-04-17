@@ -21,4 +21,4 @@ Symmetric matrices are the same across the main diagonal, having the unique prop
 > 	&= A^TA \\
 > \end{align*}$$
 
-\[[[Transposition]]\]
+\[[[Math/Linear Algebra/Matrices/Transposition]]\]

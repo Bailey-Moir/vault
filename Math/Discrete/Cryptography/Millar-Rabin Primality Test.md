@@ -9,8 +9,8 @@ $$\begin{array}{rl}
 \hline
 
 \scriptsize1& \textbf{procedure} \; \text{MR-T{\scriptsize EST}}(n,k) \\
-\scriptsize2& \hspace{1em} s \leftarrow \left\lfloor \log_{2}{n-1} \right\rfloor  \\
-\scriptsize3& \hspace{1em} d \leftarrow \dfrac{2^d}{n-1}  \\
+\scriptsize2& \hspace{1em} s \leftarrow \left\lfloor \log_{2}(n-1) \right\rfloor  \\
+\scriptsize3& \hspace{1em} d \leftarrow \dfrac{n-1}{2^s}  \\
 \scriptsize4& \hspace{1em} \textbf{for} \; \text{\_}  \; \textbf{from} \; 1 \; \textbf{to} \; k \\
 \scriptsize5& \hspace{2em} a \leftarrow \text{random non-zero element of } \Z_{n} \\
 \scriptsize6& \hspace{2em} \textbf{if} \; a^d \equiv 1 \mod n \\
@@ -32,7 +32,7 @@ $$\begin{array}{rl}
 > - $a^d = 1 \mod p$, or
 > - $a^{2^r{d}} = -1 \mod p$ for some $r = 1, \dots, s-1$.
 
-> [!analysis] For a fixed number of iterations, *Millar-Rabin* is $\mathcal{O}(\log_{n})$.
+> [!analysis] For a fixed number of iterations, *Millar-Rabin* is $\mathcal{O}(\log n)$.
 
 \[[[Primality Test]]\]
 

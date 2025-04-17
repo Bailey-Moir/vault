@@ -4,7 +4,7 @@ tags:
   - math
   - discrete
 ---
-*RSA digital signatures* are the done the same as [[RSA]], except instead of computing
+*RSA digital signatures* are done the same as [[RSA]], except instead of computing
 $$C \equiv m^e \mod n,$$
 using their own **private key**, the signer computes
 $$S \equiv m^{e^{-1}} \mod n.$$

@@ -5,4 +5,4 @@ tags:
   - discrete
 ---
 $$U$$
-The *universal set* is the [[Sets|set]] of all things that we are interest in. This is sometimes explicitly defined, but often inferred.
+The *universal set* is the [[Sets|set]] of all things that we are interested in. This is sometimes explicitly defined, but often inferred.

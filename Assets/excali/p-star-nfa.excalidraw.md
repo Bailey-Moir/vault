@@ -8,17 +8,18 @@ tags: [excalidraw]
 
 
 # Excalidraw Data
+
 ## Text Elements
 ## Embedded Files
 1dff89a8ad6ddd9a4a3065d8cdf86d8da5abb439: $$\varepsilon$$
 
-c810535fb4a6983d19b1a093361380407b7a4c4e: $$q$$
+c810535fb4a6983d19b1a093361380407b7a4c4e: $$p$$
 
 2ccec0af59595c549267b49700b989b98de1c334: $$\varepsilon$$
 
 cb062dd2f49be17a186c50be9071aacd550a0199: $$\varepsilon$$
 
-a111e3e7b48657cdada7e0550c3083fe41758344: $$\varepsilon$$
+b1d16fec9d1e794b91b9bc946aef33e4737c35d9: $$\varepsilon$$
 
 %%
 ## Drawing
@@ -26,7 +27,7 @@ a111e3e7b48657cdada7e0550c3083fe41758344: $$\varepsilon$$
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.6.6",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.9.2",
 	"elements": [
 		{
 			"type": "ellipse",
@@ -60,8 +61,8 @@ a111e3e7b48657cdada7e0550c3083fe41758344: $$\varepsilon$$
 		},
 		{
 			"type": "ellipse",
-			"version": 743,
-			"versionNonce": 1453960555,
+			"version": 744,
+			"versionNonce": 353218149,
 			"index": "a5",
 			"isDeleted": false,
 			"id": "WyoOIt_ng36dMlkWgB6ij",
@@ -83,13 +84,8 @@ a111e3e7b48657cdada7e0550c3083fe41758344: $$\varepsilon$$
 			],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": [
-				{
-					"id": "Ukg3RyOMo7_7q9x35MpA5",
-					"type": "arrow"
-				}
-			],
-			"updated": 1741055611139,
+			"boundElements": [],
+			"updated": 1743474077452,
 			"link": null,
 			"locked": false
 		},
@@ -141,8 +137,8 @@ a111e3e7b48657cdada7e0550c3083fe41758344: $$\varepsilon$$
 		},
 		{
 			"type": "ellipse",
-			"version": 534,
-			"versionNonce": 971312491,
+			"version": 535,
+			"versionNonce": 290772741,
 			"index": "aP",
 			"isDeleted": false,
 			"id": "jdd_X7DDl8JBzYNSf7zqp",
@@ -164,13 +160,8 @@ a111e3e7b48657cdada7e0550c3083fe41758344: $$\varepsilon$$
 			],
 			"frameId": null,
 			"roundness": null,
-			"boundElements": [
-				{
-					"id": "Ukg3RyOMo7_7q9x35MpA5",
-					"type": "arrow"
-				}
-			],
-			"updated": 1741055299460,
+			"boundElements": [],
+			"updated": 1743474077452,
 			"link": null,
 			"locked": false
 		},
@@ -406,12 +397,12 @@ a111e3e7b48657cdada7e0550c3083fe41758344: $$\varepsilon$$
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 430.7184934064318,
-			"y": -146.18877426011625,
+			"x": 430.3099666522836,
+			"y": -145.8987010856453,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 24.913541146812086,
-			"height": 18.269930174328863,
+			"width": 25.730594655108384,
+			"height": 17.689783825387014,
 			"seed": 292015563,
 			"groupIds": [],
 			"frameId": null,
@@ -642,12 +633,12 @@ a111e3e7b48657cdada7e0550c3083fe41758344: $$\varepsilon$$
 			"crop": null
 		},
 		{
-			"id": "Ukg3RyOMo7_7q9x35MpA5",
+			"id": "kLLpF0MEutSXBdHLkzJ28",
 			"type": "arrow",
-			"x": 198.87898495999352,
-			"y": -87.62077026026462,
-			"width": 480.13601172732524,
-			"height": 43.965030618384354,
+			"x": 197.9565225685805,
+			"y": -88.67062431158575,
+			"width": 482.53752193356235,
+			"height": 48.72515991205235,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -658,16 +649,16 @@ a111e3e7b48657cdada7e0550c3083fe41758344: $$\varepsilon$$
 			"opacity": 100,
 			"groupIds": [],
 			"frameId": null,
-			"index": "ar",
+			"index": "ap",
 			"roundness": {
 				"type": 2
 			},
-			"seed": 2135782181,
-			"version": 409,
-			"versionNonce": 1189955115,
+			"seed": 1942396538,
+			"version": 464,
+			"versionNonce": 535808166,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1741055613970,
+			"updated": 1743475343760,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -676,64 +667,54 @@ a111e3e7b48657cdada7e0550c3083fe41758344: $$\varepsilon$$
 					0
 				],
 				[
-					167.47348076434437,
-					40.89730789107211
+					144.13662033346023,
+					44.58187437309252
 				],
 				[
-					333.4442259928641,
-					40.308857147364265
+					312.0976060446933,
+					45.94464640238737
 				],
 				[
-					480.13601172732524,
-					-3.067722727312244
+					482.53752193356235,
+					-2.780513509664978
 				]
 			],
 			"lastCommittedPoint": null,
-			"startBinding": {
-				"elementId": "jdd_X7DDl8JBzYNSf7zqp",
-				"focus": 0.8211502407424666,
-				"gap": 1.8189406498862581,
-				"fixedPoint": null
-			},
-			"endBinding": {
-				"elementId": "WyoOIt_ng36dMlkWgB6ij",
-				"focus": -0.42563176638880085,
-				"gap": 1.729535576420819,
-				"fixedPoint": null
-			},
+			"startBinding": null,
+			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": "arrow",
 			"elbowed": false
 		},
 		{
 			"type": "image",
-			"version": 580,
-			"versionNonce": 269539045,
-			"index": "as",
+			"version": 592,
+			"versionNonce": 1006512806,
+			"index": "aq",
 			"isDeleted": false,
-			"id": "cm6y9l7CVzCGa0bUVxXWr",
+			"id": "aMBs7La4zed3AUMTK4oCK",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 428.56840572633564,
-			"y": -34.709950638015414,
+			"x": 429.1330668755849,
+			"y": -21.83828687176012,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 29.21371650700422,
 			"height": 15.580648803735585,
-			"seed": 1448108459,
+			"seed": 1125941862,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1741055294981,
+			"updated": 1743475347426,
 			"link": null,
 			"locked": false,
 			"status": "pending",
-			"fileId": "a111e3e7b48657cdada7e0550c3083fe41758344",
+			"fileId": "b1d16fec9d1e794b91b9bc946aef33e4737c35d9",
 			"scale": [
 				1,
 				1
@@ -757,8 +738,8 @@ a111e3e7b48657cdada7e0550c3083fe41758344: $$\varepsilon$$
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"currentItemArrowType": "round",
-		"scrollX": 49.260074870913,
-		"scrollY": 358.8288091662462,
+		"scrollX": -20.739925129087,
+		"scrollY": 381.7901499698923,
 		"zoom": {
 			"value": 2
 		},
@@ -773,18 +754,18 @@ a111e3e7b48657cdada7e0550c3083fe41758344: $$\varepsilon$$
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

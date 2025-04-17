@@ -32,5 +32,5 @@ Suppose $A \in \F^{m,n}$[^1].
 
 [^1]: [[Sets of Matrices]]
 [^2]:: [[Matrix Multiplication]]
-[^3]: [[Transposition]]
+[^3]: [[Math/Linear Algebra/Matrices/Transposition]]
 [^4]: [[Images of Linear Maps]]

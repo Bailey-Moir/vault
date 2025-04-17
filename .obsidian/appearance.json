@@ -1,6 +1,6 @@
 {
   "accentColor": "",
-  "cssTheme": "Catppuccin",
+  "cssTheme": "Typewriter",
   "theme": "obsidian",
   "enabledCssSnippets": [
     "big-math",
@@ -14,7 +14,8 @@
     "no-folder-icon",
     "better-atom",
     "better-embeds",
-    "better-callouts"
+    "better-callouts",
+    "typewriter-dark"
   ],
   "showRibbon": false,
   "showViewHeader": true

@@ -11,7 +11,7 @@ $$\begin{align*}
 	\theta = \dfrac{\pi}{2} &\iff \vecbf{x} \cdot \vecbf{y} = 0 && \vecbf{x} \:\bot\: \vecbf{y}\\
 	\theta > \dfrac{\pi}{2} &\iff \vecbf{x} \cdot \vecbf{y} < 0 && \text{obtuse}\\
 \end{align*}$$
-can derived from the [[Dot Product|cosine definition of the dot product]].
+can be derived from the [[Dot Product|cosine definition of the dot product]].
 
 > [!proof]- $\vecbf{x} \:\bot\: \vecbf{y} \iff \vecbf{x} \cdot \vecbf{y} = 0$
 > $$ \begin{align*}

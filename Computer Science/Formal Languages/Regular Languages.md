@@ -4,6 +4,7 @@ tags:
   - comp
 ---
 $A \subseteq \Sigma^*$ is *regular* iff there exists a [[Deterministic Finite Automata|DFA]] $M$ such that $A = L(M)$[^1].
+#TODO exam jumpscare
 
 > [!note]- Every [[Languages of Finite Automata|language accepted by]] an [[Non-Deterministic Finite Automata|NFA]] is accepted by a [[Deterministic Finite Automata|DFA]] (and vice versa)
 > Thus,  $A \subseteq \Sigma^*$ is *regular* iff there exists a [[Deterministic Finite Automata|DFA]] or [[Non-Deterministic Finite Automata|NFA]] $M$ such that $A = L(M)$[^1].

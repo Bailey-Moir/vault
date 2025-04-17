@@ -15,10 +15,10 @@ $$\begin{matrix}
 	\text{l}&\text{o}&\text{n}&\text{q}&\text{u} \\
 	\text{v}&\text{w}&\text{x}&\text{y}&\text{z} \\
 \end{matrix}$$
-# Encryption
-Break the [[Plaintext|plaintext]] into pairs, padding with `x` in the case of repeats/singletons.
+# Encryption/Decryption
+Break the [[Plaintext|plaintext]] into pairs, padding with `x` in the case of repeats/singletons (e.g. the pair `ss` would become `sx` and if the last pair was `p`, it would become `px`).
 
-To encrypt each pair, find the first letter in the [[#Key|key square]] and locate the letters at the opposite corners of the rectangle they form. If they are on the same row, use a shift instead
+To encrypt each pair, find the two letters the [[#Key|key square]] and characters at the opposite corners of the rectangle they form will be the [[Encryption|encrypted]] pair. If they are on the same row, use a shift instead.
 $$\begin{array}{rlrlrl}
 	\text{th} \mapsto \text{bn} &
 	\begin{matrix}
@@ -31,7 +31,7 @@ $$\begin{array}{rlrlrl}
 	\text{cr} \mapsto \text{ri} &
 	\begin{matrix}
 		\text{.}&\text{.}&\text{.}&\text{c}&\text{.} \\
-		\text{.}&\text{s}&\text{.}&\text{r}&\text{.} \\
+		\text{.}&\text{ }&\text{.}&\text{r}&\text{.} \\
 		\text{.}&\text{.}&\text{.}&\text{i/j}&\text{.} \\
 		\text{.}&\text{.}&\text{.}&\text{.}&\text{.} \\
 		\text{.}&\text{.}&\text{.}&\text{.}&\text{.} \\

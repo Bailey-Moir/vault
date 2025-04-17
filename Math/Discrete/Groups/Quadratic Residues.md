@@ -46,7 +46,7 @@ For $p \in \mathbb{P} > 2$,
 > 
 > Then $a = g^{2t}$, meaning $b = g^t$ is a square root of $a$.
 > 
-> Then, for any $k$, $g^{2k} = g^{2t} \iff 1 = g^{2t-k}$, so
+> Then, for any $k$, $g^{2k} = g^{2t} \iff 1 = g^{2(t-k)}$, so
 > $$\begin{align}
 > 	& 2(t-k) \equiv 0 \mod {(p-1)} && p-1 = \left| g \right|  \\
 > 	\iff & 2t = 2k + m(p-1) && (1) \\
