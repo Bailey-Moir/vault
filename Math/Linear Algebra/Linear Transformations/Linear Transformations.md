@@ -2,6 +2,7 @@
 tags:
   - atom
   - math
+  - linear
 ---
 For any $A\in\R^{m,n}$[^1] and $\vecbf{v}\in\R^n$,
 $$A\vecbf{v}=A\begin{bmatrix}
@@ -17,7 +18,7 @@ $$A\vecbf{v}=A\begin{bmatrix}
 > 	v_{2}
 > \end{bmatrix} = v_{1}A\vecbf{e}_{1} + v_{2}A\vecbf{e}_{2}$$
 
-This is often a much easier way of calculating [[Matrix Addition|matrix]] [[Vectors|vector]] [[Matrix Multiplication|multiplication]], as $Ae_i$ is the $i$-th column of $A$;
+This is often a much easier way of calculating [[Matrix Addition|matrix]] [[Math/Linear Algebra/Vectors/Vectors|vector]] [[Matrix Multiplication|multiplication]], as $Ae_i$ is the $i$-th column of $A$;
 $$ A\vecbf{e}_{i}= \begin{bmatrix}
 	a_{1i} \\
 	a_{2i} \\

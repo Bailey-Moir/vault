@@ -3,7 +3,7 @@ tags:
   - atom
   - comp
 ---
-![600|center](linked-list.excalidraw)
+![600|center](linked-list.excalidraw.md)
 
 *Linked lists* are part of every advanced data structure. The principal benefit of a *linked list* over a conventional array is that the list elements can be easily inserted or removed **without reallocation or reorganization** of the entire structure, although data access becomes $\mathcal{O}(n)$. The most basic node in a linked list has:
 - the `next` field, which gives the next node in the sequence. 

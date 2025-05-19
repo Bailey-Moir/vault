@@ -3,7 +3,7 @@ tags:
   - atom
   - math
 ---
-![350|center](hyperbola.excalidraw)
+![350|center](hyperbola.excalidraw.md)
 The set of points where the **difference** between the distances to the two points $F_1$ and $F_2$ ($(\pm c,0)$) is **constant**. The vertices of the hyperbola are at $(\pm a,0)$. These points form the transverse axis.
 $$\begin{array}{l l l l}
 	\textbf{Standard Forumla} & \textbf{Parametric Form} & \textbf{Foci Equation} & \textbf{Asymtote Lines} \\

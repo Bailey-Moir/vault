@@ -4,7 +4,7 @@ tags:
   - math
   - linear
 ---
-![400|center](basis-vectors.excalidraw)
+![400|center](basis-vectors.excalidraw.md)
 The *standard basis* of $\R^n$ is the [[Ordered Sets|n-tuple]] [[Basis|basis]] $E = \left( \hat{\vecbf{e}}_{1},\hat{\vecbf{e}}_{2},\dots,\hat{\vecbf{e}}_{n} \right)$ such that
 $$\begin{array}{cccc}
 	\hat{\vecbf{e}}_{1} = \begin{bmatrix}

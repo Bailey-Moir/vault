@@ -1,0 +1,7 @@
+- [[Contraction & Deletion]]
+- [[Subgraphs]]
+- [[Minor Graphs]]
+- [[Wagner's Theorem]]
+- [[Subdivisions]]
+- [[Crossing Numbers]]
+- 

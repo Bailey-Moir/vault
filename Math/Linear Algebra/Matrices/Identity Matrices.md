@@ -1,7 +1,8 @@
 ---
 tags:
-  - math
   - atom
+  - math
+  - linear
 ---
 The *identity matrix* between two [[Vector Spaces|spaces]] is the [[Matrices|matrix]] of the [[Identity Operator|identity operator]] between them, given by $I$. The [[Dimension|dimensions]] of the *identity matrix* are sometimes given as a subscript.
 $$ I_n \in \F^{n,n}$$

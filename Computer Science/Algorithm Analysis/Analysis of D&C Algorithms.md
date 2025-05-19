@@ -30,7 +30,7 @@ $$\Theta(g) \mapsto cg$$
 > 	  2T(\frac{n}{2}) + cn & \text{if } n>1
 > \end{array} \right. $$
 > - **Step 3**
-> ![1000|center](recurrence-tree.excalidraw)
+> ![1000|center](recurrence-tree.excalidraw.md)
 > - **Step 4**
 > $$T(n) = \Theta(n\log n)$$
 

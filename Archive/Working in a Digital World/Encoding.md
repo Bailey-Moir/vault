@@ -7,7 +7,7 @@ tags:
 Encryption (Cryptographic Coding)
 
 # Shannon-Weaver Communication Model
-![1000|center](shannnon-communiocation-model.excalidraw)
+![1000|center](shannnon-communiocation-model.excalidraw.md)
 
 # Simple (Uncoded Representations)
 ```sheet
@@ -41,7 +41,7 @@ Works by finding series of identical information and grouping it together. For e
 > | _ | 2 |
 > This is 10 characters in total, so uncompressed, this would be 80 bits, as each uncompressed character is a byte.
 > Combine our lowest frequencies (note this is created bottom to top):
-> ![200|center](huffman-coding-example.excalidraw)
+> ![200|center](huffman-coding-example.excalidraw.md)
 > This tree results in no codes being the prefix of others.
 >
 > | Code | Letter | Total Bits |

@@ -5,7 +5,7 @@ tags:
   - linear
 ---
 $\mathcal{P}(\F)$ is the set of all polynomials with coefficients in $\F$. 
-$$ \mathcal{P}(\F) = \left\{ p : \F \to \F : \left( p(z) = a_0 + a_1 z + \dots + a_mz^m \right) \land z, a_0, \dots, a_m \in \F \right\} $$
+$$ \mathcal{P}(\F) = \left\{ p : \F \to \F : \exists m \in \Z^+, a_{0},\dots,a_{m} \in \F : p(z) = a_0 + a_1 z + \dots + a_mz^m \right\} $$
 $$ \mathcal{P}_m(\F) = \text{span}\left( \lambda z.1, \lambda z.z, \dots, \lambda z.z^m,\right) $$
 Thus $\mathcal{P}_m(\F)$ is a [[Finite-Dimensional Vector Spaces|finite-dimensional vector space]] for each $m \in \Z^+$.
 # Degree

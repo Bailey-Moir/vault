@@ -10,7 +10,7 @@ If two **finite** [[Sets|sets]] $A$ and $B$ are [[Disjoint Sets|disjoint]]
 $$ |A \cup B| = |A| + |B| $$
 If they are **not** [[Disjoint Sets|disjoint]]
 $$ |A \cup B| = |A| + |B| - |A \cap B|$$
-![1000|center](additive-rule.excalidraw)
+![1000|center](additive-rule.excalidraw.md)
 
 \[[[Unions and Intersections]]\]
 

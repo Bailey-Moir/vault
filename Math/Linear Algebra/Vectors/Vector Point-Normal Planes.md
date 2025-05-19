@@ -2,6 +2,7 @@
 tags:
   - atom
   - math
+  - linear
 ---
 ```avatar
 image: Assets/excali/vector-point-normal-planes.excalidraw.svg

@@ -7,291 +7,237 @@ tags:
 
 
 # Excalidraw Data
+
 ## Text Elements
 %%
 ## Drawing
-```compressed-json
-N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebTiARgBmGjoghH0EDihmbgBtcDBQMBLoeHF0IKI5JH5SxhZ2LjQEgAYADjrIBtZOADlOMW4EgDYknlbWgFYJka6IQg5iLG4I
-
-XBHUkshCZgARdKgEYm4AMwIw+ZJVgFlrgAkAFl2AMQTnTQBVAHEAK2wKIQwADSAHkOAB1TCbUonQj4fAAZVgwVWgg80IEUFIbAA1ghwSR1NwHvNmFjcQgkTAURI0Vd5ti/JIOOFci15mw4LhsGoYMNJvNrMoaahWvMoWhnG0ktp2jwAOztACc7SmU1a8p4DxGnUKkD5kva2laPBGKrN7SSSvlSTmeogZOxeIAwmx8GxSKsAMQnE7yhCaDbzTTcnH
-
-KRlLV3uz0SH1+gNB+0UQmSbjy+XzSQIQjKaRpjP2sJHbgTKZJbVTBLykn28PCOAASWIbNQeQAuvMTuRMk3uBwhPCGcIlizmC3ilsyogS3qAL7B4fEACiwUy2Rb7fmQjgxFwh2OLU1Y1a2qVKoeU3mRA4OL7A/wV7Y2DxB9QZ3wYUK88KE8gsGnEhVIQNQYgwTC9M0vBJAWk49E0AwcEMaA8AkDyalM1oqpcSwrBIuDyqBOz7ME+6nOcCCXK+EAgr
-
-gABSyitNcrQIs+CKSMwfTKHAACODw/DwUCgbC8JUiKDpuvShbkniBLEESaA1pOjoUqJFTieiQ5MqOLYJByXI8rA/JivaQoisZk4SqgzgTA82hKlMlpJE5znOTBpQGlZRrKiMao8BMyQjA8SoJHwUlOggUYet6owxYmk4hs+dZCJGbpRbGsWjKByZyamaDppm2a5oJeVuQICDFshrQJL5CRVoppRJY2zb5B29pdrgPavv2g72hGxDadwv5/uUM5bN
-
-+8WLiuGRZDkLVbjue4VagVamkkJ6VvKMzmaU163mg3UPva7rPkt76fiU41FPa/5qUBIHzHBnDDGtD3gfBgwVEFSojFVIxtNhyyWWs7SEXsByneRlGrAAKs6yjONxAAaPAADIAIrYHAPDgoj7SYDAuANiMVCdnCiLImpdLHKS0n4imxI0+FqmohJ1O9cIuYDey9qctyvJGYKHDChU22QJZbRTLKF4zKMP2BTM8wec4SrGuW2rtGMGGWtWSSMxSkUx
-
-ugXpOZoCS+qBCVhn1BveibZsnFl9MlQVOZ5s7hbla+1UJMFm1JHK8yNU2G6tZO7WdXePWTn1XOoENU4VDwc4Lsly6rjNIfzbupGHqtJ4/fK326pOu2R4dJdPi+ZEfggX51L+CerHdYSgY9kE8C99ptwhSHLQ5yoJO0Jp2pOiyA6suBKqDxEIDnb6Q/aVwSJYAAKAD6cC7Ij8oghQK+7PQaMjMw4LOoEzxCWTzO0qzoHKTJTuoPVmJMxTLMaezWms
-
-sMel84ZLQChMkLMy4oSyyn9ieSYHRNatBGKFScSsjTD3NCqK0NoR6lHvhFVKhsIBegeDwTQCAfIW1DElFK0ZvQEKISQ+Y2V5KoHyvaLMrtiqMNKg6T2z1C5fVaJ3ScQdmpoE3G1bsCBez7XvJpEc380DxxuqNC6KclhTTXLNYRodSjbmzktFax4LwqnTBw0ukio47UrhDGudcfzXRGoBeEwEW6vUaE9Fo6pnEQR7hUWWOoHjTA1gDXC6BcAAEFp7
-
-g1fGdCii8qLgjoj5NgQJJB3GEDAWi1x8LEAeAATQ4HyUmIk343w/kpWmskGHPwdLTa+6AqagUZJzWRy1f4GQ8m0UWaxgEi1AZVeU8RqyWgvD7NCloMH6m4FKVospHIPFqvKaYCofIcKwTbWMvoRgnEmKQxK1scHenWZs1ojscr5hdkVU5HsloDxCu0aqHTBGZ1ER1cRXUpGfxkWOQaephoAV4Mne0mhJrp3XHNe02jFpeyPGtbUPB1RTGMYsPaqA
-
-DqPhOpE8iX5wChzWHAOASJFpfNKOoaaqxdykFvHUBghAEAUAAEJkN2ZQtZvoWXQggNgEQgRsgNkOPoJE4VVlG19P6QMbKOWkC5VAHlGR6U7MXIKvB5UyzfTFZyma0r9DPCvkU2pt9KXislRq/lFJym5SfvqtV3LeXGrxDU9SklSgGvVbygAShzZkTTdKFHZZaqVvKQT6X5gA7aPqJXOoyM8TgUBngdThG0i1YarURqjQiQgRhE4hqdUm/Q0MsBQB
-
-CUQZQkEIDBBOIJBNhrrVRFIPmiVbAKBZlwK8sxobK0ZCXEsEJdaG0hCorgbtbLmDYGxPCRGJZYXaDVJMOU1Zh4dHgQIYdbp8DZO4LaWyrQlRJEHkFCWlolSUqMGwAwhL6gECEN4+IUDr03smEnJR3qs1+oyG61OscIB9TZeGEgqb01l0pd+4ggqG60rdFRL0zolSQcg88C+8wXUIGUAOft3oly7DQ2h2DEBrGOpwSvAgs9Dinr/JyFe5gcTjm+Rg
-
-YFUBZVW0XPkb5kA4wirilsZjGU2OTmNkkU25suilHwYQ4hUwMSCYOVs75mjHXWHoKEOj5DXwFHY8xhAsDsCbTExxhACQdO1CY3gv6uATgIAdgJ5jKpsDQSnuZvBxAfbrA2FJgT1HprZBtRUZT7G8HCoTFpvBnH/M8b42ZgzQmaGids3GDZkn2NtjnDhyAT6PMBqgE0FsKLvVwECGYYQzAvikB/WmiomWYRiIQzhQrQtiMYA4LgTQwRXxYgvfMbA1
-
-RuDNeiZOOrmQOukBazzIQUBrwVE64liAdgfgIGwDkBEdW4DXDYMsDt9XGvV3OuNCAwlwiDVnCAWcQA==
-```
-%%---
-excalidraw-plugin: parsed
-tags:
-  - excalidraw
----
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
-
-
-# Excalidraw Data
-## Text Elements
-%%
-## Drawing
-```compressed-json
-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
-```
-%%---
-excalidraw-plugin: parsed
-tags:
-  - excalidraw
----
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
-
-
-# Excalidraw Data
-## Text Elements
-%%
-## Drawing
-```compressed-json
-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
-```
-%%---
-excalidraw-plugin: parsed
-tags:
-  - excalidraw
----
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
-
-
-# Excalidraw Data
-## Text Elements
-%%
-## Drawing
-```compressed-json
-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
-```
-%%---
-excalidraw-plugin: parsed
-tags:
-  - excalidraw
----
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
-
-
-# Excalidraw Data
-## Text Elements
-%%
-## Drawing
-```compressed-json
-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
-```
-%%---
-excalidraw-plugin: parsed
-tags:
-  - excalidraw
----
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
-
-
-# Excalidraw Data
-## Text Elements
-%%
-## Drawing
-```compressed-json
-N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebTiARgBmGjoghH0EDihmbgBtcDBQMBLoeHF0IKI5JH5SxhZ2LjQEgAYADjrIBtZOADlOMW4EgDYknlbWgFYJka6IQg5iLG4I
-
-XBHUkshCZgARdKgEYm4AMwIw+ZJVgFlrgAkAFl2AMQTnTQBVAHEAK2wKIQwADSAHkOAB1TCbUonQj4fAAZVgwVWgg80IEUFIbAA1ghwSR1NwHvNmFjcQgkTAURI0Vd5ti/JIOOFci15mw4LhsGoYMNJvNrMoaahWvMoWhnG0ktp2jwAOztACc7SmU1a8p4DxGnUKkD5kva2laPBGKrN7SSSvlSTmeogZOxeIAwmx8GxSKsAMQnE7yhCaDbzTTcnH
-
-KRlLV3uz0SH1+gNB+0UQmSbjy+XzSQIQjKaRpjP2sJHbgTKZJbVTBLykn28PCOAASWIbNQeQAuvMTuRMk3uBwhPCGcIlizmC3ilsyogS3qAL7B4fEACiwUy2Rb7fmQjgxFwh2OLU1Y1a2qVKoeU3mRA4OL7A/wV7Y2DxB9QZ3wYUK88KE8gsGnEhVIQNQYgwTC9M0vBJAWk49E0AwcEMaA8AkDyalM1oqpcSwrBIuDyqBOz7ME+6nOcCCXK+EAgr
-
-gABSyitNcrQIs+CKSMwfTKHAACODw/DwUCgbC8JUiKDpuvShbkniBLEESaA1pOjoUqJFTieiQ5MqOLYJByXI8rA/JivaQoisZk4SqgzgTA82hKlMlpJE5znOTBpQGlZRrKiMao8BMyQjA8SoJHwUlOggUYet6owxYmk4hs+dZCJGbpRbGsWjKByZyamaDppm2a5oJeVuQICDFshrQJL5CRVoppRJY2zb5B29pdrgPavv2g72hGxDadwv5/uUM5bN
-
-+8WLiuGRZDkLVbjue4VagVamkkJ6VvKMzmaU163mg3UPva7rPkt76fiU41FPa/5qUBIHzHBnDDGtD3gfBgwVEFSojFVIxtNhyyWWs7SEXsByneRlGrAAKs6yjONxAAaPAADIAIrYHAPDgoj7SYDAuANiMVCdnCiLImpdLHKS0n4imxI0+FqmohJ1O9cIuYDey9qctyvJGYKHDChU22QJZbRTLKF4zKMP2BTM8wec4SrGuW2rtGMGGWtWSSMxSkUx
-
-ugXpOZoCS+qBCVhn1BveibZsnFl9MlQVOZ5s7hbla+1UJMFm1JHK8yNU2G6tZO7WdXePWTn1XOoENU4VDwc4Lsly6rjNIfzbupGHqtJ4/fK326pOu2R4dJdPi+ZEfggX51L+CerHdYSgY9kE8C99ptwhSHLQ5yoJO0Jp2pOiyA6suBKqDxEIDnb6Q/aVwSJYAAKAD6cC7Ij8oghQK+7PQaMjMw4LOoEzxCWTzO0qzoHKTJTuoPVmJMxTLMaezWms
-
-sMel84ZLQChMkLMy4oSyyn9ieSYHRNatBGKFScSsjTD3NCqK0NoR6lHvhFVKhsIBegeDwTQCAfIW1DElFK0ZvQEKISQ+Y2V5KoHyvaLMrtiqMNKg6T2z1C5fVaJ3ScQdmpoE3G1bsCBez7XvJpEc380DxxuqNC6KclhTTXLNYRodSjbmzktFax4LwqnTBw0ukio47UrhDGudcfzXRGoBeEwEW6vUaE9Fo6pnEQR7hUWWOoHjTA1gDXC6BcAAEFp7
-
-g1fGdCii8qLgjoj5NgQJJB3GEDAWi1x8LEAeAATQ4HyUmIk343w/kpWmskGHPwdLTa+6AqagUZJzWRy1f4GQ8m0UWaxgEi1AZVeU8RqyWgvD7NCloMH6m4FKVospHIPFqvKaYCofIcKwTbWMvoRgnEmKQxK1scHenWZs1ojscr5hdkVU5HsloDxCu0aqHTBGZ1ER1cRXUpGfxkWOQaephoAV4Mne0mhJrp3XHNe02jFpeyPGtbUPB1RTGMYsPaqA
-
-DqPhOpE8iX5wChzWHAOASJFpfNKOoaaqxdykFvHUBghAEAUAAEJkN2ZQtZvoWXQggNgEQgRsgNkOPoJE4VVlG19P6QMbKOWkC5VAHlGR6U7MXIKvB5UyzfTFZyma0r9DPCvkU2pt9KXislRq/lFJym5SfvqtV3LeXGrxDU9SklSgGvVbygAShzZkTTdKFHZZaqVvKQT6X5gA7aPqJXOoyM8TgUBngdThG0i1YarURqjQiQgRhE4hqdUm/Q0MsBQB
-
-CUQZQkEIDBBOIJBNhrrVRFIPmiVbAKBZlwK8sxobK0ZCXEsEJdaG0hCorgbtbLmDYGxPCRGJZYXaDVJMOU1Zh4dHgQIYdbp8DZO4LaWyrQlRJEHkFCWlolSUqMGwAwhL6gECEN4+IUDr03smEnJR3qs1+oyG61OscIB9TZeGEgqb01l0pd+4ggqG60rdFRL0zolSQcg88C+8wXUIGUAOft3oly7DQ2h2DEBrGOpwSvAgs9Dinr/JyFe5gcTjm+Rg
-
-YFUBZVW0XPkb5kA4wirilsZjGU2OTmNkkU25suilHwYQ4hUwMSCYOVs75mjHXWHoKEOj5DXwFHY8xhAsDsCbTExxhACQdO1CY3gv6uATgIAdgJ5jKpsDQSnuZvBxAfbrA2FJgT1HprZBtRUZT7G8HCoTFpvBnH/M8b42ZgzQmaGids3GDZkn2NtjnDhyAT6PMBqgE0FsKLvVwECGYYQzAvikB/WmiomWYRiIQzhQrQtiMYA4LgTQwRXxYgvfMbA1
-
-RuDNeiZOOrmQOukBazzIQUBrwVE64liAdgfgIGwDkBEdW4DXDYMsDt9XGvV3OuNCAwlwiDVnCAWcQA==
-```
-%%---
-excalidraw-plugin: parsed
-tags:
-  - excalidraw
----
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
-
-
-# Excalidraw Data
-## Text Elements
-%%
-## Drawing
-```compressed-json
-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
-```
-%%---
-excalidraw-plugin: parsed
-tags:
-  - excalidraw
----
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
-
-
-# Excalidraw Data
-## Text Elements
-%%
-## Drawing
-```compressed-json
-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
+```json
+{
+	"type": "excalidraw",
+	"version": 2,
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.9.2",
+	"elements": [
+		{
+			"type": "ellipse",
+			"version": 108,
+			"versionNonce": 1632005206,
+			"index": "a6",
+			"isDeleted": false,
+			"id": "MMH4DF1-bUGjcwuyKOnWx",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -103.82789855072468,
+			"y": -8.0269869839736,
+			"strokeColor": "#ff7eb6",
+			"backgroundColor": "#ff7eb6",
+			"width": 77,
+			"height": 77,
+			"seed": 2053465174,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1726304699845,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "ellipse",
+			"version": 237,
+			"versionNonce": 2147259798,
+			"index": "a7",
+			"isDeleted": false,
+			"id": "OaJg0M0SckShsNgpq4j2t",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -204.95833333333337,
+			"y": -8.896552201364912,
+			"strokeColor": "#161616",
+			"backgroundColor": "#161616",
+			"width": 77,
+			"height": 77,
+			"seed": 2015521174,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1726304517520,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "ellipse",
+			"version": 130,
+			"versionNonce": 499601610,
+			"index": "a8",
+			"isDeleted": false,
+			"id": "TCg-qX2LQcp2WX8xyaI6w",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 105.8455216606452,
+			"y": -9.034468635983743,
+			"strokeColor": "#33b1ff",
+			"backgroundColor": "#33b1ff",
+			"width": 77,
+			"height": 77,
+			"seed": 1519175382,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1726304607968,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "ellipse",
+			"version": 230,
+			"versionNonce": 1588918026,
+			"index": "a9",
+			"isDeleted": false,
+			"id": "ziP_pDX7OwPDvQ6sWCreF",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 2.838040008635062,
+			"y": -8.0269869839736,
+			"strokeColor": "#42be65",
+			"backgroundColor": "#42be65",
+			"width": 77,
+			"height": 77,
+			"seed": 1379499030,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1726304598777,
+			"link": null,
+			"locked": false
+		},
+		{
+			"type": "ellipse",
+			"version": 150,
+			"versionNonce": 1666840586,
+			"index": "aA",
+			"isDeleted": false,
+			"id": "WaJ65oKhHouyJMa7d4Yny",
+			"fillStyle": "solid",
+			"strokeWidth": 4,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 207.27483451947836,
+			"y": -10.883341170527657,
+			"strokeColor": "#ff6f00",
+			"backgroundColor": "#ff6f00",
+			"width": 77,
+			"height": 77,
+			"seed": 891128150,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1726304625057,
+			"link": null,
+			"locked": false
+		}
+	],
+	"appState": {
+		"theme": "dark",
+		"viewBackgroundColor": "#ffffff",
+		"currentItemStrokeColor": "#ff7eb6",
+		"currentItemBackgroundColor": "#ee5396",
+		"currentItemFillStyle": "solid",
+		"currentItemStrokeWidth": 4,
+		"currentItemStrokeStyle": "solid",
+		"currentItemRoughness": 1,
+		"currentItemOpacity": 100,
+		"currentItemFontFamily": 1,
+		"currentItemFontSize": 20,
+		"currentItemTextAlign": "left",
+		"currentItemStartArrowhead": null,
+		"currentItemEndArrowhead": "arrow",
+		"currentItemArrowType": "round",
+		"scrollX": 364.84174940692753,
+		"scrollY": 215.57625782725063,
+		"zoom": {
+			"value": 2
+		},
+		"currentItemRoundness": "round",
+		"gridSize": 20,
+		"gridStep": 5,
+		"gridModeEnabled": false,
+		"gridColor": {
+			"Bold": "rgba(217, 217, 217, 0.5)",
+			"Regular": "rgba(230, 230, 230, 0.5)"
+		},
+		"colorPalette": {
+			"topPicks": {
+				"elementBackground": [
+					"#ff7eb6",
+					"#161616",
+					"#33b1ff",
+					"#42be65",
+					"#ff6f00"
+				],
+				"canvasBackground": [
+					"#e06c75",
+					"#1e1e1e",
+					"#61afef",
+					"#98c379",
+					"#d19a66"
+				],
+				"elementStroke": [
+					"#ff7eb6",
+					"#161616",
+					"#33b1ff",
+					"#42be65",
+					"#ff6f00"
+				]
+			}
+		},
+		"currentStrokeOptions": null,
+		"frameRendering": {
+			"enabled": true,
+			"clip": true,
+			"name": true,
+			"outline": true
+		},
+		"objectsSnapModeEnabled": false,
+		"activeTool": {
+			"type": "selection",
+			"customType": null,
+			"locked": false,
+			"lastActiveTool": null
+		}
+	},
+	"files": {}
+}
 ```
 %%

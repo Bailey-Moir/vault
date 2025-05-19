@@ -24,7 +24,7 @@ Due to *color assimilation*, our brains connect colours towards their neighbors.
 The colour our eye perceives depends on the lighting context. If a green light is shone on a red strawberry, but your brain knows that it should be red, you see it as red.
 
 # The Stroop Effect
-![300|center](stroop-effect.excalidraw)
+![300|center](stroop-effect.excalidraw.md)
 Measuring the cognitive load to perform a task. Incongruence in meaning leads to higher cognitive load.
 
 # Analogue vs. Digital

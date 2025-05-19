@@ -1,11 +1,10 @@
 {
   "accentColor": "",
-  "cssTheme": "Typewriter",
+  "cssTheme": "Oxocarbon",
   "theme": "obsidian",
   "enabledCssSnippets": [
     "big-math",
     "center-svg",
-    "hidden-properties",
     "larger-inline-math",
     "pdfs",
     "typewriter-tables",
@@ -14,8 +13,7 @@
     "no-folder-icon",
     "better-atom",
     "better-embeds",
-    "better-callouts",
-    "typewriter-dark"
+    "better-callouts"
   ],
   "showRibbon": false,
   "showViewHeader": true

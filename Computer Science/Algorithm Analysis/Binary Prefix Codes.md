@@ -3,7 +3,7 @@ tags:
   - atom
   - comp
 ---
-![300|center](binary-prefix-code.excalidraw)
+![300|center](binary-prefix-code.excalidraw.md)
 A *binary prefix code* is represented using a [[Binary Trees|binary tree]], where each [[Leaf Nodes|leaf node]] represents a character.
 > [!example] `a` $= 00$, `c` $= 1$
 

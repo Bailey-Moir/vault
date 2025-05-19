@@ -3,7 +3,7 @@ tags:
   - atom
   - comp
 ---
-![600|center](double-linked-list.excalidraw)
+![600|center](double-linked-list.excalidraw.md)
 
 A *double-linked list* is a [[Linked Lists|linked list]] that has two pointers instead of one, containing the extra field `prev`, which gives the previous node in the sequence.
 

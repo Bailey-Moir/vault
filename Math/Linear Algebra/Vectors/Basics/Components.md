@@ -2,5 +2,6 @@
 tags:
   - atom
   - math
+  - linear
 ---
-The coordinates/numbers in a [[Vectors|vector]] are called *components*.
+The coordinates/numbers in a [[Math/Linear Algebra/Vectors/Vectors|vector]] are called *components*.

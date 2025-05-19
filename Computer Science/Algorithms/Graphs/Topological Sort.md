@@ -3,7 +3,7 @@ tags:
   - atom
   - comp
 ---
-![1000|center](topological-order.excalidraw)
+![1000|center](topological-order.excalidraw.md)
 A *topological ordering* of a [[Directed Graphs|directed graph]] is an ordering of its [[Vertices|vertices]], such that, if there is an [[Edges|edge]] $\left( u,v \right)$ in the [[Graphs|graph]], then [[Vertices|vertex]] $u$ is placed in some position before vertex $v$.  [[Directed Graphs|Directed]] [[Walks|acyclic]] [[Graphs|graphs]] (DAG) have at least one *topological ordering*.
 
 > [!algorithm]

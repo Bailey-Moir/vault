@@ -3,7 +3,7 @@ tags:
   - atom
   - math
 ---
-![300|center](hyperbola.excalidraw)
+![300|center](hyperbola.excalidraw.md)
 $$\begin{array}{ccc}
 	x = a \cosh t & y = b\sinh(t) & \forall t \in \R
 \end{array}$$
@@ -19,7 +19,7 @@ $$\begin{array}{l c l}
 	\coth x = \dfrac{\cosh x}{\sinh x}
 	\\
 \end{array}$$
-![1000|center](hyperbolic-functions.excalidraw)
+![1000|center](hyperbolic-functions.excalidraw.md)
 $$\begin{array}{ccccccccccc}
 	\cosh : \R \to \left[ 1, \infty \right) &&&&&&&&&
 	\sinh : \R\to \R &&&&&&&&&

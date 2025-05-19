@@ -4,7 +4,7 @@ tags:
   - math
   - linear
 ---
-![400|center](basis-vectors.excalidraw)
+![400|center](basis-vectors.excalidraw.md)
 A *basis* of $V$ is a [[Span|spanning list]] of $V$ that is [[Linear Independence|linearly independent]].
 
 > [!note] Condition for Basis

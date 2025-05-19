@@ -10,12 +10,15 @@ export default class LatexCalloutsPlugin extends Plugin {
 				//if (svgs.length > 0) clearInterval(handle);
 		
 				svgs.forEach((svg) => {
-					let title = svg.parentElement?.parentElement?.parentElement?.getAttr("data-callout")!;
-					title = title.charAt(0).toUpperCase() + title.slice(1);
+					let rawTitle = svg.parentElement?.parentElement?.parentElement?.getAttr("data-callout")!;
+					let titleText = rawTitle.charAt(0).toUpperCase() + rawTitle.replace(/-/g,' ').slice(1);
+
+					let words = rawTitle.split('-');
+					let title = words.map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ');
 		
 					let titleElement = svg.parentElement?.nextElementSibling!;
 					
-					if (titleElement.textContent == title) titleElement.textContent = "";
+					if (titleElement.textContent == titleText) titleElement.textContent = "";
 					
 					let b = document.createElement("b");
 					b.textContent = title + " "

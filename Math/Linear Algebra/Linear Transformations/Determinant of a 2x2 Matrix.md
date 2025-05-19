@@ -2,6 +2,7 @@
 tags:
   - atom
   - math
+  - linear
 ---
 The *determinant* of a $2\times2$ matrix is the product of the main diagonal minus the product of the secondary diagonal.
 $$\begin{vmatrix}

@@ -8,7 +8,8 @@ $A \in \R^{n,n}$[^1] is *diagonalisable* iff there exists a [[Diagonal Matrices|
 $$A = PDP^{-1},$$
 or [[Logical Equivalence|equivalently]]
 $$D = P^{-1}AP$$
-> [!proof]- $A$ is *diagonalisable* iff there is a [[Basis|basis]] of $\R^n$ consisting of [[Eigenvector & Eigenvalues|eigenvectors]] of $A$.
+
+> [!theorem]- $A\in \R^{n,n}$ is *diagonalisable* $A$ has $n$ [[Linear Independence|linearly independent]] [[Eigenvector & Eigenvalues|eigenvectors]] of $A$.
 > Suppose $\vecbf{p}_{1},\vecbf{p}_{2},\dots,\vecbf{p}_{n}$ is a [[Basis|basis]] for $\R^n$ consisting of [[Eigenvector & Eigenvalues|eigenvectors]] of $A$.
 > 
 > Set $P = \left[ \vecbf{p}_{1} | \cdots | \vecbf{p}_{n} \right]$. Then

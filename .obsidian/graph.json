@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-path:Archive -path:Assets  ",
+  "search": "-path:Archive -path:Assets",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -81,6 +81,6 @@
   "repelStrength": 17.6041666666667,
   "linkStrength": 1,
   "linkDistance": 280,
-  "scale": 0.039472487271348805,
+  "scale": 0.042315902689760154,
   "close": false
 }

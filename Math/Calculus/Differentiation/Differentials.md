@@ -3,7 +3,7 @@ tags:
   - atom
   - math
 ---
-![400|center](differentials.excalidraw)
+![400|center](differentials.excalidraw.md)
 $$dy = f'(x) \,dx$$
 $dy$ is a function of $dx$ and $x$. Differentials can be used to linearly approximate a function near its value.
 >[!example]-

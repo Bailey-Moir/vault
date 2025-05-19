@@ -2,6 +2,7 @@
 tags:
   - atom
   - math
+  - linear
 ---
 $$ \lambda \left\langle x_1, \dots, x_n\right\rangle = \left\langle \lambda x_1, \dots, \lambda x_n\right\rangle $$
 In *vector scalar multiplication*, each [[Components|component]] is multiplied by the scalar.
@@ -23,5 +24,5 @@ $$\begin{align*}
 > \[[[Basis]]\]
 
 > [!note]- Parallel Vectors
-> Two [[Vectors|vectors]] are **parallel** iff they are *scalar multiples* of one another;
+> Two [[Math/Linear Algebra/Vectors/Vectors|vectors]] are **parallel** iff they are *scalar multiples* of one another;
 > $$ \vecbf a \parallel \vecbf b \iff \exists \lambda \in \R : \vecbf a = \lambda \vecbf b $$

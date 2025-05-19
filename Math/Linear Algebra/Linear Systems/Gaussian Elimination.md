@@ -2,8 +2,9 @@
 tags:
   - atom
   - math
+  - linear
 ---
-![200|center](gaussian-elimination.excalidraw)
+![200|center](gaussian-elimination.excalidraw.md)
 1. **Augmented Matrix**
    Write the linear system as an [[Augmented Matrices|augmented matrix]].
 2. **[[Row Reduction]]**

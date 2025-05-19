@@ -10,7 +10,7 @@ $$ P(A \cup B) = P(A) + P(B) - P(A \cap B) $$
 \[[[Cardinality]], [[Combining Events]]\]
 
 > [!proof]-
-> ![530|center](additive-rule.excalidraw)
+> ![530|center](additive-rule.excalidraw.md)
 > $A \cup B = A \cup B-A$
 > $\implies P(A\cup B) = P(A) + P(B-A)$
 > $B = (B - A) \cup A \cap B$

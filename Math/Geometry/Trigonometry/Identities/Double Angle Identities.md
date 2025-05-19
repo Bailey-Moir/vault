@@ -2,6 +2,7 @@
 tags:
   - atom
   - math
+aliases:
 ---
 $$\begin{align*}
 	\sin 2A &= 2\sin A \cos A \\

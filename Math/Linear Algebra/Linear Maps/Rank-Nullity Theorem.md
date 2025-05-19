@@ -4,7 +4,7 @@ tags:
   - math
   - linear
 ---
-![600|center](rank-nullity-theorem.excalidraw)
+![600|center](rank-nullity-theorem.excalidraw.md)
 If $V$ is [[Finite-Dimensional Vector Spaces|finite-dimensional]] and $T \in \mathcal{L}(V,W)$[^1], then $\text{im}\,T$[^2] is [[Finite-Dimensional Vector Spaces|finite-dimensional]] and
 $$\begin{align}
 	\text{dim}\,V &= \text{rank}\,T + \text{nullity}\,T \\

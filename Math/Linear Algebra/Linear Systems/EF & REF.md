@@ -2,6 +2,7 @@
 tags:
   - atom
   - math
+  - linear
 ---
 A [[Linear Systems|linear system]] is in *echelon-form* (*EF*) iff the first variable in each equation does not appear in the equations below. A matrix in this form is said to be in *row echelon-form* (*REF*).
 

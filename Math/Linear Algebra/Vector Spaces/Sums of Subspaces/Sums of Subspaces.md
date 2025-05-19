@@ -3,6 +3,7 @@ tags:
   - atom
   - math
   - linear
+aliases:
 ---
 The *sum of [[Vector Spaces|vector spaces]]* $U$ and $W$ of $V$ is defined as
 $$ U + W = \left\{ \vecbf{u} + \vecbf{w} : \vecbf{u} \in U \land \vecbf{w} \in W \right\} $$

@@ -5,11 +5,11 @@ tags:
   - discrete
   - stats
 ---
-![500|center](geometric-random-variable.excalidraw)
+![500|center](geometric-random-variable.excalidraw.md)
 A *geometric random variable* $X \sim\text{Geom}(p)$ is a [[Random Variables|discrete random variable]] that counts the number of independent trials until the first success, where each trial is a [[Bernoulli Random Variables|Bernoulli random variable]] with probability $p$.
 $$P(X=k) = p(1-p)^{k-1} \hspace{2em} \forall k \in \Z_{n+1}$$
 > [! ]- **Probability Tree**
-> ![500|center](geometric-random-variable.excalidraw)
+> ![500|center](geometric-random-variable.excalidraw.md)
 
 # Mean of a Geometric Random Variable
 $$\mu_{X} = \dfrac{1}{p}$$

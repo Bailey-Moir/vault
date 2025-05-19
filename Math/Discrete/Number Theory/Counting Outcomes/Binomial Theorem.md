@@ -9,3 +9,5 @@ $$(x+y)^n = \sum^n_{k=0} \begin{pmatrix}
 	n\\k
 \end{pmatrix}x^ky^{n-k}$$
 \[[[Binomial Coefficient]]\]
+
+> [!corollary] $\displaystyle 2^n = \sum^n_{k=0} \begin{pmatrix} n\\k \end{pmatrix}$

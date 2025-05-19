@@ -21,7 +21,7 @@ $$\begin{array}{rl}
 This always yields an optimal result.
 
 > [!example]-
-> ![1000|center](huffman-coding.excalidraw)
+> ![1000|center](huffman-coding.excalidraw.md)
 
 > [!note] To ensure determinism, if multiple [[Trees|trees]] have the same frequency, they are ordered alphabetically by their smallest leaf node.
 

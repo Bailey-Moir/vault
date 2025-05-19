@@ -20,9 +20,9 @@ e52017b20cb7beac24edaf8101e83991340edf59: $$e$$
 
 a9eea1b36f602b38e0ae6358c0443abd61c16193: $$g^4$$
 
-3162b0c0ee103fd57e0515c90ac9e84d481c03c4: $$g^x = {\color{OliveGreen}{h}}$$
+3162b0c0ee103fd57e0515c90ac9e84d481c03c4: $$g^x = {\color{CornflowerBlue}{h}}$$
 
-fce8f6d53fc0c496d1d9ec79c4f5abbe8d743d34: $${\color{OliveGreen}{x}}$$
+fce8f6d53fc0c496d1d9ec79c4f5abbe8d743d34: $${\color{CornflowerBlue}{x}}$$
 
 %%
 ## Drawing
@@ -453,7 +453,7 @@ fce8f6d53fc0c496d1d9ec79c4f5abbe8d743d34: $${\color{OliveGreen}{x}}$$
 			"width": 0.0001,
 			"height": 0.0001,
 			"angle": 0,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -529,7 +529,7 @@ fce8f6d53fc0c496d1d9ec79c4f5abbe8d743d34: $${\color{OliveGreen}{x}}$$
 			"width": 288.5,
 			"height": 310.5,
 			"angle": 0,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -644,7 +644,7 @@ fce8f6d53fc0c496d1d9ec79c4f5abbe8d743d34: $${\color{OliveGreen}{x}}$$
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#98c379",
+		"currentItemStrokeColor": "#61afef",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
@@ -673,18 +673,18 @@ fce8f6d53fc0c496d1d9ec79c4f5abbe8d743d34: $${\color{OliveGreen}{x}}$$
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				],
 				"elementStroke": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				]
 			}
 		},

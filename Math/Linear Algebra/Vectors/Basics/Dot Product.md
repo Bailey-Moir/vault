@@ -2,8 +2,9 @@
 tags:
   - atom
   - math
+  - linear
 ---
-The *dot product* (or *scalar/inner product*) is a measure of how similar two [[Vectors|vectors]] directions are. It is found by multiplying [[Components|components]].
+The *dot product* (or *scalar/inner product*) is a measure of how similar two [[Math/Linear Algebra/Vectors/Vectors|vectors]] directions are. It is found by multiplying [[Components|components]].
 $$\begin{align*}
 	\vecbf{u} \cdot \vecbf{v} &= u_1v_1 + u_2v_2 + \dots \\
 	&= \left\| \vecbf{u} \right\| \left\| \vecbf{v} \right\| \cos \theta && \theta \text{ is the angle between } \vecbf{u} \text{ and } \vecbf{v}

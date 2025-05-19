@@ -3,7 +3,7 @@ tags:
   - atom
   - math
 ---
-![1000|center](bounding.excalidraw)
+![1000|center](bounding.excalidraw.md)
 $$\begin{align*}
 	\{a_n\} \text{ bounded above} &\iff \exists M : \forall n \in \Z^+, a_n < M \\
 	\{a_n\} \text{ bounded below} &\iff \exists N : \forall n \in \Z^+,  N<a_n \\

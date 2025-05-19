@@ -3,7 +3,7 @@ tags:
   - atom
   - math
 ---
-![1000|center](interval-of-convergence.excalidraw)
+![1000|center](interval-of-convergence.excalidraw.md)
 If $p$ is the [[Statements and Propositions|statement]] that some [[Power Series|power series]] $\Sigma c_{n}\left( x-\alpha \right)^n$ is convergent, there are three possibilities:
 1. $p \leftrightarrow x = \alpha$
 2. $\forall x, p$

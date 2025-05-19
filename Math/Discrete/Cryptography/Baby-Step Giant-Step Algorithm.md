@@ -6,7 +6,7 @@ tags:
 ---
 The *baby-step giant-step algorithm* is an [[Algorithms|algorithm]] for the [[Discrete Logarithm Problem|discrete logarithm problem]].
 
-![350|center](b-step-g-step.excalidraw)
+![350|center](b-step-g-step.excalidraw.md)
 
 Let $G$ be a [[Cyclic Groups|cyclic group]] with a [[Group Generators|generator]] $g$ and $h \in G$.
 1. Let $m = \left\lceil \sqrt{ \left| G \right| } \right\rceil$ and computer $g^{-m}$.

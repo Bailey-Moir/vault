@@ -21,7 +21,7 @@ $$\begin{align*}
 > \[$(1)$ [[Integration by First Principals]]\]
 
 # Arc Length Function
-![300|center](arc-length-differentials.excalidraw)
+![300|center](arc-length-differentials.excalidraw.md)
 $$\begin{array}{c}
 	\displaystyle s(x) = \int_a^x \sqrt{1 + \left[ f'(t) \right]^2} \, dt \\
 	\displaystyle ds = \sqrt{\left[dx\right]^2 + \left[dy\right]^2} \\

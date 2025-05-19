@@ -2,8 +2,9 @@
 tags:
   - atom
   - math
+  - linear
 ---
-The *co-factor* of $a_{ij}$ is defined as $\left( -1 \right)^{i+j}M_{ij}$, where $M_{ij}$ is the [[Minors|minor]] of $a_{ij}$. The alternating coefficient $\left( -1 \right)^{i+j}$ gives a check board pattern:
+The *co-factor* of $a_{ij}$ is defined as $\left( -1 \right)^{i+j}M_{ij}$, where $M_{ij}$ is the [[Matrix Minors|minor]] of $a_{ij}$. The alternating coefficient $\left( -1 \right)^{i+j}$ gives a check board pattern:
 $$\begin{array}{ccc}
 	\begin{bmatrix}
 		+&-&+&-\\

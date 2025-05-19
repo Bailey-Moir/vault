@@ -1,7 +1,7 @@
 ---
 tags:
-  - math
   - atom
+  - math
   - linear
 ---
 The *transpose* of a [[Matrices|matrix]] $A$ (denoted by $A^T$) is obtained by swapping rows with columns (flipping across the main diagonal)

@@ -1,7 +1,8 @@
 ---
 tags:
-  - math
   - atom
+  - math
+  - linear
 ---
 $$
 \begin{bmatrix}

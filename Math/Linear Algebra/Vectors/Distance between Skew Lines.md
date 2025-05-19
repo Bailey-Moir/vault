@@ -2,9 +2,10 @@
 tags:
   - atom
   - math
+  - linear
 ---
 The shortest line that joins two lines in $\R^3$ meets the two lines at $90^\circ$. Constructing a [[Vector Parametric Planes|vector parametric plane]] from the two [[Direction Vectors|direction vectors]] of the lines that contains one of the lines must be [[Vector Scalar Multiplication|parallel]] to the other.
-![500|center](distance-of-skew-lines.excalidraw)
+![500|center](distance-of-skew-lines.excalidraw.md)
 
 > [!example]-
 > $$\begin{array} {rcl}

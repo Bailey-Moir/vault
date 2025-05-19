@@ -2,11 +2,12 @@
 tags:
   - atom
   - math
+  - linear
 ---
 For $T \in \mathcal{L}(V)$[^1], an *eigenvector* of $T$ is a non-zero vector $\vecbf{v} \in V$ such that
 $$T\,\vecbf{v}=\lambda \vecbf{v}$$
 for some scalar $\lambda \in \F$. This scalar $\lambda$ is called the *eigenvalue* of $T$ belonging to the *eigenvector* $\vecbf{v}$, and $\{ \vecbf{v};\lambda \}$ is an *eigenvector-eigenvalue pair*.
-- An *eigenvector* of $A$ is a [[Vectors|vector]] that does not change direction when the [[Linear Transformations|transformation]] $A$ is applied, and its *eigenvalue* $\lambda$ is how much it is scaled.
+- An *eigenvector* of $A$ is a non-zero [[Math/Linear Algebra/Vectors/Vectors|vector]] that does not change direction when the [[Linear Transformations|transformation]] $A$ is applied, and its *eigenvalue* $\lambda$ is how much it is scaled.
 # Properties of Eigenvector and Eigenvalues
 - An $n\times n$ [[Matrices|matrix]] has $n$ *eigenvalues* (possibly repeated).
 - If $\left\{ \vecbf{v};\lambda \right\}$ is an *eigenvector-eigenvalue pair*, then so is $\left\{ t\vecbf{v};\lambda \right\}$ for $t\neq0$[^2].

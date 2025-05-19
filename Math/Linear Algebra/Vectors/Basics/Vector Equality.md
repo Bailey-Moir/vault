@@ -2,5 +2,6 @@
 tags:
   - atom
   - math
+  - linear
 ---
-Two [[Vectors|vectors]] are equal iff they have the same [[Lists|list]] of [[Components|components]].
+Two [[Math/Linear Algebra/Vectors/Vectors|vectors]] are equal iff they have the same [[Lists|list]] of [[Components|components]].

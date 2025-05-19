@@ -4,7 +4,7 @@ tags:
   - atom
 ---
 The most basic form of [[Approximate Integration|approximate integration]], used in [[Integration by First Principals|integration by first principles]].
-![800|center](riemann-sums.excalidraw)
+![800|center](riemann-sums.excalidraw.md)
 $$
 \begin{align*}
 	L_n &= {\tiny(x_1 - x_0)f(x_\textcolor{red}0) + \dots + (x_n + x_{n-1})f(x_\textcolor{red}{n-1})} &

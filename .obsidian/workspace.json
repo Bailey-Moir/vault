@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b4c51fb1c7e0ab45",
+        "id": "75def28719f01095",
         "type": "tabs",
         "children": [
           {
-            "id": "711e0a78a03f2424",
+            "id": "d7ec2860b22d8dd2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Todo.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Todo"
+              "title": "New tab"
             }
           }
         ]
@@ -34,7 +29,7 @@
       {
         "id": "4aa14cedb81672fd",
         "type": "tabs",
-        "dimension": 68.15476190476191,
+        "dimension": 74.30555555555556,
         "children": [
           {
             "id": "23cb1ee7ed676cbc",
@@ -55,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Basis Vectors",
+                "query": "tag:TODO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,17 +64,16 @@
         ]
       },
       {
-        "id": "fbc9d4f60e193814",
+        "id": "87ced569b04d2171",
         "type": "tabs",
-        "dimension": 31.845238095238095,
+        "dimension": 25.694444444444443,
         "children": [
           {
-            "id": "e404388d81e0a6d2",
+            "id": "015ec22ca2d6cd13",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Personal/Todo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -102,19 +96,20 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.19753086419753044,
+                  "scale": 0.3908906207534162,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Todo"
+              "title": "Graph view"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b482d6193ecb2f00",
@@ -207,47 +202,55 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "711e0a78a03f2424",
+  "active": "d7ec2860b22d8dd2",
   "lastOpenFiles": [
+    "Computer Science/Formal Languages/Computability/Church-Turing Thesis.md",
+    "Lecture Notes/MATH220/Lec11A 19-5.md",
+    "Math/Discrete/Graph Theory/Matchings/Matchings.md",
+    "Math/Discrete/Graph Theory/Matchings/Alternating Paths.md",
+    "Math/Discrete/Graph Theory/Matchings",
+    "Graph Theory",
+    "Assets/excali/chromatic-polynomials-distinctness.excalidraw.md",
+    "Math/Discrete/Graph Theory/Colouring/Chromatic Polynomials.md",
+    "Math/Discrete/Graph Theory/Components of Graphs.md",
+    "Math/Linear Algebra/Vectors/Basics/Components.md",
+    "Math/Discrete/Number Theory/Counting Outcomes/Counting Outcomes.md",
+    "Assets/excali/matching.excalidraw.md",
+    "Math/Discrete/Graph Theory/Colouring/Chromatic Polynomial Deletion-Contraction Recurrence.md",
+    "Computer Science/Abstract Data Types/Trees/K-D Trees.md",
+    "Lecture Notes/MATH220/Lec10C 16-5.md",
     "Personal/Todo.md",
-    "Computer Science/Formal Languages/Compilers.md",
-    "Archive/Working in a Digital World/Network.md",
-    "Archive/Working in a Digital World/Software Engineering.md",
-    "Archive/Working in a Digital World/Memory.md",
-    "Archive/Working in a Digital World/Ethics.md",
-    "Archive/Working in a Digital World/HCI.md",
-    "Computer Science/Formal Languages/Lexical Analysis.md",
-    "Computer Science/Formal Languages/Pushdown Automata.md",
-    "Lecture Notes/MATH203/Lec7A 31-3.md",
-    "Four Fundamental Subspaces.md",
-    "Lecture Notes/MATH203/Lec6C 27-3.md",
-    "Math/Linear Algebra/Linear Maps/Rank-Nullity Theorem.md",
-    "Lecture Notes/MATH203/Lec6B 26-3.md",
-    "Lecture Notes/MATH203/Lec6A 24-3.md",
-    "Lecture Notes/MATH203/Lec5C 20-3.md",
-    "Lecture Notes/MATH203/Lec5B 19-3.md",
-    "Lecture Notes/MATH203/Lec5A 17-3.md",
-    "Lecture Notes/MATH203/Lec4C 16-3.md",
-    "Lecture Notes/MATH203/Lec3C 06-3.md",
-    "Lecture Notes/MATH203/Lec3B 05-3.md",
-    "Lecture Notes/MATH203/Lec3A 03-3.md",
-    "Lecture Notes/MATH203/Lec2C 27-2.md",
-    "Lecture Notes/MATH203/Lec2B 26-2.md",
-    "Lecture Notes/MATH203/Lec2A 24-2.md",
-    "Lecture Notes/MATH203/Lec1C 20-2.md",
-    "Screenshot_20250316-140200_Drive.jpg",
-    "Pasted image 20250403122844.png",
-    "Pasted Image 20250331164323_638.png",
-    "Pasted image 20250327134551.png",
-    "Pasted image 20250327132909.png",
-    "Pasted image 20250327132839.png",
-    "Pasted image 20250327132746.png",
-    "Pasted image 20250310185319.png",
+    "Pasted image 20250519112815.png",
+    "Pasted Image 20250519114448_324.png",
+    "Pasted image 20250511191112.png",
+    "Lecture Notes/COSC262/Lec11A 19-5.md",
+    "Assets/excali/k-d-tree-eg.excalidraw.md",
+    "Math/Discrete/Graph Theory/Hamiltonian Cycles and Graphs.md",
+    "Computer Science/Formal Languages/Context-Free Languages/Chomsky Normal Form.md",
+    "Range Searching.md",
+    "Computer Science/Formal Languages/Computability/Decidability.md",
+    "Computer Science/Formal Languages/Computability/TM Configurations.md",
+    "Computer Science/Formal Languages/Chomsky Hierachy.md",
+    "Computer Science/Algorithm Analysis/Backtracking.md",
+    "Statistics/Probability/Probability Basics/Partition Theorem.md",
+    "Computer Science/Abstract Data Types/Trees/Binary Search Trees.md",
+    "Computer Science/Algorithms/Sorting Algorithms/Quick Sort.md",
+    "Math/Linear Algebra/Linear Maps/Duality",
+    "Math/Discrete/Graph Theory/Colouring",
+    "Lecture Notes/MATH220/Untitled",
+    "Computer Science/Formal Languages/Computability",
+    "Computer Science/Computational Geometry/Data Structures",
+    "Computer Science/Computational Geometry",
+    "Math/Linear Algebra/Linear Transformations/Eigenvector & Eigenvalues/The Spectral Theorem.md~",
+    "Assets/2024_10_19 1_42 pm Office Lens.jpg",
+    "Assets/2024_10_21 3_08 pm Office Lens.jpg",
+    "Assets/2024_10_21 3_10 pm Office Lens.jpg",
+    "Assets/2024_10_22 10_46 am Office Lens.jpg",
+    "Assets/14783261726133ba5b1c8e4d531204f9.jpg",
+    "Assets/Pasted image 20250427214945.png",
+    "Assets/Pasted image 20240804224306.png",
+    "Math/Discrete/Graph Theory/Basics",
     "Computer Science/Formal Languages/Formal Languages.canvas",
-    "Math/Discrete/Groups/Symmetric Groups",
-    "Pasted Image 20250323150812_901.png",
-    "Math/Calculus/Limits/Limits.canvas",
-    "Math/Linear Algebra/Linear Transformations/Eigenvector & Eigenvalues",
-    "Pasted Image 20250317110533_807.png"
+    "Math/Calculus/Limits/Limits.canvas"
   ]
 }

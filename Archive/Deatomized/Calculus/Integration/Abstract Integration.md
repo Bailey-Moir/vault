@@ -24,7 +24,7 @@ tags:
 # Arc Length Formula
 ![[Arc Length Formula]]
 # Probability Density Functions
-![450|center](prob-dens-func.excalidraw)
+![450|center](prob-dens-func.excalidraw.md)
 $$\begin{array}{c}
 \displaystyle P(a \le X \le b) = \int_a^b f(x) \, dx \\
 \displaystyle \int_{-\infty}^\infty f(x) \, dx = 1 \\

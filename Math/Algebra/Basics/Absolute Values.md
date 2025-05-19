@@ -3,7 +3,7 @@ tags:
   - atom
   - math
 ---
-![300|center](general-abs-value.excalidraw)
+![300|center](general-abs-value.excalidraw.md)
 The absolute value of $x$ ($|x|$) can be thought of as the distance of the number $x$ from 0 on the number line.
 $$ |x| = \left\{\begin{array}{lr}
 	x & x \ge 0 \\

@@ -2,6 +2,7 @@
 tags:
   - atom
   - math
+  - linear
 ---
 If $V_{1},\dots,V_{n}$ are [[Finite-Dimensional Vector Spaces|finite-dimensional vector spaces]], then, contrarily to the [[Cardinality|cardinality]] law for [[Cartesian Product|Cartesian products]],
 $$ \text{dim}(V_{1}\times \dots \times V_{n}) = \text{dim}\,V_{1} + \dots + \text{dim}\,V_{n} $$

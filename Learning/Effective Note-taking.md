@@ -69,7 +69,7 @@ During:
 Lecture notes are **your own meaningful** account of the info in the lecture. Try to write things in your own words (paraphrase).
 
 # Learning From Your Lecture Notes
-![500|center](note-taking-process.excalidraw)
+![500|center](note-taking-process.excalidraw.md)
 There should be a difference between lecture notes, and refined notes (on obsidian).
 
 Prepare, record, Understand, Recall, Apply

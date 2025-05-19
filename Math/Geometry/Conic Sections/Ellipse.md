@@ -3,7 +3,7 @@ tags:
   - atom
   - math
 ---
-![350|center](ellipse.excalidraw)
+![350|center](ellipse.excalidraw.md)
 The set of points in a plane whose **sum** of distances from two fixed points $F_1$ and $F_2$ ($(\pm c, 0)$) is **constant**. $a$ and $b$ give the the intercepts on the $x$ and $y$ axes respectively. The major axis is defined as the axis that is larger, and vice versa (e.g. if $a\ge b$, then $x$ is the major and $y$ is the minor).
 $$
 \begin{array}{c}

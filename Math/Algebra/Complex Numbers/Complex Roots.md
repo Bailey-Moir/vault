@@ -13,7 +13,7 @@ $$\begin{align*}
 The sum of complex roots is always 0.
 
 > [!example]-
-![center](complex-roots.excalidraw)
+![center](complex-roots.excalidraw.md)
 > $$\begin{array}{c}
 > 	\begin{align*}
 > 		z^3 &= 1 \\

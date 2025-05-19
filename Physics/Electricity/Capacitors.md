@@ -22,7 +22,7 @@ $$C = \varepsilon_{0}\varepsilon_{r} \dfrac{A}{d}$$
 > - $A$ is the area of overlap ($m^{2}$) between the two conductors.
 > - $d$ is the distance ($m$) between the two conductors.
 # Charging and Discharging Capacitors
-![1000|center](charging-and-discharging-capacitors.excalidraw)
+![1000|center](charging-and-discharging-capacitors.excalidraw.md)
 $$ \tau = RC $$
 > [!variables]-
 > - $\tau$ is the time constant ($s$) seen in the diagrams.

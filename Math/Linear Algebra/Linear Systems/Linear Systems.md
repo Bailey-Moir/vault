@@ -2,6 +2,7 @@
 tags:
   - atom
   - math
+  - linear
 ---
 A *linear system* (or *system of linear equations*) is a [[Sets|set]] of linear equations which must all be true simultaneously.
 

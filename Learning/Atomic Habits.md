@@ -13,8 +13,8 @@ Small changes often appear to make no difference until you cross a critical thre
 </center>
 
 # How Your Habits Shape Your Identity (and Vice Versa)
-![360](layers-of-behavioural-change.excalidraw)
-![380](best-use-of-layers-of-heavioural-change.excalidraw)
+![360](layers-of-behavioural-change.excalidraw.md)
+![380](best-use-of-layers-of-heavioural-change.excalidraw.md)
 
 | Outcome-based       | Identity-based    |
 | ------------------- | ----------------- |
@@ -26,7 +26,7 @@ We become what we think of ourselves, e.g. "I'm not a morning person".
 1. Decide the type of person you want to be.
 2. Prove it to yourself with small wins (votes).
 # How to Build better Habits in 4 Simple Steps
-![800|center](4-steps-of-habits.excalidraw)
+![800|center](4-steps-of-habits.excalidraw.md)
 This creates a feedback loop, as the reward reinforces the behaviour/habit (the strength of the craving). If any of these steps are missing, the loop is broken.
 
 Therefore, in order to form positive habits follow the 4 laws. Ask how you can make it:

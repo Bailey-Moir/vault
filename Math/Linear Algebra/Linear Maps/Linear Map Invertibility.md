@@ -75,7 +75,7 @@ Suppose $\vecbf{u},\vecbf{v} \in V$ such that $T\,\vecbf{u} =T\,\vecbf{v}$. Then
 > ($\impliedby$)
 > The same process above can be done with the $S$ and $T$ swapped.
 
-\[[[Identity Operator]], [[Isomorphic Linear Maps]]\]
+\[[[Identity Operator]], [[Vector Space Isomorphism]]\]
 # Properties of Inverses
  - $\left(A^{-1}\right)^{-1} \equiv A$
  - $(AB)^{-1} \equiv B^{-1}A^{-1}$

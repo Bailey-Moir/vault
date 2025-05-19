@@ -2,6 +2,7 @@
 tags:
   - atom
   - math
+  - linear
 ---
 Using an [[Augmented Matrices|augmented matrix]],  you can [[Linear Map Invertibility|invert]] any given [[Matrices|matrix]] via an extended version of [[Gaussian Elimination|Gaussian elimination]], called Gauss–Jordan elimination, where the [[Matrices|matrix]] is transformed into into [[EF & REF#RREF|RREF]] instead of [[EF & REF|REF]].
 

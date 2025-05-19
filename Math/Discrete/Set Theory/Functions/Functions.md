@@ -5,7 +5,7 @@ tags:
   - discrete
 ---
 
-![400|center](function-sets.excalidraw)
+![400|center](function-sets.excalidraw.md)
 *Functions* are another type of [[Relations|relation]]. For a [[Relations|relation]] $\rel \in A \times B$[^1] to be a *function* $f$, it must have the following properties:
 - The [[Domain|domain]] of $f$ is $A$;
   $\forall a \in A, \exists  b \in B : f(a) = b$

@@ -4,7 +4,7 @@ tags:
   - math
   - discrete
 ---
-![500|center](composite-functions.excalidraw)
+![500|center](composite-functions.excalidraw.md)
 The *composition* of $f$ and $g$ ($g \circ f$) is defined as
 $$ \left( g \circ f \right)(a) = g(f(a)) \hspace{2em} a \in A$$
 - $f : A \to B$, $g : B \to C$, $g \circ f : A \to C$

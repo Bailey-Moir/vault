@@ -40,7 +40,7 @@ The *Euclidean Algorithm* finds the [[Greatest Common Divisor|greatest common di
 > In $a = qb + r$[^1], 
 > - $a$ is a [[Linear Combinations|linear combination]] of $b$ and $r$, so if some $c$ [[Divisibility|divides]] $b$ and $r$, it must divide $a$, and similarly,
 > - $r$ is a [[Linear Combinations|linear combination]] of $a$ and $b$, so if some $c$ [[Divisibility|divides]] $a$ and $b$, it must divide $r$.
-> ![500|center](euclidean-algorithm-proof.excalidraw)
+> ![500|center](euclidean-algorithm-proof.excalidraw.md)
 >
 > Thus, any divisor of $a$ and $b$ must be a divisor of $b$ and $r$, and vice versa, so they must have the same set of [[Common Divisors|common divisors]]. Thus, the [[Greatest Common Divisor|greatest of these common divisors]] must be the same.
 

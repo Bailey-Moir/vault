@@ -4,7 +4,7 @@ tags:
   - comp
 ---
 > [!note]- Flag Trick
-> ![1000|center](tree-traversal-flag-trick.excalidraw)
+> ![1000|center](tree-traversal-flag-trick.excalidraw.md)
 > To visualize the different types of *tree traversals*, add a flag to the corresponding side of each [[Vertices|vertex]]:
 > - left in [[#Pre-order|pre-order]].
 > - bottom in [[#In-order|in-order]].

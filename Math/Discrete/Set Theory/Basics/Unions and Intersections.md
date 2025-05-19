@@ -4,7 +4,7 @@ tags:
   - math
   - discrete
 ---
-![1000|center](unions-and-intersections.excalidraw)
+![1000|center](unions-and-intersections.excalidraw.md)
 $$\begin{array}{cl}
 	\forall A,B, \left( A \cup B = \left\{ x: x \in A \lor x \in B \right\} \right) & \text{Union}\\
 	\forall A,B, \left( A \cap B = \left\{ x: x \in A \land x \in B \right\} \right) & \text{Intersection}

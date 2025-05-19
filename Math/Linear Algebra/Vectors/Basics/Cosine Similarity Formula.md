@@ -2,6 +2,7 @@
 tags:
   - atom
   - math
+  - linear
 ---
 From the cosine definition of the [[Dot Product|dot product]], it can be shown that if $\theta$ is the angle between two non-zero vectors $\vecbf{u}$ and $\vecbf{v}$, then:
 $$ \cos \theta = \dfrac{\vecbf{u} \cdot \vecbf{v}}{\|\vecbf{u}\|\,\|\vecbf{v}\|} $$

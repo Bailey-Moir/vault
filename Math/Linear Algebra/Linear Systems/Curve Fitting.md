@@ -2,6 +2,7 @@
 tags:
   - atom
   - math
+  - linear
 ---
 When given a [[Functions|function]] with $n$ unknown linear coefficients and a [[Sets|set]] of $m$ points it passes through, the coefficients can be solved for plugging in the points, giving a [[Linear Systems|system of]] $m$ [[Linear Systems|linear equations]] which can be solved using [[Gaussian Elimination|Gaussian elimination]].
 

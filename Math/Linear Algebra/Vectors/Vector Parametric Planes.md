@@ -2,6 +2,7 @@
 tags:
   - atom
   - math
+  - linear
 ---
 The *vector parametric form* of a plane can be found by extending the [[Vector Parametric Lines|vector parametric form of a line]] with an extra [[Direction Vectors|direction vector]] with a new coefficient.
 $$ \vecbf r = \vecbf r_0 + s\vecbf{d} + t\vecbf{e} \hspace{2em} s,t \in \R$$

@@ -2,6 +2,7 @@
 tags:
   - atom
   - math
+  - linear
 ---
 The *length*/*magnitude* (or norm) of a vector $\vecbf u \in \R^n$ is
 $$\begin{align*}

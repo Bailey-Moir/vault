@@ -10,4 +10,4 @@ The *invocation [[Trees|tree]]* of a procedure/[[Algorithms|algorithm]] shows th
 > [!note] The order in which the calls are **initiated** is given by a [[Tree Traversal#Pre-order|pre-order tree traversal]], and the order in which the calls are **completed** is given by a [[Tree Traversal#Post-order|post-order tree traversal]].
 
 > [!example] [[Merge Sort]]
-> ![1000|center](merge-sort-invocation-tree.excalidraw)
+> ![1000|center](merge-sort-invocation-tree.excalidraw.md)

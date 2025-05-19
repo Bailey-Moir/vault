@@ -11,3 +11,7 @@ $$\begin{align*}
 	P(-2.576 < z < 2.576) &\approx 0.99 \\
 	P(-3< z < 3) &\approx 0.997 \\
 \end{align*}$$
+
+
+$$P(-2 < z < 2) \approx 0.95 $$
+$$P(28 < x < 38) \approx 0.95 $$

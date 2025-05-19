@@ -3,12 +3,12 @@ tags:
   - atom
   - math
 ---
-- Domain
+- [[Domain|Domain]]
 - Intercepts
 - Symmetry
-- Critical Points
-- Asymptotes
-- Intervals of Increase or Decrease
-- Local Maximum or Minimum Values
-- Concavity and Points of Inflection
+- [[Critical Points|Critical Points]]
+- [[Asymptotes|Asymtotes]]
+- [[Monotonic Sequences|Intervals of Increase or Decrease]]
+- [[Local Extrema|Local Maximum or Minimum Values]]
+- Concavity and [[Inflection Points|Points of Inflection]]
 - Sketch of Curve

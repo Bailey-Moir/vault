@@ -37,7 +37,7 @@
 		{"id":"4b3598802e360707","type":"file","file":"Math/Linear Algebra/Matrices/Matrix Invertibility.md","x":7280,"y":-1180,"width":480,"height":255,"color":"4"},
 		{"id":"a8b818faf2ee2255","type":"file","file":"Math/Linear Algebra/Matrices/Identity Matrices.md","x":6560,"y":-1500,"width":660,"height":400,"color":"3"},
 		{"id":"38f53fc4fc7628e3","type":"file","file":"Math/Linear Algebra/Matrices/Rank.md","x":7800,"y":-440,"width":640,"height":340,"color":"5"},
-		{"id":"ff028da4fa156710","type":"file","file":"Math/Linear Algebra/Linear Maps/Isomorphic Linear Maps.md","x":7800,"y":-780,"width":640,"height":290,"color":"5"},
+		{"id":"ff028da4fa156710","type":"file","file":"Math/Linear Algebra/Vector Spaces/Vector Space Isomorphism.md","x":7800,"y":-780,"width":640,"height":290,"color":"5"},
 		{"id":"cbd8b675674aa65b","type":"file","file":"Math/Linear Algebra/Matrices/Column-Row Factorization.md","x":8480,"y":-1105,"width":740,"height":285,"color":"6"},
 		{"id":"38c88ca06d09970a","type":"file","file":"Math/Linear Algebra/Matrices/Change of Basis Formula.md","x":8480,"y":-445,"width":740,"height":340,"color":"6"},
 		{"id":"fcd0154b1d356039","type":"file","file":"Math/Linear Algebra/Matrices/Matrix of Product of Linear Maps.md","x":8480,"y":-785,"width":740,"height":300,"color":"6"},

@@ -1,5 +1,7 @@
 ---
 tags:
+  - atom
+  - math
   - linear
 ---
 $$ A = \begin{bmatrix} a & b \\ c & d\end{bmatrix} \implies A^{-1} = \dfrac{1}{\left|A\right|} \begin{bmatrix} d & -b \\ -c & a \end{bmatrix}$$

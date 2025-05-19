@@ -10,7 +10,6 @@ $$\begin{array}{rll}
 	\implies& \text{dim}(U \oplus W) = \text{dim}\,U + \text{dim}\,W &\phantom{\implies}\\
 \end{array}$$
 
-
 > [!proof]-
 > Let $\vecbf{v}_{1}, \dots, \vecbf{v}_{n}$ be a [[Basis|basis]] of $U \cap W$, meaning $\text{dim}(U \cap W) = n$.
 > 
@@ -46,5 +45,9 @@ $$\begin{array}{rll}
 > 	a_{1}\vecbf{v}_{1} + \dots + a_{n}\vecbf{v}_{n} + b_{1}\vecbf{u}_{1} + \dots + b_{j}\vecbf{u}_{j} = 0.
 > \end{align*}$$
 > but since $\vecbf{v}_{1}, \dots, \vecbf{v}_{n}, \vecbf{u}_{1}, \dots, \vecbf{u}_{j}$ is also [[Linear Independence|linearly independent]], the $a$'s and $b$'s must also be $0$, completing the proof.
+
+> [!theorem]- A sum is [[Direct Sums|direct]] iff it's [[Dimension|dimensions]] add up.
+> Suppose $V$ is a [[Finite-Dimensional Vector Spaces|finite-dimensional vector space]] with [[Subspaces|subspaces]] $V_1,\dots,V_m$. Then $V_1 + \cdots + V_m$ is a [[Direct Sums|direct sum]] iff
+> $$ \dim(V_1 + \cdots + V_m) = \dim\,V_1 + \cdots + \dim\,V_m $$
 
 \[[[Sums of Subspaces]], [[Direct Sums]]\]

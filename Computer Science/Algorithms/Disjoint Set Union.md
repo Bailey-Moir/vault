@@ -3,6 +3,8 @@ tags:
   - atom
   - comp
 ---
+*Disjoint set union* is a method for creating and using [[Equivalence Classes|equivalence classes]].
+
 ```python
 def find_set(a, parent): 
     if a != parent[a]:
@@ -27,5 +29,7 @@ n = 15
 parent = [i for i in range(n)]
 size = [1 for _ in range(n)]
 ```
+
+> [!example] [[Connectivitiy|Connectivity]]
 
 \[[[Disjoint Sets]], [[Unions and Intersections]]\]

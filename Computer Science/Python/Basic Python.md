@@ -80,7 +80,7 @@ Just like [[#Slicing|slicing]], ranges include their start, but exclude their st
 print(list(range(1,5))) # out: [1, 2, 3, 4]
 ```
 ### Slicing
-![500|center](slicing.excalidraw)
+![500|center](slicing.excalidraw.md)
 Just like in [[#Range|ranges]], slicing does not include the stop (the second subscript/index).
 ```python title:Examples
 cities = ['Auckland', 'Wellington', 'Christchurch', 'Dunedin']
@@ -180,7 +180,7 @@ print([3, 5] in [1, 3, 5, 10])  # out: False (!!!!!!!!!)
 ```
 ## Sets vs. Sequences vs. Dictionaries
 Checking inclusion (using the `in` operator) on sets and dictionaries is a lot faster than on sequences, as sequences require a linear search of the list.
-![500|center](python-collections-in.excalidraw)
+![500|center](python-collections-in.excalidraw.md)
 # Constants
 Python doesn't have a way to make constants, but the standard for **global** constants is to use capitals, e.g. `MAX_ROWS`. There is no differentiation in style of local constants and normal local variables.
 Constants should be used in place of "magic numbers".

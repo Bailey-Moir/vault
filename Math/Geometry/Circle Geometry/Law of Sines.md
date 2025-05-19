@@ -3,7 +3,7 @@ tags:
   - atom
   - math
 ---
-![350|center](law-of-sines.excalidraw)
+![350|center](law-of-sines.excalidraw.md)
 $$ \dfrac{\sin \alpha}{a} = \dfrac{\sin \beta}{b} = \dfrac{\sin \gamma}{c} = \dfrac{1}{2R} $$
 where $R$ is the radius of the [[Circumcircles|circumcircle]]. This is very similar in concept to the [[Law of Cotangents|law of cotangents]]. 
 > [!Proof]-

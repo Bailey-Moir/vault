@@ -15,7 +15,7 @@ $$ \text{Assocation} \hspace{.5em}\not{\hspace{-1em}\implies} \text{Causation} $
 > Two variables are *causally associated* if changing the value of one variable influences the value of the other variable. 
 
 ## Spurious Correlation and Confounding Variables
-![500|center](confounding-variables.excalidraw)
+![500|center](confounding-variables.excalidraw.md)
 > **Spurious Correlation**
 > Association but not causation, due to either coincidence or a **confounding variable**
 # Experimental and Observational Studies
@@ -35,7 +35,7 @@ $$ \text{Assocation} \hspace{.5em}\not{\hspace{-1em}\implies} \text{Causation} $
 > Two variables are *causally associated* if changing the value of one variable influences the value of the other variable. 
 
 ## Spurious Correlation and Confounding Variables
-![500|center](confounding-variables.excalidraw)
+![500|center](confounding-variables.excalidraw.md)
 > **Spurious Correlation**
 > Association but not causation, due to either coincidence or a **confounding variable**
 

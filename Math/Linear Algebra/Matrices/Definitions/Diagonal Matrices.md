@@ -1,7 +1,8 @@
 ---
 tags:
-  - math
   - atom
+  - math
+  - linear
 ---
 Fairly self-explanatory: the only non-zero entries lie on the main diagonal.
 $$\begin{bmatrix} 

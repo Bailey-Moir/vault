@@ -2,6 +2,7 @@
 tags:
   - atom
   - math
+  - linear
 ---
 The *characteristic polynomial* $P_{T}$ for $T \in \mathcal{L}(V)$ is
 $$P_{T}(\lambda) := \left| T-\lambda I \right| $$

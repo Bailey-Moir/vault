@@ -4,7 +4,7 @@ tags:
   - math
   - discrete
 ---
-![300|center](discrete-logarithm-problem.excalidraw)
+![300|center](discrete-logarithm-problem.excalidraw.md)
 
  Given a [[Group Generators|generator]] $g$ of a [[Cyclic Groups|cyclic group]] $G$ and $h \in G$, compute $\log_{g}h$ (the [[Powers in Groups|power]] of $g$ that gives $h$).
 

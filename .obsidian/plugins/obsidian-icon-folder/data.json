@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiHexagon",
       "LiGroup",
       "LiEqual",
       "LiMenuSquare",
-      "LiBrackets",
-      "LiType"
+      "LiBrackets"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -74,7 +74,6 @@
   "Math/Discrete/Number Theory/Counting Outcomes": "LiArrowUp10",
   "Computer Science": "LiComputer",
   "Math": "LiX",
-  "Japanese": "LiJapaneseYen",
   "Music": "LiMusic",
   "Physics": "LiMoonStar",
   "Statistics": "LiScatterChart",
@@ -88,5 +87,7 @@
   "Math/Linear Algebra/Linear Maps": "LiType",
   "Math/Linear Algebra/Matrices": "LiBrackets",
   "Math/Linear Algebra/Linear Systems": "LiEqual",
-  "Math/Discrete/Groups": "LiGroup"
+  "Math/Discrete/Groups": "LiGroup",
+  "Archive/Japanese": "LiJapaneseYen",
+  "Computer Science/Computational Geometry": "LiHexagon"
 }

@@ -3,7 +3,7 @@ tags:
   - math
   - atom
 ---
-![800|center](mean-value-theorem.excalidraw)
+![800|center](mean-value-theorem.excalidraw.md)
 Suppose $f(x)$ is [[Definition of Continuity|continuous]] on $\left[a,b\right]$. The intermediate value theorem states that for every output in $\left(f(a),f(b)\right)$, there exists an input in $(a,b)$ that maps to it. 
 
 If the function is also [[Differentiability|differentiable]] on $\left(a,b\right)$, then the mean value theorem states that there exists at least one point in $\left(a,b\right)$ where the derivative matches the slope of the secant passing through $a$ and $b$.

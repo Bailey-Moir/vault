@@ -1,7 +1,8 @@
 ---
 tags:
-  - math
   - atom
+  - math
+  - linear
 ---
 The *determinant* of a [[Matrices|matrix]] $A$, $|A|$, is the **scale factor** of its [[Linear Transformations|linear transformation]]. This can be calculated as the area of the unit square after applying the [[Linear Transformations|transformation]].
 - If $A$ reflects the unit square, then $|A| < 0$.

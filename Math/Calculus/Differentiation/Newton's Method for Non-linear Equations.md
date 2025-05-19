@@ -9,7 +9,7 @@ This method may fail if:
 - $\exists n, f'(x_n) = 0$
 - It overlooks a root and tries to converge on a different root.
 - It does not converge (e.g. $\sqrt[3]{x}$)
-![240|center](newtons-method.excalidraw)
+![240|center](newtons-method.excalidraw.md)
 $$\Large \textcolor{orange}{x_{n+1}} = \textcolor{green}{x_n} - \dfrac{f(\textcolor{green}{x_n})}{f'(\textcolor{green}{x_n})}, \:\:\:\:\:\: \normalsize f'(\textcolor{green}{x_n}) \ne 0 $$
 $$\tiny \begin{array}{c}
 \text{Derived from}\\

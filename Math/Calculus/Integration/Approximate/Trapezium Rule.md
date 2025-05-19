@@ -4,7 +4,7 @@ tags:
   - atom
 ---
 [[Approximate Integration|Approximate integration]] by averaging a left handed and right handed [[Riemann Sums|Riemann sum]].
-![400|center](trapezium-rule.excalidraw)
+![400|center](trapezium-rule.excalidraw.md)
 $$\begin{array}{l}
 	\begin{align*}
 		\int_a^b f(x) \, dx \approx T_n  &= \Delta x\left[ \dfrac{1}{2}\left( f(x_0) + f(x_n) \right) + f(x_1) + f(x_2) + \dots + f(x_{n-1}) \right] \\

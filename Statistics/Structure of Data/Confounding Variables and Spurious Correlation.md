@@ -3,7 +3,7 @@ tags:
   - atom
   - stats
 ---
-![500|center](confounding-variables.excalidraw)
+![500|center](confounding-variables.excalidraw.md)
 > **Spurious Correlation**
 > Association but not causation, due to either coincidence or a **confounding variable**
 

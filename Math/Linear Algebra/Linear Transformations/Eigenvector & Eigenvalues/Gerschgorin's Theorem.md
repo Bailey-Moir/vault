@@ -5,7 +5,7 @@ tags:
   - linear
 ---
 For $A \in \R^{n,n}$[^1], every [[Eigenvector & Eigenvalues|eigenvalue]] of $A$ is contained within a **Gerschgorin disk**.
-![600|center](gerschgorins-theorem.excalidraw)
+![600|center](gerschgorins-theorem.excalidraw.md)
 
 > [!definition] Gerschgorin disk
 > Let $A \in \R^{n,n}$[^1] with entries $a_{ij}$, and let $r_i = \sum_{j\ne i}\left| a_{ij} \right|$.

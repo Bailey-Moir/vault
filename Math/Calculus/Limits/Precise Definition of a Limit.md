@@ -3,7 +3,7 @@ tags:
   - math
   - atom
 ---
-![500|center](precise-definition-of-limit.excalidraw)
+![500|center](precise-definition-of-limit.excalidraw.md)
 Let $f$ be a function defined on some open interval that contains the number $a$, except possibly at $a$ itself. Then we say that the limit of $f(x)$ as $x$ approaches $a$ is $L$, and we write $\displaystyle \lim_{x\to a} f(x) = L$ if for every number $\varepsilon > 0$ there is a number $\delta > 0$ such that if $0 < \left| x -a \right| < \delta$ then $\left| f(x) - L \right| < \varepsilon$.
 $$
 \begin{align*}
@@ -12,7 +12,7 @@ $$
 \end{align*}
 $$
 # Precise Definition of One-Sided a Limit
-![1000|center](precise-definition-of-onesided-limit.excalidraw)
+![1000|center](precise-definition-of-onesided-limit.excalidraw.md)
 $$
 \begin{alignat}{3}
 	\lim_{x\to a^+}& f(x) = L \iff \forall \varepsilon>0, \exists \delta>0 \ni

@@ -8,7 +8,7 @@ $$\begin{align*}
 	  &= re^{i\theta} && (1) \\
 	  &= |z|e^{i\arg{z}} \\
 \end{align*}$$
-\[$(1)$ [[Euler's Formula]]\]
+\[$(1)$ [[Euler's (Complex) Formula]]\]
 
 [[Polar Form|Polar form]] can be used as an alternative to the [[Rectangular Form|rectangular form]] of [[Complex Numbers|complex numbers]] ($a+bi$). When [[Polar Form|polar form]] is used in terms of [[Complex Numbers|complex numbers]],
 - The [[Polar Form|radial coordinate]] is defined as $r = |z|$, and is called the [[Complex Modulus|modulus]].

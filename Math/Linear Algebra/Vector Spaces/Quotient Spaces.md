@@ -7,7 +7,7 @@ tags:
 If $U$ is a [[Subspaces|subspace]] of $V$, the *quotient space* $V/U$ is the [[Sets|set]] of all [[Translates|translates]] of $U$ in $V$.
 $$\begin{align}
 	V/U &= \{ \vecbf{v} + U : \vecbf{v} \in V \} \\
-	&= \{ \vecbf{v} + \vecbf{u} : \vecbf{v} \in V, \vecbf{u} \in U \} && (1)
+	&= \{ \{ \vecbf{v} + \vecbf{u} : \vecbf{u} \in U \} : \vecbf{v} \in V \} && (1)
 \end{align}$$
 
 This is a [[Vector Spaces|vector space]] with

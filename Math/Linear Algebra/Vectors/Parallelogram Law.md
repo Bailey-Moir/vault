@@ -2,8 +2,9 @@
 tags:
   - atom
   - math
+  - linear
 ---
-![500|center](vector-length-identity.excalidraw)
+![500|center](vector-length-identity.excalidraw.md)
 $$ \|\vecbf{x} + \vecbf{y}\|^2 + \|\vecbf{x} - \vecbf{y}\|^2 = 2\|\vecbf{x}\|^2 + 2\|\vecbf{y}\|^2 $$
 > [!proof]-
 > $$\begin{align*}

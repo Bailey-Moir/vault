@@ -2,6 +2,7 @@
 tags:
   - atom
   - math
+  - linear
 ---
 The *determinant* of a $3\times3$ matrix is
 $$\begin{vmatrix}
@@ -13,7 +14,7 @@ $$\begin{vmatrix}
 \end{vmatrix}+c\begin{vmatrix}
 	d&e\\g&h
 \end{vmatrix}$$
-Note these coefficients ($a,b,c$) can be chosen to be any row/column, with the [[Determinant of a 2x2 Matrix|2x2 determinants]] being their [[Minors|minors]]. **It is best to do this by [[Co-factor Expansion|co-factor]] expansion than memorization of the formula**.
+Note these coefficients ($a,b,c$) can be chosen to be any row/column, with the [[Determinant of a 2x2 Matrix|2x2 determinants]] being their [[Matrix Minors|minors]]. **It is best to do this by [[Co-factor Expansion|co-factor]] expansion than memorization of the formula**.
 
 > [!proof]-
 > $$\begin{align*}

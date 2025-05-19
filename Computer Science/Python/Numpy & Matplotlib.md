@@ -14,7 +14,7 @@ Numpy arrays are better for doing numeric calculations on large sequences of num
 
 Unlike standard python collections (such as [[Basic Python#Lists|lists]], [[Basic Python#tuples|tuples]], [[Basic Python#Sets|sets]], etc), these arrays can only have one type. Slicing Numpy Arrays also creates an alias, unlike normal sequences.
 
-1D Numpy Arrays are [[Vectors|vectors]].
+1D Numpy Arrays are [[Math/Linear Algebra/Vectors/Vectors|vectors]].
 2D Numpy Arrays with consistent widths are matrices.
 ## Generating Numpy Arrays 
 All of the below function shave the optional `dtype=None` parameter, which specifies the type of elements the array has.

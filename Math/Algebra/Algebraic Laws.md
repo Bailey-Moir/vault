@@ -2,6 +2,7 @@
 tags:
   - atom
   - math
+aliases:
 ---
 - The Distributive Law : $m(a+b) = ma + mb$
 - The Commutative Law : $ab = ba$

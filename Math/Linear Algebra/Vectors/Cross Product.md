@@ -2,11 +2,12 @@
 tags:
   - atom
   - math
+  - linear
 ---
-![500|center](cross-product.excalidraw)
-If $\vecbf{x} = \left\langle x_1, x_2, x_3 \right\rangle$ and $\vecbf{y} = \left\langle y_1, y_2, y_3 \right\rangle$ are two [[Vectors|vectors]] in $\R^3$, then the [[Vectors|vector]]
+![500|center](cross-product.excalidraw.md)
+If $\vecbf{x} = \left\langle x_1, x_2, x_3 \right\rangle$ and $\vecbf{y} = \left\langle y_1, y_2, y_3 \right\rangle$ are two [[Math/Linear Algebra/Vectors/Vectors|vectors]] in $\R^3$, then the [[Math/Linear Algebra/Vectors/Vectors|vector]]
 $$ \vecbf{x} × \vecbf{y} = \left\langle x_2y_3 − x_3y_2, −(x_1y_3 − x_3y_1), x_1y_2 − x_2y_1 \right\rangle $$
-is called the cross product of $\vecbf{x}$ and $\vecbf{y}$, characterized by being [[Orthogonal Vectors|orthogonal]] to both [[Vectors|vectors]].
+is called the cross product of $\vecbf{x}$ and $\vecbf{y}$, characterized by being [[Orthogonal Vectors|orthogonal]] to both [[Math/Linear Algebra/Vectors/Vectors|vectors]].
 > [!proof]-
 > $$\begin{array}{c} 
 > 	\vecbf{x} \:\bot\: \vecbf{n} \\ 
@@ -44,7 +45,7 @@ is called the cross product of $\vecbf{x}$ and $\vecbf{y}$, characterized by bei
 > [!note]- Trick for Validating
 > A trick to validate that you have correctly calculated $\vecbf{n} = \vecbf{x}\times\vecbf{y}$ is to check that $\vecbf{n}\cdot\vecbf{x} = 0$ and $\vecbf{n}\cdot\vecbf{y} = 0$, given the *cross product* is [[#Properties of Cross Product|orthgonal to its operands]].
 # Properties of Cross Product
-The *cross product* is only defined for [[Vectors|vectors]] in $\R^3$. Thus, $\forall \vecbf{x}, \vecbf{y}, \vecbf{z} \in \R^3$
+The *cross product* is only defined for [[Math/Linear Algebra/Vectors/Vectors|vectors]] in $\R^3$. Thus, $\forall \vecbf{x}, \vecbf{y}, \vecbf{z} \in \R^3$
 - **Orthogonal to Operands**
   $\vecbf{x} \times \vecbf{y} = \vecbf{n} \implies \vecbf{n} \:\bot\: \vecbf{x} \land \vecbf{n} \:\bot\: \vecbf{y}$[^1]
 - **Pseudo-commutativity**

@@ -61,7 +61,6 @@ For $p \in \mathbb{P} > 2$,
 > \[$(1)$ [[Congruence]]\]
 # Quadratic Residues (n)
 The square roots of non-prime *quadratic residues* are given by the square roots of it's [[Chinese Remainder Theorem|CRT]] prime equations.
-#TODO fix wording?
 
 > [!theorem] If $n$ is a product of $k$ different odd primes, and $a$ is a *quadratic residue*, then it has exactly $2^k$ square roots.
 
