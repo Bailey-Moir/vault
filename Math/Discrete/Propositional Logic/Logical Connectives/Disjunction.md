@@ -4,7 +4,7 @@ tags:
   - math
   - discrete
 ---
-The disjunction (or) of 2 [[Statements and Propositions|statements]] is true when at least one of the [[Statements and Propositions|statements]] is true.
+The *disjunction* (or) of 2 [[Statements and Propositions|statements]] is true when at least one of the [[Statements and Propositions|statements]] is true.
 
 | $p$ | $q$ | $p \lor q$ |
 | --- | --- | ---------- |

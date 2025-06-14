@@ -4,7 +4,7 @@ tags:
   - math
   - linear
 ---
-For [[Subspaces|subspace]] $U$ of $V$, and the [[Orthogonal Complements|orthogonal complement]] $U^\bot$ of $U$ under $V$,
+For [[Subspaces|subspace]] $U$ of an [[Inner Products|inner product space]] $V$, and the [[Orthogonal Complements|orthogonal complement]] $U^\bot$ of $U$ under $V$,
 $$V = U \oplus U^\bot$$
 \[[[Direct Sums]]\]
 

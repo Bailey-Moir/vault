@@ -31,3 +31,5 @@ tags:
 > [!definition]- **Synthetic** *attributes* are propagated bottom-up, where the value on the $\text{LHS}$ depends on the value of the $\text{RHS}$
 
 > [!definition]- **Inherited** *attributes* are propagated top-down, where the value on the $\text{RHS}$ depends on the value of the $\text{LHS}$
+
+#TODO2 rember

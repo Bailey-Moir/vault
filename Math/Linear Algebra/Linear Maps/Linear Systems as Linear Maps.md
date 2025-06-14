@@ -4,7 +4,7 @@ tags:
   - math
   - linear
 ---
-D, and removing the previous [[Points|point]] whenever a right turn is madeefine $T \in \mathcal{L}(\F^n,\F^m)$[^1] by
+Define $T \in \mathcal{L}(\F^n,\F^m)$[^1] by
 $$\begin{align}
 	T(\langle v_{1},\dots,v_{n} \rangle) &= \left\langle A_{1,1}v_{1} + \dots + A_{1,k}v_{k}, \dots, A_{m,1}v_{1} + \dots + A_{m,k}v_{k} \right\rangle \\
 	&= \left\langle \sum_{k=1}^n A_{1,k}v_{k}, \dots, \sum_{k=1}^n A_{m,k}v_{k} \right\rangle. \\

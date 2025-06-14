@@ -663,18 +663,18 @@ cb062dd2f49be17a186c50be9071aacd550a0199: $$\varepsilon$$
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

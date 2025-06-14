@@ -11,8 +11,4 @@ There are three types of *minor scales*: **harmonic**, **melodic**, and the most
 - **Natural minor scales** are exactly the same as their [[Relative Majors & Minors|relative major]].
 ![1000](natural-scale.excalidraw.md)
 
-> [!note]- Constructing the natural minor scale.
-> #TODO 
-
-  
 \[[[Scales]]\]

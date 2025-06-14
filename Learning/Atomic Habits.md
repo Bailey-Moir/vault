@@ -12,6 +12,23 @@ Small changes often appear to make no difference until you cross a critical thre
 <iframe src="https://www.desmos.com/calculator/51nipzaxzo?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 </center>
 
+```desmos-graph
+left=-1; right=18;
+	bottom=-2; top=14;
+---
+x_{0} = 6
+k_{1} = 1.3
+k_{2} = 0.3
+f(x) = k_{1}^{x-x_{0}} - k_{1}^{-x_{0}} \{x\ge0\} |black
+g(x) = k_{2}x \{x\ge0\} |black|dashed
+
+x_{1} = 5.5
+x_{2} = 8.9
+(x_{1},g(x_{1})) |black|hidden|label:expectation
+(x_{2},f(x_{2})) |black|hidden|label:reality
+
+f(x) \le y \le g(x) |purple
+```
 # How Your Habits Shape Your Identity (and Vice Versa)
 ![360](layers-of-behavioural-change.excalidraw.md)
 ![380](best-use-of-layers-of-heavioural-change.excalidraw.md)

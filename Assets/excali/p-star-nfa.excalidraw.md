@@ -754,18 +754,18 @@ b1d16fec9d1e794b91b9bc946aef33e4737c35d9: $$\varepsilon$$
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

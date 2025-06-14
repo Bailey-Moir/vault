@@ -1159,18 +1159,18 @@ c81ba6a47fe812ce060503e275af2a5d6efd23f8: $$0$$
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

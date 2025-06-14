@@ -15,33 +15,33 @@ b3c5ab79eff8c712e91864c5bfd2fd939a97dc18: $$x$$
 
 b8e47386b590636dae9b00888e363c0c7243127c: $$y$$
 
-5cfc74339284d4956a06fdbd42de266df419f196: $$\vecbf{x} = \textcolor{CornflowerBlue}{\vecbf{x}_n} + \textcolor{red}{\vecbf{x}_r}$$
+5cfc74339284d4956a06fdbd42de266df419f196: $$\vecbf{x} = \textcolor{yellowGreen}{\vecbf{x}_n} + \textcolor{orange}{\vecbf{x}_r}$$
 
-cee89f23a8b01b956d7fa61509a6881d97cb8ab7: $$\textcolor{CornflowerBlue}{\vecbf{x}_n}$$
+cee89f23a8b01b956d7fa61509a6881d97cb8ab7: $$\textcolor{yellowGreen}{\vecbf{x}_n}$$
 
-fe389e2e88d62416702b4e25286d86cc07f2fd37: $$\textcolor{red}{\vecbf{x}_r}$$
+fe389e2e88d62416702b4e25286d86cc07f2fd37: $$\textcolor{orange}{\vecbf{x}_r}$$
 
-37f4eb10f2ead79adabee96a1f855d59b6ea6b20: $$\textcolor{CornflowerBlue}{\text{null}(A)}$$
+37f4eb10f2ead79adabee96a1f855d59b6ea6b20: $$\textcolor{yellowGreen}{\text{null}(A)}$$
 
-0632e389cb94885c9239300f05c5aaf5d643c9f8: $$\textcolor{red}{\text{row}(A)}$$
+0632e389cb94885c9239300f05c5aaf5d643c9f8: $$\textcolor{orange}{\text{row}(A)}$$
 
-53eac43d50c9310142504288d7a5d4cd754ee228: $$\to A\vecbf{x} = A\textcolor{red}{\vecbf{x}_r}$$
+53eac43d50c9310142504288d7a5d4cd754ee228: $$\to A\vecbf{x} = A\textcolor{orange}{\vecbf{x}_r}$$
 
 7598080c43262322c66da3348c5654739b597a8d: $$x$$
 
 3992849a2131b767e21c40445e4a881ccd8f4a31: $$y$$
 
-01867c7c2d5c628e86671f9cead7b4e1943a243d: $$\vecbf{x} = \textcolor{CornflowerBlue}{\vecbf{x}_{nt}} + \textcolor{red}{\vecbf{x}_c}$$
+01867c7c2d5c628e86671f9cead7b4e1943a243d: $$\vecbf{x} = \textcolor{yellowGreen}{\vecbf{x}_{nt}} + \textcolor{orange}{\vecbf{x}_c}$$
 
-5bfefb8436a41b777bcf771e9f560a8cc3d895f7: $$\textcolor{CornflowerBlue}{\vecbf{x}_{nt}}$$
+5bfefb8436a41b777bcf771e9f560a8cc3d895f7: $$\textcolor{yellowGreen}{\vecbf{x}_{nt}}$$
 
-017ddf7133d24e9614236a6c9ddec3b67a28707e: $$\textcolor{red}{\vecbf{x}_c}$$
+017ddf7133d24e9614236a6c9ddec3b67a28707e: $$\textcolor{orange}{\vecbf{x}_c}$$
 
-9b0828ffc43708b82845d3f603415ec5295c6d73: $$\textcolor{CornflowerBlue}{\text{null}(A^T)}$$
+9b0828ffc43708b82845d3f603415ec5295c6d73: $$\textcolor{yellowGreen}{\text{null}(A^T)}$$
 
-8e40cb497072927d7a28f16b947a6c08b51cb172: $$\textcolor{red}{\text{col}(A)}$$
+8e40cb497072927d7a28f16b947a6c08b51cb172: $$\textcolor{orange}{\text{col}(A)}$$
 
-c3e948b7e09d4454f8f915fb3af893665ed24e01: $$\to A^T\vecbf{x} = A^T\textcolor{red}{\vecbf{x}_c}$$
+c3e948b7e09d4454f8f915fb3af893665ed24e01: $$\to A^T\vecbf{x} = A^T\textcolor{orange}{\vecbf{x}_c}$$
 
 %%
 ## Drawing
@@ -258,7 +258,7 @@ c3e948b7e09d4454f8f915fb3af893665ed24e01: $$\to A^T\vecbf{x} = A^T\textcolor{red
 			"width": 1.2072891525490377,
 			"height": 245.77710085498234,
 			"angle": 1.8772622994747827,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -304,7 +304,7 @@ c3e948b7e09d4454f8f915fb3af893665ed24e01: $$\to A^T\vecbf{x} = A^T\textcolor{red
 			"width": 300.8032127211364,
 			"height": 0.19755400526753064,
 			"angle": 1.8772622994747827,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -873,7 +873,7 @@ c3e948b7e09d4454f8f915fb3af893665ed24e01: $$\to A^T\vecbf{x} = A^T\textcolor{red
 			"width": 0.7159658856668685,
 			"height": 152.60225934689066,
 			"angle": 2.1898536451169903,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -919,7 +919,7 @@ c3e948b7e09d4454f8f915fb3af893665ed24e01: $$\to A^T\vecbf{x} = A^T\textcolor{red
 			"width": 322.19193153003795,
 			"height": 0.9205392843350033,
 			"angle": 2.1898536451169903,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -1294,7 +1294,7 @@ c3e948b7e09d4454f8f915fb3af893665ed24e01: $$\to A^T\vecbf{x} = A^T\textcolor{red
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#61afef",
+		"currentItemStrokeColor": "#98c379",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
@@ -1323,18 +1323,18 @@ c3e948b7e09d4454f8f915fb3af893665ed24e01: $$\to A^T\vecbf{x} = A^T\textcolor{red
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

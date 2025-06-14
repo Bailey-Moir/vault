@@ -3,7 +3,6 @@ tags:
   - atom
   - comp
 ---
-
 The *Cock algorithm* tests the membership of a [[Strings|string]] $w$ in a [[Context-Free Languages|CFL]].
 
 - Assume that $G$ is in [[Chomsky Normal Form|Chomsky normal form]].

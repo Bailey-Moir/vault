@@ -3,7 +3,7 @@ tags:
   - atom
   - comp
 ---
-The [[Components of Graphs|components]] of a [[Graphs|graph]] can by repeatedly using **[[Breadth First Search|BFS]] or [[Depth First Search|DFS]]**, storing [[Graph Traversal|discovered vertices]] by each [[Graph Traversal|traversal]] as one [[Components|components]], and taking a [[Vertices|vertex]] in the remaining [[Vertices|vertices]] to do the next [[Tree Traversal|traversal]].
+The [[Components of Graphs|components]] of a [[Graphs|graph]] can be found by repeatedly using **[[Breadth First Search|BFS]] or [[Depth First Search|DFS]]**, storing [[Graph Traversal|discovered vertices]] by each [[Graph Traversal|traversal]] as one [[Components|components]], and taking a [[Vertices|vertex]] in the remaining [[Vertices|vertices]] to do the next [[Tree Traversal|traversal]].
 $$\begin{array}{rl}
 \hline
 

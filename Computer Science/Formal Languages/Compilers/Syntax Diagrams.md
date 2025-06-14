@@ -3,7 +3,7 @@ tags:
   - atom
   - comp
 ---
-*Syntax diagrams* can be used to represent [[Syntax Analysis|BNF]] [[Context-Free Grammars|grammar]] rules.
+*Syntax diagrams* can be used to represent (extended) [[Syntax Analysis|BNF]] [[Context-Free Grammars|grammar]] rules.
 - Rectangles represent non-terminals, and ovals represent terminals.
 - Each rectangle has exactly one incoming and outgoing arrow.
 - Arrows represent sequence, choice, and iteration.

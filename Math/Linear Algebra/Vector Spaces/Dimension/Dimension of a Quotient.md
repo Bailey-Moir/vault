@@ -4,9 +4,6 @@ tags:
   - math
   - linear
 ---
-If $U$ is a [[Subspaces|subspace]] of a [[Finite-Dimensional Vector Spaces|finite-dimenional]] $V$, then
-$$ \dim\,V/U = \dim\,V - \dim\,U $$
-
-> [!proof]- #TODO 
-
+By [[Rank-Nullity Theorem|rank-nullity theorem]], if $U$ is a [[Subspaces|subspace]] of a [[Finite-Dimensional Vector Spaces|finite-dimensional vector space]] $V$,
+$$ \text{dim}\,V/U = \text{dim}\,V - \text{dim}\,U $$
 \[[[Quotient Spaces]]\]

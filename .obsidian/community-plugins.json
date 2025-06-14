@@ -13,5 +13,8 @@
   "media-extended",
   "math-in-callout",
   "multi-tag",
-  "latex-callouts"
+  "latex-callouts",
+  "css-editor",
+  "obsidian-desmos",
+  "cmdr"
 ]

@@ -9,7 +9,7 @@ The *baby-step giant-step algorithm* is an [[Algorithms|algorithm]] for the [[Di
 ![350|center](b-step-g-step.excalidraw.md)
 
 Let $G$ be a [[Cyclic Groups|cyclic group]] with a [[Group Generators|generator]] $g$ and $h \in G$.
-1. Let $m = \left\lceil \sqrt{ \left| G \right| } \right\rceil$ and computer $g^{-m}$.
+1. Let $m = \left\lceil \sqrt{ \left| G \right| } \right\rceil$ and compute $g^{-m}$.
 2. Create two lists:
 $$\begin{align}
 	L_{1} &:\hspace{1em} g^0, g^1, g^2, \dots, g^m \\

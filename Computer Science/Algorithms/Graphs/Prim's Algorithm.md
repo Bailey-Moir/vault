@@ -47,4 +47,4 @@ $$\mathcal{O}(\left| V \right| \log\left| V \right| + \left| E \right| )$$
 > 		currentVert.distance = currentDistance
 > ```
 
-> [!note] This is a [[Greedy Algorithms|greedy algorithm]].
+> [!note] This is a [[Greedy Algorithms|greedy-type algorithm]].

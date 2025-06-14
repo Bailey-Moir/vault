@@ -15,6 +15,6 @@ $$\begin{array}{ccccccc}
 	H_a : \theta < k &&& H_a : \theta \ne k &&& H_a : \theta > k &&
 \end{array}$$
 - Hypotheses are always written in terms of [[Statistics and Parameters|population parameters]], not [[Statistics and Parameters|sample statistics]].
-- The null hypothesis ($H_0$) contains an equality.
+- The null hypothesis ($H_0$) always contains an equality.
 - The alternative hypothesis ($H_a$) always contains an inequality ($<$, $>$, or $\ne$).
-- **Never accept $H_0$**
+- **Never accept $H_0$** (you only either reject $H_{0}$ or do not reject $H_{0}$)

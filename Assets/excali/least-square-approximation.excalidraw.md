@@ -11,11 +11,11 @@ tags: [excalidraw]
 
 ## Text Elements
 ## Embedded Files
-8a2b1e75d4421f78274ecdbc5010d36381a89129: $$\textcolor{red}{e_1}$$
+8a2b1e75d4421f78274ecdbc5010d36381a89129: $$\textcolor{orange}{e_1}$$
 
-aeafde6a30287fe6304c3353699b0da16f93efe2: $$\textcolor{red}{e_2}$$
+aeafde6a30287fe6304c3353699b0da16f93efe2: $$\textcolor{orange}{e_2}$$
 
-a3d3632c45f11c047ed9cfe81b0d82cb10f224fe: $$\textcolor{red}{e_3}$$
+a3d3632c45f11c047ed9cfe81b0d82cb10f224fe: $$\textcolor{orange}{e_3}$$
 
 %%
 ## Drawing
@@ -33,7 +33,7 @@ a3d3632c45f11c047ed9cfe81b0d82cb10f224fe: $$\textcolor{red}{e_3}$$
 			"width": 0,
 			"height": 18.242215823134188,
 			"angle": 0,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
@@ -76,7 +76,7 @@ a3d3632c45f11c047ed9cfe81b0d82cb10f224fe: $$\textcolor{red}{e_3}$$
 			"width": 0,
 			"height": 33.803942790624184,
 			"angle": 0,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
@@ -119,7 +119,7 @@ a3d3632c45f11c047ed9cfe81b0d82cb10f224fe: $$\textcolor{red}{e_3}$$
 			"width": 0,
 			"height": 33.803942790624184,
 			"angle": 0,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
@@ -134,7 +134,7 @@ a3d3632c45f11c047ed9cfe81b0d82cb10f224fe: $$\textcolor{red}{e_3}$$
 			"version": 56,
 			"versionNonce": 2090737142,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1746043529923,
 			"link": null,
 			"locked": false,
@@ -179,7 +179,7 @@ a3d3632c45f11c047ed9cfe81b0d82cb10f224fe: $$\textcolor{red}{e_3}$$
 			"version": 106,
 			"versionNonce": 117189866,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1746043489794,
 			"link": null,
 			"locked": false,
@@ -225,7 +225,7 @@ a3d3632c45f11c047ed9cfe81b0d82cb10f224fe: $$\textcolor{red}{e_3}$$
 			"version": 81,
 			"versionNonce": 529520554,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1746043492628,
 			"link": null,
 			"locked": false,
@@ -254,7 +254,7 @@ a3d3632c45f11c047ed9cfe81b0d82cb10f224fe: $$\textcolor{red}{e_3}$$
 			"width": 187.00962087075015,
 			"height": 158.71994892374175,
 			"angle": 0,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -269,7 +269,7 @@ a3d3632c45f11c047ed9cfe81b0d82cb10f224fe: $$\textcolor{red}{e_3}$$
 			"version": 83,
 			"versionNonce": 568106422,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1746043499860,
 			"link": null,
 			"locked": false,
@@ -312,7 +312,7 @@ a3d3632c45f11c047ed9cfe81b0d82cb10f224fe: $$\textcolor{red}{e_3}$$
 			"version": 3,
 			"versionNonce": 1947665386,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1746043507582,
 			"link": null,
 			"locked": false,
@@ -328,10 +328,7 @@ a3d3632c45f11c047ed9cfe81b0d82cb10f224fe: $$\textcolor{red}{e_3}$$
 			],
 			"pressures": [],
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				0.0001,
-				0.0001
-			]
+			"lastCommittedPoint": null
 		},
 		{
 			"id": "Qp_yhnwp-ZUpbhVgoT_uE",
@@ -356,7 +353,7 @@ a3d3632c45f11c047ed9cfe81b0d82cb10f224fe: $$\textcolor{red}{e_3}$$
 			"version": 3,
 			"versionNonce": 719377450,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1746043508302,
 			"link": null,
 			"locked": false,
@@ -372,10 +369,7 @@ a3d3632c45f11c047ed9cfe81b0d82cb10f224fe: $$\textcolor{red}{e_3}$$
 			],
 			"pressures": [],
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				0.0001,
-				0.0001
-			]
+			"lastCommittedPoint": null
 		},
 		{
 			"id": "ATbHRPGMlE1vWsWlmE4Xa",
@@ -400,7 +394,7 @@ a3d3632c45f11c047ed9cfe81b0d82cb10f224fe: $$\textcolor{red}{e_3}$$
 			"version": 3,
 			"versionNonce": 862030954,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1746043510239,
 			"link": null,
 			"locked": false,
@@ -416,10 +410,7 @@ a3d3632c45f11c047ed9cfe81b0d82cb10f224fe: $$\textcolor{red}{e_3}$$
 			],
 			"pressures": [],
 			"simulatePressure": true,
-			"lastCommittedPoint": [
-				0.0001,
-				0.0001
-			]
+			"lastCommittedPoint": null
 		},
 		{
 			"id": "1HOuYgIg",
@@ -525,50 +516,12 @@ a3d3632c45f11c047ed9cfe81b0d82cb10f224fe: $$\textcolor{red}{e_3}$$
 			"frameId": null,
 			"status": "pending",
 			"crop": null
-		},
-		{
-			"id": "cRTgy9hG",
-			"type": "text",
-			"x": -141.60684879856277,
-			"y": -6.361742031838183,
-			"width": 8,
-			"height": 25,
-			"angle": 0,
-			"strokeColor": "#e06c75",
-			"backgroundColor": "transparent",
-			"fillStyle": "solid",
-			"strokeWidth": 1,
-			"strokeStyle": "dashed",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "aB",
-			"roundness": null,
-			"seed": 402518838,
-			"version": 3,
-			"versionNonce": 1521950134,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1746043599831,
-			"link": null,
-			"locked": false,
-			"text": "",
-			"rawText": "",
-			"fontSize": 20,
-			"fontFamily": 5,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "",
-			"autoResize": true,
-			"lineHeight": 1.25
 		}
 	],
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#e06c75",
+		"currentItemStrokeColor": "#d19a66",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 1,
@@ -581,10 +534,10 @@ a3d3632c45f11c047ed9cfe81b0d82cb10f224fe: $$\textcolor{red}{e_3}$$
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"currentItemArrowType": "round",
-		"scrollX": 305.8612492305384,
-		"scrollY": 40.684564175594886,
+		"scrollX": 354.9962266661871,
+		"scrollY": 93.96568022315142,
 		"zoom": {
-			"value": 6.715193
+			"value": 4.169936
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": 20,
@@ -597,18 +550,18 @@ a3d3632c45f11c047ed9cfe81b0d82cb10f224fe: $$\textcolor{red}{e_3}$$
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

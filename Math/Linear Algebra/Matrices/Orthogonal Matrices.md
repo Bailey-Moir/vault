@@ -8,8 +8,8 @@ A square [[Matrices|matrix]] is *orthogonal* if its columns form an [[Orthogonal
 
 > [!theorem] Every *orthogonal matrix* represents a rotation and/or reflection.
 
-> [!proof]- If $\lambda$ is an [[Eigenvector & Eigenvalues|eigenvalue]] of an *orthogonal matrix* $Q$, $\left| \lambda \right| = 1$.
-> Let $\{ \vecbf{v};\lambda \}$ be an [[Eigenvector & Eigenvalues|eigenvector-eigenvalue pair]] of $Q$. Then
+> [!proof]- If $\lambda$ is an [[Eigenvectors & Eigenvalues|eigenvalue]] of an *orthogonal matrix* $Q$, $\left| \lambda \right| = 1$.
+> Let $\{ \vecbf{v};\lambda \}$ be an [[Eigenvectors & Eigenvalues|eigenvector-eigenvalue pair]] of $Q$. Then
 > $$\begin{align}
 > 	Q\vecbf{v} &= \lambda \vecbf{v} \\
 > 	\| Q\vecbf{v} \| &= \| \lambda \vecbf{v} \| \\

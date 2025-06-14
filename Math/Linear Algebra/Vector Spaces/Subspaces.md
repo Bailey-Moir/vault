@@ -5,6 +5,8 @@ tags:
   - linear
 ---
 A [[Subsets|subset]] $U$ of a [[Vector Spaces|vector space]] $V$ is called a *subspace* of $V$ iff $U$ is also a [[Vector Spaces|vector space]] with the same additive identity, addition, and scalar multiplication as on $𝑉$.
+- **Identity**
+  $\vecbf{0} \in U$
 - **Closed Under Addition**
   $\forall \vecbf{u}, \vecbf{v} \in U, \left( \vecbf{u} + \vecbf{v} \in U \right)$
 - **Closed Under Scalar Multiplication**
@@ -12,7 +14,7 @@ A [[Subsets|subset]] $U$ of a [[Vector Spaces|vector space]] $V$ is called a *su
 
  > [!note]- This is equivalent to saying a [[Subsets|subset]] $U$ of a [[Vector Spaces|vector space]] is a *subspace* iff $U =\text{span}\,U$.
 
-> [!note]- this implicitly requires that $\vecbf{0} \in U$
+> [!note]- If $U$ is not [[Empty Set|empty]], **closure under scalar multiplication** implies $\vecbf{0} \in U$.
 
 > [!note] that for the *subspace* to be closed under scalar multiplication, the scalar [[Fields|field]] $\F$ is inherited from the parent [[Vector Spaces|vector space]].
 

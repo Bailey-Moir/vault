@@ -9,17 +9,17 @@ The syntactic structure is described in **Backus-Naur form** (**BNF**), a set of
 
 > [!example]-
 > $$\begin{align}
-> 	\text{Expression} &\to \text{Expression}\;\text{Arithmetic}\;\text{Expression}|\text{Expression}|\text{number}|\text{identifier} \\
-> 	\text{Arithmetic} &\to +|-|*|\;/ \\
+> 	\text{Expression} &= \text{Expression}\;\text{Arithmetic}\;\text{Expression}|\text{Expression}|\text{number}|\text{identifier} \\
+> 	\text{Arithmetic} &= +|-|*|\;/ \\
 > 	\\
-> 	\text{Comparison} &\to \text{Expression} \; \text{Relation} \; \text{Expression} \\
-> 	\text{Relation} &\to \;=|!=|<|<= | > | >= \\
+> 	\text{Comparison} &= \text{Expression} \; \text{Relation} \; \text{Expression} \\
+> 	\text{Relation} &= \;=|!=|<|<= | > | >= \\
 > 	\\
-> 	\text{Statements} &\to \text{Statement}|\text{Statement}; \; \text{Statments} \\
-> 	\text{Relation} &\to \text{If}|\text{While}|\text{Assignment} \\
-> 	\text{Assignment} &\to \text{identifier} = \text{Expression} \\
-> 	\text{While} &\to \text{while Comparison do Statements end} \\
-> 	\text{While} &\to \text{if Comparison then Statements else Statements end} \\
+> 	\text{Statements} &= \text{Statement}|\text{Statement}; \; \text{Statments} \\
+> 	\text{Relation} &= \text{If}|\text{While}|\text{Assignment} \\
+> 	\text{Assignment} &= \text{identifier} = \text{Expression} \\
+> 	\text{While} &= \text{while Comparison do Statements end} \\
+> 	\text{While} &= \text{if Comparison then Statements else Statements end} \\
 > \end{align}$$
 
 > [!definition] An *extended BNF* (*EBNF*) has [[Regular Expressions|regular expressions]] on the right-hand side.

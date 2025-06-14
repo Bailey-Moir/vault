@@ -5,12 +5,11 @@ tags:
   - linear
 ---
 ![1000|center](orthogonal-vector-projections.excalidraw.md)
-
-The [[Orthogonal Vectors|orthogonal]] projection of $\vecbf{x}$ on $\vecbf{a}$ (or $U$) is given by:
+The [[Orthogonal Vectors|orthogonal]] projection of $\vecbf{v}$ on $\vecbf{u}$ (or $U$) is given by:
 $$\begin{align}
-	\text{perp}_\vecbf{a} \, \vecbf{x} &= \vecbf{x} - \text{proj}_\vecbf{a} \, \vecbf{x} \\
+	\text{perp}_\vecbf{u} \, \vecbf{v} &= \vecbf{v} - \text{proj}_\vecbf{u} \, \vecbf{v} \\
 	\\
-	\text{perp}_U \, \vecbf{x} &= \vecbf{x} - \text{proj}_U \, \vecbf{x} \\
-	&= \text{proj}_{U^\perp} \vecbf{x} \\
+	\text{perp}_U \, \vecbf{v} &= \vecbf{v} - \text{proj}_U \, \vecbf{v} \\
+	&= \text{proj}_{U^\perp} \vecbf{v} \\
 \end{align}$$
 \[[[Vector Projection]], [[Orthogonal Decomposition]]\]

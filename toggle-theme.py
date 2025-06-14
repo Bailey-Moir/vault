@@ -19,7 +19,7 @@ import os
 
 mapping = [
     ["#61afef", "#98c379"], #blue, green
-    ["CornflowerBlue", "OliveGreen"],
+    ["CornflowerBlue", "yellowGreen"],
     ["#e06c75", "#d19a66"], #red, orange
     ["red", "orange"],
 ]

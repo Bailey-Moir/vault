@@ -13,8 +13,7 @@ Let $G\setminus e$[^1] denote the [[Graphs|graph]] obtained from $G$ by removing
 ![300|center](graph-post-contraction.excalidraw.md)
 
 ## Vertex Deletion
-Let $G\setminus v$[^1] denote the [[Graphs|graph]] obtained from $G$ by removing the [[Vertices|vertex]] $v$.
-We say that we have *deleted* $v$ from $G$.
+Let $G\setminus v$[^1] denote the [[Graphs|graph]] obtained from $G$ by deleting the [[Vertices|vertex]] $v$.
 ![300|center](graph-post-v-deletion.excalidraw.md)
 
 [^1]: [[Set Difference]]

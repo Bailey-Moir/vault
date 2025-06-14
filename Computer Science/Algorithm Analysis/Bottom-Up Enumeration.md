@@ -6,7 +6,7 @@ tags:
 *Bottom-up enumerations* tabulates in ascending order.
 
 > [!example]- [[Fibonacci Sequence|Fibonacci Numbers]]
-> ```py
+> ```python
 > def fib(n):
 > 	mem = [0]*(n+1)
 > 	mem[1] = 1
@@ -17,7 +17,7 @@ tags:
 > 	return mem[n]
 > ```
 > which can be optimized to
-> ```py
+> ```python
 > def fib(n):
 > 	a, b = 0, 1
 > 	for i in range(n):

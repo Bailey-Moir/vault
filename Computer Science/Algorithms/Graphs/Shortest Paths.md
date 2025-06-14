@@ -9,7 +9,7 @@ $$\begin{array}{rl}
 
 \scriptsize1& \textbf{procedure} \; \text{T{\scriptsize REE}-P{\scriptsize ATH}}(parent, s, t) \\
 \scriptsize2& \hspace{1em} \textbf{if} \; s = t \\
-\scriptsize3& \hspace{2em} \textbf{return} \; \text{the single-vertex path } s,t \\
+\scriptsize3& \hspace{2em} \textbf{return} \; \text{the single-vertex path } s \\
 \scriptsize4& \hspace{1em} \textbf{else} \\
 \scriptsize5& \hspace{2em} \textbf{return} \; \text{the path T{\scriptsize REE}-P{\scriptsize ATH}}(parent,s,parent[t]) \text{ followed by } t \\
 

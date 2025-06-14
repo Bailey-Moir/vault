@@ -8,6 +8,6 @@ A **primality test** is an [[Algorithms|algorithm]] that outputs $\text{F{\scrip
 - A **deterministic** *primality test* will output $\text{T{\scriptsize RUE}}$ if $n$ is [[Primes|prime]].
 - A **probablistic** *primality test* will output $\text{T{\scriptsize RUE}}$ if there is a high [[Probabilities|probability]] that $n$ is [[Primes|prime]].
 
-> [!note]- *Primality tests* are designed to make [[Type I and Type II Errors|false-positives]] impossible.
+> [!note]- *Primality tests* are designed to make [[Type I and Type II Errors|false-negatives]] impossible.
 
 \[[[Witnesses and Liars]]\]

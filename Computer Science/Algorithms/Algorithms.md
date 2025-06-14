@@ -1,7 +1,7 @@
 ---
 tags:
   - atom
-  - math
+  - comp
 ---
 An *algorithm* is a computational procedure for solving a problem. These can be described using:
 - Natural language (e.g. English)

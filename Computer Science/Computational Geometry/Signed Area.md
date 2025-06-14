@@ -16,7 +16,7 @@ $$\begin{align*}
 	A < 0 &\iff ABC \text{ is clockwise} \iff \vecbf{y} \text{ is right of } \vecbf{x} \\
 \end{align*}$$
 > [!note]- The `signed_area` function
-> ```py
+> ```python
 > def signed_area(a, b, c):
 > 	p = b - a
 > 	q = c - a

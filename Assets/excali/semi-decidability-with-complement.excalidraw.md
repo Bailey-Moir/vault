@@ -680,10 +680,10 @@ d90d0b468390471e5669e424424131c705b05d13: $$w \in L^c$$
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"currentItemArrowType": "round",
-		"scrollX": 241.22961946693647,
-		"scrollY": 106.61342830420347,
+		"scrollX": 434.4423639878529,
+		"scrollY": 296.6333877933365,
 		"zoom": {
-			"value": 3.273572
+			"value": 2
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": 20,
@@ -696,18 +696,18 @@ d90d0b468390471e5669e424424131c705b05d13: $$w \in L^c$$
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

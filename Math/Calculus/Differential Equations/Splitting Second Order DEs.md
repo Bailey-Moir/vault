@@ -3,7 +3,7 @@ tags:
   - atom
   - math
 ---
-You can split [[Order|2nd order]] [[Linear Differential Equations|linear]] DEs into two [[Order|2nd order]] [[Linear Differential Equations|linear]] DEs. This is a more formal version of solving with [[Differential Operators|differential operators]].
+You can split [[Order|2nd order]] [[Linear Differential Equations|linear]] DEs into two [[Order|1st order]] [[Linear Differential Equations|linear]] DEs. This is a more formal version of solving with [[Differential Operators|differential operators]].
 
 > [!example]-
 > $$\begin{align*}

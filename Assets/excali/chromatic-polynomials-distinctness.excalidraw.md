@@ -80,7 +80,7 @@ aaed450ea32feee36fab2339e3f6d7dda37a38f6: $$v_1$$
 			"width": 0.0001,
 			"height": 0.0001,
 			"angle": 0,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -121,7 +121,7 @@ aaed450ea32feee36fab2339e3f6d7dda37a38f6: $$v_1$$
 			"width": 0.0001,
 			"height": 0.0001,
 			"angle": 0,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -275,7 +275,7 @@ aaed450ea32feee36fab2339e3f6d7dda37a38f6: $$v_1$$
 			"width": 0.0001,
 			"height": 0.0001,
 			"angle": 0,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -316,7 +316,7 @@ aaed450ea32feee36fab2339e3f6d7dda37a38f6: $$v_1$$
 			"width": 0.0001,
 			"height": 0.0001,
 			"angle": 0,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -458,7 +458,7 @@ aaed450ea32feee36fab2339e3f6d7dda37a38f6: $$v_1$$
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#61afef",
+		"currentItemStrokeColor": "#98c379",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 1,
@@ -487,18 +487,18 @@ aaed450ea32feee36fab2339e3f6d7dda37a38f6: $$v_1$$
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

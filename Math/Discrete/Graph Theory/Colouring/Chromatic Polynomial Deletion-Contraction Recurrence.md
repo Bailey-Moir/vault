@@ -1,3 +1,9 @@
+---
+tags:
+  - atom
+  - math
+  - discrete
+---
 For all [[Graphs|graphs]] $G$ and $e \in E(G)$,
 $$P(G,\lambda) = P(G\setminus e,\lambda) - P(G/e,\lambda)$$
 > [!proof]-
@@ -17,7 +23,7 @@ $$P(G,\lambda) = P(G\setminus e,\lambda) - P(G/e,\lambda)$$
 
 > [!corollary]
 > For all [[Graphs|graphs]] $G$ such that $\left| V(G) \right| = n$, $P(G,\lambda)$ is a [[Polynomials|polynomial]] in $\lambda$ with
-> 1. degree $n$,
+> 1. leading term $\lambda^n$
 > 2. integer coefficients, and
 > 3. a zero constant coefficient.
 

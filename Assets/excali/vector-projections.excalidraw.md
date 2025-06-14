@@ -10,15 +10,11 @@ tags:
 
 ## Text Elements
 ## Embedded Files
-79e9a40f9a5dc9894e8b6930dab5760befc19acd: $$\text{proj}$$
+79e9a40f9a5dc9894e8b6930dab5760befc19acd: $$\text{proj}_{\textcolor{yellowGreen}{\vecbf{u}}}\textcolor{orange}{\vecbf{v}}$$
 
-e25d52cd535c00d5f9230d849bd69880ed995de2: $$\textcolor{CornflowerBlue}{\vecbf{u}}$$
+e25d52cd535c00d5f9230d849bd69880ed995de2: $$\textcolor{yellowGreen}{\vecbf{u}}$$
 
-374a9d98fb7addd6dc55b9bfb8efba7f9368c14b: $$\textcolor{CornflowerBlue}{\vecbf{u}}$$
-
-f0b2394779f88ada786a6304cda82fc836f2ef3e: $$\textcolor{red}{\vecbf{x}}$$
-
-fb2d68a52e790d5e6c229aab5d22faaead6268cc: $$\textcolor{red}{\vecbf{x}}$$
+f0b2394779f88ada786a6304cda82fc836f2ef3e: $$\textcolor{orange}{\vecbf{v}}$$
 
 %%
 ## Drawing
@@ -30,8 +26,8 @@ fb2d68a52e790d5e6c229aab5d22faaead6268cc: $$\textcolor{red}{\vecbf{x}}$$
 	"elements": [
 		{
 			"type": "image",
-			"version": 369,
-			"versionNonce": 1222101632,
+			"version": 747,
+			"versionNonce": 329062136,
 			"index": "a0",
 			"isDeleted": false,
 			"id": "0FoqQND2TJUuMNPe8aXjD",
@@ -41,18 +37,18 @@ fb2d68a52e790d5e6c229aab5d22faaead6268cc: $$\textcolor{red}{\vecbf{x}}$$
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -180.70085073313652,
-			"y": 92.62648088241085,
+			"x": -156.67491995492205,
+			"y": 93.4605194842041,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
-			"width": 37.08000896942818,
-			"height": 19.179314984186988,
+			"width": 84.48951336942413,
+			"height": 33.44376570873038,
 			"seed": 1142763954,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1726985929149,
+			"updated": 1747908956205,
 			"link": null,
 			"locked": false,
 			"status": "pending",
@@ -78,7 +74,7 @@ fb2d68a52e790d5e6c229aab5d22faaead6268cc: $$\textcolor{red}{\vecbf{x}}$$
 			"angle": 0,
 			"x": -155.18667950855075,
 			"y": 67.10392357898695,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 91.16843010529121,
 			"height": 115.48001217220937,
@@ -123,7 +119,7 @@ fb2d68a52e790d5e6c229aab5d22faaead6268cc: $$\textcolor{red}{\vecbf{x}}$$
 			"angle": 0,
 			"x": -154.42693297847177,
 			"y": 67.4837968440263,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 180.81739889824598,
 			"height": 35.707642444209,
@@ -245,8 +241,8 @@ fb2d68a52e790d5e6c229aab5d22faaead6268cc: $$\textcolor{red}{\vecbf{x}}$$
 		},
 		{
 			"type": "arrow",
-			"version": 510,
-			"versionNonce": 1169121336,
+			"version": 580,
+			"versionNonce": 1372992648,
 			"index": "a5",
 			"isDeleted": false,
 			"id": "nuXvOtwvSvzXN4BG-qLE9",
@@ -256,8 +252,8 @@ fb2d68a52e790d5e6c229aab5d22faaead6268cc: $$\textcolor{red}{\vecbf{x}}$$
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -107.74060382359934,
-			"y": 99.3834591052856,
+			"x": -142.96551863120735,
+			"y": 93.44236622393804,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 3.946376202035026,
@@ -269,7 +265,7 @@ fb2d68a52e790d5e6c229aab5d22faaead6268cc: $$\textcolor{red}{\vecbf{x}}$$
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1726439532442,
+			"updated": 1747908946329,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -283,11 +279,11 @@ fb2d68a52e790d5e6c229aab5d22faaead6268cc: $$\textcolor{red}{\vecbf{x}}$$
 					0
 				],
 				[
-					3.946376202035026,
+					-3.946376202035026,
 					-5.671096259372803
 				],
 				[
-					0.9933557836525324,
+					-0.9933557836525324,
 					-14.731893636769229
 				]
 			]
@@ -329,41 +325,6 @@ fb2d68a52e790d5e6c229aab5d22faaead6268cc: $$\textcolor{red}{\vecbf{x}}$$
 		},
 		{
 			"type": "image",
-			"version": 296,
-			"versionNonce": 544897664,
-			"index": "aG",
-			"isDeleted": false,
-			"id": "DOGEi4rwHKLM1RAyTbv0n",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -146.94486403268587,
-			"y": 106.38336505877093,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 12.349696454510378,
-			"height": 8.919225217146383,
-			"seed": 217031752,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1726985929149,
-			"link": null,
-			"locked": false,
-			"status": "pending",
-			"fileId": "374a9d98fb7addd6dc55b9bfb8efba7f9368c14b",
-			"scale": [
-				1,
-				1
-			],
-			"crop": null
-		},
-		{
-			"type": "image",
 			"version": 294,
 			"versionNonce": 239807210,
 			"index": "aK",
@@ -396,47 +357,12 @@ fb2d68a52e790d5e6c229aab5d22faaead6268cc: $$\textcolor{red}{\vecbf{x}}$$
 				1
 			],
 			"crop": null
-		},
-		{
-			"type": "image",
-			"version": 438,
-			"versionNonce": 74173824,
-			"index": "aL",
-			"isDeleted": false,
-			"id": "239BdQdD8QZCCkc5wha1H",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -138.48719823884682,
-			"y": 95.16325993657433,
-			"strokeColor": "#000000",
-			"backgroundColor": "transparent",
-			"width": 28.716459064254227,
-			"height": 21.959645166782646,
-			"seed": 601998408,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1726985919633,
-			"link": null,
-			"locked": false,
-			"status": "pending",
-			"fileId": "fb2d68a52e790d5e6c229aab5d22faaead6268cc",
-			"scale": [
-				1,
-				1
-			],
-			"crop": null
 		}
 	],
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#e06c75",
+		"currentItemStrokeColor": "#d19a66",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 1,
@@ -449,10 +375,10 @@ fb2d68a52e790d5e6c229aab5d22faaead6268cc: $$\textcolor{red}{\vecbf{x}}$$
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"currentItemArrowType": "round",
-		"scrollX": 481.3322546741175,
-		"scrollY": 208.64309167697732,
+		"scrollX": 358.7967920941025,
+		"scrollY": 125.38364570246588,
 		"zoom": {
-			"value": 2
+			"value": 3.165497
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": 20,
@@ -465,25 +391,25 @@ fb2d68a52e790d5e6c229aab5d22faaead6268cc: $$\textcolor{red}{\vecbf{x}}$$
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"canvasBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

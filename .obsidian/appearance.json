@@ -1,6 +1,6 @@
 {
   "accentColor": "",
-  "cssTheme": "Oxocarbon",
+  "cssTheme": "Typewriter",
   "theme": "obsidian",
   "enabledCssSnippets": [
     "big-math",
@@ -13,7 +13,9 @@
     "no-folder-icon",
     "better-atom",
     "better-embeds",
-    "better-callouts"
+    "better-callouts",
+    "underline-links",
+    "typewriter-dark"
   ],
   "showRibbon": false,
   "showViewHeader": true

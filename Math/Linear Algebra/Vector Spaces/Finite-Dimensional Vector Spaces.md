@@ -5,7 +5,7 @@ tags:
   - linear
 ---
 A [[Vector Spaces|vector space]] is called a *finite-dimensional* iff it has a finite [[Span|spanning set]].
-$$ \exists n \in \Z^+ : \exists \vecbf{v}_1, \dots, \vecbf{v}_n \in V : \text{span}(\vecbf{v}_1 + \dots + \vecbf{v}_n) = V $$
+$$ \exists n \in \N : \exists \vecbf{v}_1, \dots, \vecbf{v}_n \in V : \text{span}(\vecbf{v}_1 + \dots + \vecbf{v}_n) = V $$
 - Every [[Subspaces|subspace]] of a *finite-dimensional vector space* is *finite-dimensional*.
   > [!proof]-
 > Suppose $V$ is a *finite-dimensional vector space*, and $U$ is a [[Subspaces|subspace]] of $V$.

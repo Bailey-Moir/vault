@@ -5,7 +5,7 @@ tags:
 ---
 *Memoisation* is storing calculates values for future use. It can be generalised with
 
-```py
+```python
 def memoise(f):
 	mem = {}
 	
@@ -21,7 +21,7 @@ This function already exists in python as `lru_cache`, which is normally used as
 
 > [!example]- [[Fibonacci Sequence|Fibonacci Numbers]]
 > When calculating the the $n$-th [[Fibonacci Sequence|Fibonacci number]], the naive approach
-> ```py
+> ```python
 > def fib(n):
 >     if n < 2:
 >         return n
@@ -29,7 +29,7 @@ This function already exists in python as `lru_cache`, which is normally used as
 >          return fib(n-1) + fib(n-2)
 > ```
 > can be improved by *memoising* the output of the function, which takes the function from $\Theta(\varphi^n)$ to $\Theta(n)$\* time.
-> ```py
+> ```python
 > mem = {0:0, 1:1}
 > 
 > def fib(n):
@@ -39,7 +39,7 @@ This function already exists in python as `lru_cache`, which is normally used as
 > 	return mem[n]
 > ```
 > or
-> ```py
+> ```python
 > @lru_cache(maxsize=None) # None => ∞
 > def fib(n):
 >     if n < 2:

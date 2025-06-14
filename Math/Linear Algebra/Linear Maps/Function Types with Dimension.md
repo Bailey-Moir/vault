@@ -48,17 +48,15 @@ Thus, since $\text{range}\,T$ is a [[Subspaces|subspace]] of $W$ and $W$ is [[Fi
 > 
 > \[[[Nullity]], [[Rank]]\]
 
--  $T$ is [[Bijective Functions|bijective]] (and thus [[Linear Map Invertibility|invertible]]) iff $\text{dim}\,V = \text{dim}\,W$ and $T$ is [[Injective Functions|injective]] or [[Surjective Functions|surjective]].
+-  If $\text{dim}\,V = \text{dim}\,W$, then  $T$ is [[Bijective Functions|bijective]] (and thus [[Linear Map Invertibility|invertible]]) iff it is [[Injective Functions|injective]], and iff it is [[Surjective Functions|surjective]].
 > [!proof]-
-> ($\implies$)
 > If $T$ is [[Bijective Functions|bijective]], by the above theorems, $\text{dim}\,V = \text{W}$, and by the definition of [[Bijective Functions|bijectivity]], it must also be [[Injective Functions|injective]] and [[Surjective Functions|surjective]].
 > 
-> ($\impliedby$)
 > If $T$ is [[Injective Functions|injective]], $\text{null}\,T = \{ \vecbf{0} \}$[^1], meaning by the [[Rank-Nullity Theorem|rank-nullity theorem]],
 > $$ \text{rank}\,T = \text{dim}\,V - \text{nullity}\,T = \text{dim}\,V = \text{dim}\,W $$
 > Thus, $T$ is [[Surjective Functions|surjective]] (and thus [[Bijective Functions|bijective]]).
 > 
-> [[Converse, Inverse, and Contrapositive|Conversely]], if $T$ is [[Surjective Functions|surjective]]
+> If $T$ is [[Surjective Functions|surjective]]
 > $$ \text{nullity}\,T = \text{dim}\,V - \text{rank}\,T = \text{dim}\,V - \text{dim}\,W = 0 $$
 > Thus, $T$ is [[Injective Functions|injective]] (and thus [[Bijective Functions|bijective]]).
 > 
