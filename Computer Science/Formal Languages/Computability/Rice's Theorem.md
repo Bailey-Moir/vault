@@ -8,5 +8,3 @@ $$\{ \left< M \right> : L(M) \in S \}$$
 is [[Decidability|undecidable]].
 
 > [!alternative definition] Suppose there is a [[Sets|set]] of [[Languages|languages]] with [[Turing Machines|TM]]s whose [[Languages|languages]] inside and outside of it.Then, deciding if a given [[Turing Machines|TM]]'s [[Languages|language]] is in the [[Sets|set]] is [[Decidability|undecidable]].
-
-#TODO2

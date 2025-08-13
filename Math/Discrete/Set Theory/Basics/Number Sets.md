@@ -6,7 +6,7 @@ tags:
 ---
 | Symbol | Name                                 |
 | ------ | ------------------------------------ |
-| $\N$   | Natural Numbers $(0 \in \N)$         |
+| $\N$   | [[Natural Numbers]] $(0 \in \N)$     |
 | $\Z$   | Integers                             |
 | $\Z^+$ | Positive Integers $(0 \notin \Z^+)$  |
 | $\Q$   | Rational Numbers                     |

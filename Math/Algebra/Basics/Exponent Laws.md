@@ -5,7 +5,8 @@ tags:
 ---
 $\begin{array}{cccc} a,b \in \R^+, & x,y \in \R \end{array}$: 
 If the bases are positive, and the exponents are real, then:
-- $b^{x+y} = b^xb^y$
-- $b^{x-y} = \dfrac{b^x}{b^y}$
-- $\left(b^{x}\right)^y = b^{xy}$
+- $a^{x+y} = a^xa^y$
+- $a^{x-y} = \dfrac{a^x}{a^y}$
 - $\left(ab\right)^x = a^xb^x$
+- $\left(a^{x}\right)^y = a^{xy}$
+- $a^{-1} = \dfrac{1}{a}$

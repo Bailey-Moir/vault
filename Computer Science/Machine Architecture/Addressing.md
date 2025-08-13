@@ -1,0 +1,1 @@
+Each byte (not [[Words|word]]) has its own *address*.

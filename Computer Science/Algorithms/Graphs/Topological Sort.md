@@ -11,6 +11,6 @@ A *topological ordering* of a [[Directed Graphs|directed graph]] is an ordering 
 > 2. Initialise an empty [[Stacks|stack]].
 > 3. Iterate over all [[Vertices|vertices]] of the [[Graphs|graph]].
 > 	- If the vertex is [[Graph Traversal|undiscovered]], start a modified version of $\text{DFS-L{\scriptsize OOP}}$[^1] on the [[Vertices|vertex]], where as soon as a [[Vertices|vertex]] is [[Graph Traversal|processed]], it is pushed to the [[Stacks|stack]].
-> 1. Return the content of the [[Stacks|stack]] from top to bottom as a *topological ordering*.
+> 4. Return the content of the [[Stacks|stack]] from top to bottom as a *topological ordering*.
 
 [^1]: [[Depth First Search]]

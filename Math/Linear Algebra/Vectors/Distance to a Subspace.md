@@ -29,6 +29,6 @@ Since $AB \in U$ (by closure), and $AC$ is [[Orthogonal Projection|orthogonal]] 
 > 	d(\vecbf{x},\text{proj}_{U}\,\vecbf{x}) &\le d(\vecbf{x},\vecbf{u}) \\
 > \end{align}$$
 
-> [!note] In other words, $\text{proj}_{U}(\vecbf{x})$ is the closest point $U$ to $\vecbf{x}$. This is often used in approximation.
+> [!note] In other words, $\text{proj}_{U}(\vecbf{x})$ is the closest point in $U$ to $\vecbf{x}$. This is often used in approximation.
 
 \[[[Vector Length]], [[Vector Projection]]\]

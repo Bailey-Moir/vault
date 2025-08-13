@@ -6,8 +6,7 @@ tags:
 ---
 The *null space* of a [[Linear Maps|linear map]] is the [[Subsets|subset]] of its [[Domain|domain]] that gets mapped to $\vecbf{0}$;
 $$\forall T \in \mathcal{L}(V,W),\hspace{1em} \text{null}\,T = \{ \vecbf{v} \in V : T\,\vecbf{v} = \vecbf{0} \}$$
-- The *null space* is a [[Subspaces|subspace]] of the [[Domain|domain]].
-  > [!proof]-
+> [!theorem]- **(1)** The *null space* is a [[Subspaces|subspace]] of the [[Domain|domain]].
 > **Additive Identity**
 > Since $T \vecbf{0} = \vecbf{0}$, $\vecbf{0} \in \text{null}\,T$.
 > 
@@ -29,8 +28,7 @@ Consider two vectors $\vecbf{u},\vecbf{v} \in \text{null}\,T$. It follows that
 > \end{align*}$$
 > Thus, $\lambda\vecbf{u} \in \text{null}\,T$.
 
-- $T$ is [[Injective Functions|injective]] iff $\text{null}\,T = \{ \vecbf{0} \}$.
-  > [!proof]-
+> [!theorem]- **(2)** $T$ is [[Injective Functions|injective]] iff $\text{null}\,T = \{ \vecbf{0} \}$ ($\text{nullity}\,T = 0$).
 > ($\implies$)
 > Suppose $T$ is [[Injective Functions|injective]]. 
 > 

@@ -8,7 +8,7 @@ tags:
 - Symmetry
 - [[Critical Points|Critical Points]]
 - [[Asymptotes|Asymtotes]]
-- [[Monotonic Sequences|Intervals of Increase or Decrease]]
+- [[Monotone Sequences|Intervals of Increase or Decrease]]
 - [[Local Extrema|Local Maximum or Minimum Values]]
 - Concavity and [[Inflection Points|Points of Inflection]]
 - Sketch of Curve

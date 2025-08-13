@@ -27,10 +27,4 @@ The colour our eye perceives depends on the lighting context. If a green light i
 ![300|center](stroop-effect.excalidraw.md)
 Measuring the cognitive load to perform a task. Incongruence in meaning leads to higher cognitive load.
 
-# Analogue vs. Digital
-Analogue symbols belong to a continuum of possibilities, mapping a **continuous range of form** onto a **continuous range of meaning**. Digital symbols are **discrete** symbols. Digital messages are read now beheld. 
-
-Purely digital messages can be copied without any loss of information. Minor errors in the form of symbols are irrelevant. Analogue messages will drift in meaning through repeated copying. 
-
-While digital messages can travel intact through time, their meaning may
-not. Numbers on road signs, for example, implicitly refer to kilometers, whereas some time ago they meant miles.
+![[Analogue vs. Digital]]

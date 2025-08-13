@@ -18,4 +18,4 @@ $$\sum_{n=a}^{x-1}\Delta f(n) = f(x) - f(a)$$
 > \end{alignat}$$
 > \[[[Telescoping Series]]\]
 
-\[[[Math/Calculus/Operational Calculus/Forward Difference Operation]]\]
+\[[[Forward Difference Operation]]\]

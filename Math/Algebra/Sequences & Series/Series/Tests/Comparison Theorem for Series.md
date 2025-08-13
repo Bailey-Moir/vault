@@ -4,9 +4,20 @@ tags:
   - math
 ---
 # The Direct Comparison Test
-For all [[Series|series]] $\Sigma a_{n}, \Sigma b_{n}$ such that $\forall n, 0 \le a_{n} \le b_{n}$,
-- If $b_{n}$ is convergent, then so is $a_n$.
-- If $a_{n}$ is divergent, then so is $b_{n}$.
+For all [[Series|series]] $\Sigma a_{k}, \Sigma b_{k}$ such that $\forall k, \left| a_{k} \right| \le b_{k}$, then if $b_{k}$ is [[Partial Sums|convergent]], then $a_k$ is [[Absolute Convergence|absolutely convergent]].
+
+> [!note] the [[Converse, Inverse, and Contrapositive|contrapositive]].
+
+> [!proof]-
+> If $\Sigma b_{k}$ [[Partial Sums|converges]], all its [[Partial Sums|partial sums]] are [[Bounded Sequences|bounded]], meaning there exists $B$ such that $\sum_{k=1}^nb_{k} \le B$ for all $n$. Then
+> $$\begin{align}
+> 	S_{n} = \sum_{k=1}^n \left| a_{k} \right| &= \left| a_{1} \right|  + \left| a_{2} \right| + \dots + \left| a_{n} \right| \\
+> 	&\le b_{1} + b_{2} + \dots + b_{n} \\
+> 	&= \sum_{k=1}^n b_{k} \\
+> 	&= B \\
+> \end{align}$$
+> Thus, $\Sigma \left| a_{k} \right|$ is [[Bounded Sequences|bounded]], so it is [[Partial Sums|convergent]], so $\Sigma a_{k}$ is [[Absolute Convergence|absolutely convergent]].
+> \[[[Partial Sums]], Theorem 3.3\]
 
 > [!example]- Convergence of $\displaystyle\sum_{n=1}^\infty \dfrac{5}{2n^2+4n+3}$
 > For sufficiently large $n$ ($n>-\frac{3}{4}$),

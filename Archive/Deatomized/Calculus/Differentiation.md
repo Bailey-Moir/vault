@@ -32,6 +32,6 @@ $$
 # Checklist for Graphing Functions
 ![[Checklist for Graphing Functions]]
 # Newton’s Method for Non-linear Equations
-![[Newton's Method for Non-linear Equations]]
+![[Newton's Method for Non-Linear Equations]]
 # Differentials
 ![[Differentials]]

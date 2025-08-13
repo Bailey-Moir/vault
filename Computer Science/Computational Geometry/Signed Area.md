@@ -4,7 +4,7 @@ tags:
   - comp
 ---
 ![800|center](signed-parallelogram-area.excalidraw.md)
-Given two [[Computer Science/Computational Geometry/Data Structures/Vectors|vectors]] that describe adjacent sides of a *parallelogram*, the ***signed*** *[[Area of Parallelograms|area]]* [[Area of Parallelograms|of the parallelogram]] can be calculated as
+Given two [[Computational Vectors|vectors]] that describe adjacent sides of a *parallelogram*, the ***signed*** *[[Area of Parallelograms|area]]* [[Area of Parallelograms|of the parallelogram]] can be calculated as
 $$\begin{align}
 	A &= x_{1}y_{2}-x_{2}y_{1} \\
 	&= \| \vecbf{x} \| \| \vecbf{y} \| \sin \theta \\

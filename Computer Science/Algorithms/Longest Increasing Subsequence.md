@@ -12,7 +12,7 @@ The *longest increasing subsequence* (*LIS*) can be solved in $O(n^2)$ time (and
 > 2. Run [[Longest Common Subsequence|LCS]] on $A$ and $B$,
 > Thus result will be the *LIS*.
 
-However, the space complexity can be reduced to be linear using the following [[Algorithms|algorithm]], which you can just guess the code for looking at the following example.
+However, the space complexity can be reduced to be linear using the following [[Algorithms|algorithm]]. You can just guess the code by looking at the following example.
 
 > [!example]- 8927406
 > 

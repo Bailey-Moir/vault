@@ -14,6 +14,12 @@
       "icon": "dice-glyph",
       "name": "Random note",
       "mode": "any"
+    },
+    {
+      "id": "editor:toggle-source",
+      "icon": "lucide-code-2",
+      "name": "Toggle Live Preview/Source mode",
+      "mode": "any"
     }
   ],
   "macros": [],

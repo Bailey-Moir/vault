@@ -2,6 +2,7 @@
 tags:
   - atom
   - math
+tag:
 ---
 ![350|center](circle.excalidraw.md)
 The set of points where the distance from the $F$ is constant ($r$).

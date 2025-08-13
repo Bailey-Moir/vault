@@ -14,7 +14,9 @@ $$ \left( g \circ f \right)(a) = g(f(a)) \hspace{2em} a \in A$$
 \[[[Functions|Functions]]\]
 
 # Properties of Composite Functions
-$\forall f: A \to B, g : B \to C$
+$\forall f: A \to B, g : B \to C,h:C\to E$
+- **Associativitiy**
+  $(h \circ g) \circ f = h \circ g \circ f = h \circ (g \circ f)$
 - If $f$ and $g$ are both [[Surjective Functions|surjective]], then $g \circ f$ is [[Surjective Functions|surjective]].
 - If $f$ and $g$ are both [[Injective Functions|injective]], then $g \circ f$ is [[Injective Functions|injective]].
 - If $f$ and $g$ are both [[Bijective Functions|bijective]], then $g \circ f$ is [[Bijective Functions|bijective]].

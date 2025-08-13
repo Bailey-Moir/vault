@@ -19,9 +19,8 @@ Encryption (Cryptographic Coding)
 
 # Compression
 ## Why Compress?
-If transmitting, then the smaller the file, the [[Network#Speed|throughput]] increases. Takes up less space in storage.
-# Lossless v. Lossy
-Lossless compression represents the original data exactly (e.g. PNG, ZIP), whereas lossy compression approximately represents the original data (e.g. JPG), sacrificing quality for size. 
+If transmitting, then the smaller the file, the [[Networks#Speed|throughput]] increases. Takes up less space in storage.
+![[Lossless v. Lossy]]
 ## Compression Algorithms
 ### LZSS
 Attempts to replace symbols in a string with a reference to a dictionary of the same string. 
@@ -51,7 +50,6 @@ Works by finding series of identical information and grouping it together. For e
 > | 000  | E      | 1 x 3 |
 > | 001  | _      | 3 x 2 |
 > Now instead of 80 bits, the messages is 19 bits.
-
 # Audio
 Audio is split into different predictable frequency groups. This is [[#Lossless v. Lossy|lossy]], as the frequency groups are often rounded off to be more predictable. $>40\,\text{kHz}$ is approximately above what humans can hear.
 # JPEG

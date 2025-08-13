@@ -15,5 +15,5 @@ For any [[Graphs|graph]] $G=\left( V,E \right)$, there is a *[[Matchings|matchin
 > 
 > **Augmentation Property**
 > Suppose $V_{1}$ and $V_{2}$ are [[Matchings|independent]] ($V_{1},V_{2} \in \mathcal{I}$), where $\left| V_{1} \right| > \left| V_{2} \right|$. Then there exists [[Matchings|matchings]] $M_{1}$ and $M_{2}$ that match the [[Vertices|vertices]] of $V_{1}$ and $V_{2}$ respectively.
-> 
-> #TODO Ask charles?
+
+> [!note] This is actually false... cause maximal $\not\to$ maximum.

@@ -4,7 +4,7 @@ tags:
   - math
   - discrete
 ---
-Each [[Vertices|vertex]] on a [[Network|network]]
+Each [[Vertices|vertex]] on a [[Networks|network]]
 1. Chooses two large distinct [[Primes|primes]] $p$ and $q$, and computes $n = pq$ and $\phi(n) = (p-1)(q-1)$[^1].
 2. Chooses element $e \in \Z_{\phi(n)}^\times$[^1][^4].
 3. Computes $e^{-1} \in \Z_{\phi(n)}^\times$[^1][^4].
@@ -12,7 +12,7 @@ Each [[Vertices|vertex]] on a [[Network|network]]
 The [[Vertices|vertices']] **public key** is then $(n,e)$, and its **private key** is then $e^{-1}$.
 
 **Sending**
-A sender wants to send a message. The sender breaks the message up into [[Network|packets]].  The sender [[Encryption|encrypts]] $m \in \Z_n$ (a [[Network|packet]]) into a [[Ciphertext|ciphertext]]
+A sender wants to send a message. The sender breaks the message up into [[Networks|packets]].  The sender [[Encryption|encrypts]] $m \in \Z_n$ (a [[Networks|packet]]) into a [[Ciphertext|ciphertext]]
 $$ C = m^e \mod n $$
 using the receivers **public key**.
 

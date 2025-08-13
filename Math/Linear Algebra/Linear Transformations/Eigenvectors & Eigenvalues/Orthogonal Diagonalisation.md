@@ -11,4 +11,4 @@ $$A = QDQ^T$$
 
 > [!theorem]- $A\in \R^{n,n}$ is *orthogonally diagonalisable* $A$ has $n$ [[Linear Independence|linearly independent]] [[Eigenvectors & Eigenvalues|eigenvectors]] of $A$ **and** the [[Eigenspaces|eigenspaces]] of $A$ are mutually [[Orthogonal Complements|orthogonal]].
 
-\[[[The Spectral Theorem]]\]
+\[[[The Spectral Theorem]], [[Spectral Decomposition]]\]

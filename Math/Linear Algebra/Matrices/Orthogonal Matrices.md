@@ -16,8 +16,7 @@ A square [[Matrices|matrix]] is *orthogonal* if its columns form an [[Orthogonal
 > 	\| \vecbf{v} \| &= \left| \lambda \right|  \| \vecbf{v} \| && (4)  \\
 > 	\left| \lambda \right| &= 1 && \vecbf{v} \ne \vecbf{0}\\
 > \end{align}$$
-> \[[[Vector Length#Properties of Vector Length]]\]
-
+> \[[[Norms]]\]
 
 For $Q \in \R^{n,n}$, this is equivalent to
 1. $Q^TQ = I_{n}$

@@ -6,21 +6,13 @@ tags:
 ---
 The *characteristic polynomial* $P_{T}$ for $T \in \mathcal{L}(V)$ is
 $$P_{T}(\lambda) := \left| T-\lambda I \right| $$
-- $P(\lambda)$ is always [[Polynomials#Degree|degree]] $n$.
+> [!note] $P(\lambda)$ is always [[Polynomials#Degree|degree]] $n$.
 
-> [!proof]- $\lambda$ is an [[Eigenvectors & Eigenvalues|eigenvalue]] of $T$ iff $P_{T}(\lambda) = 0$.
-> $\lambda$ is an [[Eigenvectors & Eigenvalues|eigenvalue]] of $T$ iff
-> $$\begin{align}
-> 	T\,\vecbf{v} &= \lambda \vecbf{v} \\
-> 	T\,\vecbf{v} - \lambda \vecbf{v} &= \vecbf{0} \\
-> 	T\,\vecbf{v} - \lambda I \vecbf{v} &= \vecbf{0} \\
-> 	(T - \lambda I)\vecbf{v}&= \vecbf{0} \\
-> \end{align}$$
-> has a non-trivial solutions, which happens iff $(T-\lambda I)$ is [[Singular Matrices|singular]] (not invertible), which is the case iff
+> [!theorem]- $\lambda$ is an [[Eigenvectors & Eigenvalues|eigenvalue]] of $T$ iff $P_{T}(\lambda) = 0$.
+> $\lambda$ is an [[Eigenvectors & Eigenvalues|eigenvalue]] of $T \in \mathcal{L}(V)$ iff $T-\lambda I$ is [[Singular Matrices|singular]] (not [[Linear Map Invertibility|invertible]])[^2], which is the case iff
 > $$\left| T - \lambda I \right| = P_{T}(\lambda) = 0 $$
 
-> [!example]-
-> For $A=\begin{bmatrix}5&-6\\2&-2\end{bmatrix}$,
+> [!example]- Finding the [[Eigenvectors & Eigenvalues|eigenvalues]] of $A=\begin{bmatrix}5&-6\\2&-2\end{bmatrix}$
 > $$\begin{align*}
 > 	P_{A}(\lambda) &= \begin{vmatrix}
 > 		5-\lambda&-6\\2&-2-\lambda
@@ -34,4 +26,4 @@ $$P_{T}(\lambda) := \left| T-\lambda I \right| $$
 > $\therefore \lambda=1,\lambda=2$
 
 [^1]: [[Sets of Matrices]]
-
+[^2]: [[Eigenvectors & Eigenvalues#Theorems]], Theorem 2

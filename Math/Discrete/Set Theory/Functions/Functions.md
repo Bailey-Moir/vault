@@ -12,7 +12,8 @@ tags:
 - $\mathcal{f}$ is single valued;
   $\forall a \in A, b_1, b_2 \in B, \left( f(a) = b_1 \land f(a) = b_2 \implies b_1 = b_2 \right)$
 
-These properties combined imply $\forall a \in A, \exists! b \in B : f(a) = b$.
+These properties combined are [[Logical Equivalence|equivalent]] to
+$$\forall a \in A, \exists! b \in B : f(a) = b.$$
 # Notations
 $$\begin{array}{c}
 f(a) = b \implies (a,b) \in f \\

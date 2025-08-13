@@ -12,8 +12,9 @@ $$\begin{array}{lcl}
 $$
 then
 $$ \lim_{x\to a} \dfrac{f(x)}{g(x)} = \lim_{x\to a} \dfrac{f'(x)}{g'(x)} $$
-$$ 
-\begin{align*}
-	\left( \exists \varepsilon > 0 \ni 0 < |x - a| < \varepsilon \implies g'(x) \ne 0 \land f,g \text{ are differentiable} \right) \land \lim_{x\to a} f(x) = \lim_{x\to a} g&(x) \in \{0, \pm \infty\} \implies \\
-	&\lim_{x\to a} \dfrac{f(x)}{g(x)} = \lim_{x\to a} \dfrac{f'(x)}{g'(x)}
-\end{align*}$$
+> [!formal definition]-
+> $$\begin{array}{l}
+> 	\left( \exists \varepsilon > 0 : \forall x \in (a-\varepsilon,0)\cup(0,a+\varepsilon), g'(x) \ne 0 \right) \,\land \\
+> 	f,g \text{ are differentiable} \land \lim_{x\to a} f(x) = \lim_{x\to a} g(x) \in \{0, \pm \infty\} \\
+> 	\implies \lim_{x\to a} \dfrac{f(x)}{g(x)} = \lim_{x\to a} \dfrac{f'(x)}{g'(x)}
+> \end{array}$$

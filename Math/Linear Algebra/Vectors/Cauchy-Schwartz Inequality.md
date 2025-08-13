@@ -6,7 +6,6 @@ tags:
 ---
 For $\vecbf{u},\vecbf{v}$ in an [[Inner Products|inner product space]] with [[Norms|induced norm]] $\| \cdot \|$,
 $$\left| \left< \vecbf{u},\vecbf{v} \right>  \right| \le \| \vecbf{u} \|\,\| \vecbf{v} \|$$
-
 > [!proof]-
 > If $\vecbf{u} = \vecbf{0}$, then the inequality holds, as, by the definition of a [[Norms|norm]], if $\vecbf{u} = 0$, then $\| \vecbf{u} \| = 0$, and $\left< \vecbf{0},\vecbf{v} \right> = 0$ for all $\vecbf{v}$, which can be shown by the [[Linear Combinations|linearity]] of the [[Inner Products|inner product]], giving $0 \le 0$.
 > 

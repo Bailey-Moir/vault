@@ -1,3 +1,8 @@
+---
+tags:
+  - atom
+  - math
+---
 For a [[Definition of Continuity|continuous]] [[Functions|function]] $f$ defined on $\left[ -\pi,\pi \right]$, the $n$-th order *Fourier approximation* of $f$ is
 $$F_{n} = \text{proj}_{\text{span}\,S_{n}}(f)$$
 where $S_{n} = \{ 1,\cos t,\sin t,\dots,\cos nt,\sin nt \}$.
@@ -44,6 +49,6 @@ where $S_{n} = \{ 1,\cos t,\sin t,\dots,\cos nt,\sin nt \}$.
 > where
 > - $\displaystyle a_{0} = \dfrac{\left< 1,f \right>}{\left< 1,1 \right>} = \dfrac{1}{2\pi}\int_{-\pi}^\pi f(t) \, dt$,
 > - $\displaystyle a_{k} = \dfrac{\left< \cos kt,f \right>}{\left< \cos kt,\cos kt \right>} = \dfrac{1}{\pi}\int_{-\pi}^\pi \cos(kt)f(t) \, dt$,
-> - $\displaystyle b_{k} = \dfrac{\left< \sin kt,f \right>}{\left< \sin kt,\cos kt \right>} = \dfrac{1}{\pi}\int_{-\pi}^\pi \cos(kt)f(t) \, dt$,
+> - $\displaystyle b_{k} = \dfrac{\left< \sin kt,f \right>}{\left< \sin kt,\sin kt \right>} = \dfrac{1}{\pi}\int_{-\pi}^\pi \sin(kt)f(t) \, dt$,
 > 
 > \[[[Vector Projection]]\]

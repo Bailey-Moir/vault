@@ -32,9 +32,9 @@ $$ \left| I \right| \le \text{dim}(V) \le \left| S \right|  $$
 
 - If $\left| I \right|$ or $\left| S \right|$ is equal to $\text{dim}(V)$, it must be a [[Basis|basis]].
   > [!proof]- for $I$
-> As shown, $I$ can be extended to a [[Basis|basis]], but since the given [[Lists|list]] is already the size of a [[Basis|basis]], this extension must be trivial, and the [[Lists|list]] must already a [[Basis|basis]].
+> As shown, $I$ can be extended to a [[Basis|basis]], but since the given [[Lists|list]] is already the size of a [[Basis|basis]], this extension must be trivial, and the [[Lists|list]] must already be a [[Basis|basis]].
 
   > [!proof]- for $S$
-> As shown, $S$ can be reduced to a [[Basis|basis]], but since the given [[Lists|list]] is already the size of a [[Basis|basis]], this reduction must be trivial, and the [[Lists|list]] must already a [[Basis|basis]].
+> As shown, $S$ can be reduced to a [[Basis|basis]], but since the given [[Lists|list]] is already the size of a [[Basis|basis]], this reduction must be trivial, and the [[Lists|list]] must already be a [[Basis|basis]].
 
 \[[[Dimension]]\]

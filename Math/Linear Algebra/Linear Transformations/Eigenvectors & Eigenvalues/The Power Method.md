@@ -18,9 +18,9 @@ tags:
    (typically $\vecbf{x}_{0} = \begin{bmatrix} 1 & 1 & \cdots & 1 \end{bmatrix}^T$)
 2. Calculate $\vecbf{y}_{k} = A\vecbf{x}_{k}$.
 3. Set $\vecbf{x}_{k+1} = \dfrac{1}{\| \vecbf{y}_{k} \|_{\infty}}\vecbf{y}_{k}$[^3], and increment $k$ be one.
-4. Repeat steps 2-4 until the [[Sequences|sequence]] [[Convergence and Divergence of Sequences|converges]].
+4. Repeat steps 2-4 until the [[Sequences|sequence]] [[Convergence of Sequences|converges]].
 
-$\vecbf{x}_{0},\vecbf{x}_{1},\dots$ [[Convergence and Divergence of Sequences|converges]] to the [[Dominant Eigenvectors & Eigenvalues|dominant eigenvector]] and $m_{0}, m_{1},\dots$ [[Convergence and Divergence of Sequences|converges]] to the [[Dominant Eigenvectors & Eigenvalues|dominant eigenvalue]].
+$\vecbf{x}_{0},\vecbf{x}_{1},\dots$ [[Convergence of Sequences|converges]] to the [[Dominant Eigenvectors & Eigenvalues|dominant eigenvector]] and $m_{0}, m_{1},\dots$ [[Convergence of Sequences|converges]] to the [[Dominant Eigenvectors & Eigenvalues|dominant eigenvalue]].
 
 > [!proof]- If $A \in \R^{n,n}$ is [[Diagonalisation|diagonalisable]] with a [[Dominant Eigenvectors & Eigenvalues|dominant eigenvalue]] $\lambda_{1}$, there exists a non-zero $\vecbf{x} \in\text{domain}\,A$ such that $\text{lim}_{n\to \infty}A^n\vecbf{x}$ is a [[Dominant Eigenvectors & Eigenvalues|dominant eigenvector]].
 > Suppose $A \in \R^{n,n}$[^2] is [[Diagonalisation|diagonalisable]]. Then, there exists [[Eigenvectors & Eigenvalues|eigenvectors]] $\vecbf{v}_{1},\dots,\vecbf{v}_{n}$ of $A$ (with corresponding [[Eigenvectors & Eigenvalues|eigenvalues]] $\lambda_{1},\dots,\lambda_{n}$) such that there exists $\vecbf{x} \in\text{domain}\,A$ such that

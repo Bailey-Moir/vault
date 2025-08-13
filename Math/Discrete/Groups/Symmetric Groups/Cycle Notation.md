@@ -21,15 +21,15 @@ In *cycle notation*, each [[Components of Graphs|component]] of the [[Symmetric 
 
 > [!lemma] Each [[Permutations|permutation]] in $S_{n}$[^1] can be written as a product/[[Composite Functions|composition]] of [[Disjoint Sets|disjoint]] [[Walks|cycles]].
 
-[!lemma]- If $\sigma$ and $\tau$ are *cycles* in $S_{n}$[^1] with no common entries, then $\sigma\tau = \tau\sigma$.
-Suppose $\sigma$ and $\tau$ are [[Disjoint Sets|disjoint]] [[Walks|cycles]] in $S_{n}$, and let $i \in \{ 1,\dots,n \}$.
-
-If $i$ does not appear in $\sigma$, then $\sigma(i) = i$, and $\tau(i)$ does not appear in $\sigma$ (as they a [[Disjoint Sets|disjoint]]).
-$$\begin{align}
-	\tau\sigma(i) & = \tau(\sigma(i)) = \tau(i) \\
-	\sigma\tau(i) & = \sigma(\tau(i)) = \tau(i)\\
-\end{align}$$
-If $i$ does not appear in $\tau$, this gives the same result.
+> [!lemma]- If $\sigma$ and $\tau$ are *cycles* in $S_{n}$[^1] with no common entries, then $\sigma\tau = \tau\sigma$.
+> Suppose $\sigma$ and $\tau$ are [[Disjoint Sets|disjoint]] [[Walks|cycles]] in $S_{n}$, and let $i \in \{ 1,\dots,n \}$.
+> 
+> If $i$ does not appear in $\sigma$, then $\sigma(i) = i$, and $\tau(i)$ does not appear in $\sigma$ (as they a [[Disjoint Sets|disjoint]]).
+> $$\begin{align}
+> 	\tau\sigma(i) & = \tau(\sigma(i)) = \tau(i) \\
+> 	\sigma\tau(i) & = \sigma(\tau(i)) = \tau(i)\\
+> \end{align}$$
+> If $i$ does not appear in $\tau$, this gives the same result.
 
 
 > [!note] The [[Inverse Functions|inverse]] in *cycle notation* just reverses the order:

@@ -25,7 +25,7 @@ $$\begin{array}{rl}
 
 > [!note] $n - 1 = 2^sd$
  
-> [!theorem] If $p$ is [[Primes|prime]], then the only square roots of $1$ in $\Z_{p}$ are $\pm 1$[^1]
+> [!theorem] If $p$ is [[Primes|prime]], then the only [[Quadratic Residues|square roots]] of $1$ in $\Z_{p}$ are $\pm 1$[^1]
 
 > [!corollary]
 > Let $p$ be a [[Primes|prime]], and write $p-1 = 2^sd$ with odd $d$. For any $a \in \Z_{p}^\times$, either

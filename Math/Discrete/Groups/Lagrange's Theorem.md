@@ -41,7 +41,7 @@ Let $G$ be a finite [[Groups|group]], and $H \le G$. Then the [[Order in Groups|
 >   If $\phi(h_{1}) = \phi(h_{2})$, then $gh_{1} = gh_{2}$. By [[Groups#Theorems|cancellation]], we have $h_{1} = h_{2}$.
 
 > [!corollary]- Every [[Groups|group]] of [[Primes|prime]] [[Order in Groups|order]] is [[Cyclic Groups|cyclic]]
-> Say $\left| G \right| = p \in \mathbb{P}$.
+> Supposw $\left| G \right| = p \in \mathbb{P}$.
 > 
 > If $g \in G$ with $g \ne e$, then $\left| g \right| \,{\big|} \left| G \right|$
 > 

@@ -3,14 +3,7 @@ tags:
   - atom
   - math
 ---
-Defined as a function of the differential operator. It is helpful to consider differentiation as an abstract operation, accepting a function and returning another. *Differential operators* are operators, and therefore must be followed by an expression to operator on.
-$$ D^n \equiv \dfrac{d^n}{dx^n} $$
-```sheet
-|               | - | Distributive Law       | Commutative Law                    | Index Law                             |
-| ------------- | - | ---------------------- | ---------------------------------- | ------------------------------------- |
-| Variables     | - | $m(a+b) = ma + mb$     | $ab = ba$                          | $a^m \times a^n = a^\left(m+n\right)$ |
-| $D$-operators | - | $D(u+v) = D\:u + D\;v$ | $D(uv) \textcolor{red}{\ne} uD\:v$ | $D^m\left( D^n \left( u \right)\right) = D^{\left(m+n\right)}\:u$ |
-```
+The fact that $D \equiv\dfrac{d}{dx}$ is a [[Operators|linear operator]] can be leveraged to solve [[Differential Equations|DEs]] (e.g. using factorisation).
 
 > [!example]-
 > $$\begin{array}{l}
@@ -18,20 +11,20 @@ $$ D^n \equiv \dfrac{d^n}{dx^n} $$
 > 	\\
 > 	\begin{align*}
 > 		0&= D^2\:y - 2D\:y + y \\
-> 		&= (D^2 - 2D + 1)\:y \\
-> 		&= (D-1)^2\:y =(D-1)\left(\phantom{\int}\hspace{-1em} (D-1)\:y \right) \\ 
-> 		\text{let } u = (D-1)\:y \\
-> 		&= (D-1)\:u \\
+> 		&= (D^2 - 2D + I)\:y \\
+> 		&= (D-I)^2\:y =(D-I)\left(\phantom{\int}\hspace{-1em} (D-I)\:y \right) \\ 
+> 		\text{let } u = (D-I)\:y \\
+> 		&= (D-I)\:u \\
 > 	\end{align*}\\
 > 	\begin{aligned}
 > 		&\begin{aligned}
-	> 		\therefore \dfrac{du}{dx} &= u \\
-	> 		u &= Ae^x && \hspace{6.6em}(1) \\
+> 		\therefore \dfrac{du}{dx} &= u \\
+> 		u &= Ae^x && \hspace{6.6em}(1) \\
 > 		\end{aligned}\hspace{2.1em}& \\
 > 		&\begin{aligned}
-	> 		\therefore (D-1)\:y &= Ae^x \\
-	> 		\dfrac{dy}{dx} - y &= Ae^x \\
-	> 		\boldsymbol y &\boldsymbol{= (Ax + B)e^x} && (2) \\
+> 		\therefore (D-I)\:y &= Ae^x \\
+> 		\dfrac{dy}{dx} - y &= Ae^x \\
+> 		\boldsymbol y &\boldsymbol{= (Ax + B)e^x} && (2) \\
 > 		\end{aligned}
 > 	\end{aligned} \\
 > \end{array}$$

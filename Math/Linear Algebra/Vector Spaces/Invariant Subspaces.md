@@ -4,7 +4,7 @@ tags:
   - math
   - linear
 ---
-For an [[Operators|operator]] $T \in \mathcal{L}(V)$ An [[Subspaces|subspace]] $U$ of $V$ is a *invariant* under $T$ iff
+For an [[Operators|operator]] $T \in \mathcal{L}(V)$, a [[Subspaces|subspace]] $U$ of $V$ is a *invariant* under $T$ iff
 $$\forall \vecbf{u} \in U, T\,\vecbf{u} \in U$$
 > [!examples]-
 > - $\text{null}\,T$[^1]

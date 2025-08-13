@@ -5,7 +5,7 @@ tags:
   - discrete
   - comp
 ---
-The *Vigenère cipher* has a different [[Caesar Cipher|Caesar cipher]] $x \mapsto x + \beta$ is applied to each letter. The [[Key|key]] is a word of length $n$. The [[Plaintext|plaintext]] is folded into rows of length $n$, and for each character in column $i$, $\beta$ is given by the value of the $i$-th character in the [[Key|key]].
+The *Vigenère cipher* has a different [[Caesar Cipher|Caesar cipher]] $x \mapsto x + \beta$ applied to each letter. The [[Key|key]] is a word of length $n$. The [[Plaintext|plaintext]] is folded into rows of length $n$, and for each character in column $i$, $\beta$ is given by the value of the $i$-th character in the [[Key|key]].
 
 > [!Example] **[[Plaintext]]**: Hello world** [[Key]]**: Key
 > $$\begin{array}{c}

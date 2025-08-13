@@ -5,7 +5,7 @@ tags:
 ---
 $$ y' + p(x)y = q(x) y^n $$
 $$y^{1-n} = \dfrac{1}{\mu} (1-n) \int q(x) \mu \, dx \hspace{2em} \text{s.t. } \mu = e^{(1-n)\int p(x) \, dx}$$
-Same as ODE ($n = 0$) with [[Integrating Factor Method|integrating factor method]] except $y \to y^{1-n}$, $\mu \to \mu^{1-n}$, and $\text{RHS} \to (1-n)\text{RHS}$.
+Same as [[Ordinary Differential Equations|ODE]] ($n = 0$) with [[Integrating Factor Method|integrating factor method]] except $y \to y^{1-n}$, $\mu \to \mu^{1-n}$, and $\text{RHS} \to (1-n)\text{RHS}$.
 > [!proof]
 > $$\begin{array}{l}
 >	y' + p(x)y = q(x) y^n \\

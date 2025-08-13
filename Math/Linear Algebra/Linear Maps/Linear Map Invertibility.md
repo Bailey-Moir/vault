@@ -19,7 +19,7 @@ A [[Linear Maps|linear map]] $T \in \mathcal{L}(V,W)$ is *invertible* iff there 
 > \end{align}$$
 > Thus, all *inverses* must be the same.
 
-> [!proof]- $T \in \mathcal{L}(V,W)$ is *invertible* iff it is [[Bijective Functions|bijective]].<br/> *Note this implies $\mathit{\mathcal{M}(T)}$ and $\mathit{\mathcal{M}(T^{-1})}$ are square*[^1]
+> [!theorem]- $T \in \mathcal{L}(V,W)$ is *invertible* iff it is [[Bijective Functions|bijective]].<br/> *Note this implies $\mathit{\mathcal{M}(T)}$ and $\mathit{\mathcal{M}(T^{-1})}$ are square*[^1]
 > ($\implies$)
 > Suppose $T$ is *invertible*.
 > 
@@ -64,7 +64,7 @@ Suppose $\vecbf{u},\vecbf{v} \in V$ such that $T\,\vecbf{u} =T\,\vecbf{v}$. Then
 > 
 > Thus, $S$ is an *inverse* [[Linear Maps|linear map]] of $T$, meaning $T$ is *invertible*.
 
-> [!proof]- For $S, \in \mathcal{L}(W,V), T \in \mathcal{L}(V,W)$ where $\text{dim}\,V =\text{dim}\,W<\infty$, <br/> $$ST = I \iff TS = I$$
+> [!theorem]- For $S, \in \mathcal{L}(W,V), T \in \mathcal{L}(V,W)$ where $\text{dim}\,V =\text{dim}\,W<\infty$, <br/> $$ST = I \iff TS = I$$
 > ($\implies$)
 > Suppose $ST = I$. If $v \in V$ and $T\,\vecbf{v} = \vecbf{0}$, then
 > $$ \vecbf{v} = I\,\vecbf{v} = (ST)\vecbf{v} = S(T\,\vecbf{v}) = S\,\vecbf{0} = \vecbf{0} $$

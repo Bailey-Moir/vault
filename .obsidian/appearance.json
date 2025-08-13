@@ -1,7 +1,7 @@
 {
   "accentColor": "",
   "cssTheme": "Typewriter",
-  "theme": "obsidian",
+  "theme": "moonstone",
   "enabledCssSnippets": [
     "big-math",
     "center-svg",
@@ -12,9 +12,9 @@
     "no-collapse-icon",
     "no-folder-icon",
     "better-atom",
-    "better-embeds",
     "better-callouts",
-    "underline-links",
+    "better-embeds",
+    "centre-math",
     "typewriter-dark"
   ],
   "showRibbon": false,

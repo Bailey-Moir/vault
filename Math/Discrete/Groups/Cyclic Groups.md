@@ -15,4 +15,6 @@ A [[Groups|group]] $G$ is *cyclic* iff there is an element $a \in G$ such that $
 > $$xy = g^ag^b = g^{a+b} = g^{b+a} = g^{b}g^{a} = yx,$$
 > meaning $G$ must be commutative (and thus [[Groups|abelian]]).
 
+\[[[Lagrange's Theorem]] Corollary\]
+
 [^1]: [[Generated Subgroups]]

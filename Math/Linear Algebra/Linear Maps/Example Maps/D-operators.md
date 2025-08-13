@@ -10,4 +10,4 @@ $$\begin{array}{rc}
 	D \in \mathcal{L}(\mathcal{P}_n(\R), \mathcal{P}_{n-1}(\R)), & "
 \end{array}$$
 
-\[[[Linear Maps]], [[Polynomials]]\]
+\[[[Linear Maps]], [[Polynomials]], [[Differential Operators]]\]

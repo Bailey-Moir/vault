@@ -25,7 +25,7 @@ Frontier Set ^T9VfuRpP
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.9.2",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.12.2",
 	"elements": [
 		{
 			"id": "G-A9QitYwShwdPttTeISP",
@@ -68,7 +68,8 @@ Frontier Set ^T9VfuRpP
 			"startBinding": null,
 			"endBinding": null,
 			"startArrowhead": null,
-			"endArrowhead": null
+			"endArrowhead": null,
+			"polygon": false
 		},
 		{
 			"id": "vE_IRsM-1V8pNNavL73x8",
@@ -582,11 +583,11 @@ Frontier Set ^T9VfuRpP
 			"index": "aNV",
 			"roundness": null,
 			"seed": 1704607843,
-			"version": 131,
-			"versionNonce": 767701315,
+			"version": 133,
+			"versionNonce": 161726840,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1747999575455,
+			"updated": 1754702340163,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -603,7 +604,8 @@ Frontier Set ^T9VfuRpP
 			"startBinding": null,
 			"endBinding": null,
 			"startArrowhead": null,
-			"endArrowhead": null
+			"endArrowhead": null,
+			"polygon": false
 		},
 		{
 			"id": "OXgMcYwx5-Z6U4ZoP4AZF",
@@ -646,7 +648,8 @@ Frontier Set ^T9VfuRpP
 			"startBinding": null,
 			"endBinding": null,
 			"startArrowhead": null,
-			"endArrowhead": null
+			"endArrowhead": null,
+			"polygon": false
 		},
 		{
 			"id": "qbCS2_YQB1u7CLiCbEKVg",
@@ -784,10 +787,10 @@ Frontier Set ^T9VfuRpP
 		{
 			"id": "CqXht3kl",
 			"type": "image",
-			"x": -325.18924386358015,
-			"y": -297.71725241580384,
-			"width": 16,
-			"height": 12,
+			"x": -325.3416385094212,
+			"y": -297.60509299335575,
+			"width": 16.30478929168218,
+			"height": 11.775681155103795,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -819,8 +822,8 @@ Frontier Set ^T9VfuRpP
 		{
 			"id": "uDkAnj3gkbEnv2MJED7pF",
 			"type": "rectangle",
-			"x": -343.25911789347697,
-			"y": -268.33462069094213,
+			"x": -271.3901307128033,
+			"y": -260.1090742820501,
 			"width": 50.99966396243046,
 			"height": 94.06270174306005,
 			"angle": 0,
@@ -836,26 +839,21 @@ Frontier Set ^T9VfuRpP
 			"index": "aSV",
 			"roundness": null,
 			"seed": 914115395,
-			"version": 154,
-			"versionNonce": 111170659,
+			"version": 159,
+			"versionNonce": 1188170760,
 			"isDeleted": false,
-			"boundElements": [
-				{
-					"id": "ZxueUmwwhBK5FOrQrfhgD",
-					"type": "arrow"
-				}
-			],
-			"updated": 1748001391928,
+			"boundElements": [],
+			"updated": 1754702341055,
 			"link": null,
 			"locked": false
 		},
 		{
 			"id": "0GcdrZC7R3hI5Zd55nMEQ",
 			"type": "image",
-			"x": -422.81604739554626,
-			"y": -233.5194274952499,
-			"width": 16,
-			"height": 12,
+			"x": -422.96844204138733,
+			"y": -233.40726807280177,
+			"width": 16.30478929168218,
+			"height": 11.775681155103795,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -1028,10 +1026,10 @@ Frontier Set ^T9VfuRpP
 		{
 			"id": "ZxueUmwwhBK5FOrQrfhgD",
 			"type": "arrow",
-			"x": -353.507067733103,
-			"y": -268.03763742009926,
-			"width": 0,
-			"height": 94.30503902325725,
+			"x": -351.026061971534,
+			"y": -280.1617760970019,
+			"width": 0.579310152541609,
+			"height": 131.86490569297953,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -1047,11 +1045,11 @@ Frontier Set ^T9VfuRpP
 				"type": 2
 			},
 			"seed": 66280355,
-			"version": 507,
-			"versionNonce": 1828438147,
+			"version": 734,
+			"versionNonce": 982584840,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1748001433948,
+			"updated": 1754702354023,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1060,29 +1058,21 @@ Frontier Set ^T9VfuRpP
 					0
 				],
 				[
-					0,
-					17.62972539603919
+					-0.5793101525416091,
+					28.60226423294978
+				],
+				[
+					-0.5793101525416091,
+					86.52850481993568
 				],
 				[
 					0,
-					75.55596598302509
-				],
-				[
-					0,
-					94.30503902325725
+					131.86490569297953
 				]
 			],
 			"lastCommittedPoint": null,
-			"startBinding": {
-				"elementId": "uDkAnj3gkbEnv2MJED7pF",
-				"focus": 1.4018830338637236,
-				"gap": 10.247949839626017
-			},
-			"endBinding": {
-				"elementId": "uDkAnj3gkbEnv2MJED7pF",
-				"focus": -1.4018830338637225,
-				"gap": 10.262131482896965
-			},
+			"startBinding": null,
+			"endBinding": null,
 			"startArrowhead": "triangle",
 			"endArrowhead": "triangle",
 			"elbowed": false
@@ -1090,10 +1080,10 @@ Frontier Set ^T9VfuRpP
 		{
 			"id": "AIBxMuLvhzb63u2uR_vAY",
 			"type": "image",
-			"x": -376.66846528330206,
-			"y": -225.16686989857732,
-			"width": 16.492422502470642,
-			"height": 11.641710001743983,
+			"x": -377.01563252053995,
+			"y": -224.9317109152129,
+			"width": 17.186756976946388,
+			"height": 11.171392035015153,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -1104,9 +1094,9 @@ Frontier Set ^T9VfuRpP
 			"opacity": 100,
 			"roundness": null,
 			"seed": 26204131,
-			"version": 170,
-			"versionNonce": 1000935491,
-			"updated": 1748001444187,
+			"version": 172,
+			"versionNonce": 1680643080,
+			"updated": 1754702339976,
 			"isDeleted": false,
 			"groupIds": [],
 			"boundElements": [],
@@ -1139,10 +1129,10 @@ Frontier Set ^T9VfuRpP
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "triangle",
 		"currentItemArrowType": "round",
-		"scrollX": 481.92872640452543,
-		"scrollY": 347.6047795749338,
+		"scrollX": 490.8622617315152,
+		"scrollY": 504.62173018744795,
 		"zoom": {
-			"value": 3.908905
+			"value": 1.255074
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": 20,
@@ -1182,6 +1172,7 @@ Frontier Set ^T9VfuRpP
 			"type": "selection",
 			"customType": null,
 			"locked": true,
+			"fromSelection": false,
 			"lastActiveTool": null
 		}
 	},

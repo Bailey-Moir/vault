@@ -18,5 +18,3 @@ The types of grammars are defined by restricting the form of the productions $x 
 	- Closed under [[Complement|complement]].
 	- [[Decidability|Decidable]].
 	- Accepted by [[Linearly Space-Bounded Non-Detereministic TMs|LBA]]s.
-
-#TODO2 

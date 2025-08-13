@@ -5,8 +5,7 @@ tags:
   - linear
 ---
 Similar to the corresponding rules with [[Cardinality|cardinality]], for $T \in \mathcal{L}(V,W)$ such that $V$ and $W$ are [[Finite-Dimensional Vector Spaces|finite-dimensional]]:
-- $T$ can be [[Injective Functions|injective]] iff $\text{dim}\,V \le \dim\,W$.
-> [!proof]-
+> [!theorem]- **(1)** $T$ can be [[Injective Functions|injective]] iff $\text{dim}\,V \le \dim\,W$.
 > ($\implies$)
 > Suppose $T$ is [[Injective Functions|injective]]. Since $\text{null}\,T = \{ \vecbf{0} \}$[^1], by the [[Rank-Nullity Theorem|rank-nullity theorem]],
 > $$\begin{align}
@@ -27,8 +26,7 @@ Similar to the corresponding rules with [[Cardinality|cardinality]], for $T \in 
 > 
 > \[[[Nullity]], [[Rank]]\]
 
-- $T$ can be [[Surjective Functions|surjective]] iff $\text{dim}\,V \ge \dim\,W$.
-> [!proof]-
+> [!theorem]- **(2)** $T$ can be [[Surjective Functions|surjective]] iff $\text{dim}\,V \ge \dim\,W$.
 > ($\implies$)
 > Suppose $T$ is [[Surjective Functions|surjective]]. By the [[Rank-Nullity Theorem|rank-nullity theorem]],
 > $$\begin{align}
@@ -48,8 +46,7 @@ Thus, since $\text{range}\,T$ is a [[Subspaces|subspace]] of $W$ and $W$ is [[Fi
 > 
 > \[[[Nullity]], [[Rank]]\]
 
--  If $\text{dim}\,V = \text{dim}\,W$, then  $T$ is [[Bijective Functions|bijective]] (and thus [[Linear Map Invertibility|invertible]]) iff it is [[Injective Functions|injective]], and iff it is [[Surjective Functions|surjective]].
-> [!proof]-
+> [!theorem]- **(3)** If $\text{dim}\,V = \text{dim}\,W$, then  $T$ is [[Bijective Functions|bijective]] (and thus [[Linear Map Invertibility|invertible]]) iff it is [[Injective Functions|injective]], and iff it is [[Surjective Functions|surjective]].
 > If $T$ is [[Bijective Functions|bijective]], by the above theorems, $\text{dim}\,V = \text{W}$, and by the definition of [[Bijective Functions|bijectivity]], it must also be [[Injective Functions|injective]] and [[Surjective Functions|surjective]].
 > 
 > If $T$ is [[Injective Functions|injective]], $\text{null}\,T = \{ \vecbf{0} \}$[^1], meaning by the [[Rank-Nullity Theorem|rank-nullity theorem]],

@@ -3,11 +3,14 @@ tags:
   - atom
   - math
 ---
-The solution of [[Linear Differential Equations|linear]] [[Homogeneous Differential Equations|homogeneous]] constant coefficient DEs rely upon the *auxiliary equation*. 
+The solution of [[Linear Homogeneous Differential Equations|linear homogeneous]] constant coefficient [[differentials.excalidraw|DEs]] rely upon the *auxiliary equation*. 
 $$a_n\dfrac{d^ny}{{dx}^n} + a_{n-1}\dfrac{d^{n-1}y}{{dx}^{n-1}} + \dots + a_1\dfrac{dy}{dx} + a_0y = 0 \hspace{2em}\ni \forall n, a_n \text{ is constant}$$
 will have an *auxiliary equation* of
 $$a_nm^n + a_{n-1}m^{n-1} + \dots + a_1m + a_0 = 0 \hspace{2em}\ni \forall n, a_n \text{ is constant}$$
-The roots of this *auxiliary equation*, $m_1, m_2, \dots, m_n$, are used to form the **general solution**. The dampening names below only apply when $\text{Re}(m_1),\text{Re}(m_2) < 0$, which exception of **simple harmonic motion**. *Furthermore, for the below [[Statements and Propositions|statements]]/[[Argument|arguments]], let them be denoted by $p$, $q$, $r$, and $s$ for the sake of the proofs.*
+The roots of this *auxiliary equation*, $m_1, m_2, \dots, m_n$, are used to form the **general solution**. 
+
+# Second Order
+ If the [[Differential Equations|DE]] is also [[Order|second order]], the dampening names below only apply when $\text{Re}(m_1),\text{Re}(m_2) < 0$, which exception of **simple harmonic motion**. *Furthermore, for the below [[Statements and Propositions|statements]]/[[Argument|arguments]], let them be denoted by $p$, $q$, $r$, and $s$ for the sake of the proofs.*
 ![600|center](auxiliary-equation-graphs.excalidraw.md)
 - **Over-damped**: $y = C_1e^{m_1x} + C_2e^{m_2x}$ if $m_1 \ne m_2$.
 > [!proof]- $p \iff \T$
@@ -89,8 +92,11 @@ The roots of this *auxiliary equation*, $m_1, m_2, \dots, m_n$, are used to form
 > [!proof]- $r \implies s$
 > The [[Argument|premise]] for $s$ [[Logical Implication|logically implies]] the [[Argument|premise]] for $r$, as $m_1 = bi \land m_2 = -b_i \implies m_1 = \overline{m_2}$. Thus, assuming the [[Argument|premise]] for $s$, $r$ applies.
 > $$\begin{align*}
-> 	y &= e^{ax} \left( C_1\cos bx + C_2i\sin bx \right)\\
-> 	&= e^{0x} \left( C_1\cos bx + C_2i\sin bx \right) && a = 0 \\
+> 	y &= e^{ax} \left( C_1\cos bx + C_2\sin bx \right)\\
+> 	&= e^{0x} \left( C_1\cos bx + C_2\sin bx \right) && a = 0 \\
 > 	&= C_1\cos bx + C_2\sin bx \\
 > \end{align*}$$
 > Thus $r \implies s$.
+
+
+#TODO anki

@@ -11,7 +11,7 @@ where
 - $\Sigma \in \R^{m,n}$ is non-square "[[Diagonal Matrices|diagonal]]", and
 - $V \in \R^{n,n}$ is [[Orthogonal Matrices|orthogonal]].
 
-> [!note]
+ > [!note]
 > $$\begin{align}
 > 	A &= U \Sigma V^T \\
 > 	&= [ \underbrace{\vecbf{u}_{1} \; \cdots \; \vecbf{u}_{r}}_{\text{col}(A)}  \underbrace{\vecbf{u}_{r+1} \; \cdots \; \vecbf{u}_{m}}_{\text{null}(A^T)} ] \Sigma [ \underbrace{\vecbf{v}_{1} \; \cdots \; \vecbf{v}_{r}}_{\text{row}(A)}  \underbrace{\vecbf{v}_{r+1} \; \cdots \; \vecbf{v}_{n}}_{\text{null}(A)} ]^T \\

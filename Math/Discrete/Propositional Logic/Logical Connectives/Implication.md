@@ -12,7 +12,7 @@ Implication (implies) of $p\to q$ is only false when $p$ is true and $q$ is fals
 | 0   | 1   | 1        |
 | 1   | 0   | 0        |
 | 1   | 1   | 1        |
-Note that implication does that imply causality.
+Note that implication does not imply causality.
 
 \[[[Truth Tables]], [[Logical Connectives]]\]
 

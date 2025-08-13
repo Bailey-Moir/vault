@@ -1,3 +1,8 @@
+---
+tags:
+  - atom
+  - comp
+---
 Given a list of [[Points|points]] $\{ p_{i} \}$
 1. Select a [[Points|point]] $A$ with minimum $y$ as the starting point (anchor).
 2. Sort all points in [[Signed Area|counter-clockwise]] order.

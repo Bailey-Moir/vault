@@ -3,6 +3,6 @@ tags:
   - atom
   - math
 ---
-Differential equations relate unknown functions to their derivatives, a very basic example being $\dfrac{dy}{dx} = y$. An [[Order|n-th order]] DE is an equation where the highest derivative present is the $n$-th derivative.
+Differential equations (*DEs*) relate unknown [[Functions|functions]] to their derivatives, a very basic example being $\dfrac{dy}{dx} = y$. 
 
-All models have a limited range of applicability.
+> [!definition] An [[Order|n-th order]] *DE* is an equation where the highest derivative present is the $n$-th derivative.

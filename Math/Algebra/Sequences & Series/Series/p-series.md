@@ -7,7 +7,7 @@ A *p-series* is a [[Series|series]] of the form
 $$\sum_{n=1}^\infty \dfrac{1}{n^p}$$
 This [[Series|series]] converges iff $p>1$ (diverges if $p\le 1$).
 
-> [!proof]-
+> [!proof]- by [[The Integral Test|Integral Test]]
 > If $p < 0$, $\displaystyle\lim_{ n \to \infty } \dfrac{1}{n^p} = \infty$. If $p = 0$, $\displaystyle\lim_{ n \to \infty } \dfrac{1}{n^p} = 1$. In both cases, the limit of the [[Summand|summand]] is not 0, meaning the series diverges. If $p>0$, the [[Functions|function]]
 > $$f(x) = \dfrac{1}{x^p}$$
 > is a [[Definition of Continuity|continuous]] positive [[Extending Sequences|extension]] of $\left\{ a_{n} \right\}$ into the real numbers.

@@ -1,10 +1,15 @@
 {
+  "disableDoubleClickTextEditing": false,
   "folder": "Assets/excali",
   "cropFolder": "",
   "annotateFolder": "",
   "embedUseExcalidrawFolder": true,
   "templateFilePath": "Assets/excali/template.excalidraw",
   "scriptFolderPath": "Assets/excali/scripts",
+  "fontAssetsPath": "Excalidraw/CJK Fonts",
+  "loadChineseFonts": false,
+  "loadJapaneseFonts": false,
+  "loadKoreanFonts": false,
   "compress": false,
   "decompressForMDView": false,
   "onceOffCompressFlagReset": true,
@@ -17,16 +22,20 @@
   "drawingFilnameEmbedPostfix": " ",
   "drawingFilenameDateTime": "YYYY-MM-DD HH.mm.ss",
   "useExcalidrawExtension": true,
+  "cropSuffix": "",
   "cropPrefix": "cropped_",
+  "annotateSuffix": "",
   "annotatePrefix": "annotated_",
   "annotatePreserveSize": false,
   "previewImageType": "SVGIMG",
+  "renderingConcurrency": 3,
   "allowImageCache": true,
   "allowImageCacheInScene": true,
   "displayExportedImageIfAvailable": false,
   "previewMatchObsidianTheme": false,
   "width": "400",
   "height": "",
+  "overrideObsidianFontSize": false,
   "dynamicStyling": "colorful",
   "isLeftHanded": false,
   "iframeMatchExcalidrawTheme": true,
@@ -36,6 +45,7 @@
   "defaultMode": "normal",
   "defaultPenMode": "never",
   "penModeDoubleTapEraser": true,
+  "penModeSingleFingerPanning": true,
   "penModeCrosshairVisible": true,
   "renderImageInMarkdownReadingMode": false,
   "renderImageInHoverPreviewForMDNotes": false,
@@ -93,7 +103,7 @@
   "library2": {
     "type": "excalidrawlib",
     "version": 2,
-    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.4.0",
+    "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.13.1",
     "libraryItems": []
   },
   "imageElementNotice": true,
@@ -120,10 +130,11 @@
     }
   },
   "defaultTrayMode": true,
-  "previousRelease": "2.12.2",
+  "previousRelease": "2.13.1",
   "showReleaseNotes": true,
   "showNewVersionNotification": true,
   "latexBoilerplate": "\\color{blue}",
+  "latexPreambleLocation": "preamble.sty",
   "taskboneEnabled": false,
   "taskboneAPIkey": "",
   "pinnedScripts": [
@@ -452,6 +463,11 @@
   "pdfNumRows": 1,
   "pdfDirection": "right",
   "pdfImportScale": 0.3,
+  "gridSettings": {
+    "DYNAMIC_COLOR": true,
+    "COLOR": "#000000",
+    "OPACITY": 50
+  },
   "laserSettings": {
     "DECAY_LENGTH": 50,
     "DECAY_TIME": 1000,
@@ -471,6 +487,7 @@
   "markdownNodeOneClickEditing": false,
   "canvasImmersiveEmbed": true,
   "startupScriptPath": "",
+  "aiEnabled": true,
   "openAIAPIToken": "",
   "openAIDefaultTextModel": "gpt-3.5-turbo-1106",
   "openAIDefaultVisionModel": "gpt-4o",
@@ -767,6 +784,7 @@
   "areaZoomLimit": 1,
   "longPressDesktop": 500,
   "longPressMobile": 500,
+  "doubleClickLinkOpenViewMode": true,
   "isDebugMode": false,
   "rank": "Silver",
   "modifierKeyOverrides": [
@@ -790,20 +808,6 @@
     }
   ],
   "showSplashscreen": true,
-  "fontAssetsPath": "Excalidraw/CJK Fonts",
-  "loadChineseFonts": false,
-  "loadJapaneseFonts": false,
-  "loadKoreanFonts": false,
-  "renderingConcurrency": 3,
-  "overrideObsidianFontSize": false,
-  "penModeSingleFingerPanning": true,
-  "latexPreambleLocation": "preamble.sty",
-  "gridSettings": {
-    "DYNAMIC_COLOR": true,
-    "COLOR": "#000000",
-    "OPACITY": 50
-  },
-  "doubleClickLinkOpenViewMode": true,
   "pdfSettings": {
     "pageSize": "A4",
     "pageOrientation": "portrait",
@@ -812,7 +816,5 @@
     "customPaperColor": "#ffffff",
     "alignment": "center",
     "margin": "normal"
-  },
-  "disableDoubleClickTextEditing": false,
-  "aiEnabled": true
+  }
 }

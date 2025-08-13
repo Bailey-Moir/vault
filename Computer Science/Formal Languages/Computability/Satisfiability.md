@@ -17,7 +17,7 @@ $$\begin{align}
 	&\hspace{0.5em}|\hspace{0.5em} \text{variable} \\
 \end{align}$$
 
-> [!theorem] *SAT* (and *3-SAT*) is [[NP-complete]]. #TODO2 why?
+> [!theorem] *SAT* (and *3-SAT*) is [[NP-complete]].
 
 > [!theorem]- $\text{3-SAT} =_{p} \text{SAT}$
 > $\left( \text{3-SAT} \le_{p} \text{SAT} \right)$
