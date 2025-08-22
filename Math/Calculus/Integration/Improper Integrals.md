@@ -17,11 +17,11 @@ $$\begin{align*}
 # Integrals with Boundary Discontinuities 
 If a proper integral has bounds $a$ and $b$, the integrand must be continuous over $\left[a,b\right]$. However, the integrand of improper integral can be continuous over $\left[a,b\right)$, $\left(a,b\right]$ or even $\left(a,b\right)$, meaning they can have discontinuities (including infinite discontinuities) on the bounds.
 
-| [[Definition of Continuity\|Continuous]] [[Math/Algebra/Basics/Intervals\|Interval]] | Integral Type                                                                                                                                             |
+| [[Continuity\|Continuous]] [[Math/Algebra/Basics/Intervals\|Interval]] | Integral Type                                                                                                                                             |
 | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | $f \in \mathcal{C}(\,\left[a,b\right]\,)$                        | $\displaystyle \int_a^b f(x) \, dx$ (Proper)                                                                                                              |
 | $f \in \mathcal{C}(\,\left[a,b\right)\,)$                        | $\displaystyle \lim_{\ell\to b^-} \int_a^\ell f(x) \, dx$                                                                                                 |
 | $f \in \mathcal{C}(\,\left(a,b\right]\,)$                        | $\displaystyle \lim_{\ell\to a^+} \int_\ell^b f(x) \, dx$                                                                                                 |
 | $f \in \mathcal{C}(\,\left(a,b\right)\,)$                        | $\displaystyle \lim_{\ell\to a^+} \int_\ell^c f(x) \, dx + \lim_{\ell\to b^-} \displaystyle \int_c^\ell f(x) \, dx \phantom{aaaa} c \in \left(a,b\right)$ |
 
-\[[[Definition of Continuity|Continuity]]\]
+\[[[Continuity|Continuity]]\]

@@ -94,7 +94,7 @@
   "Economics": "LiDollarSign",
   "Math/Analysis": "LiChartSpline",
   "Computer Science/Networks": "LiWifi",
-  "Computer Science/C": "LiBraces",
   "Computer Science/Machine Architecture": "LiCpu",
-  "Computer Science/Machine Architecture/Representation": "LiBinary"
+  "Computer Science/Machine Architecture/Representation": "LiBinary",
+  "Computer Science/C": "LiBraces"
 }

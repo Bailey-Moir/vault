@@ -10,4 +10,4 @@ A [[Graphs|graph]] is *planar* if it can be drawn in the **plane** without any [
 
 > [!lemma] Let $G$ be a *planar graph*, and let $e \in E(G)$.
 > - If $e$ lies on a [[Walks|cycle]] of $G$, then $e$ lies on the boundary of exactly $2$ faces of $G$.
-> - If $e$ is a [[Bridges|bridge]] (not on a [[Walks|cycle]]) of $G$, then $e$ lies on the boundary of exactly $1$ face of $G$.
+> - If $e$ is a [[Math/Discrete/Graph Theory/Bridges|bridge]] (not on a [[Walks|cycle]]) of $G$, then $e$ lies on the boundary of exactly $1$ face of $G$.

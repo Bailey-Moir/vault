@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"3d4addcd61166276","type":"group","x":2840,"y":1320,"width":1730,"height":1600,"color":"3","label":"Scope Orphans"},
 		{"id":"5ef46461d2b47d97","type":"file","file":"Math/Calculus/Limits/Types of Discontinuities.md","x":1788,"y":720,"width":845,"height":371},
-		{"id":"5eccd806d7c06f07","type":"file","file":"Math/Calculus/Limits/Definition of Continuity.md","x":1240,"y":720,"width":400,"height":371},
+		{"id":"5eccd806d7c06f07","type":"file","file":"Math/Calculus/Limits/Continuity.md","x":1240,"y":720,"width":400,"height":371},
 		{"id":"306231832cab9de3","type":"file","file":"Math/Calculus/Limits/Composite Limit Theorem.md","x":460,"y":930,"width":557,"height":336},
 		{"id":"9b7da4ef298d6cd6","type":"file","file":"Math/Calculus/Limits/Direct Substitution Property.md","x":460,"y":520,"width":557,"height":352},
 		{"id":"3c74bf6f6a3351af","type":"file","file":"Math/Calculus/Limits/Squeeze Theorem.md","x":2860,"y":1340,"width":845,"height":784},
@@ -13,7 +13,7 @@
 		{"id":"2a52041dada20d00","type":"file","file":"Math/Calculus/Limits/Limit Laws.md","x":3096,"y":638,"width":487,"height":400},
 		{"id":"4de463d432e4b6cd","type":"file","file":"Math/Calculus/Limits/L'Hôpital's Rule.md","x":3602,"y":-100,"width":979,"height":552},
 		{"id":"c5ecfbbf608f520e","type":"file","file":"Math/Calculus/Limits/Indeterminate Forms.md","x":2560,"y":-106,"width":886,"height":564},
-		{"id":"d98bbc5baa23889e","type":"file","file":"Math/Calculus/Limits/Precise Definition of a Limit.md","x":3775,"y":1340,"width":768,"height":1560}
+		{"id":"d98bbc5baa23889e","type":"file","file":"Math/Calculus/Limits/Limits of Real Functions.md","x":3775,"y":1340,"width":768,"height":1560}
 	],
 	"edges":[
 		{"id":"361b2b8a5e1807f7","fromNode":"5ef46461d2b47d97","fromSide":"left","toNode":"5eccd806d7c06f07","toSide":"right","toEnd":"none"},

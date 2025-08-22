@@ -7,7 +7,7 @@ sticker: lucide//infinity
 ![[Limit Laws]]
 
 # Precise Definition of a Limit
-![[Precise Definition of a Limit]]
+![[Limits of Real Functions]]
 # Two-Sided Limit Theorem
 ![[Two-Sided Limit Theorem]]
 # Squeeze Theorem
@@ -17,7 +17,7 @@ sticker: lucide//infinity
 ![[Composite Limit Theorem]]
 # Continuity
 ## Definition of Continuity
-![[Definition of Continuity]]
+![[Continuity]]
 ## Types of Discontinuities
 ![[Types of Discontinuities]]
 ## Direct Substitution Property

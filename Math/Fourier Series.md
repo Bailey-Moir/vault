@@ -3,7 +3,7 @@ tags:
   - atom
   - math
 ---
-For a [[Definition of Continuity|continuous]] [[Functions|function]] $f$ defined on $\left[ -\pi,\pi \right]$, the $n$-th order *Fourier approximation* of $f$ is
+For a [[Continuity|continuous]] [[Functions|function]] $f$ defined on $\left[ -\pi,\pi \right]$, the $n$-th order *Fourier approximation* of $f$ is
 $$F_{n} = \text{proj}_{\text{span}\,S_{n}}(f)$$
 where $S_{n} = \{ 1,\cos t,\sin t,\dots,\cos nt,\sin nt \}$.
 

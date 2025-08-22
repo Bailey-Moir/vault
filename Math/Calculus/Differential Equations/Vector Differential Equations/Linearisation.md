@@ -4,7 +4,7 @@ tags:
   - math
 ---
 Let $\vecbf{x}' = \vecbf{F}(\vecbf{x})$, and $\vecbf{x}_{*}$ be a [[Fixed Points|fixed point]]. Let $\vecbf{x} = \vecbf{x}_{*} + \vecbf{\delta}$ be a point near $\vecbf{x}_{*}$. Then
-$$\vecbf{\delta}' = \mathbf{J}_{\vecbf{F}}(\vecbf{x}_{*})\delta.$$
+$$\vecbf{\delta}' = \mathbf{J}_{\vecbf{F}}(\vecbf{x}_{*})\vecbf{\delta}.$$
 > [!proof]- with 1D
 > Let $x_{*}$ be a fixed point of $x' = g(x)$, and let $x = x_{*} + \delta$ for some small $\delta$. By [[Taylor Series|Taylor's theorem]] about $x_{*}$,
 > $$\begin{align}

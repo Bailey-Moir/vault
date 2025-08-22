@@ -3,4 +3,4 @@ tags:
   - atom
   - comp
 ---
-End host or [[Routers|router]]
+[[Hosts|End host]] or [[Routers|router]]

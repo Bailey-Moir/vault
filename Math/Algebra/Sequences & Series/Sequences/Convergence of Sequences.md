@@ -5,7 +5,7 @@ tags:
 ---
 A [[Sequences|sequence]] $(a_{n})$ *converges* to $L$ iff $\forall \varepsilon > 0, \exists N : \forall n \ge N, \left| a_{n} - L \right| < \varepsilon$.
 
-> [!theorem]- **2.4** The *limit* of a [[Sequences|sequence]] is unique.
+> [!theorem]- \- **Uniqueness of Limits of Sequences** - The *limit* of a [[Sequences|sequence]] is unique.
 > Suppose $\left( a_{n} \right)^\infty_{n=1}$ converges  to $L,M \in \R$.
 > 
 > Then for $\frac{\varepsilon}{2} > 0$, there exists $N_{L}$ such that for all $n \ge N_{L}$,

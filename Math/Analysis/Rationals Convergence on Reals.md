@@ -1,4 +1,8 @@
-
+---
+tags:
+  - atom
+  - comp
+---
 > [!theorem]- **2.20.1** $\forall x \in \R,\varepsilon>0, \exists a \in \Q : \left| x-a \right|<\varepsilon$
 > By [[The Real Numbers#Properties of The Reals|the Archimedian property]], there is an $n \in \Z^+$ such that
 > $$\dfrac{1}{\varepsilon} < n.$$
@@ -22,3 +26,5 @@
 > 	x - \lim x_{n} &= 0 \\
 > 	\lim x_{n} &= x \\
 > \end{align}$$
+
+![[Pasted image 20250818110842.png]]

@@ -97,6 +97,3 @@ The roots of this *auxiliary equation*, $m_1, m_2, \dots, m_n$, are used to form
 > 	&= C_1\cos bx + C_2\sin bx \\
 > \end{align*}$$
 > Thus $r \implies s$.
-
-
-#TODO anki

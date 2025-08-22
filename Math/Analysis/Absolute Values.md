@@ -15,8 +15,8 @@ $$ \forall x \in \R, \hspace{1em}|x| = \left\{\begin{array}{lr}
 >    If $a = 0$, then $\left| a \right| = a = 0$.
 >    If $\left| a \right| = 0$, then $\left| a \right| = \pm a = 0$, so $a = 0$[^2]
 > 
-> 2. If $a \geq 0$, then $-a \leq 0 \leq a$, so $-a \leq a$, meaning $\max \{a,-a \} = a$.
->    If $a < 0$, then $a < 0 < -a$[^1], so $-a > a$, and $\max \{a,-a \} = a$.
+> 2. If $a \geq 0$, then $-a \leq 0 \leq a$, so $-a \leq a$, meaning $\max \{a,-a \} = a = |a|$.
+>    If $a < 0$, then $a < 0 < -a$[^1], so $-a > a$, and $\max \{a,-a \} = -a = |a|$.
 > 
 > 3. Using 3,
 >    $$\begin{align}
@@ -30,7 +30,7 @@ $$ \forall x \in \R, \hspace{1em}|x| = \left\{\begin{array}{lr}
 > 	\left| ab \right| &= \max\{ ab,-ab \} \\
 > 	&= \max\{ a,-a \}b \\
 > 	&= \left| a \right| b \\
-> 	&= \left| a \right| \left| b \right| && b> =0 \\
+> 	&= \left| a \right| \left| b \right| && b \ge 0 \\
 > \end{align}$$
 >    If $b < 0$, then $-b \geq 0$, meaning $\left| a(-b) \right| = \left| a \right|\left| -b \right|$, but
 >    $$\begin{align}

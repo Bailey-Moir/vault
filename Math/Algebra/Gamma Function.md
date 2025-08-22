@@ -12,10 +12,10 @@ $$\begin{align*}
   > [!proof]-
 > $$\begin{align*}
 > 	\Gamma(n + 1) &= \int_{0}^\infty e^{-t} t^n dt \\
-> 	&= \left[ -e^{-t}t^{n} \right]_{0}^\infty + \int_{0}^\infty -e^{-t} nt^{n-1} dt \\
+> 	&= \left[ -e^{-t}t^{n} \right]_{0}^\infty - n\int_{0}^\infty -e^{-t} nt^{n-1} dt \\
 > 	&= n\int_{0}^\infty e^{-t} t^{n-1} dt \\
 > 	&= n\Gamma(n) \\
 > \end{align*}$$
 
-- $\forall n \in \N, \Gamma(n+1) = n!$
+- $\forall n \in \N, n! = \Gamma(n+1)$
 - $\Gamma(\frac{1}{2}) = \sqrt{ \pi }$

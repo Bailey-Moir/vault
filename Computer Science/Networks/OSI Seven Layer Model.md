@@ -20,7 +20,7 @@ Transfer of messages over one physical link, which are referred to as **frames**
 	- frame format
 - Error control (e.g. coding- or retransmission-based)
 	- Error-correction coding is also often regarded as a PHY functionality
-- Medium access control
+- [[Medium Access Control|Medium access control]]
 	- distributes right to send on shared channel to several participants
 	- often considered as a separate “sub-layer” of link layer
 - Flow control (hop-to-hop scope)

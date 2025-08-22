@@ -1,13 +1,12 @@
 {
   "accentColor": "",
-  "cssTheme": "Typewriter",
+  "cssTheme": "Material Gruvbox",
   "theme": "moonstone",
   "enabledCssSnippets": [
     "big-math",
     "center-svg",
     "larger-inline-math",
     "pdfs",
-    "typewriter-tables",
     "excali",
     "no-collapse-icon",
     "no-folder-icon",

@@ -21,7 +21,7 @@ $$\left| F(G) \right|  = 2 - \left| V(G) \right| + \left| E(G) \right|$$
 > Suppose $G$ has no [[Walks|cycles]]. Then by definition, $G$ is a [[Trees|tree]], meaning $\left| E(G) \right| = \left| V(G) \right| - 1$. A [[Trees|tree]] has only $1$ face, so
 > $$\left| F(G) \right|  = 1 = 2 - (\left| E(G) \right| + 1) +  \left| E(G) \right| $$
 > **Case (ii)**
-> Suppose $G$ has at least one [[Walks|cycle]]. Let $e$ be an [[Edges|edge]] in that cycle. Then by definition, $e$ is not a [[Bridges|bridge]].
+> Suppose $G$ has at least one [[Walks|cycle]]. Let $e$ be an [[Edges|edge]] in that cycle. Then by definition, $e$ is not a [[Math/Discrete/Graph Theory/Bridges|bridge]].
 > 
 > Since $e$ lies on a [[Walks|cycle]] of $G$, then by the [[Planar Graphs|planar graph lemma]], $e$ is on the boundary of $2$ faces, $f_{1}$ and $f_{2}$.
 > 

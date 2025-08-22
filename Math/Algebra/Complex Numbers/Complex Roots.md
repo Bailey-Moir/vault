@@ -5,8 +5,8 @@ tags:
 ---
 
 $$\begin{align*}
-	z^n &= |z|e^{i\arg z} && \text(1) \\
-	z &= \sqrt[n]{|z|}e^{\displaystyle \small i\frac{\arg z}{n}} && \text(2) \\
+	z^k &= |z|e^{i(\arg z + 2\pi n)} && \text(1) \\
+	z &= \sqrt[n]{|z|}e^{\displaystyle \small i\frac{\arg z + 2\pi n}{k}} && \text(2) \\
 \end{align*}$$
 \[$(1)$ [[Complex Numbers in Polar Form]], $(2)$ [[De Moivre's Formula]]\]
 

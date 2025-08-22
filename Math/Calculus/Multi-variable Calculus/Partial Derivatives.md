@@ -10,4 +10,4 @@ $$\begin{array}{ccccc}
 \end{array}$$
 $f_{x}$ is found by treating the other variable as constant and differentiating $f$ wrt. $x$.
 - $f_{xy} = \dfrac{\partial}{\partial y}\left( \dfrac{\partial f}{\partial x} \right)$
-- $f_{xy} = f_{yx}$ (if [[Definition of Continuity|continuous]])
+- $f_{xy} = f_{yx}$ (if [[Continuity|continuous]])

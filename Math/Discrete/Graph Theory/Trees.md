@@ -6,9 +6,9 @@ tags:
 ---
 A *tree* is a connected [[Graphs|graph]] with no [[Walks|cycles]].
 - It follows that a [[Trees|tree]] is a [[Simple Graphs|simple graph]].
-- A [[Graphs|graph]] $G$ is a *tree* iff every [[Edges|edge]] is a [[Bridges|bridge]] .
+- A [[Graphs|graph]] $G$ is a *tree* iff every [[Edges|edge]] is a [[Math/Discrete/Graph Theory/Bridges|bridge]] .
 > [!proof]-
-> This is [[Logical Equivalence|logically equivalent]] to stating $G$ is not a *tree* [[Logical Implication|iff]] there exists an [[Edges|edge]] that is not a [[Bridges|bridge]][^1]. An [[Edges|edge]] is not a bridge iff it is in a [[Walks|cycle]][^2], meaning the original theorem [[Logical Equivalence|logically equivalent]] to stating $G$ is not a *tree* iff there is a [[Walks|cycle]], which is the same as stating $G$ is a *tree* iff there are no [[Walks|cycles]], the definition of a *tree*.
+> This is [[Logical Equivalence|logically equivalent]] to stating $G$ is not a *tree* [[Logical Implication|iff]] there exists an [[Edges|edge]] that is not a [[Math/Discrete/Graph Theory/Bridges|bridge]][^1]. An [[Edges|edge]] is not a bridge iff it is in a [[Walks|cycle]][^2], meaning the original theorem [[Logical Equivalence|logically equivalent]] to stating $G$ is not a *tree* iff there is a [[Walks|cycle]], which is the same as stating $G$ is a *tree* iff there are no [[Walks|cycles]], the definition of a *tree*.
 - A connected [[Graphs|graph]] $G$ is a *tree* iff $\left| V(G) \right| = \left| E(G) \right| + 1$.
 > [!proof]-
 > $\left( \implies \right)$ **If $G$ is *tree* with $n$ [[Vertices|vertices]], then it has $n-1$ [[Edges|edges]]**
@@ -24,4 +24,4 @@ If $n = 1$, then $G$ has $1$ [[Vertices|vertex]], meaning it has $0$ ($n-1$) [[E
 Thus, the theorem has been proven by [[Induction|mathematical induction]].
 
 [^1]: [[Negating Quantifiers]]
-[^2]: [[Bridges]]
+[^2]: [[Math/Discrete/Graph Theory/Bridges]]
