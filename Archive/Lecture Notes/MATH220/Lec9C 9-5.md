@@ -4,4 +4,3 @@
 - [[Wagner's Theorem]]
 - [[Subdivisions]]
 - [[Crossing Numbers]]
-- 

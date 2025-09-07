@@ -4,9 +4,9 @@ tags:
   - comp
 ---
 *TCP* (*transmission control protocol*) extends upon the [[IP]] protocol, adding [[Ports|port numbers]] and making it
-- Connection-oriented
+- Connection-oriented ( #TODO what )
 - Byte-stream oriented
-- Full-duplex
+- [[Switched Topologies|Full-duplex]]
 - Reliable (acknowledgement and retransmissions)
 - Ordered (in-sequence)
 

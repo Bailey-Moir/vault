@@ -23,7 +23,7 @@ While the medium isn't busy in the given **time slot**, it start transmission on
 - increment the a collision counter,
 - if the counter is less than 16, wait a random backoff time ([[#Non-Persistent CSMA|non-persistent]]) and try again, otherwise drop the frame.
 
-> [!note] The backoff time is a random integer from in $\left[ 0,2^{\text{min}\{ 10,\text{coll} \}} \right)$ time slots, meaning the average backoff time doubles after every collision (up to 1023).
+> [!note] The backoff time is a random integer from in $\left[ 0,2^{\text{min}\{ 10,\text{coll} \}} \right)$ **time slots**, meaning the average backoff time doubles after every collision (up to 1023).
 
 > [!note] This is used by [[Ethernet|ethernet]].
 

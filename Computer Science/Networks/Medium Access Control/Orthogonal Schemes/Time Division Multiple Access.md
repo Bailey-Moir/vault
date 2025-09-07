@@ -22,9 +22,9 @@ In *TDMA*, the whole frequency spectrum (except [[Frequency Division Multiple Ac
 > [!note] *TDMA* is good for [[Constant Bit Rate|CBR]] but bad for [[Variable Bit Rate|VBR]].
 
 > [!note] Completion Time
-> Suppose the total available [[Bandwidth|bandwidth]] is $B\text{ bps}$, and it is subdivided into $N$ time slots with superframe length of $T_{SF}$. Then (ignoring **guard times**), you are given a [[Bandwidth|bandwidth]] of $\dfrac{B}{N}$, so to send a [[Packets|packet]] of length $M\text{ b} \ne 0$,
+> Suppose the total available [[Bandwidth|bandwidth]] is $B\text{ bps}$, and it is subdivided into $N$ time slots with superframe length of $T_{SF}$. Then (ignoring **guard times**), you are given a [[Bandwidth|bandwidth]] of $\dfrac{B}{N}$, so to send a [[Packets|packet]] of length $M$,
 > $$\begin{align}
 > 	E[\text{Access Delay}] &= \dfrac{T_{SF}}{2} \\
-> 	E[\text{Transmission Delay}] &= \dfrac{M}{B} + T_{SF}\left( \left\lceil \dfrac{M}{BN} \right\rceil - 1 \right) \\
-> 	\to E[\text{Completion TIme}] &= \dfrac{M}{B} + T_{SF}\left( \left\lceil \dfrac{M}{BN} \right\rceil + 1 \right) \\
+> 	E[\text{Transmission Delay}] &= \dfrac{M}{B} + T_{SF}\left( \left\lceil \dfrac{MN}{B} \right\rceil - 1 \right) \\
+> 	\to E[\text{Completion TIme}] &= \dfrac{M}{B} + T_{SF}\left( \left\lceil \dfrac{MN}{B} \right\rceil - \dfrac{1}{2} \right) \\
 > \end{align}$$

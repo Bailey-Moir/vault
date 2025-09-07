@@ -3,7 +3,7 @@ tags:
   - atom
   - comp
 ---
-The *forwarding table* maps [[IP|IP]] destination addresses to output ports, with each entry containing
+The *forwarding table* maps [[IP|IP]] destination addresses to output [[Ports|ports]], with each entry containing
 - **Destination [[IP|IP]] Address** (a full [[Hosts|host]] address or a [[Networks|network]] address with [[Classless Inter-Domain Routing|netmask]]).
 - **Next Hop [[IP|IP]] Address** (on its own [[Networks|network]] or otherwise)
 - **Flags**

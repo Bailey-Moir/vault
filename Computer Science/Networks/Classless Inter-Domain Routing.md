@@ -5,6 +5,8 @@ tags:
 ---
 *Classless inter-domain routing* (*CIDR*) allows you to vary how many of 32 bits are allocated to the [[Networks|network]] address and the [[Hosts|host]] address respectively using a **netmask**.
 
+#cheatsheet special addresses
+
 > [!note]- Special [[Hosts|host]] addresses
 > In the [[Networks|network]] $a.b.c.d/k$, there are two special [[Hosts|host]] addresses:
 > - All $0$s gives to the [[Networks|network]] address as a whole.

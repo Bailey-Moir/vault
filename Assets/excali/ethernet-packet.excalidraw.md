@@ -16,7 +16,7 @@ Payload ^L7U7TxIa
 
 FCS ^xZL1rcbA
 
-L/R ^j3unonTL
+L/T ^j3unonTL
 
 SrcAddr ^EPavRGTj
 
@@ -46,7 +46,7 @@ SOF ^qQvwkgyy
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.13.1",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.13.0",
 	"elements": [
 		{
 			"id": "w7nit7isyHKPaCzSH2-HQ",
@@ -411,7 +411,7 @@ SOF ^qQvwkgyy
 			"type": "text",
 			"x": 380.6054648325392,
 			"y": -76.61428371272996,
-			"width": 75.39993286132812,
+			"width": 75.39994812011719,
 			"height": 25,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -485,9 +485,9 @@ SOF ^qQvwkgyy
 		{
 			"id": "j3unonTL",
 			"type": "text",
-			"x": 222.13073359332805,
+			"x": 220.92072687946086,
 			"y": -76.0180605515215,
-			"width": 36.799957275390625,
+			"width": 39.219970703125,
 			"height": 25,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -502,21 +502,21 @@ SOF ^qQvwkgyy
 			"index": "aE",
 			"roundness": null,
 			"seed": 866597771,
-			"version": 174,
-			"versionNonce": 984187947,
+			"version": 177,
+			"versionNonce": 1114454166,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1755231532789,
+			"updated": 1756807234075,
 			"link": null,
 			"locked": false,
-			"text": "L/R",
-			"rawText": "L/R",
+			"text": "L/T",
+			"rawText": "L/T",
 			"fontSize": 20,
 			"fontFamily": 5,
 			"textAlign": "center",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "L/R",
+			"originalText": "L/T",
 			"autoResize": true,
 			"lineHeight": 1.25
 		},
@@ -561,9 +561,9 @@ SOF ^qQvwkgyy
 		{
 			"id": "tA7hUiUg",
 			"type": "text",
-			"x": 35.57605815154674,
+			"x": 35.549843551937364,
 			"y": -75.54388778355259,
-			"width": 74.87080383300781,
+			"width": 74.92323303222656,
 			"height": 22.44089367605687,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -599,9 +599,9 @@ SOF ^qQvwkgyy
 		{
 			"id": "qQvwkgyy",
 			"type": "text",
-			"x": -9.36191758251406,
+			"x": -9.362627116205466,
 			"y": -74.57396958855645,
-			"width": 34.561553955078125,
+			"width": 34.56297302246094,
 			"height": 21.075838038958366,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -637,9 +637,9 @@ SOF ^qQvwkgyy
 		{
 			"id": "ebO68JVs",
 			"type": "text",
-			"x": -65.8994145748469,
+			"x": -65.89942220424143,
 			"y": -107.70294059062398,
-			"width": 10.999984741210938,
+			"width": 11,
 			"height": 25,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -675,9 +675,9 @@ SOF ^qQvwkgyy
 		{
 			"id": "FB4YiUo4",
 			"type": "text",
-			"x": -2.1461463868391775,
+			"x": -2.1461540162337087,
 			"y": -107.70294059062398,
-			"width": 10.999984741210938,
+			"width": 11,
 			"height": 25,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -713,9 +713,9 @@ SOF ^qQvwkgyy
 		{
 			"id": "67N0XOvC",
 			"type": "text",
-			"x": 70.27045789640306,
+			"x": 70.27045026700853,
 			"y": -107.70294059062398,
-			"width": 10.999984741210938,
+			"width": 11,
 			"height": 25,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -751,9 +751,9 @@ SOF ^qQvwkgyy
 		{
 			"id": "yebgg8wy",
 			"type": "text",
-			"x": 148.9068932223777,
+			"x": 148.90688559298317,
 			"y": -107.70294059062398,
-			"width": 10.999984741210938,
+			"width": 11,
 			"height": 25,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -789,9 +789,9 @@ SOF ^qQvwkgyy
 		{
 			"id": "qWUjMN2s",
 			"type": "text",
-			"x": 228.8761494860808,
+			"x": 228.87614185668627,
 			"y": -107.70294059062398,
-			"width": 10.999984741210938,
+			"width": 11,
 			"height": 25,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -827,9 +827,9 @@ SOF ^qQvwkgyy
 		{
 			"id": "S3DsgsPK",
 			"type": "text",
-			"x": 368.80549992775406,
+			"x": 368.8054312632033,
 			"y": -107.70294059062398,
-			"width": 98.99986267089844,
+			"width": 99,
 			"height": 25,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -865,9 +865,9 @@ SOF ^qQvwkgyy
 		{
 			"id": "TdHperEv",
 			"type": "text",
-			"x": 585.6278871513782,
+			"x": 585.6278795219837,
 			"y": -107.70294059062398,
-			"width": 10.999984741210938,
+			"width": 11,
 			"height": 25,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -969,9 +969,9 @@ SOF ^qQvwkgyy
 		{
 			"id": "IteRlmbx",
 			"type": "text",
-			"x": 60.60038283966139,
+			"x": 60.60036758087233,
 			"y": -26.625746652224734,
-			"width": 21.999969482421875,
+			"width": 22,
 			"height": 25,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -1021,10 +1021,10 @@ SOF ^qQvwkgyy
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"currentItemArrowType": "round",
-		"scrollX": 151.89963241912767,
-		"scrollY": 298.78543737142434,
+		"scrollX": 133.74953531012466,
+		"scrollY": 295.8576352545214,
 		"zoom": {
-			"value": 2
+			"value": 1.877473
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": 20,

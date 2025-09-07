@@ -30,4 +30,4 @@ The [[Layered PDU Processing#PDU Names|frame]] format for *Ethernet* contains a:
 - **FCS** (Frame Check Sequence)
   CRC [[Encoding#Checksums, Hash Totals|checksum]] (idk what that means).
 
-> [!note] A minimum [[Layered PDU Processing#PDU Names|frame]] size is chosen to ensure transmitters can detect collisions while still transmitting (longer than the [[End-to-End Delay|round-trip]] delay + [[End-to-End Delay|processing delay]]).
+> [!note] A minimum [[Layered PDU Processing#PDU Names|frame]] size is chosen to ensure transmitters can [[Carrier Sense Multiple Access|detect collisions]] while still transmitting (longer than the [[End-to-End Delay|round-trip]] delay + [[End-to-End Delay|processing delay]]). **See [[Broadcast Topologies]]**

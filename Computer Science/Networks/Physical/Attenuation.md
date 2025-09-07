@@ -10,4 +10,4 @@ $$\eta_{dB} = 10 \log_{10}\eta.$$
 
 > [!note] $\eta_{dB} = 10 \iff \eta = 10$
 
-> [!note] Higher frequencies are attenuated more.
+> [!important-note] Higher frequencies are attenuated more.

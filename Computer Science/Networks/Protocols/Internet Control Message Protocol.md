@@ -6,7 +6,7 @@ tags:
 ![600|center](ICMP-packet.excalidraw)
 *Internet control message protocol* (*ICMP*) is for error messages and operational information about [[IP|IP]] [[Layered PDU Processing#PDU Names|datagram]] delivery. 
 - **Type** and **Code** specify the *ICMP* message type and sub-type respectively.
-- **Checksum** covers the *ICMP* headers.
+- **Checksum** covers the *ICMP* header.
 
 > [!example]- Type-Codes
 > | Type | Code | Meaning                                         |

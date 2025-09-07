@@ -3,7 +3,7 @@ tags:
   - atom
   - comp
 ---
-A *port* is a 16-[[Binary|bit]] **port number**, allowing different applications to be addressed.
+A *port* is represented with 16-[[Binary|bit]] **port number**, and they allow different applications to be addressed.
 
 > [!-] [[IP|IP]] address allow the computer to be communicated with, but *ports* allow specific applications to be communicated with.
 

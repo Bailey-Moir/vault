@@ -10,7 +10,7 @@ tags:
   Information is imparted on carrier signals. It is given by $\frac{d}{v}$.
   e.g. $v=c$, and $d = 5\,\text{km}$.
 - **Transmission Delay**
-  The number of bits divided by the bit rate of the modulation (?).
+  The number of bits divided by the bit rate of the modulation.
 - **Processing Delay**
   The sum of the processing times each [[Stations|station]] a [[Packets|packet]] traverses takes.
 - **Queuing Delay**

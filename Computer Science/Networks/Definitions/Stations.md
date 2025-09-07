@@ -3,4 +3,4 @@ tags:
   - atom
   - comp
 ---
-[[Hosts|End host]] or [[Routers|router]]
+A *station* is an [[Hosts|end host]] or [[Routers|router]].
