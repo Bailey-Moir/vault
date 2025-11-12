@@ -4,7 +4,7 @@ tags:
   - comp
 ---
 ![600|center](ICMP-packet.excalidraw)
-*Internet control message protocol* (*ICMP*) is for error messages and operational information about [[IP|IP]] [[Layered PDU Processing#PDU Names|datagram]] delivery. 
+*Internet control message protocol* (*ICMP*) is for error messages and operational information about [[IPv4|IPv4]] [[Layered PDU Processing#PDU Names|datagram]] delivery. 
 - **Type** and **Code** specify the *ICMP* message type and sub-type respectively.
 - **Checksum** covers the *ICMP* header.
 
@@ -20,4 +20,4 @@ tags:
 > | 3    | 6    | Destination [[Networks\|network]] unknown       |
 > | 3    | 7    | Destination [[Hosts\|host]] unknown.            |
 
-> [!note] *ICMP* [[Packets|packets]] are wrapped in [[IP|IP]] [[Layered PDU Processing#PDU Names|datagrams]].
+> [!note] *ICMP* [[Packets|packets]] are wrapped in [[IPv4|IPv4]] [[Layered PDU Processing#PDU Names|datagrams]].

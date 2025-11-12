@@ -12,15 +12,9 @@ tags: [excalidraw]
 ## Text Elements
 Application Layer ^PH83xXcW
 
-Representation Layer ^37ig4oKl
-
-Session Layer ^u5OnPREl
-
 Transport Layer ^U0ct46gv
 
 Network Layer ^PxYzLdMs
-
-Link Layer ^PxV46XY1
 
 Physical Layer ^nKoMGvxp
 
@@ -49,6 +43,12 @@ Router ^EB5g9Lah
 End Host B ^IBcZhgrw
 
 End Host A ^pkXJyDxs
+
+Representation Layer ^37ig4oKl
+
+Session Layer ^u5OnPREl
+
+Link Layer ^PxV46XY1
 
 %%
 ## Drawing
@@ -81,7 +81,7 @@ End Host A ^pkXJyDxs
 			"version": 317,
 			"versionNonce": 1733389004,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1753835322533,
 			"link": null,
 			"locked": false,
@@ -119,10 +119,7 @@ End Host A ^pkXJyDxs
 					-9.064920787096185
 				]
 			],
-			"lastCommittedPoint": [
-				518.1508721904185,
-				-9.064920787096185
-			],
+			"lastCommittedPoint": null,
 			"startBinding": {
 				"elementId": "pkXJyDxs",
 				"focus": 0.02016664712466183,
@@ -197,7 +194,7 @@ End Host A ^pkXJyDxs
 			"version": 234,
 			"versionNonce": 1398262476,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1753835030057,
 			"link": null,
 			"locked": false,
@@ -232,16 +229,16 @@ End Host A ^pkXJyDxs
 			"index": "a3",
 			"roundness": null,
 			"seed": 1406774860,
-			"version": 205,
-			"versionNonce": 1805945204,
+			"version": 212,
+			"versionNonce": 2091367782,
 			"isDeleted": false,
 			"boundElements": [
 				{
-					"type": "text",
-					"id": "37ig4oKl"
+					"id": "37ig4oKl",
+					"type": "text"
 				}
 			],
-			"updated": 1753835041073,
+			"updated": 1757304619393,
 			"link": null,
 			"locked": false
 		},
@@ -265,11 +262,11 @@ End Host A ^pkXJyDxs
 			"index": "a4",
 			"roundness": null,
 			"seed": 61211852,
-			"version": 292,
-			"versionNonce": 1723546356,
+			"version": 299,
+			"versionNonce": 1355396090,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1753835041073,
+			"updated": 1757304619393,
 			"link": null,
 			"locked": false,
 			"text": "Representation Layer",
@@ -303,16 +300,16 @@ End Host A ^pkXJyDxs
 			"index": "a5",
 			"roundness": null,
 			"seed": 1164586868,
-			"version": 259,
-			"versionNonce": 1916173556,
+			"version": 263,
+			"versionNonce": 1071310586,
 			"isDeleted": false,
 			"boundElements": [
 				{
-					"type": "text",
-					"id": "u5OnPREl"
+					"id": "u5OnPREl",
+					"type": "text"
 				}
 			],
-			"updated": 1753835044841,
+			"updated": 1757304619620,
 			"link": null,
 			"locked": false
 		},
@@ -336,11 +333,11 @@ End Host A ^pkXJyDxs
 			"index": "a6",
 			"roundness": null,
 			"seed": 81535220,
-			"version": 356,
-			"versionNonce": 875364852,
+			"version": 360,
+			"versionNonce": 781893178,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1753835048489,
+			"updated": 1757304619620,
 			"link": null,
 			"locked": false,
 			"text": "Session Layer",
@@ -374,16 +371,16 @@ End Host A ^pkXJyDxs
 			"index": "a7",
 			"roundness": null,
 			"seed": 1116398668,
-			"version": 300,
-			"versionNonce": 303197260,
+			"version": 304,
+			"versionNonce": 25675953,
 			"isDeleted": false,
 			"boundElements": [
 				{
-					"type": "text",
-					"id": "U0ct46gv"
+					"id": "U0ct46gv",
+					"type": "text"
 				}
 			],
-			"updated": 1753835052357,
+			"updated": 1758066084515,
 			"link": null,
 			"locked": false
 		},
@@ -407,11 +404,11 @@ End Host A ^pkXJyDxs
 			"index": "a8",
 			"roundness": null,
 			"seed": 851475148,
-			"version": 413,
-			"versionNonce": 224496372,
+			"version": 417,
+			"versionNonce": 1345800913,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1753835059991,
+			"updated": 1758066084515,
 			"link": null,
 			"locked": false,
 			"text": "Transport Layer",
@@ -516,16 +513,16 @@ End Host A ^pkXJyDxs
 			"index": "aB",
 			"roundness": null,
 			"seed": 1598669900,
-			"version": 385,
-			"versionNonce": 1870237900,
+			"version": 389,
+			"versionNonce": 1871268538,
 			"isDeleted": false,
 			"boundElements": [
 				{
-					"type": "text",
-					"id": "PxV46XY1"
+					"id": "PxV46XY1",
+					"type": "text"
 				}
 			],
-			"updated": 1753835072590,
+			"updated": 1757304620064,
 			"link": null,
 			"locked": false
 		},
@@ -549,11 +546,11 @@ End Host A ^pkXJyDxs
 			"index": "aC",
 			"roundness": null,
 			"seed": 346249932,
-			"version": 517,
-			"versionNonce": 2095090508,
+			"version": 521,
+			"versionNonce": 2134546938,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1753835075177,
+			"updated": 1757304620064,
 			"link": null,
 			"locked": false,
 			"text": "Link Layer",
@@ -679,7 +676,7 @@ End Host A ^pkXJyDxs
 			"id": "qHgDh4gN",
 			"type": "text",
 			"x": 520.4183514984395,
-			"y": -191.80897987284632,
+			"y": -191.80897987284635,
 			"width": 131.52023315429688,
 			"height": 20,
 			"angle": 0,
@@ -695,11 +692,11 @@ End Host A ^pkXJyDxs
 			"index": "aG",
 			"roundness": null,
 			"seed": 1887402868,
-			"version": 297,
-			"versionNonce": 898373748,
+			"version": 298,
+			"versionNonce": 869577402,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1753835106811,
+			"updated": 1757304597707,
 			"link": null,
 			"locked": false,
 			"text": "Application Layer",
@@ -750,7 +747,7 @@ End Host A ^pkXJyDxs
 			"id": "cunZYZaf",
 			"type": "text",
 			"x": 502.7214983132002,
-			"y": -154.49094006819425,
+			"y": -154.49094006819422,
 			"width": 166.32029724121094,
 			"height": 20,
 			"angle": 0,
@@ -766,11 +763,11 @@ End Host A ^pkXJyDxs
 			"index": "aI",
 			"roundness": null,
 			"seed": 994455156,
-			"version": 356,
-			"versionNonce": 294620020,
+			"version": 357,
+			"versionNonce": 910085178,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1753835106811,
+			"updated": 1757304597707,
 			"link": null,
 			"locked": false,
 			"text": "Representation Layer",
@@ -821,7 +818,7 @@ End Host A ^pkXJyDxs
 			"id": "r6T01mGh",
 			"type": "text",
 			"x": 533.6857950699582,
-			"y": -116.24562113587618,
+			"y": -116.24562113587616,
 			"width": 105.80819702148438,
 			"height": 20,
 			"angle": 0,
@@ -837,11 +834,11 @@ End Host A ^pkXJyDxs
 			"index": "aK",
 			"roundness": null,
 			"seed": 1950097780,
-			"version": 420,
-			"versionNonce": 1133657716,
+			"version": 421,
+			"versionNonce": 332215546,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1753835106811,
+			"updated": 1757304597707,
 			"link": null,
 			"locked": false,
 			"text": "Session Layer",
@@ -892,7 +889,7 @@ End Host A ^pkXJyDxs
 			"id": "36Qp5J9i",
 			"type": "text",
 			"x": 522.4895342018721,
-			"y": -79.41679549734747,
+			"y": -79.41679549734745,
 			"width": 126.78422546386719,
 			"height": 20,
 			"angle": 0,
@@ -908,11 +905,11 @@ End Host A ^pkXJyDxs
 			"index": "aM",
 			"roundness": null,
 			"seed": 1217483892,
-			"version": 477,
-			"versionNonce": 1153708404,
+			"version": 478,
+			"versionNonce": 756057530,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1753835106811,
+			"updated": 1757304597707,
 			"link": null,
 			"locked": false,
 			"text": "Transport Layer",
@@ -963,7 +960,7 @@ End Host A ^pkXJyDxs
 			"id": "AMOGdzhe",
 			"type": "text",
 			"x": 530.6516714413351,
-			"y": -41.87972321192413,
+			"y": -41.879723211924116,
 			"width": 111.16819763183594,
 			"height": 20,
 			"angle": 0,
@@ -979,11 +976,11 @@ End Host A ^pkXJyDxs
 			"index": "aO",
 			"roundness": null,
 			"seed": 1500890996,
-			"version": 527,
-			"versionNonce": 39150708,
+			"version": 528,
+			"versionNonce": 187416186,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1753835106811,
+			"updated": 1757304597707,
 			"link": null,
 			"locked": false,
 			"text": "Network Layer",
@@ -1379,7 +1376,7 @@ End Host A ^pkXJyDxs
 			"version": 96,
 			"versionNonce": 832337652,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1753835144976,
 			"link": null,
 			"locked": false,
@@ -1483,10 +1480,10 @@ End Host A ^pkXJyDxs
 		{
 			"id": "cRgYA1CXA6V0yMhqd9MTj",
 			"type": "arrow",
-			"x": 166.5996319720952,
-			"y": -182.4496810984031,
-			"width": 326.14758089504664,
-			"height": 0,
+			"x": 166.79987250549317,
+			"y": -182.44968109840306,
+			"width": 325.9473403616486,
+			"height": 0.008791160692936728,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -1502,11 +1499,11 @@ End Host A ^pkXJyDxs
 				"type": 2
 			},
 			"seed": 1303935860,
-			"version": 27,
-			"versionNonce": 459475660,
+			"version": 31,
+			"versionNonce": 891383935,
 			"isDeleted": false,
-			"boundElements": null,
-			"updated": 1753835169951,
+			"boundElements": [],
+			"updated": 1758066071284,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1515,8 +1512,8 @@ End Host A ^pkXJyDxs
 					0
 				],
 				[
-					326.14758089504664,
-					0
+					325.9473403616486,
+					0.008791160692936728
 				]
 			],
 			"lastCommittedPoint": null,
@@ -1678,7 +1675,7 @@ End Host A ^pkXJyDxs
 			"x": 167.49883531926565,
 			"y": -32.26451792352309,
 			"width": 73.11257125333418,
-			"height": 0,
+			"height": 0.49021509621227466,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -1692,11 +1689,11 @@ End Host A ^pkXJyDxs
 			"index": "ai",
 			"roundness": null,
 			"seed": 930339404,
-			"version": 286,
-			"versionNonce": 1403941708,
+			"version": 288,
+			"versionNonce": 1438451871,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1753835210081,
+			"updated": 1758066071286,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1710,7 +1707,7 @@ End Host A ^pkXJyDxs
 				],
 				[
 					73.11257125333418,
-					0
+					0.49021509621227466
 				]
 			],
 			"lastCommittedPoint": null,
@@ -1965,14 +1962,42 @@ End Host A ^pkXJyDxs
 			"elbowed": false
 		},
 		{
-			"id": "47aPSDtcUbydAq28SYS8R",
-			"type": "arrow",
-			"x": 72.85151109198051,
-			"y": -195.44882420866637,
-			"width": 198.69216314946442,
-			"height": 283.3631637003431,
+			"id": "E73CGxDJZvbs8xkG0sokx",
+			"type": "rectangle",
+			"x": 228.42680219581285,
+			"y": -67.94893703075672,
+			"width": 179.82622703519044,
+			"height": 31.607357616882126,
 			"angle": 0,
-			"strokeColor": "#98c379",
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "ao",
+			"roundness": null,
+			"seed": 2089924863,
+			"version": 337,
+			"versionNonce": 894259569,
+			"isDeleted": true,
+			"boundElements": [],
+			"updated": 1758066082844,
+			"link": null,
+			"locked": false
+		},
+		{
+			"id": "Mc7CyKh2",
+			"type": "text",
+			"x": 254.94780298147447,
+			"y": -62.14525822231566,
+			"width": 126.78422546386719,
+			"height": 20,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -1983,37 +2008,24 @@ End Host A ^pkXJyDxs
 			"frameId": null,
 			"index": "ap",
 			"roundness": null,
-			"seed": 2105982924,
-			"version": 186,
-			"versionNonce": 134795340,
+			"seed": 1225802015,
+			"version": 451,
+			"versionNonce": 234846751,
 			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1753835287913,
+			"boundElements": [],
+			"updated": 1758066082844,
 			"link": null,
 			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					283.3631637003431
-				],
-				[
-					198.69216314946442,
-					283.3631637003431
-				]
-			],
-			"lastCommittedPoint": [
-				198.69216314946442,
-				283.3631637003431
-			],
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": null,
-			"endArrowhead": "arrow",
-			"elbowed": false
+			"text": "Transport Layer",
+			"rawText": "Transport Layer",
+			"fontSize": 16,
+			"fontFamily": 5,
+			"textAlign": "center",
+			"verticalAlign": "middle",
+			"containerId": "E73CGxDJZvbs8xkG0sokx",
+			"originalText": "Transport Layer",
+			"autoResize": true,
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -2032,10 +2044,10 @@ End Host A ^pkXJyDxs
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"currentItemArrowType": "sharp",
-		"scrollX": 389.2093817686392,
-		"scrollY": 430.2153484447531,
+		"scrollX": 73.16008428659194,
+		"scrollY": 327.37182072231565,
 		"zoom": {
-			"value": 1.324695
+			"value": 2
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": 20,

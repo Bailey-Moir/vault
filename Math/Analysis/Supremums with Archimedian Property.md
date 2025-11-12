@@ -16,7 +16,7 @@ tags:
 > 		a_{n} & \text{otherwise.} \\
 > 	\end{matrix}\right.
 > \end{array}$$
-> $\left( a_{n} \right)$ is [[Monotone Sequences|monotonically decreasing]] and [[Bounded Sequences|bounded below]] by $x$, so it must [[Convergence of Sequences|converge]][^1]. This [[Sequences|sequence]] [[Monotone Sequences|decreases]] by one until it reaches a term $a_{k}$ where $x \geq a_{k}-1$, at which point every subsequent term is equal to $a_{k}$. Since every term has a difference of one up until it reaches $k$, $k$ must exist (to allow [[Convergence of Sequences|convergence]]).
+> $\left( a_{n} \right)$ is [[Monotone Sequences|monotonically decreasing]] and [[Bounded Sequences|bounded below]] by $x$, so it must [[Sequence Convergence|converge]][^1]. This [[Sequences|sequence]] [[Monotone Sequences|decreases]] by one until it reaches a term $a_{k}$ where $x \geq a_{k}-1$, at which point every subsequent term is equal to $a_{k}$. Since every term has a difference of one up until it reaches $k$, $k$ must exist (to allow [[Sequence Convergence|convergence]]).
 > 
 > From the definition of $k$, $a_{k} = a_{k-1}-1$, so by the [[Recursion|recursive]] definition of $\left( a_{n} \right)$, $x < a_{k-1}-1$.
 > 

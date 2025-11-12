@@ -11,20 +11,22 @@ export default class LatexCalloutsPlugin extends Plugin {
 		
 				svgs.forEach((svg) => {
 					let rawTitle = svg.parentElement?.parentElement?.parentElement?.getAttr("data-callout")!;
-					let titleText = rawTitle.charAt(0).toUpperCase() + rawTitle.replace(/-/g,' ').slice(1);
+					if (rawTitle != 'note') {
+						let titleText = rawTitle.charAt(0).toUpperCase() + rawTitle.replace(/-/g,' ').slice(1);
 
-					let words = rawTitle.split('-');
-					let title = words.map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ');
-		
-					let titleElement = svg.parentElement?.nextElementSibling!;
-					
-					if (titleElement.textContent == titleText) titleElement.textContent = "";
-					
-					let b = document.createElement("b");
-					b.textContent = title + " "
-					b.classList.add("callout-latex-title");
-					
-					titleElement.prepend(b);
+						let words = rawTitle.split('-');
+						let title = words.map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ');
+			
+						let titleElement = svg.parentElement?.nextElementSibling!;
+						
+						if (titleElement.textContent == titleText) titleElement.textContent = "";
+						
+						let b = document.createElement("b");
+						b.textContent = title + " "
+						b.classList.add("callout-latex-title");
+						
+						titleElement.prepend(b);
+					}
 		
 					svg.remove();
 					svgs.remove(svg)

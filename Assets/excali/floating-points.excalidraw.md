@@ -897,7 +897,7 @@ F ^slIPjnsM
 			"version": 478,
 			"versionNonce": 1983339394,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1752720630444,
 			"link": null,
 			"locked": false,
@@ -953,7 +953,7 @@ F ^slIPjnsM
 			"version": 53,
 			"versionNonce": 148490654,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1752720666248,
 			"link": null,
 			"locked": false,
@@ -2949,10 +2949,10 @@ F ^slIPjnsM
 		"currentItemStartArrowhead": "arrow",
 		"currentItemEndArrowhead": "arrow",
 		"currentItemArrowType": "sharp",
-		"scrollX": 853.9290484350405,
-		"scrollY": 689.6171435328063,
+		"scrollX": 317.87651388372774,
+		"scrollY": 340.1734288669337,
 		"zoom": {
-			"value": 0.980076
+			"value": 1.916398
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": 20,

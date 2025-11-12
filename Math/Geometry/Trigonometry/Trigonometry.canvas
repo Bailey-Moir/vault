@@ -1,17 +1,17 @@
 {
 	"nodes":[
 		{"id":"6fbd72247771a9c2","type":"group","x":-1040,"y":280,"width":1436,"height":818,"label":"Relational Laws"},
-		{"id":"298bfc9ef9b1b31d","type":"group","x":620,"y":-960,"width":1316,"height":790,"color":"3","label":"Scope Orphans"},
-		{"id":"64bf764f192f5b07","type":"file","file":"Math/Geometry/Circle Geometry/Incircles/Triangle Incircle Radius.md","x":540,"y":339,"width":616,"height":720},
-		{"id":"c23b3277827676aa","type":"file","file":"Math/Geometry/Circle Geometry/Incircles/Law of Cotangents.md","x":-240,"y":359,"width":616,"height":681},
+		{"id":"298bfc9ef9b1b31d","type":"group","x":620,"y":-960,"width":1316,"height":546,"color":"3","label":"Scope Orphans"},
 		{"id":"df092dd52ab1f1e0","type":"file","file":"Math/Geometry/Circle Geometry/Law of Sines.md","x":-1020,"y":320,"width":616,"height":758},
 		{"id":"ddf70bc08a3e0885","type":"file","file":"Math/Geometry/Semiperimeter.md","x":540,"y":-60,"width":616,"height":281,"color":"3"},
-		{"id":"17e661e981b04e4f","type":"file","file":"Math/Geometry/Trigonometry/Periodic Functions.md","x":640,"y":-898,"width":616,"height":400},
-		{"id":"a9b965642fd35475","type":"file","file":"Math/Geometry/Trigonometry/Special Triangles.md","x":-76,"y":-1000,"width":616,"height":424},
-		{"id":"b553042c68cc2d7e","type":"file","file":"Math/Geometry/Trigonometry/General Solution Equations.md","x":-76,"y":-514,"width":616,"height":200},
-		{"id":"aa9e8305dfd10db0","type":"file","file":"Math/Geometry/Trigonometry/Inverse Trigonometric Functions.md","x":1300,"y":-898,"width":616,"height":708},
+		{"id":"17e661e981b04e4f","type":"file","file":"Math/Geometry/Trigonometry/Periodic Functions.md","x":640,"y":-898,"width":616,"height":418},
+		{"id":"a9b965642fd35475","type":"file","file":"Math/Geometry/Trigonometry/Special Triangles.md","x":-76,"y":-1000,"width":616,"height":440},
+		{"id":"b553042c68cc2d7e","type":"file","file":"Math/Geometry/Trigonometry/General Solution Equations.md","x":-76,"y":-514,"width":616,"height":234},
+		{"id":"aa9e8305dfd10db0","type":"file","file":"Math/Geometry/Trigonometry/Inverse Trigonometric Functions.md","x":1300,"y":-898,"width":616,"height":418},
+		{"id":"c23b3277827676aa","type":"file","file":"Math/Geometry/Circle Geometry/Incircles/Law of Cotangents.md","x":-240,"y":359,"width":616,"height":681},
 		{"id":"ce2fd0e32b3e4925","type":"file","file":"Math/Geometry/Trigonometry/Heron's Formula.md","x":1300,"y":240,"width":616,"height":321},
-		{"id":"39836bafaea6af6e","type":"file","file":"Math/Geometry/Trigonometry/Trigonometric Function with Quadrants.md","x":-1040,"y":-974,"width":616,"height":1120}
+		{"id":"39836bafaea6af6e","type":"file","file":"Math/Geometry/Trigonometry/Trigonometric Function with Quadrants.md","x":-1020,"y":-957,"width":616,"height":1120},
+		{"id":"64bf764f192f5b07","type":"file","file":"Math/Geometry/Circle Geometry/Incircles/Triangle Incircle Radius.md","x":540,"y":320,"width":616,"height":759}
 	],
 	"edges":[
 		{"id":"a0d804adcb893c77","fromNode":"ce2fd0e32b3e4925","fromSide":"bottom","toNode":"64bf764f192f5b07","toSide":"right"},

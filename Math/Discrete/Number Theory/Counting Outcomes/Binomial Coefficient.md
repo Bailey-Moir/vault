@@ -12,7 +12,7 @@ $$ \prescript{n}{}C_{r} = \begin{pmatrix}
 There are many different applications of this coefficient. It gives:
 - The number of [[Subsets|subsets]] of size $r$ from a [[Sets|set]] of size $n$.
 - The coefficient of the $x^r$ term in $(x + 1)^n$.
-- The number of arrangements of $r$ successes among $n$ trials[^1]].
+- The number of arrangements of $r$ successes among $n$ trials[^1].
 # Properties
 $\forall n,r \in \N, r \le n \implies$
 - $\begin{pmatrix}n\\r\end{pmatrix}=\begin{pmatrix}n\\n-r\end{pmatrix}$
@@ -37,6 +37,7 @@ $\forall n,r \in \N, r \le n \implies$
 > $$\begin{pmatrix}
 > 	n-1\\r
 > \end{pmatrix}$$
+> 
 > Thus, in total,
 > $$ \begin{pmatrix}n\\r\end{pmatrix}=\begin{pmatrix}n-1\\r-1\end{pmatrix} + \begin{pmatrix}n-1\\r\end{pmatrix} $$
 

@@ -3,7 +3,7 @@ tags:
   - atom
   - math
 ---
-*Integration by substitution* is the integration equivalent of the [[Differentiation Rules#Chain Rule Rule|chain rule]]. Note that if you change from $dx$ to $du$, $x$ can not be treated as a constant.
+*Integration by substitution* is the integration equivalent of the [[Differentiation Rules|chain rule]]. Note that if you change from $dx$ to $du$, $x$ can not be treated as a constant.
 $$\int y\, dx = \int \dfrac{y}{\dfrac{du}{dx}} du$$
 > [!example]-
 > $$\begin{array}{l}
@@ -17,5 +17,5 @@ $$\int y\, dx = \int \dfrac{y}{\dfrac{du}{dx}} du$$
 > \end{array}$$
 
 # Reverse Chain Rule
-The *reverse chain rule* is the reverse of the [[Differentiation Rules#Chain Rule Rule|chain rule]], derived directly from *integration by substitution*.
+The *reverse chain rule* is the reverse of the [[Differentiation Rules|chain rule]], derived directly from *integration by substitution*.
 $$\int u'y\, dx = \int y \, du$$

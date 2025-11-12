@@ -9,7 +9,7 @@ $$W(y_{1},\dots,y_{n}) = \begin{vmatrix}
 	\vdots & \vdots & \ddots & \vdots \\
 	y^{(n-1)}_{1} & y^{(n-1)}_{2} & \dots & y^{(n-1)}_{n} \\
 \end{vmatrix}$$
-For some [[Math/Algebra/Basics/Intervals|interval]] $I$, let $y_{1},\dots,y_{n}$ be [[Functions|functions]] that map $I$ into a [[Fields|field]] that are $n-1$ [[Differentiability|differentiable]] on $I$. Then if $\exists t \in I, W(y_{1},\dots,y_{n}) \ne 0$, these [[Functions|functions]] are [[Linear Independence|linearly independent]] on $I$.
+For some [[Intervals|interval]] $I$, let $y_{1},\dots,y_{n}$ be [[Functions|functions]] that map $I$ into a [[Fields|field]] that are $n-1$ [[_Differentiability|differentiable]] on $I$. Then if $\exists t \in I, W(y_{1},\dots,y_{n}) \ne 0$, these [[Functions|functions]] are [[Linear Independence|linearly independent]] on $I$.
 
 > [!intuition] If the *Wronskian* is not identically zero on $I$, the [[Functions|functions]] are [[Linear Independence|linearly independent]] on $I$.
 
@@ -22,7 +22,7 @@ For some [[Math/Algebra/Basics/Intervals|interval]] $I$, let $y_{1},\dots,y_{n}$
 > 	(y_{k})^{(i)} &= \left( a_{1}y_{1}+\dots+a_{k-1}y_{k-1} \right)^{(i)} &&\forall i \in \Z_{n}\\
 > 	y^{(i)}_{k} &= a_{1}y^{(i)}_{i}+\dots+a_{k-1}y^{(i)}_{k-1}.  \\
 > \end{align}$$
-> Note this requires each $y_{1},\dots,y_{n}$ to be $n-1$ [[Differentiability|differentiable]].
+> Note this requires each $y_{1},\dots,y_{n}$ to be $n-1$ [[_Differentiability|differentiable]].
 > 
 > Thus, $$\begin{bmatrix}
 > 	y_{k} \\

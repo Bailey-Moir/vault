@@ -3,6 +3,7 @@ tags:
   - math
   - atom
 ---
+If $f \in \mathcal{C}(\left[ a,b \right])$[^1],
 $$ \displaystyle f_{\text{avg}} = \dfrac{1}{b-a} \int_a^b f(x) \, dx $$
 > [!proof]
 > $$\begin{array}{l}
@@ -15,3 +16,5 @@ $$ \displaystyle f_{\text{avg}} = \dfrac{1}{b-a} \int_a^b f(x) \, dx $$
 >	\end{align*}
 > \end{array}$$
 > \[$(1)$ [[Integration by First Principals]]\]
+
+[^1]: [[Continuity]]

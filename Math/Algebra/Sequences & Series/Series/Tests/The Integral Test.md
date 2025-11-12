@@ -7,6 +7,6 @@ If $f$ is a [[Continuity|continuous]], positive, [[Monotone Sequences|eventually
  - $\displaystyle\sum_{n=N}^\infty a_n$[^3] is convergent iff $\displaystyle\int_N^\infty f(x) \, dx$[^4] is convergent.
 
 [^1]: [[Sequences]]
-[^2]: [[Math/Algebra/Basics/Intervals]]
+[^2]: [[Intervals]]
 [^3]: [[Series]]
 [^4]: [[Improper Integrals]]

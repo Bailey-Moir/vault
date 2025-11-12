@@ -5,7 +5,7 @@ tags:
 ---
 *Access networks* are local [[Networks|networks]] of links connecting [[Hosts|end hosts]] to [[Routers|routers]].
 
-This sometimes refers to the boundary between customer operated [[Networks|networks]] and ISP operated [[Networks|networks]].
+This sometimes refers to the boundary between customer operated [[Networks|networks]] and [[Internet Service Provider|ISP]] operated [[Networks|networks]].
 
 > [!examples]
 > - [[LAN|LAN]] networks on a campus.

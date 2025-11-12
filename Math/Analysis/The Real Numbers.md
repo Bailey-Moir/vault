@@ -27,7 +27,7 @@ In other words, the *real numbers* are defined as a [[Completeness|complete]] [[
 > 	n + 1 &\le \sup \N && \text{Inductive principle} \\
 > 	n &\le \sup \N - 1 \\
 > \end{align}$$
-> This violates the definition of a [[Supremums and Infimums|supremum]], since $\text{sup}(\N) -1$ is an [[Bounded Sets|upper bound]] that is strictly less than $\sup \N$. 
+> This violates the definition of a [[Supremums and Infimums|supremum]], since $\sup(\N) -1$ is an [[Bounded Sets|upper bound]] that is strictly less than $\sup \N$. 
 > Thus, the [[Negation|negation]] is a [[Contradictions|contradiction]], meaning $\forall x \in \R, \exists n \in \N : x < n$.
 > 
 

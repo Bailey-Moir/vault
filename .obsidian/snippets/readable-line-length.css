@@ -11,6 +11,7 @@ settings:
         format: vw
 */
 
-.cm-editor {
-	--file-line-width: var(--m-line-width) !important;
+body {
+	/* --file-line-width: var(--m-line-width) !important; */
+	--file-line-width: 800px !important;
 }

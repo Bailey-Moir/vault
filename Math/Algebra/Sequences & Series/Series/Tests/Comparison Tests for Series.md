@@ -4,7 +4,7 @@ tags:
   - math
 ---
 # The Direct Comparison Test
-For all [[Series|series]] $\Sigma a_{k}, \Sigma b_{k}$ such that $\forall k, \left| a_{k} \right| \le b_{k}$, then if $b_{k}$ is [[Partial Sums|convergent]], then $a_k$ is [[Absolute Convergence|absolutely convergent]].
+If $\forall k, \left| a_{k} \right| \le b_{k}$ and $\Sigma b_{k}$ is [[Partial Sums|convergent]], then $\Sigma a_k$ is [[Absolute Convergence|absolutely convergent]].
 
 > [!note] the [[Converse, Inverse, and Contrapositive|contrapositive]].
 
@@ -26,7 +26,7 @@ For all [[Series|series]] $\Sigma a_{k}, \Sigma b_{k}$ such that $\forall k, \le
 > $$\sum_{n=1}^\infty \dfrac{5}{2n^2} = \dfrac{5}{2}\sum_{n=1}^\infty \dfrac{1}{n^2}$$
 > This is a [[p-series]] where $p=2$, so it converges. By *The Direct Comparison Test*, $\displaystyle\sum_{n=1}^\infty \dfrac{5}{2n^2+4n+3}$ must also converge.
 
-\[[[Comparison Theorem]]\]
+\[[[Comparison Theorem for Integrals]]\]
 # The Limit Comparison Test
 For all positive [[Series|series]] $\Sigma a_{n}, \Sigma b_{n}$, if
 $$\lim_{ n \to \infty } \dfrac{a_{n}}{b_{n}}=c$$

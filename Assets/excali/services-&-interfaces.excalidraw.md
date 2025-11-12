@@ -43,6 +43,9 @@ Layer N+1 ^Ht9W6v6X
 
 Layer N-1 ^RoV5m3Xx
 
+Receive
+N SDUs ^C6szOjOw
+
 %%
 ## Drawing
 ```json
@@ -1250,104 +1253,42 @@ Layer N-1 ^RoV5m3Xx
 			"lineHeight": 1.25
 		},
 		{
-			"id": "o4v_eAd87nAWHdUrk8Hwr",
-			"type": "arrow",
-			"x": -488.8666021264212,
-			"y": -47.64533426858035,
-			"width": 17.832246412074028,
-			"height": 20.84694693386198,
+			"id": "C6szOjOw",
+			"type": "text",
+			"x": -412.4144175012308,
+			"y": -102.46958717106449,
+			"width": 44.94743347167969,
+			"height": 30.36932890153771,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "#1e1e1e",
-			"fillStyle": "cross-hatch",
+			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
 			"groupIds": [],
 			"frameId": null,
-			"index": "aQ",
+			"index": "av",
 			"roundness": null,
-			"seed": 874965839,
-			"version": 243,
-			"versionNonce": 91570788,
-			"isDeleted": true,
+			"seed": 1727063462,
+			"version": 424,
+			"versionNonce": 798691558,
+			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1754264425322,
+			"updated": 1757303501214,
 			"link": null,
 			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					9.033394465812307,
-					11.358369616201571
-				],
-				[
-					17.832246412074028,
-					20.84694693386198
-				]
-			],
-			"lastCommittedPoint": null,
-			"startBinding": null,
-			"endBinding": {
-				"elementId": "WP9blzF_VrbO7a6TwnHWC",
-				"focus": -0.32931937118198606,
-				"gap": 1
-			},
-			"startArrowhead": "arrow",
-			"endArrowhead": "arrow",
-			"elbowed": false
-		},
-		{
-			"id": "ECYa83jNUlLMcmb__jDKA",
-			"type": "arrow",
-			"x": -379.75988347442876,
-			"y": -26.87558090301679,
-			"width": 17.62526248550256,
-			"height": 22.161554241312594,
-			"angle": 0,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#1e1e1e",
-			"fillStyle": "cross-hatch",
-			"strokeWidth": 2,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"index": "aS",
-			"roundness": null,
-			"seed": 795271873,
-			"version": 307,
-			"versionNonce": 1244794076,
-			"isDeleted": true,
-			"boundElements": [],
-			"updated": 1754264423843,
-			"link": null,
-			"locked": false,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					9.033394465812307,
-					-11.358369616201571
-				],
-				[
-					17.62526248550256,
-					-22.161554241312594
-				]
-			],
-			"lastCommittedPoint": null,
-			"startBinding": null,
-			"endBinding": null,
-			"startArrowhead": "arrow",
-			"endArrowhead": "arrow",
-			"elbowed": false
+			"text": "Receive\nN SDUs",
+			"rawText": "Receive\nN SDUs",
+			"fontSize": 12.147731560615084,
+			"fontFamily": 5,
+			"textAlign": "center",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Receive\nN SDUs",
+			"autoResize": true,
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -1366,8 +1307,8 @@ Layer N-1 ^RoV5m3Xx
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"currentItemArrowType": "sharp",
-		"scrollX": 632.3511621911722,
-		"scrollY": 283.6758528960769,
+		"scrollX": 774.440700765391,
+		"scrollY": 258.52711022029564,
 		"zoom": {
 			"value": 2
 		},

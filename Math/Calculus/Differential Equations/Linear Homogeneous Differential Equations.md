@@ -3,14 +3,14 @@ tags:
   - atom
   - math
 ---
-The solutions to a given *[[Linear Differential Equations|linear]] [[Homogeneous Systems|homogeneous]] [[Differential Equations|DE]]* on a given [[Math/Algebra/Basics/Intervals|interval]] form a [[Vector Spaces|vector space]].
+The solutions to a given *[[Linear Differential Equations|linear]] [[Homogeneous Systems|homogeneous]] [[Differential Equations|DE]]* on a given [[Intervals|interval]] form a [[Vector Spaces|vector space]].
 
 > [!note] The [[Dimension|dimension]] of this solution [[Vector Spaces|space]] is the [[Order|order]] of the [[Differential Equations|DE]].
 
 > [!proof]-
 > Given a [[Linear Differential Equations|linear]] *homogeneous DE*
 > $$ a_n(t)\dfrac{d^ny}{{dt}^n} +  a_{n-1}(t)\dfrac{d^{n-1}y}{{dt}^{n-1}} + \dots + a_1(t) \dfrac{dy}{dt} + a_0(t)y = 0,$$
-> the [[Sets|set]] of solutions $U$ on an [[Math/Algebra/Basics/Intervals|interval]] $I$ is a [[Subsets|subset]] of $\F^I$[^1] (a [[Vector Spaces|vector space]] over $\F$), meaning $U$ is a [[Vector Spaces|vector space]] iff it is a [[Subspaces|subspace]] of $\F^I$.
+> the [[Sets|set]] of solutions $U$ on an [[Intervals|interval]] $I$ is a [[Subsets|subset]] of $\F^I$[^1] (a [[Vector Spaces|vector space]] over $\F$), meaning $U$ is a [[Vector Spaces|vector space]] iff it is a [[Subspaces|subspace]] of $\F^I$.
 > 
 > **Identity**
 > Substituting $y = 0$ gives 

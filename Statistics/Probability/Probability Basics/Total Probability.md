@@ -2,6 +2,7 @@
 tags:
   - atom
   - stats
+aliases:
 ---
 For any two [[Events|events]] $A, B$:
 $$\begin{align*}

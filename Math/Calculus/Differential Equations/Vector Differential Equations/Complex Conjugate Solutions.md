@@ -3,15 +3,10 @@ tags:
   - atom
   - math
 ---
-Suppose $A$ is a [[The Real Numbers|real]] square [[Matrices|matrix]] with two [[Eigenvectors & Eigenvalues|eigenpairs]]  $\{ \mu \pm i\omega; \vecbf{u} \pm i\vecbf{v} \}$, then $\vecbf{x}' = A\vecbf{x}$ has solutions
+Suppose $A$ is a [[The Real Numbers|real]] square [[Matrices|matrix]] with two [[Eigenvectors & Eigenvalues|eigenpairs]]  $\{ \mu \pm i\omega; \vecbf{u} \pm i\vecbf{v} \}$. Then $\vecbf{x}' = A\vecbf{x}$ has solutions
 $$\begin{align}
-	\vecbf{x}_{1} &= e^{\mu t}\cos(\omega t)\vecbf{u} \\
-	\vecbf{x}_{2} &= e^{\mu t}\sin(\omega t)\vecbf{v}, \\
-\end{align}$$
-or
-$$\begin{align}
-	\vecbf{x}_{1} &= e^{\mu t}\left( \cos(\omega t)\vecbf{u}-\sin(\omega t)\vecbf{v} \right) \\
-	\vecbf{x}_{2} &= e^{\mu t}\left( \cos(\omega t)\vecbf{u}+\sin(\omega t)\vecbf{v} \right) \\
+	\vecbf{x}_{1} &= e^{\mu t}\left( \cos(\omega t)\vecbf{u} - \sin(\omega t)\vecbf{v} \right) \\
+	\vecbf{x}_{2} &= e^{\mu t}\left( \cos(\omega t)\vecbf{v} + \sin(\omega t)\vecbf{u} \right) \\
 \end{align}$$
 
 > [!proof]-
@@ -36,6 +31,5 @@ $$\begin{align}
 > 	&= e^{\mu t}\left( \cos(\omega t)\vecbf{v} + \sin(\omega t)\vecbf{u} \right) \\
 > 	&= \vecbf{x}_{1},
 > \end{align}$$ 
-> Since $\vecbf{x}_{1}$ and $\vecbf{x}_{2}$ are [[Linear Independence|linearly independent]] in $\text{span}\{ \vecbf{x}_{+},\vecbf{x}_{-} \}$, they must be a [[Basis|basis]], meaning they can be used to represent the same [[Sets|set]] of solutions.
 
 \[[[Complex Conjugate Eigenpairs]]\]

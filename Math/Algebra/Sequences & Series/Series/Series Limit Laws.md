@@ -17,9 +17,9 @@ Let $\sum_{k=1}^\infty a_{k}$ and $\sum_{k=1}^\infty b_{k}$ be [[Partial Sums|co
 > $$\begin{align}
 > 	\left| \left( a_{n} + b_{n}  \right) - (L + M) \right| \le \left| a_{n} -L \right| + \left| b_{n} - M \right| < \varepsilon.
 > \end{align}$$
-> Thus, for all $\varepsilon > 0$, there exists $N$ such that for all $n \ge N$, $\left| (a_{n}+b_{n}) - \left( L+M \right) \right| < \varepsilon$, meaning the [[Convergence of Sequences|limit]] of $\left( a_{n}+b_{n} \right)_{n=1}^\infty = L+M$.
+> Thus, for all $\varepsilon > 0$, there exists $N$ such that for all $n \ge N$, $\left| (a_{n}+b_{n}) - \left( L+M \right) \right| < \varepsilon$, meaning the [[Sequence Convergence|limit]] of $\left( a_{n}+b_{n} \right)_{n=1}^\infty = L+M$.
 
-> [!theorem]- **3.4.2** $\sum_{k=1}^\infty ca_{n}$ is [[Convergence of Sequences|convergent]], and $$\sum_{k=1}^\infty ca_{n}=c\sum_{k=1}^\infty\lim a_{n}$$
+> [!theorem]- **3.4.2** $\sum_{k=1}^\infty ca_{n}$ is [[Sequence Convergence|convergent]], and $$\sum_{k=1}^\infty ca_{n}=c\sum_{k=1}^\infty\lim a_{n}$$
 > Suppose $c = 0$, then $ca_{n}$ is a constant [[Sequences|sequence]] $0$, so it converges to $0 = c \lim a_{n}$.
 > 
 > Let $\varepsilon > 0$, and $\lim a_{n} = L$, and $c \ne 0$.
@@ -31,8 +31,6 @@ Let $\sum_{k=1}^\infty a_{k}$ and $\sum_{k=1}^\infty b_{k}$ be [[Partial Sums|co
 > 	\left| c\left( a_{n} - L \right) \right| < \varepsilon \\
 > 	\left| ca_{n} - cL \right| < \varepsilon \\
 > \end{align}$$
-> Thus, the [[Convergence of Sequences|limit]] of $\left( ca_{n} \right)_{n=1}^\infty$ is $cL = c\lim a_{n}$.
-
-#TODO do the proofs
+> Thus, the [[Sequence Convergence|limit]] of $\left( ca_{n} \right)_{n=1}^\infty$ is $cL = c\lim a_{n}$.
 
 [^1]: [[Bounded Sequences]]. Theorem 2.8

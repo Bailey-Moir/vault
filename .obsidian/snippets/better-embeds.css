@@ -20,10 +20,21 @@
     }
 }
 
+.embed-title, .markdown-embed-title {
+    display: none;
+}
+
+.embed-title .markdown-preview-view,
+.markdown-embed-title .markdown-preview-view {
+    display: none;
+}
+
 .internal-embed {
+    border-inline: none;
     padding: 0px !important;
 }
 
 .internal-embed .markdown-preview-view {
+    border-inline: none;
     padding: 0px !important;
 }

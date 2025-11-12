@@ -3,7 +3,7 @@ tags:
   - atom
   - comp
 ---
-*Passband transmission* allows multiple frequencies to be transmitted across a medium by allocating different transmitters specific central frequencies (as opposed to **baseband transmission** which only allocates one central frequency, meaning [[Frequency Division Multiple Access|FDMA]] can't be used).
+*Passband transmission* allows multiple frequencies to be transmitted across a medium by allocating different transmitters specific central frequencies (as opposed to **baseband transmission** which doesn't used a wave, just voltage pulses).
 
 In **digital passband modulation**, a wave of the form
 $$s(t) = A(t)\cos \left[ (f_{c}+f(t))t+\phi(t) \right] $$

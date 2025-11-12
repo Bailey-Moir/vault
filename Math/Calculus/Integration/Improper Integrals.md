@@ -3,7 +3,11 @@ tags:
   - atom
   - math
 ---
-Integrating a continuous function over an infinite interval, or integrating a function that becomes infinite (or forms a discontinuity) over a finite interval. If the corresponding [[Archive/Deatomized/Calculus/Algebra/Limits|limit]] is finite, the integral is said to converge, otherwise it is said to diverge.
+*Improper integrals* are used when you are
+- integrating a [[Continuity|continuous]] [[Functions|function]] over an infinite [[Intervals|interval]], or 
+- integrating a [[Functions|function]] that becomes infinite (or has a [[Continuity|discontinuity]]) over a finite [[Intervals|interval]].
+
+If the corresponding [[Archive/Deatomized/Calculus/Algebra/Limits|limit]] is convergent, the integral is said to converge, otherwise it is said to diverge.
 # Integrals on Infinite Intervals
 $$\begin{align*}
 	\int_a^\infty f(x) \, dx &\equiv \lim_{\ell\to\infty} \int_a^\ell f(x) \, dx \\
@@ -17,7 +21,7 @@ $$\begin{align*}
 # Integrals with Boundary Discontinuities 
 If a proper integral has bounds $a$ and $b$, the integrand must be continuous over $\left[a,b\right]$. However, the integrand of improper integral can be continuous over $\left[a,b\right)$, $\left(a,b\right]$ or even $\left(a,b\right)$, meaning they can have discontinuities (including infinite discontinuities) on the bounds.
 
-| [[Continuity\|Continuous]] [[Math/Algebra/Basics/Intervals\|Interval]] | Integral Type                                                                                                                                             |
+| [[Continuity\|Continuous]] [[Intervals\|Interval]] | Integral Type                                                                                                                                             |
 | ---------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | $f \in \mathcal{C}(\,\left[a,b\right]\,)$                        | $\displaystyle \int_a^b f(x) \, dx$ (Proper)                                                                                                              |
 | $f \in \mathcal{C}(\,\left[a,b\right)\,)$                        | $\displaystyle \lim_{\ell\to b^-} \int_a^\ell f(x) \, dx$                                                                                                 |

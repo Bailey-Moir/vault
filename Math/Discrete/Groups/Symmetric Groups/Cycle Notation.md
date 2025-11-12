@@ -4,7 +4,7 @@ tags:
   - math
   - discrete
 ---
-In *cycle notation*, each [[Components of Graphs|component]] of the [[Symmetric Groups|symmetric group]] is brackets, with each containing a [[Cycle Notation|cycle]].  
+In *cycle notation*, each [[Components of Graphs|component]] of the [[Symmetric Groups|symmetric group]] is bracketed, with each containing a [[Cycle Notation|cycle]].  
 
 > [!example]
 > $$\begin{array}{cccc}
@@ -30,7 +30,6 @@ In *cycle notation*, each [[Components of Graphs|component]] of the [[Symmetric 
 > 	\sigma\tau(i) & = \sigma(\tau(i)) = \tau(i)\\
 > \end{align}$$
 > If $i$ does not appear in $\tau$, this gives the same result.
-
 
 > [!note] The [[Inverse Functions|inverse]] in *cycle notation* just reverses the order:
 > $$\left( 1\;2\;3 \right)^{-1} = (3\;2\;1)$$

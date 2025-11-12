@@ -16,4 +16,4 @@ $$\begin{align*}
 
 There are infinitely many arguments that satisfy each [[Complex Numbers|complex number]]. The principal argument (denoted $\text{Arg}\, z$) is the argument that also satisfies $\theta \in \left(-\pi,\pi\right]$[^1] ($-\pi < \theta \le \pi$). 
 
-[^1]: [[Math/Algebra/Basics/Intervals]]
+[^1]: [[Intervals]]

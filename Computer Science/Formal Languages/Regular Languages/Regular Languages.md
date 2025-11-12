@@ -24,7 +24,7 @@ $A \subseteq \Sigma^*$ is *regular* iff there exists a [[Deterministic Finite Au
 > $$\delta((p_{1},p_{2}),a) = (\delta_{1}(p_{1},a), \delta_{2}(p_{2},a)) \hspace{2em} a \in \Sigma$$
 > meaning
 > $$\hat{\delta}((p_{1},p_{2}),w) = (\hat{\delta_{1}}(p_{1},a), \hat{\delta_{2}}(p_{2},w))\hspace{2em} w \in \Sigma^*$$[^1]
-which can be proven [[Inductors|inductively]] using the definition of the [[Extended Transition Function|extended transition function]].
+which can be proven [[Induction|inductively]] using the definition of the [[Extended Transition Function|extended transition function]].
 > $$\begin{align}
 > 	w \in L(M) &\iff \hat{\delta}((q_{1},q_{2}),w) \in F_{1}\times F_{2} \\
 > 	&\iff (\hat{\delta_{1}}(q_{1},w), \hat{\delta_{2}}(q_{2},w)) \in F_{1}\times F_{2} \\

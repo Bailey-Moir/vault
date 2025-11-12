@@ -59,7 +59,6 @@
   "Math/Geometry/Circle Geometry": "LiCircle",
   "Math/Geometry/Conic Sections": "LiFlaskConicalOff",
   "Math/Geometry/Trigonometry": "LiTriangle",
-  "Math/Lambda Calculus": "LiFunctionSquare",
   "Math/Discrete/Propositional Logic/Logical Connectives": "↔",
   "Math/Discrete/Propositional Logic/Arguments and Proofs": "LiSquare",
   "Math/Discrete/Number Theory/Primes": "LiCross",
@@ -78,8 +77,6 @@
   "Physics": "LiMoonStar",
   "Statistics": "LiScatterChart",
   "Learning": "LiBrain",
-  "Politics & Philosophy": "LiLectern",
-  "Lecture Notes": "LiPaperclip",
   "Computer Science/Algorithm Analysis": "LiGlasses",
   "Computer Science/Algorithms": "LiCode",
   "Computer Science/Formal Languages": "LiLanguages",
@@ -96,5 +93,6 @@
   "Computer Science/Networks": "LiWifi",
   "Computer Science/Machine Architecture": "LiCpu",
   "Computer Science/Machine Architecture/Representation": "LiBinary",
-  "Computer Science/C": "LiBraces"
+  "Computer Science/C": "LiBraces",
+  "Personal/Politics & Philosophy": "LiLectern"
 }

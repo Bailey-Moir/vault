@@ -11,7 +11,6 @@ Concerned with transmission over physical media.
 - Electrical specifications
 - Modulation / demodulation and signal specification
 - Carrier- or bit synchronization methods
-
 ## Link Layer
 Transfer of messages over one physical link, which are referred to as **frames** during the linking stage.
 - Framing:
@@ -25,7 +24,6 @@ Transfer of messages over one physical link, which are referred to as **frames**
 	- often considered as a separate “sub-layer” of link layer
 - Flow control (hop-to-hop scope)
 	- Avoid overwhelming a slow receiver with too much data
-
 ## Network Layer
 Providing a [[#Link Layer|link]] technology-independent abstraction of entire network to higher layers, performing addressing and [[Routers|routing]].
 - Addressing formats

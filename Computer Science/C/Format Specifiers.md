@@ -17,7 +17,6 @@ tags:
 | `%.nf` | for floating-point up to $n$ decimal places          |
 | `%e`   | for floating-point in (engineering) exponential form |
 | `%p`   | Addresses as [[Hexadecimal\|hexadecimal]]            |
-| `%x`   | Hexadecimal                                          |
 
 Length sub-specifiers come before the ones above (but after the `%`)
 

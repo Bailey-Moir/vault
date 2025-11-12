@@ -11,7 +11,7 @@ such that $\{ \vecbf{x}_{1},\dots,\vecbf{x}_{m} \}$  is a [[Fundamental Set of S
 
 > [!note] $\Phi(t)\vecbf{c} = c_{1}\vecbf{x}_{1}(t) + \dots + c_{m}\vecbf{x}_{m}(t)$
 
-> [!theorem]- A [[Matrices|matrix]] $\Phi(t)$ whose columns solve $\vecbf{x}' = A(t)\vecbf{x}$ is a *fundamental matrix* iff $\Phi (t)$ is [[Matrix Invertibility|invertible]] for all $t$ (iff $W(t) \ne 0$ ).
+> [!theorem]- A [[Matrices|matrix]] $\Phi(t)$ whose columns solve $\vecbf{x}' = A(t)\vecbf{x}$ is a *fundamental matrix* iff $\Phi (t)$ is [[Matrix Invertibility|invertible]] for all $t$ ($\forall t, W(t) \ne 0$ ).
 > 
 > $\Phi(t)$ is a *fundamental matrix* iff the columns of $\Phi(t)$ are a [[Fundamental Set of Solutions|FSS]], which is true iff the columns of $\Phi(0)$ form a [[Basis|basis]] for $\R^m$, meaning $\Phi(0)$ is [[Matrix Invertibility|invertible]].
 > 
@@ -44,6 +44,16 @@ such that $\{ \vecbf{x}_{1},\dots,\vecbf{x}_{m} \}$  is a [[Fundamental Set of S
 > 
 > Thus, the columns form a [[Fundamental Set of Solutions|FSS]] for $\vecbf{x}' = A(t)\vecbf{x}$, meaning $\Phi(t)$ is a *fundamental matrix* .
 
+> [!theorem]- $\Phi(t) = \Phi(0)\text{diag}(e^{\lambda_{k}t})$.
+> $$\begin{align}
+> 	\Phi(t) &= \left[ e^{\lambda_{1}}\vecbf{v}_{1} \;|\; \cdots \;|\; e^{\lambda_{m}}\vecbf{v}_{m} \right] \\
+> 	&= \left[ \vecbf{v}_{1}\;|\;\cdots\;|\;\vecbf{v}_{m} \right] \begin{bmatrix}
+> 		e^{\lambda_{1}} & \cdots & 0 \\
+> 		\vdots & \ddots & \vdots \\
+> 		0 & \cdots & e^{\lambda_{m}}
+> 	\end{bmatrix} \\
+> 	&= \Phi(0)\text{diag}(e^{\lambda_{k}t})
+> \end{align}$$
 
 [^1]: [[Wronskian Determinant]]
 [^2]: [[Function Types with Dimension]], Theorem 3

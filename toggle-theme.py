@@ -1,3 +1,4 @@
+#!/bin/python
 import os
 
 # original = input("from: ").strip()

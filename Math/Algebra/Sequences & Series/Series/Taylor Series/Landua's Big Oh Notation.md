@@ -19,7 +19,7 @@ $\forall m,n,k,$
 # Formal Definition
 Let $f$ be the [[Functions|functions]] to be estimated, and $g$ be the comparison [[Functions|function]].
 For the ranges, let $f$ be [[The Real Numbers|real]] or [[Complex Numbers|complex]] valued, and let $g$ be [[The Real Numbers|real]] valued.
-Let both [[Math/Algebra/Functions/Definitions/Domain|domains]] be a [[Supersets|superset]] of some unbounded [[Subsets|subset]] of the positive [[The Real Numbers|real numbers]].
+Let both [[Domain|domains]] be a [[Supersets|superset]] of some unbounded [[Subsets|subset]] of the positive [[The Real Numbers|real numbers]].
 $$\begin{array}{c}
 	f(x) = \mathcal{O}(g(x)) \text{ as } x \to \infty \\
 	\Big\Updownarrow \\

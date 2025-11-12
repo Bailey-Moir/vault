@@ -4,7 +4,7 @@ tags:
   - math
   - linear
 ---
-Let $\vecbf{u}_{1},\dots,\vecbf{u}_{k}$ be a [[Basis|basis]] for a [[Subspaces|subspace]] $U \in \R^n$, and define the following
+Let $\vecbf{u}_{1},\dots,\vecbf{u}_{k}$ be a [[Basis|basis]] for a [[Subspaces|subspace]] $U \in V$, and define the following
 $$\begin{array}{lcll}
 	\vecbf{v}_{1} = \vecbf{u}_{1} && U_{1} = \text{span}\{ \vecbf{u}_{1} \}  \\
 	&& \phantom{U_{1}} =  \text{span}\{ \vecbf{v}_{1} \}\\

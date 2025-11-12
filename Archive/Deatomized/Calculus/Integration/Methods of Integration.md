@@ -25,4 +25,4 @@ sticker: lucide//layers
 ## Net Change Theorem
 ![[Net Change Theorem]]
 ## Comparison Theorem
-![[Comparison Theorem]]
+![[Comparison Theorem for Integrals]]

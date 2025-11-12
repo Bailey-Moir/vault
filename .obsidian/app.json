@@ -1,5 +1,13 @@
 {
   "vimMode": true,
   "alwaysUpdateLinks": true,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 56
+  },
+  "showIndentGuide": true
 }

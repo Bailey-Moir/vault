@@ -18,7 +18,7 @@ $$ S_n = \dfrac{a(1-r^n)}{1-r} $$
 > 	S_n = \dfrac{a(1-r^n)}{1-r}
 > \end{array}$$
 
-As can be [[Scientific Method#Deductive vs Inductive Reasoning|deduced]], if $r \in \left(-1,1\right)$[^1], 
+As can be [[Scientific Method#Deductive vs Inductive Reasoning|deduced]], iff $\left| r \right|<1$[^1], 
 $$ S_\infty = \dfrac{a}{1-r} $$
 
-[^1]: [[Math/Algebra/Basics/Intervals]]
+[^1]: [[Intervals]]

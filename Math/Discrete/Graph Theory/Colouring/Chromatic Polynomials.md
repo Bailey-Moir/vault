@@ -22,6 +22,6 @@ For a [[Graphs|graph]] $G$, and $\lambda \in \Z^+$, we denote the number of **di
 - **[[Walks|Cycle]] of $\mathbf{n}$ [[Vertices|Vertices]]**
   $P(C_{n},\lambda) = (\lambda - 1)^n + (-1)^n(\lambda-1)$
 - **[[Components of Graphs|Components]] $\bf{G_{1},\dots,G_{k}}$**
-  $\displaystyle P(G, \lambda) = \prod_{i=1}^kP(G_{k},\lambda) = P(G_{1},\lambda)\cdots P(G_{k},\lambda)$
+  $\displaystyle P(G, \lambda) = \prod_{i=1}^kP(G_{i},\lambda) = P(G_{1},\lambda)\cdots P(G_{k},\lambda)$
 
 [^1]: [[Counting Outcomes]]

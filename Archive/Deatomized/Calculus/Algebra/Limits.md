@@ -27,7 +27,7 @@ $$ a \text{ is a vertical asymtote} \iff \lim_{x\to a^\pm} f(x) = \pm\infty \:\t
 $$ L \text{ is a horizontal asymtote} \iff \lim_{x\to \pm\infty} f(x) = L $$
 
 ## Intermediate and Mean Value Theorem
-![[Intermediate and Mean Value Theorem]]
+![[Intermediate Value Theorem]]
 ### Rolle's Theorem
 ![[Rolle's Theorem]]
 # Indeterminate Forms

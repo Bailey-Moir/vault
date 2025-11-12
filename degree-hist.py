@@ -1,3 +1,4 @@
+#!/bin/python
 import os
 import matplotlib.pyplot as plt
 
@@ -7,7 +8,7 @@ EXCLUDE = {
     '.trash',
     '.obsidian',
     'Assets',
-    # 'Archive',
+    'Archive',
 }
 TABLE_SIZE = 2000 # A number >= your number of markdown tiles
 
@@ -18,7 +19,7 @@ def hashAdd(name: str, count: int):
 
     i = 0 # Number of iterations
     while table[slot] != None and table[slot][0] != name: 
-        slot = (slot + 2*i + 1)%TABLE_SIZE # Quadratic
+        slot = (slot + 2*i + 1)%TABLE_SIZE # Quadratic by adding odd numbers
         i += 1
 
     if table[slot] == None:
@@ -51,7 +52,7 @@ def processMarkdown(directory: str):
             j = i + 1
             while content[j] not in ['|', '#', ']']: j += 1
             
-            if j == i + 1: continue # [#...] means inner link
+            if j == i + 1: continue # [[#...]] means inner link
 
             hashAdd(content[i+1:j], 1)
             count += 1

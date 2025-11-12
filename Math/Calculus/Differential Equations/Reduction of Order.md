@@ -7,7 +7,6 @@ Suppose you have a [[Linear Differential Equations|linear]] [[Homogeneous Differ
 $$a_{2}(t)y'' + a_{1}(t)y' + a_{0}(t)y = 0.$$
 If you have one solution $y_{1}$, then the other solution can be given by
 $$ y_{2}(t) = y_{1}(t) \int \dfrac{1}{y_{1}(t)^2}e^{\Phi(t)} \, dt \hspace{2em} \text{s.t. } \Phi(t) = \int-\dfrac{a_{1}(t)}{a_{2}(t)} \, dt $$
-
 > [!proof]-
 > If you have one solution $y_{1}$, then the other solution can be given by
 > $$y_{2}(t) = u(t)y_{1}(t)$$

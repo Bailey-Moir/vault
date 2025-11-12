@@ -3,7 +3,7 @@ tags:
   - atom
   - math
 ---
-All [[Bounded Sequences|bounded]] [[Monotone Sequences|monotone sequences]] [[Convergence of Sequences|converge]] (its [[Supremums and Infimums|supremum]]/[[Supremums and Infimums|infimum]]).
+All [[Bounded Sequences|bounded]] [[Monotone Sequences|monotone sequences]] [[Sequence Convergence|converge]] (its [[Supremums and Infimums|supremum]]/[[Supremums and Infimums|infimum]]).
 
 > [!proof]-
 > **(Increasing)**
@@ -52,4 +52,4 @@ All [[Bounded Sequences|bounded]] [[Monotone Sequences|monotone sequences]] [[Co
 
 > [!note]  Every [[Monotone Sequences|monotonically increasing sequence]] is [[Bounded Sequences|bounded below]] by its first value, and every [[Monotone Sequences|monotonically decreasing sequence]] is [[Bounded Sequences|bounded above]] by its first value.
 
-> [!extended-version] All [[Monotone Sequences|monotone sequences]] [[Convergence of Sequences|converge]] iff they are [[Bounded Sequences|bounded]]
+> [!extended-version] All [[Monotone Sequences|monotone sequences]] [[Sequence Convergence|converge]] iff they are [[Bounded Sequences|bounded]]

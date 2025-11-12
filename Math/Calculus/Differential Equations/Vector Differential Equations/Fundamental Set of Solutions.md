@@ -19,7 +19,7 @@ for a unique choice of $c_{1},\dots,c_{n}$.
 > $\left( \impliedby \right)$
 > Let $\vecbf{x}_{1}(t),\dots,\vecbf{x}_{n}(t)$ solve $\vecbf{x}' = A(t)\vecbf{x}$, and suppose that $\{ \vecbf{x}_{1}(t_{0}),\dots,\vecbf{x}_{n}(t_{0}) \}$ is a [[Basis|basis]] of $\R^m$.
 > 
-> Then there is a unique $c_{1},\dots,c_{n}$such that $\vecbf{x}_{0} = c_{1}\vecbf{x}_{1}(t_{0}) + \dots + c_{n}\vecbf{x}_{n}(t_{t_{0}})$.
+> Then there is a unique $c_{1},\dots,c_{n}$ such that $\vecbf{x}_{0} = c_{1}\vecbf{x}_{1}(t_{0}) + \dots + c_{n}\vecbf{x}_{n}(t_{t_{0}})$.
 > 
 > Further, $\vecbf{x}(t)=c_{1}\vecbf{x}_{1}(t) + \dots + c_{n}\vecbf{x}_{n}(t)$ solves the [[Initial Value Problem|IVP]] since
 > $$\begin{align}

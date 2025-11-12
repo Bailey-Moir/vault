@@ -7,3 +7,7 @@
 .el-table td, .el-table th {
     padding: 0.6em 1.8em 0.6em 1.8em !important;
 }
+
+div.callout.is-collapsible {
+    --table-border-color: inherit !important;
+}

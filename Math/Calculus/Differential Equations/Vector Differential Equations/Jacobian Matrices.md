@@ -16,5 +16,4 @@ $$\mathbf{J}_{\vecbf{f}} = \begin{bmatrix}
 	\dfrac{\partial f_{m}}{\partial x_{1}} &
 	\cdots &
 	\dfrac{\partial f_{m}}{\partial x_{n}}
-	
 \end{bmatrix}$$

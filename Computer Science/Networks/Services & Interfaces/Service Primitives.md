@@ -3,7 +3,6 @@ tags:
   - atom
   - comp
 ---
-[[Services & Interfaces|Services]] talk to each other through *service primitives*. The standard *service primitives* for a [[Services & Interfaces|service]] $S$ are:
 - `S.request`,
 - `S.indication`,
 - `S.response`, and

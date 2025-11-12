@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "71624c6bd1083796",
+        "id": "3202322f8bb50661",
         "type": "tabs",
         "children": [
           {
-            "id": "76cb4ffe0b0de59c",
+            "id": "46dab04666814e83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Networks/Networks.md",
+                "file": "Personal/Courses.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Networks"
+              "title": "Courses"
             }
           }
         ]
@@ -34,7 +34,6 @@
       {
         "id": "a01d16ecc311c805",
         "type": "tabs",
-        "dimension": 70.59405940594058,
         "children": [
           {
             "id": "3a4f7896fbf90ae2",
@@ -55,8 +54,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TODO",
-                "matchingCase": false,
+                "query": "EEP",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -67,54 +66,10 @@
             }
           }
         ]
-      },
-      {
-        "id": "08d80ac3b131a1ba",
-        "type": "tabs",
-        "dimension": 29.405940594059405,
-        "children": [
-          {
-            "id": "69b124c44c952c5a",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Computer Science/Networks/Networks.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.9128080610727405,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Networks"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 262.5
   },
   "right": {
     "id": "d43908d22eb03dd3",
@@ -208,48 +163,54 @@
       "media-extended:Open media": false
     }
   },
-  "active": "76cb4ffe0b0de59c",
+  "active": "46dab04666814e83",
   "lastOpenFiles": [
+    "Archive/Lecture Notes/MATH240/Lec12?.md",
+    "Math/Calculus/Limits/Continuity/Lipschitz Continuity.md",
+    "Computer Science/Lambda Calculus/Lambda Terms.md",
+    "Computer Science/Lambda Calculus/Free Variables.md",
     "Personal/Todo.md",
-    "Computer Science/Networks/Classless Inter-Domain Routing.md",
-    "Computer Science/Networks/Forwarding Table.md",
-    "Computer Science/Networks/Protocols/Address Resolution Protocol.md",
-    "Assets/excali/gaussian-elimination.excalidraw.md",
-    "Computer Science/Networks/Protocols/IP.md",
-    "Computer Science/Networks/Physical/Ethernet.md",
-    "Computer Science/Networks/Protocols/Internet Control Message Protocol.md",
-    "Assets/excali/ICMP-packet.excalidraw.md",
-    "Archive/Lecture Notes/COSC101/_Network.md",
-    "Math/Calculus/Integration/Approximate/Approximate Integration.md",
-    "Untitled.md",
-    "Untitled 1.md",
-    "Math/Calculus/Integration/Approximate/Trapezium Rule.md",
-    "Math/Calculus/Integration/Approximate/Riemann Sums.md",
-    "Math/Calculus/Integration/Approximate/Midpoint Rule.md",
-    "Personal/Daily/25-08-25.md",
-    "Computer Science/Networks/Medium Access Control/Random Access Procotols/Carrier Sense Multiple Access.md",
-    "Assets/excali/circular-linked-list.excalidraw.md",
-    "Math/Algebra/Sequences & Series/Sequences/Bounded Sequences.md",
-    "Computer Science/Algorithms/Geometric/Simple Closed Path Algorithm.md",
-    "Computer Science/Algorithm Analysis/Bottom-Up Enumeration.md",
-    "Archive/Japanese/Subjects of Sentences.md",
-    "Archive/Lecture Notes/MATH220/Lec9C 9-5.md",
-    "Math/Linear Algebra/Linear Transformations/Eigenvectors & Eigenvalues/Diagonalisation.md",
-    "Archive/Lecture Notes/MATH203/MATH203.md",
-    "Pasted Image 20250820103009_835.png",
-    "Pasted Image 20250820103917_373.png",
-    "Pasted Image 20250820103220_848.png",
-    "Pasted Image 20250820102752_021.png",
-    "Pasted Image 20250820145150_662.png",
-    "Pasted Image 20250821113532_533.png",
-    "Pasted image 20250821113527.png",
-    "Pasted image 20250820112922.png",
-    "Pasted Image 20250820102519_446.png",
-    "Pasted image 20250821113620.png",
-    "DB.base",
-    "Computer Science/Networks/Connecting Components",
-    "Computer Science/Networks/Medium Access Control/Random Access Procotols",
-    "Computer Science/Networks/Medium Access Control/Orthogonal Schemes",
-    "Computer Science/Networks/Medium Access Control"
+    "Computer Science/Lambda Calculus/Alpha Equivalence.md",
+    "Computer Science/Lambda Calculus/Lambda Abstraction.md",
+    "Computer Science/Lambda Calculus/Beta Reduction.md",
+    "Computer Science/Networks/Protocols/Domain Name Service.md",
+    "Computer Science/Lambda Calculus/Application.md",
+    "Computer Science/Lambda Calculus/Alpha Converstion.md",
+    "Computer Science/Lambda Calculus",
+    "Personal/202 Cheatsheet.md",
+    "Archive/Lecture Notes/MATH240/Lec9C 25-9.md",
+    "Archive/Lecture Notes/MATH240/Lec1A 14-7.md",
+    "Archive/Lecture Notes/MATH240/Lec5B 12-8.md",
+    "Archive/Lecture Notes/MATH240/Lec3B 29-7.md",
+    "Archive/Lecture Notes/MATH240/Lec8A 15-9.md",
+    "Archive/Lecture Notes/MATH240/Lec4A 4-8.md",
+    "Archive/Lecture Notes/MATH240/Lec11A 6-10.md",
+    "Archive/Lecture Notes/MATH240/Lec5A 11-8.md",
+    "Archive/Lecture Notes/MATH240/Lec1B 15-7.md",
+    "Archive/Lecture Notes/MATH240/Lec1C 17-7.md",
+    "Archive/Lecture Notes/MATH240/Lec9A 22-9.md",
+    "Archive/Lecture Notes/MATH240/Lec2B 22-7.md",
+    "Archive/Lecture Notes/MATH240/Lec7A 8-9.md",
+    "Archive/Lecture Notes/MATH240/Lec6C 21-8.md",
+    "Archive/Lecture Notes/MATH240",
+    "Archive/Lecture Notes/MATH202",
+    "Archive/Lecture Notes/ENCE260",
+    "Archive/Lecture Notes/COSC264",
+    "Assets/ospf.png",
+    "ospf.png",
+    "dijkstra.png",
+    "Assets/lipschitz-continuity.gif",
+    "Personal/Pasted image 20251010201913.png",
+    "degree-hist.py~",
+    "Personal/Pasted Image 20251022112022_923.png",
+    "Personal/Pasted image 20251022140613.png",
+    "Pasted Image 20251028123745_592.png",
+    "Pasted Image 20251028113859_621.png",
+    "Pasted image 20251026204637.png",
+    "Math/Geometry/Trigonometry/Trigonometry.canvas",
+    "Math/Geometry/Circle Geometry/Incircles/Law of Cotangents.md~",
+    "Math/Calculus/Integration/Approximate/Riemann-Stieltjes Sums.md~",
+    "Computer Science/Networks/Errors",
+    "Computer Science/Lec9C 25-9"
   ]
 }

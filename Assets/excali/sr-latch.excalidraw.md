@@ -416,7 +416,7 @@ f434a1b6133faa29a18868804c0bb31b57fb157c: $$S$$
 			"version": 164,
 			"versionNonce": 802784598,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1752801613880,
 			"link": null,
 			"locked": false,
@@ -434,10 +434,7 @@ f434a1b6133faa29a18868804c0bb31b57fb157c: $$S$$
 					58.83461437926661
 				]
 			],
-			"lastCommittedPoint": [
-				-29.091654342515653,
-				58.83461437926661
-			],
+			"lastCommittedPoint": null,
 			"startBinding": null,
 			"endBinding": null,
 			"startArrowhead": null,
@@ -466,11 +463,11 @@ f434a1b6133faa29a18868804c0bb31b57fb157c: $$S$$
 				"type": 2
 			},
 			"seed": 522264598,
-			"version": 298,
-			"versionNonce": 696708298,
+			"version": 323,
+			"versionNonce": 456770235,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1752801627167,
+			"updated": 1761693166343,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -875,10 +872,10 @@ f434a1b6133faa29a18868804c0bb31b57fb157c: $$S$$
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"currentItemArrowType": "round",
-		"scrollX": 394.2566539390555,
-		"scrollY": 285.4805594037741,
+		"scrollX": 414.33780932199045,
+		"scrollY": 290.39450639853465,
 		"zoom": {
-			"value": 4.606132
+			"value": 4.507709
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": 20,

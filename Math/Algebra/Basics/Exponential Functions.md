@@ -11,5 +11,5 @@ $$ b > 0 \implies f : \R \to (0,\infty) $$
 
 # The Natural Exponential Function
 $$ \text{exp}(x) = e^x $$
-An exponential function with a base of [[Euler's Number|Euler's number]] $e$, sometimes called '**the** exponential function'. The natural exponential function has the (almost) unique property of being its own [[Archive/Deatomized/Calculus/Differentiation|derivative]] (with exception of $f(x) = 0$).
+An exponential function with a base of [[Euler's Number|Euler's number]] $e$, sometimes called '**the** exponential function'. The natural exponential function has the (almost) unique property of being its own [[_Differentiation|derivative]] (with exception of $f(x) = 0$).
 $$ \dfrac{d}{dx} \exp(x) = \exp(x) $$

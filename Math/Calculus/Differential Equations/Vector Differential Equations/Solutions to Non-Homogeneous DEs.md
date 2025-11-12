@@ -3,7 +3,7 @@ tags:
   - atom
   - math
 ---
-[[Linear Homogeneous Differential Equations|Linear homogeneous DEs]] of the form $\vecbf{x}'=A(t)\vecbf{x} + \vecbf{b}$ are solved by
+[[Linear Differential Equations|Linear DEs]] of the form $\vecbf{x}'=A(t)\vecbf{x} + \vecbf{b}$ are solved by
 $$\vecbf{x}(t) = \Phi(t)\left( \Phi(t_{0})^{-1}\vecbf{x}_{0} + \int_{t_{0}}^t \Phi(s)^{-1}\vecbf{b}\,ds \right) \hspace{2em} \text{s.t. } \vecbf{x}(t_{0}) = \vecbf{x}_{0}$$
 where $\Phi(t)$ is a [[Fundamental Matrices|fundamental matrix]] of the [[Linear Systems|system]].
 

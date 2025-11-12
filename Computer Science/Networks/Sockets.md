@@ -22,4 +22,4 @@ Built on [[TCP|TCP]] (sender notified of errors).
 ![500|center](udp-sockets.excalidraw)
 Built on [[UDP|UDP]] (sender not notified of errors).
 ## Raw Sockets
-Built on [[IP|IP]].
+Built on [[IPv4|IPv4]].

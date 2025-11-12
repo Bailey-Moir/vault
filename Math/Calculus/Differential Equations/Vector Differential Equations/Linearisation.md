@@ -12,7 +12,7 @@ $$\vecbf{\delta}' = \mathbf{J}_{\vecbf{F}}(\vecbf{x}_{*})\vecbf{\delta}.$$
 > 	&= 0 + g'(x_{*})((x_{*} + \delta)-x_{*}) + R_{1}(x_{*}+\delta) \\
 > 	&= g'(x_{*})\delta + R_{1}(x_{*}+\delta) \\
 > \end{align}$$
-> By [[Taylor's Remainder Theorem|Taylor's remainder theorem]], there exists $c$ between $x_{*}$ and $x_{*}+\delta$ such that
+> By [[Taylor's Lagrange Remainder|Taylor's remainder theorem]], there exists $c$ between $x_{*}$ and $x_{*}+\delta$ such that
 > $$\begin{align}
 > 	R_{1}(x_{*}+\delta) &= \dfrac{g''(c)}{2}((x_{*}+\delta)-x_{*})^{2} \\
 > 	&= \dfrac{g''(c)}{2}\delta^{2}. \\

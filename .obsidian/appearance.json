@@ -1,6 +1,6 @@
 {
   "accentColor": "",
-  "cssTheme": "Material Gruvbox",
+  "cssTheme": "Typewriter",
   "theme": "obsidian",
   "enabledCssSnippets": [
     "big-math",
@@ -8,13 +8,15 @@
     "larger-inline-math",
     "pdfs",
     "excali",
-    "no-collapse-icon",
     "no-folder-icon",
     "better-atom",
     "better-callouts",
-    "better-embeds",
     "centre-math",
-    "typewriter-dark"
+    "no-margin",
+    "column-pdf",
+    "typewriter-tables",
+    "typewriter-dark",
+    "readable-line-length"
   ],
   "showRibbon": false,
   "showViewHeader": true

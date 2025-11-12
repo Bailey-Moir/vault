@@ -20,12 +20,12 @@ The [[Layered PDU Processing#PDU Names|frame]] format for *Ethernet* contains a:
 
 | Type Field      | [[Protocols\|Protocol]]              |
 | --------------- | ------------------------------------ |
-| $\text{0x0800}$ | [[IP\|IPv4]]                         |
+| $\text{0x0800}$ | [[IPv4\|IPv4]]                       |
 | $\text{0x0806}$ | [[Address Resolution Protocol\|ARP]] |
-| $\text{0x809B}$ | Apple Talk ( #TODO )                 |
-| $\text{0x86DD}$ | [[IP\|IPv6]]                         |
-| $\text{0x8863}$ | PPPoE Discovery ( #TODO )            |
-| $\text{0x8864}$ | PPPoE Session ( #TODO )              |
+| $\text{0x809B}$ | Apple Talk                           |
+| $\text{0x86DD}$ | [[IPv6\|IPv6]]                       |
+| $\text{0x8863}$ | PPPoE Discovery                      |
+| $\text{0x8864}$ | PPPoE Session                        |
 - **[[Packets|Payload]]**
 - **FCS** (Frame Check Sequence)
   CRC [[Encoding#Checksums, Hash Totals|checksum]] (idk what that means).

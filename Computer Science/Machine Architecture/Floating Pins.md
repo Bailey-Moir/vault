@@ -1,6 +1,0 @@
----
-tags:
-  - atom
-  - comp
----
-GG

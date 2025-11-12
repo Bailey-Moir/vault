@@ -5,7 +5,7 @@ tags:
 ---
 A *series* is very similar to a [[Sequences|sequence]], except all of the terms are added to each other.
 
-> [!theorem]- **3.2** - If *series* a [[Partial Sums|converges]], the [[Convergence of Sequences|limit]] of its terms is zero.
+> [!theorem]- **3.2** - If *series* a [[Partial Sums|converges]], the [[Sequence Convergence|limit]] of its terms is zero.
 > Let the *series* $\sum_{k=1}^\infty a_{n}$ be given to converge to $L$, meaning $\lim S_{n} = L$.
 > 
 > Since [[Convergence is a Tail Property|convergence is a tail property]], this is equivalent to $\lim S_{n+1} = L.$
