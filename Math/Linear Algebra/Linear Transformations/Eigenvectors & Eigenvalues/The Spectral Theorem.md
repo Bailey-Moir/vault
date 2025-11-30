@@ -66,7 +66,7 @@ $A \in \R^{n,n}$ is [[Orthogonal Diagonalisation|orthogonally diagonalisable]] i
 > 
 > By **lemma 3**, $A$ has a real [[Eigenvectors & Eigenvalues|eigenvector]] $\vecbf{v}_{1}$, which we can take to be [[Unit Vectors|normalised]].
 > 
-> We can extend $\{ \vecbf{v}_{1} \}$ to an [[Orthogonal Vectors|orthonormal]] [[Basis|basis]] $\{ \vecbf{v}_{1},\dots,\vecbf{v}_{k+1} \}$ of $\R^{k+1}$
+> We can extend $\{ \vecbf{v}_{1} \}$ to an [[Orthogonal Vectors|orthonormal]] [[Vector Basis|basis]] $\{ \vecbf{v}_{1},\dots,\vecbf{v}_{k+1} \}$ of $\R^{k+1}$
 > 
 > Let $Q_{1} = \left[ \vecbf{v}_{1}\;\cdots\; \vecbf{v}_{k+1} \right]$, meaning $Q_{1}$ is [[Orthogonal Matrices|orthogonal]].
 > 

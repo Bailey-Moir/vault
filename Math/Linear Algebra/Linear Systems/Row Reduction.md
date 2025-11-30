@@ -12,4 +12,4 @@ tags:
  - **Swapping**
    $R_n \leftrightarrow R_m$
  
-> [!note]- *Row reductions* do not affect [[Linear Independence|linear independence]]. Once in [[EF & REF|REF]], the columns with [[Pivots and Free Variables|pivots]] form a [[Basis|basis]] of the [[Column Space|column space]].
+> [!note]- *Row reductions* do not affect [[Linear Independence|linear independence]]. Once in [[EF & REF|REF]], the columns with [[Pivots and Free Variables|pivots]] form a [[Vector Basis|basis]] of the [[Column Space|column space]].

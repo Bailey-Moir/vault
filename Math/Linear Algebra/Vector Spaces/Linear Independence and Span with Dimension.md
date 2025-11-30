@@ -6,7 +6,7 @@ tags:
 ---
 In a [[Finite-Dimensional Vector Spaces|finite-dimensional vector space]] $V$, for all [[Linear Independence|linearly independent]] [[Lists|lists]]/[[Sets|sets]] $I$ and [[Span|spanning list/sets]] $S$,
 $$ \left| I \right| \le \text{dim}(V) \le \left| S \right|  $$
-- Every $I$ can be extended and every $S$ can be reduced to a [[Basis|basis]] of $V$.
+- Every $I$ can be extended and every $S$ can be reduced to a [[Vector Basis|basis]] of $V$.
   > [!proof]- Reduction
 > Let $S$ be the [[Span|spanning list]] $\vecbf{v}_{1}, \dots, \vecbf{v}_{n}$.
 >
@@ -30,11 +30,11 @@ $$ \left| I \right| \le \text{dim}(V) \le \left| S \right|  $$
 > $$\vecbf{u}_{1}, \dots, \vecbf{u}_{n}, \vecbf{w}_{1}, \dots, \vecbf{w}_{m}$$
 > [[Span|spans]] $V$. Applying the same procedure as in the above theorem's proof, but starting on $\vecbf{w}_{1}$ instead of $\vecbf{u}_{1}$, will give a [[Linear Independence|linearly independent]] [[Span|spanning list]] of $V$ (a *basis*) containing $\vecbf{u}_{1}, \dots, \vecbf{u}_{n}$.
 
-- If $\left| I \right|$ or $\left| S \right|$ is equal to $\text{dim}(V)$, it must be a [[Basis|basis]].
+- If $\left| I \right|$ or $\left| S \right|$ is equal to $\text{dim}(V)$, it must be a [[Vector Basis|basis]].
   > [!proof]- for $I$
-> As shown, $I$ can be extended to a [[Basis|basis]], but since the given [[Lists|list]] is already the size of a [[Basis|basis]], this extension must be trivial, and the [[Lists|list]] must already be a [[Basis|basis]].
+> As shown, $I$ can be extended to a [[Vector Basis|basis]], but since the given [[Lists|list]] is already the size of a [[Vector Basis|basis]], this extension must be trivial, and the [[Lists|list]] must already be a [[Vector Basis|basis]].
 
   > [!proof]- for $S$
-> As shown, $S$ can be reduced to a [[Basis|basis]], but since the given [[Lists|list]] is already the size of a [[Basis|basis]], this reduction must be trivial, and the [[Lists|list]] must already be a [[Basis|basis]].
+> As shown, $S$ can be reduced to a [[Vector Basis|basis]], but since the given [[Lists|list]] is already the size of a [[Vector Basis|basis]], this reduction must be trivial, and the [[Lists|list]] must already be a [[Vector Basis|basis]].
 
 \[[[Dimension]]\]

@@ -12,13 +12,12 @@ $$\begin{align*}
 \end{align*}$$
 \[[[Universal Quantifier]], [[Set Equality]]\]
 
-# Properties of Subsets
-$\forall A, B, C$
-- **[[Reflexive Property]]**
-  $A \subseteq A$
-- **[[Transitive Property]]**
-  $A \subseteq B \land B \subseteq C \implies A \subseteq C$
-- **[[Antisymmetric Property]]**
-  $A \subseteq B \land B \subseteq A \implies A = B$
-
-Note this is a [[Partial Order|partial order]]
+> [!note] **Properties of Subsets** $\forall A, B, C$
+> - **[[Reflexive Property]]**
+>   $A \subseteq A$
+> - **[[Transitive Property]]**
+>   $A \subseteq B \land B \subseteq C \implies A \subseteq C$
+> - **[[Antisymmetric Property]]**
+>   $A \subseteq B \land B \subseteq A \implies A = B$
+> 
+> Thus, this is a [[Partial Order|partial order]].

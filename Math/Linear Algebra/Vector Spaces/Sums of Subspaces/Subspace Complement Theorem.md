@@ -8,7 +8,7 @@ For every [[Subspaces|subspace]] $U$ of $V$, there exists another [[Subspaces|su
 $$U \oplus W = V$$
 
 > [!proof]-
-> Since $U$ is a [[Subspaces|subspace]] of the [[Finite-Dimensional Vector Spaces|finite-dimensional vector space]] $V$, $U$ must also be [[Finite-Dimensional Vector Spaces|finite-dimensional]]. Thus, there must exist a [[Basis|basis]] $\vecbf{u}_{1}, \dots, \vecbf{u}_{n}$ of $U$. Since this [[Lists|list]] is [[Linear Independence|linearly independent]] in $V$, this can be extended to be [[Basis|basis]] $\vecbf{u}_{1}, \dots, \vecbf{u}_{n}, \vecbf{w}_{1}, \dots, \vecbf{w}_{m}$ of $V$.
+> Since $U$ is a [[Subspaces|subspace]] of the [[Finite-Dimensional Vector Spaces|finite-dimensional vector space]] $V$, $U$ must also be [[Finite-Dimensional Vector Spaces|finite-dimensional]]. Thus, there must exist a [[Vector Basis|basis]] $\vecbf{u}_{1}, \dots, \vecbf{u}_{n}$ of $U$. Since this [[Lists|list]] is [[Linear Independence|linearly independent]] in $V$, this can be extended to be [[Vector Basis|basis]] $\vecbf{u}_{1}, \dots, \vecbf{u}_{n}, \vecbf{w}_{1}, \dots, \vecbf{w}_{m}$ of $V$.
 > 
 > Let $W = \text{span}(\vecbf{w}_{1},\dots,\vecbf{w}_{m})$.
 > 

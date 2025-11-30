@@ -22,7 +22,7 @@ A *basis* of $V$ is a [[Span|spanning list]] of $V$ that is [[Linear Independenc
 > > ($\impliedby$)
 > > Suppose every $\vecbf{v} \in V$ can be written uniquely in the form
 > > $$ \vecbf{v} = a_1 \vecbf{v}_1 + \dots + a_n \vecbf{v}_n, $$
-> > where $a_1, \dots, a_n \in \F$. By their respective definitions, $\vecbf{v}_{1}, \dots, \vecbf{v}_{n}$ must [[Span|span]] $V$ and be [[Linear Independence|linearly independent]], meaning it is a [[Basis|basis]] of $V$.
+> > where $a_1, \dots, a_n \in \F$. By their respective definitions, $\vecbf{v}_{1}, \dots, \vecbf{v}_{n}$ must [[Span|span]] $V$ and be [[Linear Independence|linearly independent]], meaning it is a [[Vector Basis|basis]] of $V$.
 
 > [!proof]- Every [[Finite-Dimensional Vector Spaces|finite-dimensional vector space]] has a *basis*.
 > By definition, every [[Finite-Dimensional Vector Spaces|finite-dimensional vector space]] has a finite [[Span|spanning list]]. 

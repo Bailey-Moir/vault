@@ -21,7 +21,7 @@ $$\begin{align*}
 > 	&= \lambda x_1\vecu{i} + \lambda x_2\vecu{j} \\
 > 	&= \left\langle \lambda x_1, \lambda x_2 \right\rangle \\
 > \end{align*}$$
-> \[[[Basis]]\]
+> \[[[Vector Basis]]\]
 
 > [!note]- Parallel Vectors
 > Two [[Math/Linear Algebra/Vectors/Vectors|vectors]] are **parallel** iff they are *scalar multiples* of one another;

@@ -4,14 +4,14 @@ tags:
   - math
   - linear
 ---
-The *dual basis* of a [[Basis|basis]] $\vecbf{v}_{1},\dots,\vecbf{v}_{n}$ of $V$ is the [[Basis|basis]] $\varphi_{1},\dots,\varphi_{n}$ of $V'$[^1], where $\varphi_{j}$ is a [[Linear Functionals|linear functional]] on $V$ defined such that
+The *dual basis* of a [[Vector Basis|basis]] $\vecbf{v}_{1},\dots,\vecbf{v}_{n}$ of $V$ is the [[Vector Basis|basis]] $\varphi_{1},\dots,\varphi_{n}$ of $V'$[^1], where $\varphi_{j}$ is a [[Linear Functionals|linear functional]] on $V$ defined such that
 $$\varphi_{j}(\vecbf{v}_{k}) = \left\{\begin{matrix}
 	1 & \text{if } j = k \\
 	0 & \text{if } j \ne k \\
 \end{matrix}\right.,$$
-and this is indeed a [[Basis|basis]] of the [[Dual Space|dual space]].
+and this is indeed a [[Vector Basis|basis]] of the [[Dual Space|dual space]].
 
-> [!theorem]- A *dual basis* is a [[Basis|basis]] of the [[Dual Space|dual space]].
+> [!theorem]- A *dual basis* is a [[Vector Basis|basis]] of the [[Dual Space|dual space]].
 > Suppose $a_{1},\dots,a_{n} \in \F$ are defined such that
 > $$ a_{1}\varphi_{1}+\dots+a_{n}\varphi_{n} = 0. $$
 > By the definition of a *dual basis*,
@@ -20,10 +20,10 @@ and this is indeed a [[Basis|basis]] of the [[Dual Space|dual space]].
 > \end{align}$$
 > Thus, $a_{1}=\dots=a_{n}=0$. Thus, by the definition of [[Linear Independence|linear independence]], $\varphi_{1},\dots,\varphi_{n}$ must be [[Linear Independence|linearly independent]].
 > 
-> Since the *dual basis* is a [[Linear Independence|linearly independent]] [[Subsets|subset]] of $V'$ of length $\dim\,V=\text{dim}\,V'$[^2], it must then be a [[Basis|basis]] of $V'$[^3].
+> Since the *dual basis* is a [[Linear Independence|linearly independent]] [[Subsets|subset]] of $V'$ of length $\dim\,V=\text{dim}\,V'$[^2], it must then be a [[Vector Basis|basis]] of $V'$[^3].
 
 > [!theorem]- **(1)** $\vecbf{v} = \varphi_{1}(\vecbf{v})\vecbf{v}_{1}+\dots+\varphi_{n}(\vecbf{v})\vecbf{v}_{n}$
-> Suppose $\vecbf{v} \in V$ and $\vecbf{v}_{1},\dots,\vecbf{v}_{n}$ is a [[Basis|basis]] of $V$. Then there exists $c_{1},\dots,c_{n}\in \F$ such that
+> Suppose $\vecbf{v} \in V$ and $\vecbf{v}_{1},\dots,\vecbf{v}_{n}$ is a [[Vector Basis|basis]] of $V$. Then there exists $c_{1},\dots,c_{n}\in \F$ such that
 > $$\vecbf{v} = c_{1}\vecbf{v}_{1}+\dots+c_{n}\vecbf{v}_{n}.$$
 > Applying $\varphi_{j}$ to both sides of this equation gives
 > $$\begin{align}

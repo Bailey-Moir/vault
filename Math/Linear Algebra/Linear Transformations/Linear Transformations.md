@@ -44,6 +44,6 @@ $$ A\vecbf{e}_{i}= \begin{bmatrix}
 > - Reflection
 > - Sheer
 
-\[[[Matrix Multiplication]], [[Basis]]\]
+\[[[Matrix Multiplication]], [[Vector Basis]]\]
 
 [^1]: [[Sets of Matrices]]
