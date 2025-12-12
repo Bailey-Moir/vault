@@ -31,7 +31,7 @@ $$\begin{align}
 > 
 > Let $\varepsilon>0$ be given. Since $f \in \mathcal{C}(\{ c \})$[^2], there exists $\delta>0$ such that for all $x \in \R$,
 > $$\left| x-c \right| < \delta \to \left| f(x)-f(c) \right| < \varepsilon.$$
-> Both $\left( a_{n} \right)$ and $\left( b_{n} \right)$ [[Sequence Convergence|converge]] by [[Monotone Convergence Theorem|monotone convergence theorem]] to $c$, so we can find $N$ for which for all $n \ge N$,
+> Both $\left( a_{n} \right)$ and $\left( b_{n} \right)$ [[Metric Sequence Convergence|converge]] by [[Monotone Convergence Theorem|monotone convergence theorem]] to $c$, so we can find $N$ for which for all $n \ge N$,
 > $$\begin{array}{c}
 > 	\left| a_{n}-c \right| < \delta, \\
 > 	\left| b_{n}-c \right| < \delta. \\

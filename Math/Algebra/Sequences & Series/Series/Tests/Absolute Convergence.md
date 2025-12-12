@@ -20,7 +20,7 @@ A [[Series|series]] $\Sigma a_{k}$ is called *absolutely convergent* iff the [[S
 > [!definition] $\Sigma a_{n}$ is **conditionally convergent** iff it is convergent but not *absolutely convergent.*
 
 > [!Theorem]
-> - $\Sigma a_{k}$ is *absolutely convergent* iff the [[Partial Sums|partial sums]] of both the positive and negative parts [[Sequence Convergence|converge]], and
-> - $\Sigma a_{k}$ is **conditionally convergent** iff the [[Partial Sums|partial sums]] of both the positive and negative parts [[Sequence Convergence|diverge]].
+> - $\Sigma a_{k}$ is *absolutely convergent* iff the [[Partial Sums|partial sums]] of both the positive and negative parts [[Metric Sequence Convergence|converge]], and
+> - $\Sigma a_{k}$ is **conditionally convergent** iff the [[Partial Sums|partial sums]] of both the positive and negative parts [[Metric Sequence Convergence|diverge]].
 
 - If a [[Series|series]] is *absolutely convergent*, all rearrangements have the same sum. However, if a [[Series|series]] is **conditionally convergent**, it can be rearranged to give any real number.

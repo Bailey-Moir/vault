@@ -16,7 +16,7 @@ For $f \in \mathcal{C}(I)$ for any [[Intervals|closed interval]] $I \subseteq \R
 > 
 > Note that at least one of these [[Intervals|intervals]] must be [[Bounded Sets|unbounded]], as if they were both [[Bounded Sets|bounded]], $I_{n}$ would be [[Bounded Sets|bounded]] by the maximum of their bounds.
 > 
-> Then both [[Sequences|sequences]] [[Sequence Convergence|converge]] by [[Monotone Convergence Theorem|monotone convergence theorem]], and $\lim\left( b_{n} - a_{n} \right) = \lim \frac{b-a}{2^n} = 0$.
+> Then both [[Sequences|sequences]] [[Metric Sequence Convergence|converge]] by [[Monotone Convergence Theorem|monotone convergence theorem]], and $\lim\left( b_{n} - a_{n} \right) = \lim \frac{b-a}{2^n} = 0$.
 > 
 > By [[Rationals in Intervals|theorem 2.22]], there exists a unique $c \in \R$ in the intersection of the intervals of $\left( I_{n} \right)$.
 > 

@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "72ee818ac4714958",
+        "id": "0bbee259f39a682a",
         "type": "tabs",
         "children": [
           {
-            "id": "758df5213c927558",
+            "id": "e655afde174cf69e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Topology/Topological Basis.md",
+                "file": "Math/Topology/Convergence/Sequence Convergence.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Topological Basis"
+              "title": "Sequence Convergence"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Big",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Math/Topology/Topological Basis.md",
+                "file": "Math/Topology/Convergence/Sequence Convergence.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -107,7 +107,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Topological Basis"
+              "title": "Graph of Sequence Convergence"
             }
           }
         ]
@@ -208,35 +208,37 @@
       "media-extended:Open media": false
     }
   },
-  "active": "758df5213c927558",
+  "active": "e655afde174cf69e",
   "lastOpenFiles": [
-    "Math/Topology/Topology Refinements.md",
-    "Math/Topology/Topological Basis.md",
-    "Math/Topology/Topology.md",
-    "Math/Topology/Open Sets.md",
+    "Math/Topology/Convergence/Dense Subsets.md",
+    "Math/Topology/Topological Operations/Boundaries.md",
+    "Math/Topology/Topological Operations/Closures.md",
+    "Math/Topology/Topological Operations/Exteriors.md",
+    "Math/Topology/Topological Operations/Interiors.md",
+    "Math/Topology/Convergence/Sequence Convergence.md",
+    "Math/Topology/Convergence/Limit Points.md",
+    "Math/Topology/Neighbourhoods.md",
     "Math/Topology/Epsilon Balls.md",
-    "Math/Fourier Series.md",
-    "Math/Discrete/Set Theory/Partitions.md",
-    "Math/Linear Algebra/Vector Spaces/Vector Basis.md",
-    "Math/Discrete/Set Theory/Partitions Refinements.md",
-    "Math/Analysis/The Real Numbers.md",
-    "Math/Discrete/Set Theory/Basics/Subsets.md",
-    "Math/Discrete/Set Theory/Basics/Collections.md",
+    "Math/Algebra/Sequences & Series/Sequences/Metric Sequence Convergence.md",
+    "Math/Topology/Convergence/Isolated Points.md",
+    "Math/Topology/Topological Bases.md",
+    "Math/Topology/Topology Refinements.md",
+    "Math/Discrete/Graph Theory/Basics/Vertex Neighbourhoods.md",
+    "Math/Algebra/Sequences & Series/Sequences/Sequences.md",
+    "Math/Topology/Open Sets.md",
+    "Math/Discrete/Graph Theory/Basics/Vertex Degrees.md",
+    "Math/Topology/Convergence",
+    "Math/Linear Algebra/Linear Transformations/Eigenvectors & Eigenvalues/Complex Conjugate Eigenpairs.md",
+    "Math/Topology/Closed Sets.md",
+    "Anions and Intersections.md",
+    "Math/Discrete/Propositional Logic/Converse, Inverse, and Contrapositive.md",
+    "Math/Discrete/Set Theory/Basics/Unions & Intersections.md",
+    "Assets/excali/intersections.excalidraw.md",
+    "Personal/Gifts.md",
+    "Math/Topology/Topological Operations",
+    "Math/Topology/Interiors.md",
+    "Math/Topology/Exteriors.md",
     "Math/Topology",
-    "Computer Science/Networks/Protocols/Simple Mail Transfer Protocol.md",
-    "Personal/Daily/25-11-25.md",
-    "Personal/Courses.md",
-    "Archive/Lecture Notes/MATH240/Lec12?.md",
-    "Math/Calculus/Limits/Continuity/Lipschitz Continuity.md",
-    "Computer Science/Lambda Calculus/Lambda Terms.md",
-    "Computer Science/Lambda Calculus/Free Variables.md",
-    "Personal/Todo.md",
-    "Computer Science/Lambda Calculus/Alpha Equivalence.md",
-    "Computer Science/Lambda Calculus/Lambda Abstraction.md",
-    "Computer Science/Lambda Calculus/Beta Reduction.md",
-    "Computer Science/Networks/Protocols/Domain Name Service.md",
-    "Computer Science/Lambda Calculus/Application.md",
-    "Computer Science/Lambda Calculus/Alpha Converstion.md",
     "Computer Science/Lambda Calculus",
     "Archive/Lecture Notes/MATH240",
     "Archive/Lecture Notes/MATH202",
@@ -254,8 +256,6 @@
     "Pasted Image 20251028113859_621.png",
     "Pasted image 20251026204637.png",
     "Math/Geometry/Trigonometry/Trigonometry.canvas",
-    "Math/Geometry/Circle Geometry/Incircles/Law of Cotangents.md~",
-    "Math/Calculus/Integration/Approximate/Riemann-Stieltjes Sums.md~",
-    "Computer Science/Networks/Errors"
+    "Math/Geometry/Circle Geometry/Incircles/Law of Cotangents.md~"
   ]
 }

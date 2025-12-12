@@ -13,4 +13,4 @@ tags:
 - The term **union** is used to describe the combination of two or more [[Events|events]].
 - The [[Probabilities|probability]] that [[Events|events]] $A$ or $B$ will happen is denoted $P(A \text{ or } B)$ or $P(A \cup B)$
 
-\[[[Unions and Intersections]]\]
+\[[[Unions & Intersections]]\]

@@ -8,7 +8,7 @@ An infinite series is the sum of all the numbers in a sequence.
 # Sequences
 ![[Sequences]]
 ## Convergence and Divergence of Sequences 
-![[Sequence Convergence]]
+![[Metric Sequence Convergence]]
 ### Monotonic Sequences
 ![[Monotone Sequences]]
 ## Bounded Sequences

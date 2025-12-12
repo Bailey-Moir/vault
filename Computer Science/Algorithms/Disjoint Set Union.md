@@ -32,4 +32,4 @@ size = [1 for _ in range(n)]
 
 > [!example] [[Connectivitiy|Connectivity]]
 
-\[[[Disjoint Sets]], [[Unions and Intersections]]\]
+\[[[Disjoint Sets]], [[Unions & Intersections]]\]

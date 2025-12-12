@@ -6,7 +6,7 @@ tags:
 ---
 Let $G$ be a [[Bipartite Graphs|bipartite graph]] with [[Vertices|vertex]] [[Partitions|parts]] $V_{1}$ and $V_{2}$. Then $G$ has a **complete [[Matchings|matching]]** from $V_{1}$ to $V_{2}$ iff
 $$\forall X \subseteq V_{1}, \left| X \right| \le \left| N(X) \right| $$
-\[[[Neighbourhood]]\]
+\[[[Vertex Neighbourhoods]]\]
 
 > [!definition] For a [[Bipartite Graphs|bipartite graph]] $G$ with [[Vertices|vertex]] [[Partitions|parts]] $V_{1}$ and $V_{2}$, a **complete [[Matchings|matching]]** from $V_{1}$ to $V_{2}$ is a [[Matchings|matching]] that matches all [[Vertices|vertices]] in $V_{1}$.
 
@@ -14,7 +14,7 @@ $$\forall X \subseteq V_{1}, \left| X \right| \le \left| N(X) \right| $$
 > $\left( \implies \right)$
 > Suppose a [[Bipartite Graphs|bipartite graph]] $G$ with [[Vertices|vertex]] [[Partitions|parts]] $V_{1}$ and $V_{2}$, and it has a **complete [[Matchings|matching]]** from $V_{1}$ to $V_{2}$.
 > 
-> Let $X \subseteq V_{1}$. Since $X$ is [[Matchings|matched]] with $\left| X \right|$ distinct [[Vertices|vertices]], there are at least as many [[Neighbourhood|neighbours]] of $X$ as there are [[Vertices|vertices]] in $X$, i.e.,
+> Let $X \subseteq V_{1}$. Since $X$ is [[Matchings|matched]] with $\left| X \right|$ distinct [[Vertices|vertices]], there are at least as many [[Vertex Neighbourhoods|neighbours]] of $X$ as there are [[Vertices|vertices]] in $X$, i.e.,
 > $$\left| X \right| \le \left| N(X) \right|.$$
 > 
 > $\left( \impliedby \right)$
@@ -24,7 +24,7 @@ $$\forall X \subseteq V_{1}, \left| X \right| \le \left| N(X) \right| $$
 > 
 > Let $W$ be a [[Coverings|minimum covering]] of $G$. Let $S_{1} = W \cap V_{1}$ and $S_{2} = V_{1} - S_{1}$.
 > 
-> By the premise, $\left| S_{2} \right| \le\left| N(S_{2}) \right|$. But $N(S_{2}) \subseteq W \cap V_{2}$, as $S_{2}$ is by definition not part of the [[Coverings|covering]] $W$, so all of its [[Neighbourhood|neighbours]] must be.
+> By the premise, $\left| S_{2} \right| \le\left| N(S_{2}) \right|$. But $N(S_{2}) \subseteq W \cap V_{2}$, as $S_{2}$ is by definition not part of the [[Coverings|covering]] $W$, so all of its [[Vertex Neighbourhoods|neighbours]] must be.
 > 
 > Thus, $\left| S_{2} \right| \le \left| W \cap V_{2} \right|$, so
 > $$\begin{align}

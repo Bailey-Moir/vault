@@ -3,7 +3,8 @@ tags:
   - atom
   - math
 ---
-A [[Sequences|sequence]] $(a_{n})$ *converges* to $L$ iff $\forall \varepsilon > 0, \exists N : \forall n \ge N, \left| a_{n} - L \right| < \varepsilon$.
+A [[Sequences|sequence]] $(a_{n})$ *converges* to $L$ iff
+$$\forall \varepsilon > 0, \exists N \in \N : \forall n \ge N, \left| a_{n} - L \right| < \varepsilon.$$
 
 > [!theorem]- \- **Uniqueness of Limits of Sequences** - The *limit* of a [[Sequences|sequence]] is unique.
 > Suppose $\left( a_{n} \right)^\infty_{n=1}$ converges  to $L,M \in \R$.

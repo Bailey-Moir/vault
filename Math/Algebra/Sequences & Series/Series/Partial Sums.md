@@ -21,7 +21,7 @@ $$\sum_{k=0}^\infty a_k = \lim_{k\to\infty} S_k = S_\infty$$
 
 > [!inductive-definition] **3.1** - For any [[Series|series]] $\sum_{k=0}^\infty a_{n}$,  $S_{0} = a_{0}$, and for all $n \in \N$,$$S_{n+1} = S_{n} + a_{n+1}$$
 
-> [!theorem] A [[Series|series]] **converges** iff its *partial sums* [[Sequence Convergence|converges]] .
+> [!theorem] A [[Series|series]] **converges** iff its *partial sums* [[Metric Sequence Convergence|converges]] .
 
 > [!theorem]- **3.3** - A [[Series|series]] $\sum_{k=0}^\infty a_{k}$ with $a_{k} \ge 0$ is convergent iff the *partial sums* $(S_{n})$ are [[Bounded Sequences|bounded]].
 > Note that
@@ -29,4 +29,4 @@ $$\sum_{k=0}^\infty a_k = \lim_{k\to\infty} S_k = S_\infty$$
 > 	S_{n+1} &= S_{n} + a_{n+1} \\
 > 	&\ge S_{n}.
 > \end{align}$$
-> Thus, the [[Sequences|sequence]] of *partial sums* is [[Monotone Sequences|increasing]]. Since it is also [[Bounded Sequences|bounded]], by [[Monotone Convergence Theorem|monotone convergence theorem]], it must [[Sequence Convergence|converge]].
+> Thus, the [[Sequences|sequence]] of *partial sums* is [[Monotone Sequences|increasing]]. Since it is also [[Bounded Sequences|bounded]], by [[Monotone Convergence Theorem|monotone convergence theorem]], it must [[Metric Sequence Convergence|converge]].

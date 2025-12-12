@@ -5,7 +5,7 @@ tags:
 ---
 *Dijkstra's algorithm* finds the shortest path between [[Vertices|vertices]] on a [[Graphs|graph]] (creates a shortest path tree).
 
-A [[Priority Queues|minimum priority queue]] is created, and the start [[Vertices|vertex]] $v_i$ is [[Queues|enqueued]] with distance $0$. Until the [[Queues|queue]] is empty, a vertex $v$ is [[Queues|dequeued]] and marked (so it is not set processed again), and all [[Neighbourhood|neighbours]] of $v$ are [[Queues|enqueued]] with a distance of $v$ from $v_{i}$ plus the edge weight from $v$ to the given neighbour.
+A [[Priority Queues|minimum priority queue]] is created, and the start [[Vertices|vertex]] $v_i$ is [[Queues|enqueued]] with distance $0$. Until the [[Queues|queue]] is empty, a vertex $v$ is [[Queues|dequeued]] and marked (so it is not set processed again), and all [[Vertex Neighbourhoods|neighbours]] of $v$ are [[Queues|enqueued]] with a distance of $v$ from $v_{i}$ plus the edge weight from $v$ to the given neighbour.
 
 ```py
 def dijkstra(v, adj):

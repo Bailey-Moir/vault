@@ -6,8 +6,8 @@ tags:
 ![1000|center](bounding.excalidraw.md)
 A [[Sequences|sequence]] $\left( a_{n} \right)$ is *bounded* iff $\{ a_{n} : n \in \N \}$ is a [[Bounded Sets|bounded set]] in $\R$.
 
-> [!theorem]- **2.8** If $\left( a_{n} \right)$ is [[Sequence Convergence|convergent]], then it is *bounded*
-> Since $\left( a_{n} \right)$ is [[Sequence Convergence|convergent]], $\forall \varepsilon > 0, \exists N : \forall n \ge N, \left| a_{n} - L \right| < \varepsilon$.
+> [!theorem]- **2.8** If $\left( a_{n} \right)$ is [[Metric Sequence Convergence|convergent]], then it is *bounded*
+> Since $\left( a_{n} \right)$ is [[Metric Sequence Convergence|convergent]], $\forall \varepsilon > 0, \exists N : \forall n \ge N, \left| a_{n} - L \right| < \varepsilon$.
 > 
 > Thus, for $\varepsilon > 0$, there is an $N$ such that $\left| a_{n} - L \right| < \varepsilon$ for all $n \ge N$.
 > 

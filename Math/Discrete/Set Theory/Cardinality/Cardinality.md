@@ -12,7 +12,7 @@ If they are **not** [[Disjoint Sets|disjoint]]
 $$ |A \cup B| = |A| + |B| - |A \cap B|$$
 ![1000|center](additive-rule.excalidraw.md)
 
-\[[[Unions and Intersections]]\]
+\[[[Unions & Intersections]]\]
 
 > [!theorem]
 > Let $S$ be a [[Empty Set|non-empty]] finite [[Sets|set]]. Then $|S| = n$ iff there is a [[Bijective Functions|bijection]] from $S$ to $\Z_n$[^1].

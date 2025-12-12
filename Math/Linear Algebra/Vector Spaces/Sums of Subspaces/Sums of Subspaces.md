@@ -15,6 +15,6 @@ $$ U + W = \left\{ \vecbf{u} + \vecbf{w} : \vecbf{u} \in U \land \vecbf{w} \in W
 > $$ V_1, \dots, V_m \in U \to V_1 + \dots + V_m \subseteq U $$
 > Thus, there cannot be a [[Subspaces|subspace]] of $V$ smaller than $V_{1} + \cdots + V_{m}$ that contains $V_{1}, \dots, V_{m}$, as if a [[Subspaces|subspace]] of $V$ contains $V_{1}, \dots, V_{m}$, it must contain $V_{1} + \cdots + V_{m}$.
 
-Sums of [[Subspaces|subspaces]] in the theory of [[Vector Spaces|vector spaces]] are analogous to [[Unions and Intersections||unions]] of set theory.
+Sums of [[Subspaces|subspaces]] in the theory of [[Vector Spaces|vector spaces]] are analogous to [[Unions & Intersections||unions]] of set theory.
 
 \[[[Dimension of a Sum]]\]

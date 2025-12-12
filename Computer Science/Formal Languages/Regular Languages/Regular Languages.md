@@ -19,7 +19,7 @@ $A \subseteq \Sigma^*$ is *regular* iff there exists a [[Deterministic Finite Au
 > 	&\iff w \in A^c \\
 > \end{align}$$
 
-> [!proof]- [[Unions and Intersections|Intersection]]
+> [!proof]- [[Unions & Intersections|Intersection]]
 > Given *regular languages* $A = L(M_{1})$ and $B = L(M_{2})$ where $M_{1} = \left( Q_{1},\Sigma,\delta_{1},q_{1},F_{1} \right)$ and $M_{2} = \left( Q_{2},\Sigma,\delta_{2},q_{2},F_{2} \right)$, let $M = \left( Q_{1}\times Q_{2},\Sigma,\delta,(q_{1},q_{2}),F_{1} \times F_{2} \right)$ (called the **product automaton**) where $\delta$ is defined by
 > $$\delta((p_{1},p_{2}),a) = (\delta_{1}(p_{1},a), \delta_{2}(p_{2},a)) \hspace{2em} a \in \Sigma$$
 > meaning
@@ -32,9 +32,9 @@ which can be proven [[Induction|inductively]] using the definition of the [[Exte
 > 	&\iff w \in L(M_{1}) \land w \in L(M_{2}) \\
 > 	&\iff w \in L(M_{1}) \cap L(M_{2}) \\
 > \end{align}$$
-> \[[[Cartesian Product]], [[Unions and Intersections]]\]
+> \[[[Cartesian Product]], [[Unions & Intersections]]\]
 
-> [!proof]- [[Unions and Intersections|Union]] 
+> [!proof]- [[Unions & Intersections|Union]] 
 > Given two *regular languages* $A$ and $B$,
 > $$\begin{align}
 > 	A \cup B &= \{ x : x \in A \lor x \in B \} && (1)\\
@@ -43,9 +43,9 @@ which can be proven [[Induction|inductively]] using the definition of the [[Exte
 > 	&= \{ x : \neg(x \in A^c \cap B^c) \} && (1) \\
 > 	&= (A^c \cap B^c)^c && (3) \\
 > \end{align}$$
-> \[$1$ [[Unions and Intersections]], $(2)$ [[De Morgan's Laws]], $(3)$, [[Complement]]\]
+> \[$1$ [[Unions & Intersections]], $(2)$ [[De Morgan's Laws]], $(3)$, [[Complement]]\]
 > 
-> As proven above, *regular languages* are *closed* under [[Complement|complement]] and [[Unions and Intersections|intersection]], meaning they must also be *closed* under [[Unions and Intersections|union]].
+> As proven above, *regular languages* are *closed* under [[Complement|complement]] and [[Unions & Intersections|intersection]], meaning they must also be *closed* under [[Unions & Intersections|union]].
 
 - [[Concatenation of Languages and Alphabets|concatenation and star]],
 

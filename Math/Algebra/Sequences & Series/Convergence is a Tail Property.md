@@ -3,7 +3,7 @@ tags:
   - atom
   - math
 ---
-The [[Sequence Convergence|convergence]] and [[Sequence Convergence|limit]] of a [[Sequences|sequence]] is unchanged if either
+The [[Metric Sequence Convergence|convergence]] and [[Metric Sequence Convergence|limit]] of a [[Sequences|sequence]] is unchanged if either
 1. we alter finitely many terms, or
 2. we add (or remove) finitely many terms at the beginning.
 
@@ -12,7 +12,7 @@ The [[Sequence Convergence|convergence]] and [[Sequence Convergence|limit]] of a
 > $$a_{n} = \tilde{a}_{n} \hspace{2em} \forall n \ge N_{0}$$
 > for some $N_{0} \in \N$.
 > 
-> Suppose $\left( a_{n} \right)$ [[Sequence Convergence|converges]].
+> Suppose $\left( a_{n} \right)$ [[Metric Sequence Convergence|converges]].
 > 
 > Let $\varepsilon>0$ be given. Then there is an $N$ such that for all $n \ge N$,
 > $$\left| a_{n} - L \right| < \varepsilon.$$
@@ -23,6 +23,6 @@ The [[Sequence Convergence|convergence]] and [[Sequence Convergence|limit]] of a
 > This is basically the same as **1**, just think about it.
 
 # Convergence of Series
-The [[Sequence Convergence|convergence]] of a [[Series|series]] is unchanged if either
+The [[Metric Sequence Convergence|convergence]] of a [[Series|series]] is unchanged if either
 1. we alter finitely many terms, or
 2. we add (or remove) finitely many terms at the beginning.
