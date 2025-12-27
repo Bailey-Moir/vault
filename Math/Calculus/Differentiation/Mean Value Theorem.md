@@ -4,7 +4,7 @@ tags:
   - math
 ---
 ![400|center](mean-value-theorem.excalidraw.md)
-Suppose $f(x)$ is [[Continuity|continuous]] on $[a,b]$ and [[Differentiation|differentiable]] on $(a,b)$. 
+Suppose $f(x)$ is [[Math/Calculus/Limits/Continuity/Continuity|continuous]] on $[a,b]$ and [[Differentiation|differentiable]] on $(a,b)$. 
 The *mean value theorem* states that there exists a point $c \in (a,b)$ such that $f'(c)$ is the slope of the [[Secants|secant]] through $a$ and $b$;
 $$\exists c \in \left( a,b \right) : f'(c) = \dfrac{f(b) - f(a)}{b-a}$$
 
@@ -13,7 +13,7 @@ $$\exists c \in \left( a,b \right) : f'(c) = \dfrac{f(b) - f(a)}{b-a}$$
 > $$l(x) = \dfrac{f(b)-f(a)}{b-a}(x-a) + f(a).$$
 > Note that $l(a) = f(a)$ and $l(b) = f(b)$.
 > 
-> Define $g = f - l$, which is then [[Continuity|continuous]] on $\left[ a,b \right]$ and [[Differentiation|differentiable]] on $\left( a,b \right)$.
+> Define $g = f - l$, which is then [[Math/Calculus/Limits/Continuity/Continuity|continuous]] on $\left[ a,b \right]$ and [[Differentiation|differentiable]] on $\left( a,b \right)$.
 > 
 > Thus, by [[Rolle's Theorem|Rolle's theorem]], there exists $c\in \left( a,b \right)$ such that $g'(c) = 0$.
 > $$\begin{align}
@@ -47,4 +47,4 @@ $$\exists c \in \left( a,b \right) : f'(c) = \dfrac{f(b) - f(a)}{b-a}$$
 >    Thus, for arbitrary $a\le x<y \le b$, $f(x) \le f(y)$, so $f$ is [[Increasing and Decreasing Functions|increasing]] on $\left( a,b \right)$.
 > 2. For $f' \le 0$, $(-f)' \ge 0$ must be [[Increasing and Decreasing Functions|increasing]] by **1**, so $f$ is [[Increasing and Decreasing Functions|decreasing]].
 
-[^1]: [[Continuity]]
+[^1]: [[Math/Calculus/Limits/Continuity/Continuity]]

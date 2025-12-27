@@ -11,7 +11,6 @@ $$\begin{align}
 - $\large\text{int}\,S \in \mathcal{T}$[^1]
 - $\large\text{int}\,S \subseteq S$
 
-
 > [!characterisation]- $p \in \text{int}\,S \iff \exists A \in \mathcal{N}_{p} : A \subseteq S$
 *$\mathit{p \in \text{int}\,S}$ iff $\mathit{p}$ has a [[Neighbourhoods|neighbourhood]] contained in $\mathit{S}$*
 > $$\begin{align}

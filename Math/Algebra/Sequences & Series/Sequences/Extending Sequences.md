@@ -3,9 +3,9 @@ tags:
   - atom
   - math
 ---
-Extending [[Sequences|sequences]] to [[Continuity|continuous]] [[Functions|functions]] over the [[The Real Numbers|real]] numbers allows for use of calculus techniques to infer information about the original [[Sequences|sequence]]. 
+Extending [[Sequences|sequences]] to [[Math/Calculus/Limits/Continuity/Continuity|continuous]] [[Functions|functions]] over the [[The Real Numbers|real]] numbers allows for use of calculus techniques to infer information about the original [[Sequences|sequence]]. 
 
-Let $f$ be a [[Continuity|continuous]] extension of some [[Sequences|sequence]] $\left\{a_n\right\}_{n=1}^\infty$ into the [[The Real Numbers|real]] numbers. Note that the below inferences are only [[Logical Implication|one way implications]].
+Let $f$ be a [[Math/Calculus/Limits/Continuity/Continuity|continuous]] extension of some [[Sequences|sequence]] $\left\{a_n\right\}_{n=1}^\infty$ into the [[The Real Numbers|real]] numbers. Note that the below inferences are only [[Logical Implication|one way implications]].
 ## Inferring [[Metric Sequence Convergence|Metric Sequence Convergence]]
 If $f$ is convergent to $L$, $\{a_n\}$ must also be convergent to $L$, i.e.
 $$ \forall L, \left( \lim_{x \to \infty} f(x) = L \to \lim_{n\to\infty} \{a_n\} = L \right) $$

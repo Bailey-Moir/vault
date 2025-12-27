@@ -10,7 +10,7 @@ $$R_{n}(x) = \dfrac{f^{(n+1)}(\xi_{L})}{(n+1)!}(x-\alpha)^{n+1} $$
 > [!proof]-
 > Fix $\alpha,x \in \left( a,b \right)$. Let $g(t)$ give the remainder of the first $n$ terms of the [[Taylor Series|Taylor series]] of $f$ around $t$, meaning
 > $$g(t) = f(x) - \sum_{k=0}^n \dfrac{f^{(k)}(t)}{k!} (x-t)^k.$$
-> Then by the [[Power Rule|power]] and [[Differentiation Rules|chain rule]],and [[Continuity of Differentiable Functions|continuity of differentiable functions]], $g$ is [[Continuity|continuous]] and [[Differentiation|differentiable]] on $\left( a,b \right)$.
+> Then by the [[Power Rule|power]] and [[Differentiation Rules|chain rule]],and [[Continuity of Differentiable Functions|continuity of differentiable functions]], $g$ is [[Math/Calculus/Limits/Continuity/Continuity|continuous]] and [[Differentiation|differentiable]] on $\left( a,b \right)$.
 > 
 > Note that $g(x) = 0$, and
 > $$\begin{align}
@@ -21,7 +21,7 @@ $$R_{n}(x) = \dfrac{f^{(n+1)}(\xi_{L})}{(n+1)!}(x-\alpha)^{n+1} $$
 > 
 > Let
 > $$h(t) = g(t) - \left( \dfrac{x-t}{x-\alpha} \right)^{n+1}g(\alpha).$$
-> Then similarly, by the [[Power Rule|power]] and [[Differentiation Rules|chain rule]], [[Linearity of Differentiation|linearity of differentiation]], and [[Continuity of Differentiable Functions|continuity of differentiable functions]], $h$ is [[Continuity|continuous]] and [[Differentiation|differentiable]] on $\left( a,b \right)$.
+> Then similarly, by the [[Power Rule|power]] and [[Differentiation Rules|chain rule]], [[Linearity of Differentiation|linearity of differentiation]], and [[Continuity of Differentiable Functions|continuity of differentiable functions]], $h$ is [[Math/Calculus/Limits/Continuity/Continuity|continuous]] and [[Differentiation|differentiable]] on $\left( a,b \right)$.
 > 
 > Note that
 > $$h'(t) = \left( -\dfrac{f^{(n+1)}(t)}{n!}(x-t)^n  \right)+ \dfrac{n+1}{(x-c)^{n+1}}\left( x-t \right)^ng(c)$$

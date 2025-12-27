@@ -12,4 +12,4 @@ where $a_n(t)$, $a_{n-1}(t)$, $\dots$, $a_1(t)$, $a_0(t)$ and $f(t)$ depend only
 > - the [[Explanatory and Response Variables|dependent variable]] ($y$) and it's derivatives ($\frac{dy}{dt}$, $\frac{d^2y}{{dt}^2}$, $\dots$) only occur to the first power, and 
 > - coefficients of the [[Explanatory and Response Variables|dependent variable]] and its derivatives do not involve the [[Explanatory and Response Variables|dependent variable]].
 
-> [!theorem] If $a_{0}(t),\dots,a_{n}(t)$ and $f(t)$ are [[Continuity|continuous]] on an [[Intervals|open interval]] $I$, and $\exists i,\exists t \in I, a_{i}(t)\ne 0$, then a solution exists.
+> [!theorem] If $a_{0}(t),\dots,a_{n}(t)$ and $f(t)$ are [[Math/Calculus/Limits/Continuity/Continuity|continuous]] on an [[Intervals|open interval]] $I$, and $\exists i,\exists t \in I, a_{i}(t)\ne 0$, then a solution exists.

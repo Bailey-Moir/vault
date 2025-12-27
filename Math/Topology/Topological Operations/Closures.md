@@ -3,7 +3,7 @@ tags:
   - atom
   - math
 ---
-The *closure* of $S \subseteq X$ is the [[Unions & Intersections|intersection]] of all containing [[Closed Sets|closed sets]]:
+uThe *closure* of $S \subseteq X$ is the [[Unions & Intersections|intersection]] of all containing [[Closed Sets|closed sets]]:
 $$\begin{align}
 	\overline{S} &= \bigcap \{ A\subseteq X : S \subseteq A \land A^c \in \mathcal{T} \} \\
 	&= S \cup \partial S && (1) \\

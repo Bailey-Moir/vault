@@ -18,7 +18,7 @@ $$\begin{array}{c}
 > 	\lim_{ x \to a } \dfrac{f(x)-f(a)}{x-a} &= \lim_{ x \to a } \phi(x) \\
 > 	f'(a) &= \phi(a), \\
 > \end{align}$$
-> by the [[Continuity|continuity]] of $\phi$.
+> by the [[Math/Calculus/Limits/Continuity/Continuity|continuity]] of $\phi$.
 > 
 > $\left( \implies \right)$
 > Suppose $f$ is [[Differentiation|differentiable]] at $a$. Define
@@ -29,6 +29,6 @@ $$\begin{array}{c}
 > 
 > Thus, by the [[Limits of Real Functions|epsilon-delta definition of a limit]] with [[Differentiation|differentiation]], $\phi$ must be [[Defined Near|defined near]] (and at) $a$.
 > 
-> $\phi$ is [[Continuity|continuous]] at $a$ since
+> $\phi$ is [[Math/Calculus/Limits/Continuity/Continuity|continuous]] at $a$ since
 > $$\lim_{ x \to a } \phi(x) = \lim_{ x \to a } \dfrac{f(x)-f(a)}{x-a} = f'(a) = \phi(a),$$
 > by definition.

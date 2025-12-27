@@ -3,7 +3,7 @@ tags:
   - atom
   - math
 ---
-For a [[Continuity|continuous]] [[Functions|function]] $f$ defined on $\left[ 0,T \right]$ such that $\int_{0}^Tf^2(t)\,dt < \infty$, the $n$-th order [[Periodic Functions|periodic]] *Fourier approximation* of $f$ is
+For a [[Math/Calculus/Limits/Continuity/Continuity|continuous]] [[Functions|function]] $f$ defined on $\left[ 0,T \right]$ such that $\int_{0}^Tf^2(t)\,dt < \infty$, the $n$-th order [[Periodic Functions|periodic]] *Fourier approximation* of $f$ is
 $$F_{n} = \text{proj}_{\text{span}\,S_{n}}(f)$$
 where $S_{n} = \{ 1,\cos \dfrac{2\pi}{T}t,\sin \dfrac{2\pi}{T}t,\dots,\cos \dfrac{2\pi n}{T}t,\sin \dfrac{2\pi n}{T}t \}$ is a **Fourier basis**.
 

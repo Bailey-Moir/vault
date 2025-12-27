@@ -10,7 +10,7 @@ This [[Series|series]] converges iff $p>1$ (diverges if $p\le 1$).
 > [!proof]- by [[The Integral Test|Integral Test]]
 > If $p < 0$, $\displaystyle\lim_{ n \to \infty } \dfrac{1}{n^p} = \infty$. If $p = 0$, $\displaystyle\lim_{ n \to \infty } \dfrac{1}{n^p} = 1$. In both cases, the limit of the [[Summand|summand]] is not 0, meaning the series diverges. If $p>0$, the [[Functions|function]]
 > $$f(x) = \dfrac{1}{x^p}$$
-> is a [[Continuity|continuous]] positive [[Extending Sequences|extension]] of $\left\{ a_{n} \right\}$ into the real numbers.
+> is a [[Math/Calculus/Limits/Continuity/Continuity|continuous]] positive [[Extending Sequences|extension]] of $\left\{ a_{n} \right\}$ into the real numbers.
 > $$\begin{align*}
 > 	\int_{1}^\infty \dfrac{1}{x^p} \,dx &= \left[ -\dfrac{1}{(p-1)x^{p-1}} \right]_{1}^\infty \\
 > 	&= -\dfrac{1}{p-1}\left[ \dfrac{1}{x^{p-1}} \right]_{1}^\infty \\

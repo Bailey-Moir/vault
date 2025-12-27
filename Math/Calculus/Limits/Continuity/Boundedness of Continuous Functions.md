@@ -20,6 +20,6 @@ For $f \in \mathcal{C}(I)$ for any [[Intervals|closed interval]] $I \subseteq \R
 > 
 > By [[Rationals in Intervals|theorem 2.22]], there exists a unique $c \in \R$ in the intersection of the intervals of $\left( I_{n} \right)$.
 > 
-> The [[Continuity|continuity]] of  at $c$ gives an [[Intervals|open interval]] $U$ around $c$ on which $f$ is [[Bounded Sets|bounded]]. However, there must exists an $n$ such that $I_{n} \subset U$, meaning $I_{n}$ must be [[Bounded Sets|bounded]], a [[Contradictions|contradiction]].
+> The [[Math/Calculus/Limits/Continuity/Continuity|continuity]] of  at $c$ gives an [[Intervals|open interval]] $U$ around $c$ on which $f$ is [[Bounded Sets|bounded]]. However, there must exists an $n$ such that $I_{n} \subset U$, meaning $I_{n}$ must be [[Bounded Sets|bounded]], a [[Contradictions|contradiction]].
 > 
 > Thus, $I$ must be [[Bounded Sets|bounded]].

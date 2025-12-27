@@ -26,7 +26,7 @@ $$\begin{align}
 > [!proof]-
 > By [[Taylor Series|Taylor's theorem]] (with [[Taylor's Lagrange Remainder|remainder theorem]]),
 > $$y(t_{1})=y(t_{0})+y'(t_{0})h+\dfrac{y''(c)}{2}h^2$$
-> for some $c \in \left( t_{0},t_{1} \right)$ (note $t_{1} = t_{0}+h$). Suppose $y''(t)$ is [[Continuity|continuous]] on $\left[ t_{0},t_{1} \right]$. Then it is [[Bounded Sets|bounded]][^1], so let $\left| y'' \right| \leq M$ for some $M$ on $(t_{0},t_{1})$. Then
+> for some $c \in \left( t_{0},t_{1} \right)$ (note $t_{1} = t_{0}+h$). Suppose $y''(t)$ is [[Math/Calculus/Limits/Continuity/Continuity|continuous]] on $\left[ t_{0},t_{1} \right]$. Then it is [[Bounded Sets|bounded]][^1], so let $\left| y'' \right| \leq M$ for some $M$ on $(t_{0},t_{1})$. Then
 > $$\begin{align}
 > 	y(t_{1}) &= \left( y(t_{0})+y'(t_{0})h \right) + \dfrac{y''(c)}{2}h^2 \\
 > 	&= y_{1} + \dfrac{y''(c)}{2}h^2 \\

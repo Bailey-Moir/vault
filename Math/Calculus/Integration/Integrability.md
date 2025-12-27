@@ -32,6 +32,6 @@ $$\left| S(P;f,g) - I \right|  < \varepsilon.$$
 > $$\overline{S}(P_{\varepsilon};f,g) - \underline{S}(P_{\varepsilon};f,g)\le \overline{S}(P;f,g) - \underline{S}(Q;f,g) < \varepsilon$$
 > by the fact that [[Refinements Refine|refinements refine]].
 
-> [!theorem] The anti-derivative / indefinite integral of a [[Riemann Sums|Riemann]] *integrable* [[Functions|function]] is [[Continuity|continuous]].
+> [!theorem] The anti-derivative / indefinite integral of a [[Riemann Sums|Riemann]] *integrable* [[Functions|function]] is [[Math/Calculus/Limits/Continuity/Continuity|continuous]].
  
 \[[[Riemann-Stieltjes Integrals]]\]

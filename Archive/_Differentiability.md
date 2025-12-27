@@ -5,6 +5,6 @@ tags:
 ---
 ![1000|center](differentiability.excalidraw.md)
 $$ f \in \mathcal{C}(I) \land \forall a \in I, \exists k : f'(a) \in [-k,k] \in  \iff f \text{ is differentiable on } I$$
-This statement only holds for the [[Continuity|definition of continuity]] at this level.
+This statement only holds for the [[Math/Calculus/Limits/Continuity/Continuity|definition of continuity]] at this level.
 
 \[[[Bounded Sequences|Bounded Sequences]]\]

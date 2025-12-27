@@ -17,4 +17,4 @@ $$ \displaystyle f_{\text{avg}} = \dfrac{1}{b-a} \int_a^b f(x) \, dx $$
 > \end{array}$$
 > \[$(1)$ [[Integration by First Principals]]\]
 
-[^1]: [[Continuity]]
+[^1]: [[Math/Calculus/Limits/Continuity/Continuity]]

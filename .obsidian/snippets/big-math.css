@@ -4,10 +4,10 @@
 mjx-math:not([display]) {
   font-size: 1.25em;
 }
-ul.has-list-bullet > li {
-  display: flex;
-  white-space: pre;
-}
-ul.has-list-bullet > li > span.list-bullet {
-  margin-right: 12px;
-}
+/* ul.has-list-bullet > li { */
+/*   display: flex; */
+/*   white-space: pre; */
+/* } */
+/* ul.has-list-bullet > li > span.list-bullet { */
+/*   margin-right: 12px; */
+/* } */

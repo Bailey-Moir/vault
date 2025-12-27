@@ -1,6 +1,6 @@
 {
   "accentColor": "",
-  "cssTheme": "Typewriter",
+  "cssTheme": "Catppuccin",
   "theme": "obsidian",
   "enabledCssSnippets": [
     "big-math",
@@ -15,8 +15,7 @@
     "no-margin",
     "column-pdf",
     "typewriter-tables",
-    "typewriter-dark",
-    "readable-line-length"
+    "typewriter-dark"
   ],
   "showRibbon": false,
   "showViewHeader": true

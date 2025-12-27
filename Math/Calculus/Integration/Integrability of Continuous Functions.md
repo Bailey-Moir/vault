@@ -6,7 +6,7 @@ tags:
 For all $f \in \mathcal{C}(\left[ a,b \right])$[^1], $f$ is [[Riemann-Stieltjes Integrals|Riemann-Stieltjes]] [[Math/Calculus/Integration/Integrability|integrable]] w.r.t. any [[Bounded Sets|bounded]] [[Monotone Sequences|monotonically increasing]] $g$ on $\left[ a,b \right]$.
 
 > [!proof]-
-> Since $f$ is [[Continuity|continuous]] on $\left[ a,b \right]$, $f$ is [[Uniform Continuity|uniformly continuous]] on $\left[ a,b \right]$[^2].
+> Since $f$ is [[Math/Calculus/Limits/Continuity/Continuity|continuous]] on $\left[ a,b \right]$, $f$ is [[Uniform Continuity|uniformly continuous]] on $\left[ a,b \right]$[^2].
 > Thus, for all $\varepsilon > 0$, there exists $\delta(\varepsilon) > 0$ such that for all $x,y \in \left[ a,b \right]$,
 > $$\left| x - y \right| < \delta(\varepsilon) \to \left| f(x) - f(y) \right| < \dfrac{\varepsilon}{2(g(b)-g(a))}.$$
 > Consider a [[Interval Partitions|partition]] $P$ of $\left[ a,b \right]$ such that $\| P \| < \delta(\varepsilon)$.
@@ -21,5 +21,5 @@ For all $f \in \mathcal{C}(\left[ a,b \right])$[^1], $f$ is [[Riemann-Stieltjes 
 > \[$(1)$ [[Telescoping Series]]\]
 
 
-[^1]: [[Continuity]]
+[^1]: [[Math/Calculus/Limits/Continuity/Continuity]]
 [^2]: [[Uniform Continuity]], Theorem 4.26

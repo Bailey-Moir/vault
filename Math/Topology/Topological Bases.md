@@ -3,7 +3,49 @@ tags:
   - atom
   - math
 ---
-A [[Collections|collection]] $\mathcal{B} \subseteq \mathcal{P}(X)$ is called a *basis* on $X$ iff:
+In a [[Topology|topological space]] $\left( X,\mathcal{T} \right)$, a [[Collections|collection]] $\mathcal{B} \subseteq \mathcal{T}$ is called a *basis* on $X$ iff every [[Open Sets|open set]] in the space is a [[Unions & Intersections|union]] of elements of $\mathcal{B}$;
+$$\begin{align}
+	& \forall A \in \mathcal{T}, \exists \mathcal{C} \subseteq \mathcal{B} : A = \bigcup \mathcal{C} \\
+	{\textcolor{gray}\iff} & \mathcal{T} = \left\{ \bigcup \mathcal{C} : \mathcal{C} \subseteq \mathcal{B} \right\}
+\end{align}$$
+
+> [!theorem-1]- $S \in \mathcal{T}$ iff $\forall p \in S, \exists B \in \mathcal{B} : p \in B \subseteq S$.
+> $$\begin{align}
+> 	& S \in \mathcal{T} \\
+> 	\iff & S = \text{int}\,S && (1) \\
+> 	\iff & \forall p \in S, \exists A \in \mathcal{N}_{p} : A \subseteq S && (2) \\
+> 	\iff & \forall p \in S, \exists \mathcal{C} \subseteq \mathcal{B} : p \in \bigcup \mathcal{C} \subseteq S \\
+> 	\iff & \forall p \in S, \exists B \in \mathcal{B} :  p \in B \subseteq S. \\
+> \end{align}$$
+> \[$(1)$ [[Interiors]], Theorem 1, $(2)$ [[Interiors]], Characterisation\]
+
+> [!theorem-2]- $f : X \to Y$ is [[Continuous Maps|continuous]] iff $\forall B \in \mathcal{B}_{Y}, f^{-1}(B) \in \mathcal{T}_{X}$.
+> $$\begin{align}
+> 	& \forall V \in \mathcal{T}_{Y}, f^{-1}(V) \in \mathcal{T}_{X} \\
+> 	\iff & \forall \mathcal{C} \subseteq \mathcal{B}_{Y}, f^{-1}\left( \bigcup \mathcal{C} \right) \in \mathcal{T}_{X} \\
+> 	\iff & \forall \mathcal{C} \subseteq \mathcal{B}_{Y}, \bigcup_{B \in \mathcal{C}} f^{-1}\left(  B \right) \in \mathcal{T}_{X} \\
+> 	\iff & \forall B \in \mathcal{B}_{Y},  f^{-1}\left(  B \right) \in \mathcal{T}_{X}. && (1) \\
+> \end{align}$$
+> > $(1)$
+> > $\left( \implies \right)$
+> > For all $B \in \mathcal{B}$, letting $\mathcal{C} = \{ B \}$ in the premise gives the conclusion.
+> > 
+> > $\left( \impliedby \right)$
+> > This follows directly from the fact that [[Open Sets|open sets]] are closed under arbitrary [[Unions & Intersections|unions]].
+
+> [!theorem-3]- A [[Sequences|sequence]] $\left( a_{n} \right)$ of points *converges* to $L$ iff $\forall B \in \mathcal{B} \cap \mathcal{N}_{L}, \exists N \in \N: \forall n \ge N, a_{n} \in B$.
+> $\left( \implies \right)$
+> Restricting $A$ in the definition of [[Sequence Convergence|sequence convergence]] to be a *basis element* $B \in \mathcal{B}$ gives the concluision directly.
+> 
+> $\left( \impliedby \right)$
+Let $A \in \mathcal{N}_L$. By definition, there must exist $\mathcal{C} \subseteq \mathcal{B}$ such that $A =\bigcup \mathcal{C}$.
+> 
+> Since $A$ is a [[Neighbourhoods|neighbourhood]] of $L$, there must exist some $B \in \mathcal{C}$ that is a [[Neighbourhoods|neighbourhood]] of $L$.
+> 
+> Thus by the premise, there exists $N \in\N$ such that for all $n \ge N$, $a_n \in B \subseteq A$. $\square$
+
+--- 
+
 1. $\mathcal{B}$ covers $X$ ($\forall x \in X, \exists B \in \mathcal{B} : x \in B$)
 2. $\forall B_{1},B_{2} \in \mathcal{B}, \forall x \in B_{1} \cap B_{2}, \exists B \in \mathcal{B} : x \in B \subseteq B_{1} \cap B_{2}$.
 

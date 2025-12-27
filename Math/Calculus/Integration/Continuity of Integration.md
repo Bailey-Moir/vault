@@ -5,7 +5,7 @@ tags:
 ---
 Suppose $f$ is [[Integrability|integrable]] on $\left[ a,b \right]$, and define
 $$F(x) = \int_{a}^x f(t) \, dt.$$
-Then $F$ is [[Continuity|continuous]] on $\left[ a,b \right]$.
+Then $F$ is [[Math/Calculus/Limits/Continuity/Continuity|continuous]] on $\left[ a,b \right]$.
 
 > [!proof]-
 > Suppose $f$ is [[Bounded Sets|bounded]] and [[Integrability|integrable]] on $\left[ a,b \right]$. Let $M \in \R^+$ be such that

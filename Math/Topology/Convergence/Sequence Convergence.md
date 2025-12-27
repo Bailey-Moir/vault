@@ -4,7 +4,9 @@ tags:
   - math
 ---
 A [[Sequences|sequence]] $\left( a_{n} \right)$ of points in a [[Topology|topological space]] $\left( X,\mathcal{T} \right)$ *converges* to $L$ iff
-$$\forall A \in \mathcal{N}_{L}, \exists N \in \N: \forall n \ge N, a_{n} \in A $$
+$$\forall A \in \mathcal{N}_{L}, \exists N \in \N: \forall n \ge N, a_{n} \in A;$$
+*iff for any neighbourhood $\mathit{A}$ of $\mathit{L}$, eventually the [[Sequences|sequence]] is contained in $\mathit{A}$.*
+
 \[[[Metric Sequence Convergence]]\]
 
 > [!theorem-1]- For any non-eventually constant [[Sequences|sequence]] $\left( a_{n} \right)$ with *limit* $L$, $L$ is a [[Limit Points|limit point]] of $\{ a_{n}\}$.
@@ -16,7 +18,7 @@ $$\forall A \in \mathcal{N}_{L}, \exists N \in \N: \forall n \ge N, a_{n} \in A 
 > 
 > Thus, the theorem is [[Proof by Contraposition|proven by contraposition]]. $\square$
 
-> [!theorem-2]- If $\{ a_{n} \} \subseteq S \subseteq X$ with $\lim a_{n} = L$, then $L \in \bar{S}$.
+> [!theorem-2]- If $\{ a_{n} \} \subseteq S \subseteq X$ with $a_{n} \to L$, then $L \in \bar{S}$.
 > $$\begin{align}
 > &\forall A \in \mathcal{N}_{L}, \exists N \in \N: \forall n \ge N, a_{n} \in A  \\
 > \to &\forall A \in \mathcal{N}_{L}, \exists n \in \N : a_{n} \in A \\

@@ -4,7 +4,7 @@ tags:
   - atom
 ---
 ![400|center](intermediate-value-theorem.excalidraw.md)
-Suppose $f(x)$ is [[Continuity|continuous]] on $\left[a,b\right]$. The *intermediate value theorem* states that for every $y$ in $\left[f(a),f(b)\right]$ or $\left[ f(b),f(a) \right]$, there exists an input in $[a,b]$ that maps to it. 
+Suppose $f(x)$ is [[Math/Calculus/Limits/Continuity/Continuity|continuous]] on $\left[a,b\right]$. The *intermediate value theorem* states that for every $y$ in $\left[f(a),f(b)\right]$ or $\left[ f(b),f(a) \right]$, there exists an input in $[a,b]$ that maps to it. 
 $$\begin{align}
 	f \in \mathcal{C}(\left[a,b\right]) \implies \forall N \in &\left[ \min\{f(a),f(b)\}, \max \{f(a),f(b)\} \right],  \\
 	&\exists c \in \left[ a,b \right] : f(c) = N
@@ -50,4 +50,4 @@ $$\begin{align}
 > thus, $\left| y-f(c) \right| < \varepsilon$.
 
 [^1]: [[Bounding with Epsilon]], Theorem 1.18.3
-[^2]: [[Continuity]]
+[^2]: [[Math/Calculus/Limits/Continuity/Continuity]]
