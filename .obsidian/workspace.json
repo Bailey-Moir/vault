@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Category Theory/Duality.md",
+                "file": "Math/Category Theory/Universal Constructions/Epic Morphisms.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Duality"
+              "title": "Epic Morphisms"
             }
           }
         ]
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Math/Category Theory/Duality.md",
+                "file": "Math/Category Theory/Universal Constructions/Epic Morphisms.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -107,7 +107,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Duality"
+              "title": "Graph of Epic Morphisms"
             }
           }
         ]
@@ -212,6 +212,11 @@
   },
   "active": "81a2379b4b48cf97",
   "lastOpenFiles": [
+    "Math/Category Theory/Universal Constructions/Bimorphisms.md",
+    "Math/Category Theory/Induced Categories/Categories Induced by Preoder.md",
+    "Math/Category Theory/Categories.md",
+    "Math/Category Theory/Duality.md",
+    "Math/Discrete/Set Theory/Classes.md",
     "Math/Topology/Topological Operations/Boundaries.md",
     "Assets/Pasted image 20250427214945.png",
     "Personal/Split Keyboard.md",
@@ -234,10 +239,6 @@
     "Math/Topology/Neighbourhood Bases.md",
     "Math/Category Theory/Subcategories.md",
     "Math/Category Theory/Commutative Diagrams.md",
-    "Math/Category Theory/Concrete Categories/Category of Topologies.md",
-    "Math/Topology/Homeomorphisms/Homeomorphisms.md",
-    "Math/Category Theory/Concrete Categories/Category of Groups.md",
-    "Math/Category Theory/Concrete Categories/Category of Metric Spaces.md",
     "Math/Category Theory/Universal Constructions/Untitled",
     "Math/Category Theory/Universal Constructions",
     "Pasted Image 20260109154703_886.png",

@@ -4,9 +4,23 @@ tags:
   - math
 ---
 A morphism $\alpha : x \to y$ is *epic* iff in the situation
+```tikz
+```tex
+\usepackage{tikz-cd}
+\begin{document}
+
+\begin{tikzcd}
+\LARGE\begin{tikzcd}
+	x \arrow[r, "\alpha"] & y \arrow[r, shift left, "\beta_1"] \arrow[r, shift right, swap, "\beta_2"] & z
+\end{tikzcd},
+
+\end{document}
+```
 ![300|center](epic-diagram.excalidraw)
 $$\beta_{1}\alpha = \beta_{2}\alpha \to \beta_{1} = \beta_{2},$$
 *i.e. it can be cancelled on the right.*
+
+> [!-] *This* definition is [[Duality|dual]] to that of [[Monic Morphisms|monic morphisms]].
 
 > [!theorem-1]- In a [[Concrete Categories|concrete category]], every [[Surjective Functions|surjective]] morphism is *epic*.
 > Suppose $\alpha : X \to Y$ is [[Surjective Functions|surjective]]. 
@@ -37,5 +51,3 @@ $$\beta_{1}\alpha = \beta_{2}\alpha \to \beta_{1} = \beta_{2},$$
 > - $\B$ has the indiscrete topology so that $\beta_{1}$ and $\beta_{2}$ are [[Continuous Maps|continuous]] (as the [[Range & Image|preimage]] of $\emptyset$ is $\emptyset \in \mathcal{T}_{Y}$, and the [[Range & Image|preimage]] of $\B$ is $Y \in \mathcal{T}_{Y}$).
 > 
 > Consider $\mathbf{Grp}$. I don't actually know what a group homemorphism is so idk.
-
-> [!-] *This* definition is [[Duality|dual]] to that of [[Monic Morphisms|monic morphisms]].

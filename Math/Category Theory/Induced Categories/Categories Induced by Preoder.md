@@ -12,3 +12,5 @@ $$P(x,y) = \begin{cases}
 > Let $\alpha: x \to y$, $\beta: y \to z$. Then $x \le y$ and $y \le z$, so by the [[Transitive Property|transitivity]] of [[Preorder|preorder]], $x \le z$. Thus, $P(x,z) = \{ x \to z \}$, so $\beta\alpha : x \to z$ can be defined, and it must inherently be unique.
 > 
 > Let $x \in P$. By the [[Reflexive Property|reflexivity]] of [[Preorder|preorder]], $x \le x$, so $P(x,x) = \{ x \to x \}$, meaning there is a unique morphism $1_{x} : x \to x$.
+
+> [!note] In such a [[Categories|category]], the [[Initial and Terminal Objects|initial and terminal]]  are the least element and greatest element respectively (if they exist).
