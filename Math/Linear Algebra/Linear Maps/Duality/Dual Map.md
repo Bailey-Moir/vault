@@ -4,7 +4,7 @@ tags:
   - math
   - linear
 ---
-The *dual map* of $T \in \mathcal{L}(V,W)$ is the [[Linear Maps|linear map]] $T' \in \mathcal{L}(W',V')$[^1], defined such that for each $\varphi \in W'$
+oThe *dual map* of $T \in \mathcal{L}(V,W)$ is the [[Linear Maps|linear map]] $T' \in \mathcal{L}(W',V')$[^1], defined such that for each $\varphi \in W'$
 $$T'(\varphi) = \varphi T,$$
 meaning $T'$ maps the output of $T$ into $\F$ using the [[Linear Functionals|linear functional]] $\varphi$.
 

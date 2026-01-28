@@ -8,7 +8,7 @@ $$\forall A \in \F^{m,n}, \left( c = \text{rank}\,A \ge 1\to \exists C\in\F^{m,c
 > [!proof]-
 > Let $c= \text{column rank}\,A$.
 > 
-> The columns $A_{\cdot,1},\dots,A_{\cdot,n}$ can be [[Linear Independence and Span with Dimension|reduced]] to a [[Vector Basis|basis]] of their [[Span|span]].
+> The columns $A_{\cdot,1},\dots,A_{\cdot,n}$ can be [[Linear Independence and Span with Dimension|reduced]] to a [[Vector Bases|basis]] of their [[Span|span]].
 > 
 > By the definition of [[Rank|rank]], this basis has length $c$.
 > 

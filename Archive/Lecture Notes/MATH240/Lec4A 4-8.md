@@ -1,5 +1,5 @@
 - [[Geometric Sequences]]
 - [[Supremums with Archimedian Property]]
 - [[Rationals in Intervals]]
-- [[Countably Infinite Sets]]
+- [[Countability]]
 - [[Uncountability of Reals]]

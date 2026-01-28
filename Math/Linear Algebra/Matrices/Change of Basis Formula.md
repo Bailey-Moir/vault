@@ -4,7 +4,7 @@ tags:
   - math
   - linear
 ---
-Suppose $T \in \mathcal{L}(V)$[^1] (where $V$ is [[Finite-Dimensional Vector Spaces|finite-dimensional]]), and $J$ and $K$ are [[Vector Basis|bases]] of $V$. Let 
+Suppose $T \in \mathcal{L}(V)$[^1] (where $V$ is [[Finite-Dimensional Vector Spaces|finite-dimensional]]), and $J$ and $K$ are [[Vector Bases|bases]] of $V$. Let 
 $$\begin{array}{c c c c c}
 	A = \mathcal{M}(T,J) && B = \mathcal{M}(T,K) && C= \mathcal{M}(I,J,K).
 \end{array}$$

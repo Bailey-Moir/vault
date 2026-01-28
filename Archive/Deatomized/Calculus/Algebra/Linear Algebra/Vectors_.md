@@ -12,14 +12,14 @@ $$\begin{array}{c}
 # Scalar Multiplication
 ![[Vector Scalar Multiplication]]
 # Basis Vectors
-![[Basis Vectors]]
+![[Vector Bases]]
 # Dot Product
 ![[Dot Product]]
 ## Cosine Similarity Formula
 ![[Cosine Similarity Formula]]
 
 ## Properties of the Dot Product
-![[Properties of the Dot Product]]
+![[Inner Products]]
 ## Orthogonal Vectors
 ![[Orthogonal Vectors]]
 

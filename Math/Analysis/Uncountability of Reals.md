@@ -3,10 +3,10 @@ tags:
   - atom
   - math
 ---
-The [[Intervals|closed interval]] $[0,1]$ is [[Countably Infinite Sets|uncountable]].
+The [[Intervals|closed interval]] $[0,1]$ is [[Countability|uncountable]].
 
 > [!proof]-
-> Suppose the [[Intervals|interval]] is [[Countably Infinite Sets|countable]], and let $\left( a_{n} \right)$ be a [[Sequences|sequence]] that gives every element in it.
+> Suppose the [[Intervals|interval]] is [[Countability|countable]], and let $\left( a_{n} \right)$ be a [[Sequences|sequence]] that gives every element in it.
 > 
 > Let $I_{0} = [0,1]$, and $n = 0$.
 > 
@@ -14,4 +14,4 @@ The [[Intervals|closed interval]] $[0,1]$ is [[Countably Infinite Sets|uncountab
 > 2. Select $I_{n+1}$ to be one of these [[Intervals|subintervals]] that **does not** contain $a_{1}$.
 > 3. Increment $n$ and repeat.
 > 
-> By theorem 2.21, there is a $p \in \R$ such that $p \in I_{n}$ for all $n$, meaning the [[Sequences|sequence]] does not contain all [[The Real Numbers|the real numbers]] in $[0,1]$, so it is [[Countably Infinite Sets|uncountable]].
+> By theorem 2.21, there is a $p \in \R$ such that $p \in I_{n}$ for all $n$, meaning the [[Sequences|sequence]] does not contain all [[The Real Numbers|the real numbers]] in $[0,1]$, so it is [[Countability|uncountable]].

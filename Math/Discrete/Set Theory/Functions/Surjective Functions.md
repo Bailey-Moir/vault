@@ -14,5 +14,6 @@ Let $f: A \to B$ be a *surjective [[Functions|function]]*:
 >
 > \[[[Proof by Contradiction]]\]
 - $|\text{range}(f)| = |B|$ ($\text{range}(f) = B$)
+- $B \setminus X \subseteq f(X^c)$
 
 \[[[Cardinality]]\]

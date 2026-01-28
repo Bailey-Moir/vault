@@ -12,7 +12,7 @@ $$P(X=k) = p(1-p)^{k-1} \hspace{2em} \forall k \in \Z_{n+1}$$
 $$\mu_{X} = \dfrac{1}{p}$$
 > [!proof]-
 > $$\begin{align*}
-> 	\mu_{X} &= \sum_{k=1}^\infty kP(x=k) \\
+> 	\mu_{X} &= \sum_{k=1}^\infty kP(X=k) \\
 > 	 &= \sum_{k=1}^\infty kp(1-p)^{k-1} \\
 > 	 &= p\sum_{k=1}^\infty k(1-p)^{k-1} \\
 > 	 &= -p\sum_{k=1}^\infty \dfrac{d}{dp} \left( (1-p)^{k} \right) \\

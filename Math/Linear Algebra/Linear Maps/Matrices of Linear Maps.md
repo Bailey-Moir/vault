@@ -4,7 +4,7 @@ tags:
   - math
   - linear
 ---
-Suppose $T = \mathcal{L}(V,W)$[^1], $\vecbf{v}_{1},\dots,\vecbf{v}_{n}$ is a [[Vector Basis|basis]] of $V$, and $\vecbf{w}_{1},\dots,\vecbf{w}_{m}$ is a [[Vector Basis|basis]] of $W$. The [[Matrices|matrix]] of $T$ with respect to these [[Vector Basis|bases]] is the $m$-by-$n$ [[Matrices|matrix]] $\mathcal{M}(T)$ whose entries $A_{j,k}$ are defined by
+Suppose $T = \mathcal{L}(V,W)$[^1], $\vecbf{v}_{1},\dots,\vecbf{v}_{n}$ is a [[Vector Bases|basis]] of $V$, and $\vecbf{w}_{1},\dots,\vecbf{w}_{m}$ is a [[Vector Bases|basis]] of $W$. The [[Matrices|matrix]] of $T$ with respect to these [[Vector Bases|bases]] is the $m$-by-$n$ [[Matrices|matrix]] $\mathcal{M}(T)$ whose entries $A_{j,k}$ are defined by
 $$T \vecbf{v}_{k} = A_{1,k}\vecbf{w}_{1} + \dots + A_{m,k}\vecbf{w}_{m}$$
 $$\begin{align}
 	&\color{gray}\hspace{1.2em}\begin{matrix}
@@ -19,7 +19,7 @@ $$\begin{align}
 		A_{m,1} & \dots & A_{m,n} \\
 	\end{bmatrix}
 \end{align}$$
-- If the [[Vector Basis|bases]] are not clear from the context, then the notation $\mathcal{M}(T,(\vecbf{v}_{1},\dots,\vecbf{v}_{n}), (\vecbf{w}_{1},\dots,\vecbf{w}_{m}))$ is used.
+- If the [[Vector Bases|bases]] are not clear from the context, then the notation $\mathcal{M}(T,(\vecbf{v}_{1},\dots,\vecbf{v}_{n}), (\vecbf{w}_{1},\dots,\vecbf{w}_{m}))$ is used.
 
 > [!example]-
 > Suppose $T \in \mathcal{L}(\F^2,\F^3)$ is defined by
@@ -32,13 +32,13 @@ $$\begin{align}
 > \end{bmatrix}. $$
 
 > [!proof]- All [[Finite-Dimensional Vector Spaces|finite-dimensional]] [[Linear Maps|linear maps]] can be represented as a [[Matrices|matrix]] (and vice versa).
-> Let $\vecbf{v}_{1}, \dots, \vecbf{v}_{n}$ be a [[Vector Basis|basis]] of $V$. By the [[Linear Map Lemma|linear map lemma]], $T \in \mathcal{L}(V,W)$ can be uniquely defined by specifying vectors in $W$ that these [[Vector Basis|basis]] vectors are mapped to. Thus, for each $k \in \{ 1,\dots,n \}$, a $\vecbf{w} \in W$ must be chosen such that
+> Let $\vecbf{v}_{1}, \dots, \vecbf{v}_{n}$ be a [[Vector Bases|basis]] of $V$. By the [[Linear Map Lemma|linear map lemma]], $T \in \mathcal{L}(V,W)$ can be uniquely defined by specifying vectors in $W$ that these [[Vector Bases|basis]] vectors are mapped to. Thus, for each $k \in \{ 1,\dots,n \}$, a $\vecbf{w} \in W$ must be chosen such that
 > $$ T\,\vecbf{v}_{k} = \vecbf{w}. $$
-> If $\vecbf{w}_{1},\dots,\vecbf{w}_{m}$ is a [[Vector Basis|basis]] of $W$, then this can be rewritten as
+> If $\vecbf{w}_{1},\dots,\vecbf{w}_{m}$ is a [[Vector Bases|basis]] of $W$, then this can be rewritten as
 > $$ T\,\vecbf{v}_{k} = a_{1}\vecbf{w}_{1} + \dots + a_{m}\vecbf{w}_{m}, $$
 > where $a_{1},\dots,a_{n} \in \F$.
 > 
-> Thus, if $\vecbf{v}_{1},\dots,\vecbf{v}_{n}$ and $\vecbf{w}_{1},\dots,\vecbf{w}_{m}$ are [[Vector Basis|basis]]' of $V$ and $W$ respectively, $T \in \mathcal{L}(V,W)$ can be uniquely defined by
+> Thus, if $\vecbf{v}_{1},\dots,\vecbf{v}_{n}$ and $\vecbf{w}_{1},\dots,\vecbf{w}_{m}$ are [[Vector Bases|basis]]' of $V$ and $W$ respectively, $T \in \mathcal{L}(V,W)$ can be uniquely defined by
 > $$\begin{array}{ccccccc}
 > 	T\,\vecbf{v}_{1} &= &A_{1,1}\vecbf{w}_{1} &+ &\dots &+ &A_{m,1}\vecbf{w}_{m} \\
 > 	\vdots &= &\vdots &+ &\ddots &+ &\vdots \\
@@ -63,7 +63,7 @@ $$\begin{align}
 
 - **Columns**
   $$\mathcal{M}(T)_{\cdot,k} = \mathcal{M}(T\,\vecbf{v}_{k})$$
-  $T\,\vecbf{v}_{k}$ is given by $k$-th column (using the [[Vector Basis|basis]] of $W$).
+  $T\,\vecbf{v}_{k}$ is given by $k$-th column (using the [[Vector Bases|basis]] of $W$).
  $$ T\vecbf{v}_{k} = \begin{bmatrix}
 	A_{1,1} \\
 	\vdots \\

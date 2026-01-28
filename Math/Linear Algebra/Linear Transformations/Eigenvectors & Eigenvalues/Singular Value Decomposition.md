@@ -23,7 +23,7 @@ where
 > 2. For $i \in \{ 1,\dots,r \}$, let
 > $$\vecbf{u}_{i} = \dfrac{1}{\sigma_{i}} A \vecbf{v}_{i}$$
 >    where $\sigma_{i}$ is the $i$-th **singular value**, $\sqrt{ \lambda_{i} }$.
-> 3. Extend $\{ \vecbf{u}_{1}, \dots,\vecbf{u}_{r} \}$ to an [[Orthogonal Vectors|orthonormal]] [[Vector Basis|basis]] of $\R^m$.
+> 3. Extend $\{ \vecbf{u}_{1}, \dots,\vecbf{u}_{r} \}$ to an [[Orthogonal Vectors|orthonormal]] [[Vector Bases|basis]] of $\R^m$.
 > 4. Set $U = \begin{bmatrix}\vecbf{u}_{1} & \cdots & \vecbf{u}_{m}\end{bmatrix}$,  $V = \begin{bmatrix}\vecbf{v}_{1} & \cdots & \vecbf{v}_{n}\end{bmatrix}$, and $\Sigma$ to an $m\times n$ [[Diagonal Matrices|diagonal matrix]] with entries $\Sigma_{i,i} = \sigma_{i}$, and zeros elsewhere.
 
 > [!example]- Find an *SVD* of $A = \begin{bmatrix}1 & 1 \\ 0 & 1 \\ 1 & 0\end{bmatrix}$.

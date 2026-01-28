@@ -11,6 +11,8 @@ $$ \forall b \in B, \exists!a \in A : f(a) = b $$
 Let $f: A \to B$ be a *bijective [[Functions|function]]*:
 - $|A| = |B|$[^1]
 - $f^{-1} : B \to A$[^2] is *bijective*
+- $f(X^c) = B \setminus f(X)$
+
 
 [^1]: [[Cardinality]]
 [^2]: [[Inverse Functions]]

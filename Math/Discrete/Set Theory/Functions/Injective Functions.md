@@ -19,6 +19,6 @@ Let $f: A \to B$ be a *injective [[Functions|function]]*:
 > \[[[Proof by Contradiction]]\]
 
 - $|\text{range}(f)| = |A|$
-- $f(A^c) = f(A)^c$
+- $f(X^c) = \text{range}(f) \setminus X$
 
 \[[[Cardinality]]\]

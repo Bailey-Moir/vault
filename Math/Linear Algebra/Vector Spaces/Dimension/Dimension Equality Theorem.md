@@ -9,11 +9,11 @@ $$ \text{dim}(U)=\text{dim}(V) \iff U=V $$
 
 > [!proof]-
 > ($\implies$)
-> Let $B = \vecbf{u}_{1}, \dots, \vecbf{u}_{n}$ be a [[Vector Basis|basis]] of $U$. 
+> Let $B = \vecbf{u}_{1}, \dots, \vecbf{u}_{n}$ be a [[Vector Bases|basis]] of $U$. 
 > 
 > Thus, since $U$ is a [[Subspaces|subspace]] of $V$ and $\text{dim}(U)=\text{dim}(V)$, $B$ is a [[Linear Independence|linearly independent]] [[Lists|list]] in $V$ of length $\text{dim}(V)$.
 > 
-> Thus, $B$ must be a [[Vector Basis|basis]] of $V$[^1].
+> Thus, $B$ must be a [[Vector Bases|basis]] of $V$[^1].
 > 
 > This means $V=\text{span}(B) = U$[^2], thus $U = V$.
 > 

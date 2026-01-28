@@ -11,9 +11,9 @@ $$\begin{align}
 	&= \text{dim}\,\text{range}\,T + \text{dim}\,\text{null}\,T && (1) \\
 \end{align}$$
 > [!proof]-
-> Let $\vecbf{u}_{1}, \dots, \vecbf{u}_{n}$ be a [[Vector Basis|basis]] of $\text{null}\,T$; thus $\text{nullity}\,T = n$[^3]. This list is [[Linear Independence|linearly independent]], and thus can be [[Linear Independence and Span with Dimension|extended]] to a [[Vector Basis|basis]] of $V$:
+> Let $\vecbf{u}_{1}, \dots, \vecbf{u}_{n}$ be a [[Vector Bases|basis]] of $\text{null}\,T$; thus $\text{nullity}\,T = n$[^3]. This list is [[Linear Independence|linearly independent]], and thus can be [[Linear Independence and Span with Dimension|extended]] to a [[Vector Bases|basis]] of $V$:
 > $$\vecbf{u}_{1}, \dots, \vecbf{u}_{n}, \vecbf{v}_{1}, \dots, \vecbf{v}_{m}.$$
-> Thus $\text{dim}\,V = n + m$. To complete this proof, it must be shown that $\text{range}\,T$[^2] is [[Finite-Dimensional Vector Spaces|finite-dimensional]] and $\text{rank}\,T = m$. This can be done by proving $T\,\vecbf{v}_{1},\dots,T\,\vecbf{v}_{m}$ is a [[Vector Basis|basis]] of $\text{range}\,T$.
+> Thus $\text{dim}\,V = n + m$. To complete this proof, it must be shown that $\text{range}\,T$[^2] is [[Finite-Dimensional Vector Spaces|finite-dimensional]] and $\text{rank}\,T = m$. This can be done by proving $T\,\vecbf{v}_{1},\dots,T\,\vecbf{v}_{m}$ is a [[Vector Bases|basis]] of $\text{range}\,T$.
 > 
 > **Spanning List and Finite-Dimensionality**
 > Let $\vecbf{v} \in V$. There then exists $a_{1},\dots,a_{n},b_{1},\dots,b_{m}$ such that
@@ -33,7 +33,7 @@ Thus $T\,\vecbf{v}_{1},\dots,T\,\vecbf{v}_{m}$ [[Span|spans]] $\text{range}\,T$[
 > \end{align}$$
 > Since $\vecbf{u}_{1},\dots,\vecbf{u}_{n}$ [[Span|spans]] $\text{null}\,T$, we can write
 > $$ c_{1}\vecbf{v}_{1} + \dots + c_{m}\vecbf{v}_{m} = d_{1}\vecbf{u}_{1} + \dots + d_{n}\vecbf{u}_{n}$$
-> where the $d$'s are in $\F$. Since $\vecbf{u}_{1}, \dots, \vecbf{u}_{n}, \vecbf{v}_{1}, \dots, \vecbf{v}_{m}$ is a [[Vector Basis|basis]], the $c$'s and $d$'s must be $0$. Thus, the original premise implies that the $c$'s are $0$, and thus $\vecbf{v}_{1}, \dots, \vecbf{v}_{m}$ is [[Linear Independence|linearly independent]].
+> where the $d$'s are in $\F$. Since $\vecbf{u}_{1}, \dots, \vecbf{u}_{n}, \vecbf{v}_{1}, \dots, \vecbf{v}_{m}$ is a [[Vector Bases|basis]], the $c$'s and $d$'s must be $0$. Thus, the original premise implies that the $c$'s are $0$, and thus $\vecbf{v}_{1}, \dots, \vecbf{v}_{m}$ is [[Linear Independence|linearly independent]].
 
 
 \[$(1)$ [[Rank]], $(1)$ [[Nullity]], [[Dimension]], [[Null Space]]\]

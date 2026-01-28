@@ -3,7 +3,7 @@ tags:
   - atom
   - math
 ---
-uThe *closure* of $S \subseteq X$ is the [[Unions & Intersections|intersection]] of all containing [[Closed Sets|closed sets]]:
+The *closure* of $S \subseteq X$ is the [[Unions & Intersections|intersection]] of all containing [[Closed Sets|closed sets]]:
 $$\begin{align}
 	\overline{S} &= \bigcap \{ A\subseteq X : S \subseteq A \land A^c \in \mathcal{T} \} \\
 	&= S \cup \partial S && (1) \\
@@ -26,7 +26,7 @@ $$\begin{align}
 > Suppose there is a [[Neighbourhoods|neighbourhood]] $A$ of $p$ that is [[Disjoint Sets|disjoint]] from $S$ ($A \subseteq S^c$). 
 > Thus, by the definition of [[Interiors|interiors]], $A \subseteq \text{int}\,S^c = \text{ext}\,S = \overline{S}^c$[^2].
 > Finally, since $p \in A$, $p \notin \overline{S}$. $\square$
-
+z
 > [!proof]- $(2)$ & $(1)$
 > By the definition of [[Boundaries|boundaries]], 
 > $$\begin{align}
@@ -53,7 +53,6 @@ $$\begin{align}
 > 
 > $\left( \impliedby \right)$
 > If $S = \overline{S}$ and $\overline{S}^c \in \mathcal{T}$, $S^c \in \mathcal{T}$. $\square$
-
 
 \[[[Interiors]]\]
 

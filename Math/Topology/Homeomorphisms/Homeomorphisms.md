@@ -5,7 +5,7 @@ tags:
 ---
 A [[Functions|function]] $\varphi$ between [[Topology|topological spaces]] $X$ and $Y$ is a *homeomorphism* iff it is a [[Bijective Functions|bijection]] and it is [[Continuous Maps|continuous]] in both directions.
 
-> [!note] *Homeomorphisms* are [[Isomorphism|isomorphisms]] in the [[Categories|category]] of [[Topology|topological spaces]].
+> [!note] *Homeomorphisms* are [[Isomorphisms|isomorphisms]] in the [[Category of Topologies|category of topological spaces]].
 
 > [!theorem-1]- For [[Bijective Functions|bijective]] $f : X \to Y$, $f$ is a *homeomorphism* iff $U \in \mathcal{T}_{X} \leftrightarrow f(U) \in \mathcal{T}_{Y}$
 > By the [[Bijective Functions|bijectivity]] of $f$,

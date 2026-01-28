@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "-path:Assets -path:Archive -path:\"Lecture Notes\"  ",
   "showTags": false,
   "showAttachments": false,
@@ -74,6 +74,6 @@
   "repelStrength": 13.125,
   "linkStrength": 0.578125,
   "linkDistance": 30,
-  "scale": 0.24511740071146917,
+  "scale": 0.0593261718750003,
   "close": false
 }

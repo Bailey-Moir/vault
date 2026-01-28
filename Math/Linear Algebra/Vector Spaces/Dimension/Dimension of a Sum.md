@@ -11,17 +11,17 @@ $$\begin{array}{rll}
 \end{array}$$
 
 > [!proof]-
-> Let $\vecbf{v}_{1}, \dots, \vecbf{v}_{n}$ be a [[Vector Basis|basis]] of $U \cap W$, meaning $\text{dim}(U \cap W) = n$.
+> Let $\vecbf{v}_{1}, \dots, \vecbf{v}_{n}$ be a [[Vector Bases|basis]] of $U \cap W$, meaning $\text{dim}(U \cap W) = n$.
 > 
 > This implies that $\vecbf{v}_{1}, \dots, \vecbf{v}_{n}$ is [[Linear Independence|linearly independent]] in $U$ and $W$. Thus, it can be extended to
-> - a [[Vector Basis|basis]] $\vecbf{v}_{1}, \dots, \vecbf{v}_{n}, \vecbf{u}_{1}, \dots, \vecbf{u}_{j}$ of $U$, and
-> - a [[Vector Basis|basis]] $\vecbf{v}_{1}, \dots, \vecbf{v}_{n}, \vecbf{w}_{1}, \dots, \vecbf{w}_{k}$ of $W$.
+> - a [[Vector Bases|basis]] $\vecbf{v}_{1}, \dots, \vecbf{v}_{n}, \vecbf{u}_{1}, \dots, \vecbf{u}_{j}$ of $U$, and
+> - a [[Vector Bases|basis]] $\vecbf{v}_{1}, \dots, \vecbf{v}_{n}, \vecbf{w}_{1}, \dots, \vecbf{w}_{k}$ of $W$.
 > 
 > Thus $\text{dim}\,U = m+j$ and $\text{dim}\,W = m + k$. If
 > $$\begin{align*}
 > 	\vecbf{v}_{1}, \dots, \vecbf{v}_{n}, , \vecbf{u}_{1}, \dots, \vecbf{u}_{j}, \vecbf{w}_{1}, \dots, \vecbf{w}_{k} && (1)
 > \end{align*}$$
-> is a [[Vector Basis|basis]] of $U+W$, the proof will be complete as
+> is a [[Vector Bases|basis]] of $U+W$, the proof will be complete as
 > $$\begin{align*}
 > 	\text{dim}(U+W) &= \text{dim}\,U + \text{dim}\,W - \text{dim}(U \cap W) \\
 > 	&= (m+j) + (m+k) - (m) \\
@@ -38,7 +38,7 @@ $$\begin{array}{rll}
 > \end{align*}$$
 > where the $a$'s, $b$'s, and $c$'s are scalars. This can be rewritten as
 > $$ c_{1}\vecbf{w}_{1} + \dots + c_{k}\vecbf{w}_{k} = -a_{1}\vecbf{v}_{1} - \dots - a_{n}\vecbf{v}_{n} - b_{1}\vecbf{u}_{1} - \dots - b_{j}\vecbf{u}_{j}. $$
-> It is clear that $\text{RHS} \in U$ and $\text{LHS} \in W$, thus both sides must be in $U\cap W$. Since $\vecbf{v}_{1},\dots,\vecbf{v}_{n}$ is a [[Vector Basis|basis]] of $U \cap W$, there must exist scalars $d_{1},\dots,d_{m}$ such that
+> It is clear that $\text{RHS} \in U$ and $\text{LHS} \in W$, thus both sides must be in $U\cap W$. Since $\vecbf{v}_{1},\dots,\vecbf{v}_{n}$ is a [[Vector Bases|basis]] of $U \cap W$, there must exist scalars $d_{1},\dots,d_{m}$ such that
 > $$ c_{1}\vecbf{w}_{1} + \dots + c_{k}\vecbf{w}_{k} = d_{1}\vecbf{v}_{1} + \dots + d_{n}\vecbf{v}_{n},$$
 > but since $\vecbf{v}_{1}, \dots, \vecbf{v}_{n}, \vecbf{w}_{1}, \dots, \vecbf{w}_{k}$ is [[Linear Independence|linearly independent]], the $c$'s and $d$'s must be $0$, meaning equation $(2)$ becomes
 > $$\begin{align*}

@@ -4,7 +4,7 @@ tags:
   - math
   - linear
 ---
-Suppose $\vecbf{v} \in V$[^1] (where $V$ is [[Finite-Dimensional Vector Spaces|finite-dimensional]]) for two [[Vector Basis|bases]] $J$ and $K$ of $V$. If you let $A = \mathcal{M}(I,J,K)$. Then,
+Suppose $\vecbf{v} \in V$[^1] (where $V$ is [[Finite-Dimensional Vector Spaces|finite-dimensional]]) for two [[Vector Bases|bases]] $J$ and $K$ of $V$. If you let $A = \mathcal{M}(I,J,K)$. Then,
 $$\begin{align}
 	A \left[\vecbf{v}\right]_{J} &= \left[\vecbf{v}\right]_{K} \\
 	A^{-1} \left[\vecbf{v}\right]_{K} &= \left[\vecbf{v}\right]_{J}

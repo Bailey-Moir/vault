@@ -20,6 +20,3 @@ $$ P(A \cup B) = P(A) + P(B) - P(A \cap B) $$
 > 	P(A\cup B)-P(A) &= P(B) - P(A\cap B) \\
 > 	P(A\cup B) &= P(A) + P(B) - P(A\cap B)
 > \end{align*}$$
-
-
-$$ P(B_{1} \cup B_{2})$$

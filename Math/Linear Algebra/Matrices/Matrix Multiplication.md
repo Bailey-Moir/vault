@@ -36,7 +36,7 @@ $$\begin{align}
 > [!proof]- $\forall T \in \mathcal{L}(U,V), S \in \mathcal{L}(V,W), \mathcal{M}(ST) = \mathcal{M}(S) \mathcal{M}(T)$
 > *Note [[Finite-Dimensional Vector Spaces|finite-dimensionality]] is assumed*.
 > 
-> Suppose $\vecbf{u}_{1},\dots,\vecbf{u}_{p}$, $\vecbf{v}_{1},\dots,\vecbf{v}_{n}$, and $\vecbf{w}_{1},\dots,\vecbf{w}_{m}$ are [[Vector Basis|basis']] of $U$, $V$, and $W$ respectively.
+> Suppose $\vecbf{u}_{1},\dots,\vecbf{u}_{p}$, $\vecbf{v}_{1},\dots,\vecbf{v}_{n}$, and $\vecbf{w}_{1},\dots,\vecbf{w}_{m}$ are [[Vector Bases|basis']] of $U$, $V$, and $W$ respectively.
 > 
 > Suppose $\mathcal{M}(S) = A$ and $\mathcal{M}(T) = B$. For $1 \le k \le p$, we have
 > $$\begin{align}

@@ -10,7 +10,7 @@ or [[Logical Equivalence|equivalently]]
 $$D = P^{-1}AP$$
 
 > [!theorem]- $A\in \R^{n,n}$ is *diagonalisable* $A$ has $n$ [[Linear Independence|linearly independent]] [[Eigenvectors & Eigenvalues|eigenvectors]] of $A$.
-> Suppose $\vecbf{p}_{1},\vecbf{p}_{2},\dots,\vecbf{p}_{n}$ is a [[Vector Basis|basis]] for $\R^n$ consisting of [[Eigenvectors & Eigenvalues|eigenvectors]] of $A$.
+> Suppose $\vecbf{p}_{1},\vecbf{p}_{2},\dots,\vecbf{p}_{n}$ is a [[Vector Bases|basis]] for $\R^n$ consisting of [[Eigenvectors & Eigenvalues|eigenvectors]] of $A$.
 > 
 > Set $P = \left[ \vecbf{p}_{1} | \cdots | \vecbf{p}_{n} \right]$. Then
 > $$\begin{align}
@@ -27,8 +27,8 @@ $$D = P^{-1}AP$$
 > Thus, $A = PDP^{-1}$.
 
 > [!note] Generating $P$ and $D$
-> 1. Find all [[Eigenvectors & Eigenvalues|eigenvalues]] of $A$ and a [[Vector Basis|basis]] for each [[Eigenspaces|eigenspace]].
-> 2. Let $\vecbf{v}_{1},\dots,\vecbf{v}_{k}$ be the [[Vector Basis|basis]] vectors you found (for all of the [[Eigenspaces|eigenspaces]]).
+> 1. Find all [[Eigenvectors & Eigenvalues|eigenvalues]] of $A$ and a [[Vector Bases|basis]] for each [[Eigenspaces|eigenspace]].
+> 2. Let $\vecbf{v}_{1},\dots,\vecbf{v}_{k}$ be the [[Vector Bases|basis]] vectors you found (for all of the [[Eigenspaces|eigenspaces]]).
 > 3. If $k < n$, $A$ is not *diagonalisable*
 > 4. Otherwise, $A = PDP^{-1}$ with
 > $$\begin{align}

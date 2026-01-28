@@ -18,6 +18,6 @@ $$V = U \oplus U^\bot$$
 > [!proof]-
 > As shown in the [[Orthogonal Complements|orthogonal complements lemma]],
 > $$\text{dim}\,U + \text{dim}\,U^\bot = V.$$
-> Thus, $V$ can be written as a [[Linear Combinations|linear combination]] of the combined [[Vector Basis|basis vectors]] of $U$ and $U^\bot$.
+> Thus, $V$ can be written as a [[Linear Combinations|linear combination]] of the combined [[Vector Bases|basis vectors]] of $U$ and $U^\bot$.
 > $$\vecbf{x}  = \underbrace{c_{1}\vecbf{u}_{1} + \dots + c_{m}\vecbf{u}_{m}}_{U} + \underbrace{c_{m+1}\vecbf{u}_{m+1} + \dots + c_{n}\vecbf{u}_{n}}_{U^\bot}$$
-> This is a [[Vector Basis|basis]], as $U$ and $U^\bot$ are [[Linear Independence|linearly independent]] (by definition), so each of their [[Vector Basis|basis vectors]] are [[Linear Independence|linearly independent]].
+> This is a [[Vector Bases|basis]], as $U$ and $U^\bot$ are [[Linear Independence|linearly independent]] (by definition), so each of their [[Vector Bases|basis vectors]] are [[Linear Independence|linearly independent]].
