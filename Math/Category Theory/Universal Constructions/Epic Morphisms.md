@@ -8,7 +8,7 @@ A morphism $\alpha : x \to y$ is *epic* iff in the situation
 \usepackage{tikz-cd}
 \begin{document}
 
-\LARGE\begin{tikzcd}
+\begin{tikzcd}
 	x \arrow[r, "\alpha"] & y \arrow[r, shift left, "\beta_1"] \arrow[r, shift right, swap, "\beta_2"] & z
 \end{tikzcd},
 
@@ -48,7 +48,3 @@ $$\beta_{1}\alpha = \beta_{2}\alpha \to \beta_{1} = \beta_{2},$$
 > - $\B$ has the indiscrete topology so that $\beta_{1}$ and $\beta_{2}$ are [[Continuous Maps|continuous]] (as the [[Range & Image|preimage]] of $\emptyset$ is $\emptyset \in \mathcal{T}_{Y}$, and the [[Range & Image|preimage]] of $\B$ is $Y \in \mathcal{T}_{Y}$).
 > 
 > Consider $\mathbf{Grp}$. I don't actually know what a group homemorphism is so idk.
-
-
-
-![300|center](epic-diagram.excalidraw)

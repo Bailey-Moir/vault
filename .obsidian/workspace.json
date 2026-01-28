@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Category Theory/Universal Constructions/Epic Morphisms.md",
-                "mode": "preview",
+                "file": "Math/Category Theory/Universal Constructions/Initial and Terminal Objects.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Epic Morphisms"
+              "title": "Initial and Terminal Objects"
             }
           }
         ]
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Math/Category Theory/Universal Constructions/Epic Morphisms.md",
+                "file": "Math/Category Theory/Universal Constructions/Initial and Terminal Objects.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -107,15 +107,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Epic Morphisms"
+              "title": "Graph of Initial and Terminal Objects"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 282.5,
-    "collapsed": true
+    "width": 282.5
   },
   "right": {
     "id": "d43908d22eb03dd3",
@@ -212,6 +211,12 @@
   },
   "active": "81a2379b4b48cf97",
   "lastOpenFiles": [
+    "Math/Category Theory/Universal Constructions/Epic Morphisms.md",
+    "Math/Category Theory/Universal Constructions/Initial and Terminal Objects.md",
+    "Math/Category Theory/Universal Constructions/Monic Morphisms.md",
+    "monic-diagram.excalidraw.md",
+    "Assets/excali/monic-diagram.excalidraw.md",
+    "Assets/excali/epic-diagram.excalidraw.md",
     "Math/Category Theory/Universal Constructions/Bimorphisms.md",
     "Math/Category Theory/Induced Categories/Categories Induced by Preoder.md",
     "Math/Category Theory/Categories.md",
@@ -231,14 +236,8 @@
     "Math/Fourier Series Convergence.md",
     "Math/Topology/Topology Refinements.md",
     "Math/Topology/Topological Bases.md",
-    "Math/Category Theory/Universal Constructions/Epic Morphisms.md",
-    "Math/Category Theory/Universal Constructions/Monic Morphisms.md",
     "Math/Topology/Topology.md",
     "Math/Topology/Open Sets.md",
-    "Math/Topology/Neighbourhoods.md",
-    "Math/Topology/Neighbourhood Bases.md",
-    "Math/Category Theory/Subcategories.md",
-    "Math/Category Theory/Commutative Diagrams.md",
     "Math/Category Theory/Universal Constructions/Untitled",
     "Math/Category Theory/Universal Constructions",
     "Pasted Image 20260109154703_886.png",
