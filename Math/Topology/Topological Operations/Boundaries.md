@@ -10,20 +10,29 @@ $$\begin{align}
 \end{align}$$
 - $\left( \partial S \right)^c \in \mathcal{T}$[^1]
 
+> [!proof]- $(1)$
+> By [[De Morgan's Laws|De Morgan's laws]] and the definition of the [[Exteriors|exterior]],
+> $$\begin{align}
+> 	\partial S &= \left( \text{int}\,S \cup \text{ext}\, S \right)^c \\
+> 	&= \left( \text{int}\,S \right)^c \cap \left( \text{ext}\, S \right)^c \\
+> 	&= \left( \text{int}\,S \right)^c \cap \left( \overline{S}^c \right)^c \\
+> 	&= \left( \text{int}\,S \right)^c \cap \overline{S} \\
+> 	&= \overline{S} \setminus \text{int}\,S \\
+> \end{align}$$
+
 > [!characterisation]- $p \in \partial S \iff \forall A \in \mathcal{N}_{p}, S \cap A \ne \emptyset \land S^c \cap A \ne \emptyset$
 *$\mathit{p \in \partial S}$ iff every [[Neighbourhoods|neighbourhood]] of $\mathit{p}$ meets $\mathit{S}$ and $\mathit{S^c}$*
 > 
-> $\left( \implies \right)$
-> Let p be in the *boundary* of $S$ ($p \in \partial S$) and $A$ be any [[Neighbourhoods|neighbourhood]] of $p$ ($p \in A \in \mathcal{T}$).
-> 
-> Suppose $A \subseteq S$. Since $A \in \mathcal{T}$, by the definition of [[Interiors|interiors]], $A \subseteq \text{int}\,S$. Thus, $A \cap \partial S = \emptyset$, a [[Contradictions|contradiction]] as $p \in \partial S$ and $p \in A$.
-> Thus, $A \not\subseteq S$, so $A$ contains at least one point of $S^c$.
-> 
-> Similarly, suppose $A$ and $S$ are [[Disjoint Sets|disjoint]] ($A \subseteq S^c$). Since $A \in \mathcal{T}$, by the definition of [[Interiors|interiors]], $A \subseteq \text{int}\,S^c = \text{ext}\,S$[^1]. Thus, $A \cap \partial S = \emptyset$, a [[Contradictions|contradiction]] as $p \in \partial S$ and $p \in A$.
-> Thus, $A$ and $S$ are not [[Disjoint Sets|disjoint]], so $A$ contains at least one point of $S$.
-> 
-> $\left( \impliedby \right)$
-> BRO HOW
+
+$$\begin{align}
+	p \in \partial S &\iff p \in (\inte S \cup \ext S)^c \\
+	p \notin \partial S &\iff p \in \inte S \cup \ext S \\
+	&\iff p \in \inte S \lor p \in \ext S \\
+	&\iff \left( \exists A \in \mathcal{N}_p : A \subseteq S \right) \lor \left( \exists A \in \mathcal{N}_p : S \cap A = \emptyset \right) && (1) \\
+	&\iff \exists A \in \mathcal{N}_p : A \subseteq S \lor S \cap A = \emptyset \\
+	&\iff \exists A \in \mathcal{N}_p : S \cap A = \emptyset \lor S^c \cap A = \emptyset \\
+	p \in \partial S &\iff \forall A \in \mathcal{N}_p, S \cap A \ne \emptyset \land S^c \cap A \ne \emptyset,
+\end{align}$$
 
 > [!theorem-1]- $S \in \mathcal{T} \iff S \cap \partial S = \emptyset$ ($\partial S \subseteq S^c$) 
 > $\left( \implies \right)$
@@ -58,16 +67,6 @@ $$\begin{align}
 > 	\partial S^c &= \left( \text{int}\,S^c \cup \text{ext}\, S^c \right)^c \\
 > 	&= \left( \text{ext}\,S \cup \text{int}\, S \right)^c \\
 > 	&= \partial S \\
-> \end{align}$$
-
-> [!proof]- $(1)$
-> By [[De Morgan's Laws|De Morgan's laws]] and the definition of the [[Exteriors|exterior]],
-> $$\begin{align}
-> 	\partial S &= \left( \text{int}\,S \cup \text{ext}\, S \right)^c \\
-> 	&= \left( \text{int}\,S \right)^c \cap \left( \text{ext}\, S \right)^c \\
-> 	&= \left( \text{int}\,S \right)^c \cap \left( \overline{S}^c \right)^c \\
-> 	&= \left( \text{int}\,S \right)^c \cap \overline{S} \\
-> 	&= \overline{S} \setminus \text{int}\,S \\
 > \end{align}$$
 
 [^1]: [[Exteriors]]

@@ -16,7 +16,7 @@ Let $\sigma$ be a [[Statements and Propositions|statement]] in this language. Th
 
 > [!lemma] $\sigma$ is true in $\mathcal{C}$ iff $\sigma^\text{op}$ is true in $\mathcal{C}^\text{op}$.
 
-> [!theorem]- If $\sigma$ holds for a **self-dual** [[Classes|class]] of [[Categories|categories]] $C$, so does $\sigma^\text{op}$.
+> [!theorem-1]- If $\sigma$ holds for a **self-dual** [[Classes|class]] of [[Categories|categories]] $C$, so does $\sigma^\text{op}$.
 > Let $C$ be a [[Classes|class]] of [[Categories|categories]] that is **self-dual**.
 > Let $\sigma$ be a [[Statements and Propositions|statement]] in the elementary language of [[Categories|categories]] that holds for all $\mathcal{C} \in C$.
 > Since $C$ is **self-dual**, $\sigma$ holds for $\mathcal{C}^\text{op}$.

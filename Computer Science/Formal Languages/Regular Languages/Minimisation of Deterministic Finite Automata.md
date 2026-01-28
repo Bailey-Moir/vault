@@ -8,4 +8,4 @@ To *minimise* the number of states of a [[Deterministic Finite Automata|DFA]],
 2. Find [[Equivalence of States|equivalent states]].
 3. Merge [[Equivalence Classes|equivalence classes]] of states.
 
-> [!note] *Minimal DFAs* are unique up to [[Isomorphism|isomorphism]]
+> [!note] *Minimal DFAs* are unique up to [[Isomorphisms|isomorphism]]

@@ -18,4 +18,4 @@ Two [[Vector Spaces|vector spaces]] are *isomorphic* iff there exists an *isomor
 >  $T$ is surjective as $\vecbf{w}_{1},\dots,\vecbf{w}_{n}$ [[Span|spans]] $W$, and it is also [[Injective Functions|injective]] as $\vecbf{w}_{1},\dots,\vecbf{w}_{n}$ is [[Linear Independence|linearly independent]], meaning $\text{null}\,T = \{ \vecbf{0} \}$.
 > Thus, $T$ is [[Bijective Functions|bijective]],  and thus an *isomorphism*, meaning the spaces are *isomorphic*.
 
-\[[[Isomorphism]]\]
+\[[[Isomorphisms]]\]

@@ -33,6 +33,5 @@ A morphism $\alpha : x \to y$ is *split monic* iff there exists a morphism $\bet
 > $$\begin{align}
 > 	\alpha(x_{1}) &= \alpha(x_{2}) \\
 > 	\beta\alpha(x_{1}) &= \beta\alpha(x_{2}) \\
-> 	x_{1} &= x_{2} \\
+> 	x_{1} &= x_{2} \quad \square \\
 > \end{align}.$$
-> *This makes sense as having a left inverse means it doesn't lose any information, which means it's injective.*
