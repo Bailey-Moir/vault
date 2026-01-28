@@ -23,50 +23,56 @@ $$\begin{align}
 > [!characterisation]- $p \in \partial S \iff \forall A \in \mathcal{N}_{p}, S \cap A \ne \emptyset \land S^c \cap A \ne \emptyset$
 *$\mathit{p \in \partial S}$ iff every [[Neighbourhoods|neighbourhood]] of $\mathit{p}$ meets $\mathit{S}$ and $\mathit{S^c}$*
 > 
+> $$\begin{align}
+> 	p \in \partial S &\iff p \in (\inte S \cup \ext S)^c \\
+> 	p \notin \partial S &\iff p \in \inte S \cup \ext S \\
+> 	&\iff p \in \inte S \lor p \in \ext S \\
+> 	&\iff \left( \exists A \in \mathcal{N}_p : A \subseteq S \right) \lor \left( \exists A \in \mathcal{N}_p : S \cap A = \emptyset \right) && (1) \\
+> 	&\iff \exists A \in \mathcal{N}_p : A \subseteq S \lor S \cap A = \emptyset \\
+> 	&\iff \exists A \in \mathcal{N}_p : S \cap A = \emptyset \lor S^c \cap A = \emptyset \\
+> 	p \in \partial S &\iff \forall A \in \mathcal{N}_p, S \cap A \ne \emptyset \land S^c \cap A \ne \emptyset,
+> \end{align}$$
+> 
+> where (1) is by the [[Interiors#^characterisation|characterisation of interiors]] and [[Exteriors#^characterisation|characterisation of exteriors]]. $\square$
+^characterisation
 
-$$\begin{align}
-	p \in \partial S &\iff p \in (\inte S \cup \ext S)^c \\
-	p \notin \partial S &\iff p \in \inte S \cup \ext S \\
-	&\iff p \in \inte S \lor p \in \ext S \\
-	&\iff \left( \exists A \in \mathcal{N}_p : A \subseteq S \right) \lor \left( \exists A \in \mathcal{N}_p : S \cap A = \emptyset \right) && (1) \\
-	&\iff \exists A \in \mathcal{N}_p : A \subseteq S \lor S \cap A = \emptyset \\
-	&\iff \exists A \in \mathcal{N}_p : S \cap A = \emptyset \lor S^c \cap A = \emptyset \\
-	p \in \partial S &\iff \forall A \in \mathcal{N}_p, S \cap A \ne \emptyset \land S^c \cap A \ne \emptyset,
-\end{align}$$
+> [!theorem-1]- $\partial S = \partial S^c$
+> By [[Exteriors#^interior-of-complement|exteriors, theorem 1]],
+> $$\begin{align}
+> 	\partial S^c &= \left( \text{int}\,S^c \cup \text{ext}\, S^c \right)^c \\
+> 	&= \left( \text{ext}\,S \cup \text{int}\, S \right)^c \\
+> 	&= \partial S \\
+> \end{align}$$
+^closed-complement
 
-> [!theorem-1]- $S \in \mathcal{T} \iff S \cap \partial S = \emptyset$ ($\partial S \subseteq S^c$) 
+> [!theorem-2]- $S \in \mathcal{T} \iff S \cap \partial S = \emptyset$ ($\partial S \subseteq S^c$) 
 > $\left( \implies \right)$
-> Suppose $S \in \mathcal{T}$. By the definition of [[Boundaries|boundaries]] and \[[[Interiors]], Theorem 1\] 
+> Suppose $S \in \mathcal{T}$. By the definition of *boundaries* and [[Interiors#^openness|interiors, theorem 1]] ,
 > $$\begin{align}
 > 	\partial S &= \overline{S} \setminus \text{int}\,S \\
 > 	&= \overline{S} \setminus S \\
 > \end{align}$$
 > Thus, $S \cap \partial S = \emptyset$.
 > 
-> $(\impliedby)$
-> Suppose $S \cap \partial S = \emptyset$. Further, suppose that for all [[Neighbourhoods|neighbourhoods]] $A$ of $p \in S$, $A \not\subseteq S$. Then there must exists $z \in A$ such that $z \in S^c$.
+> $\left( \impliedby \right)$
+> Let $p \in S$. Suppose that for all $A \in \mathcal{N}_p$[^2], $A \not\subseteq S$.
+> Then there must exist $z \in A$ such that $z \in S^c$.
+> Thus, by the [[#^characterisation|characterisation of boundaries]], $p \in \partial S$.
+> Thus, $p \in S \cap \partial S$, so $S \cap \partial S \ne \emptyset$.
 > 
-> Thus, by the *characterisation of boundaries*, $p \in \partial S$. This is a [[Contradictions|contradiction]] though, because $p \in S$ and $S \cap \partial S = \emptyset$.
-> 
-> Thus, if $S \cap \partial S = \emptyset$, then each point $p \in S$ must have a [[Neighbourhoods|neighbourhood]] contained in $S$.
-> 
-> Thus, by the [[Interiors|characterisation of interiors]], every $p \in S\to p \in \text{int}\,S$, meaning $S \subseteq \text{int}\,S$.
-> 
-> Since $\text{int}\,S \subseteq S$ is an identity, this gives $S = \text{int}\,S$, so by \[[[Interiors]], Theorem 1\], $S \in \mathcal{T}$.
+> [[Converse, Inverse, and Contrapositive|Contraposing]] this, supposing $S \cap \partial S = \emptyset$ gives that $\forall p \in S, \exists A \in \mathcal{N}_p : A \subseteq S$[^2].
+> Thus, by the [[Interiors#^characterisation|characterisation of interiors]], $S \subseteq \inte S$.
+Together with the identity $\inte S \subseteq S$, this gives $S = \inte S$, and by [[Interiors#^openness|interiors, theorem 1]], $S \in \mathcal{T}$. $\square$
+^openness
 
-> [!theorem-2]- $S^c \in \mathcal{T} \iff \partial S \subseteq S$ 
-> Substituting $S$ as $S^c$ in **theorem 1** gives
+> [!theorem-3]- $S^c \in \mathcal{T} \iff \partial S \subseteq S$ 
+> Substituting $S$ as $S^c$ in [[#^openness|theorem 2]] gives
 > $$\begin{align}
 > 	S^c \in \mathcal{T} &\iff \partial (S^c) \subseteq \left( S^c \right)^c \\
-> 	&\iff \partial S \subseteq S && \textbf{Th. 3} \\
+> 	&\iff \partial S \subseteq S \\
 > \end{align}$$
-
-> [!theorem-3]- $\partial S = \partial S^c$
-> By \[[[Exteriors]], Theorem 1\],
-> $$\begin{align}
-> 	\partial S^c &= \left( \text{int}\,S^c \cup \text{ext}\, S^c \right)^c \\
-> 	&= \left( \text{ext}\,S \cup \text{int}\, S \right)^c \\
-> 	&= \partial S \\
-> \end{align}$$
+> as $\partial S^c = \partial S$ by [[#^closed-complement|theorem-1]].
+^closedness
 
 [^1]: [[Exteriors]]
+[^2]: [[Neighbourhoods]]
