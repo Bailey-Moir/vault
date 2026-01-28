@@ -21,3 +21,4 @@ Let $\sigma$ be a [[Statements and Propositions|statement]] in this language. Th
 > Let $\sigma$ be a [[Statements and Propositions|statement]] in the elementary language of [[Categories|categories]] that holds for all $\mathcal{C} \in C$.
 > Since $C$ is **self-dual**, $\sigma$ holds for $\mathcal{C}^\text{op}$.
 > Thus, by the lemma above (and the fact that the dual of the dual is itself), $\sigma^\text{op}$ holds for $\mathcal{C}$. $\square$
+^statements-in-self-dual-category-classes
