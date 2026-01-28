@@ -11,3 +11,4 @@ We define the elementary language of [[Categories|category theory]] as the two s
 Let $\sigma$ be a [[Statements and Propositions|statement]] in this language. The *dual* of this statement $\sigma^\text{op}$ is the same as $\sigma$, except:
 - The "source" and "target" [[Relations|relations]] are swapped, and
 - The order of [[Composite Functions|composition]] is swapped (every $f \circ g$ becomes $g \circ f$).
+
