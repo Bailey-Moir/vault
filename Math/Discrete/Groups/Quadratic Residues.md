@@ -6,7 +6,6 @@ tags:
 ---
 An integer $a$ is a *quadratic residue* (*QR*) mod $p$ iff there is a solution to
 $$x^2 = a \hspace{2em} \text{in } \Z_{p}^\times$$
-
 # Quadratic Residues (p)
 For $p \in \mathbb{P} > 2$,
 

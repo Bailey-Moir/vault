@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1188ed2ec3be8496",
+        "id": "4dc520dd0c8c49dd",
         "type": "tabs",
         "children": [
           {
-            "id": "5fb5ab270f281fad",
+            "id": "31832f3a8963024b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -203,8 +203,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5fb5ab270f281fad",
+  "active": "31832f3a8963024b",
   "lastOpenFiles": [
+    "Math/Discrete/Groups/Quadratic Residues.md",
+    "Math/Discrete/Groups/Random-Ass QR Theorem.md",
+    "Math/Discrete/Number Theory/Primes/Square Roots of Primes.md",
     "Math/Topology/Topological Operations/Boundaries.md",
     "Math/Topology/Topological Operations/Interiors.md",
     "Math/Topology/Topological Operations/Exteriors.md",
@@ -229,10 +232,7 @@
     "Assets/excali/epic-diagram.excalidraw.md",
     "Math/Category Theory/Universal Constructions/Bimorphisms.md",
     "Math/Category Theory/Induced Categories/Categories Induced by Preoder.md",
-    "Math/Category Theory/Categories.md",
-    "Math/Discrete/Set Theory/Classes.md",
     "Assets/Pasted image 20250427214945.png",
-    "Personal/Split Keyboard.md",
     "Math/Category Theory/Universal Constructions/Untitled",
     "Math/Category Theory/Universal Constructions",
     "Pasted Image 20260109154703_886.png",
