@@ -25,7 +25,7 @@ tags:
 > | DELETE  | Remove a Web page.         |
 > | TRACE   | Echo the incoming request. |
 > | CONNECT | Connect through a proxy.   |
-> | OPTIONS | query options for a page.  |
+> | OPTIONS | Query options for a page (CORS).  |
 
 > [!note]- **Cookies**
 > Each [[Client-Server Paradigm|client]] stores a mapping from [[Client-Server Paradigm|servers]] to cookie IDs. These are allocated by the [[Client-Server Paradigm|server]], and sent by the [[Client-Server Paradigm|client]] in each request. The [[Client-Server Paradigm|server]] stores information for each of these cookies in some back-end database.
