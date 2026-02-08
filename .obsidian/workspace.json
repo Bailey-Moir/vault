@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4dc520dd0c8c49dd",
+        "id": "05601d1cff6014ad",
         "type": "tabs",
         "children": [
           {
-            "id": "7c6ebd2de3143472",
+            "id": "5f7273f64eee0da7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archive/Lecture Notes/MATH240/Lec7A 8-9.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lec7A 8-9"
+              "title": "New tab"
             }
           }
         ]
@@ -79,7 +74,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Archive/Lecture Notes/MATH240/Lec7A 8-9.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -107,7 +101,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Lec7A 8-9"
+              "title": "Graph view"
             }
           }
         ]
@@ -209,11 +203,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c6ebd2de3143472",
+  "active": "5f7273f64eee0da7",
   "lastOpenFiles": [
+    "Math/Metric, Normed, & Hilbert Spaces/Metric Spaces.md",
+    "Math/Calculus/Differential Equations/Frobenius Method.md",
+    "Archive/Lecture Notes/MATH240/Lec7A 8-9.md",
     "Computer Science/Formal Languages/Compiler Steps/Dangling Else Problem.md",
     "Math/Analysis/The Real Numbers.md",
-    "Metric Spaces.md",
     "Math/Linear Algebra/Vectors/Norms/Norms.md",
     "Math/Linear Algebra/Inner Products.md",
     "Math/Metric, Normed, & Hilbert Spaces",
@@ -237,8 +233,6 @@
     "Math/Category Theory/Universal Constructions/Split Epic Morphisms.md",
     "Math/Category Theory/Duality.md",
     "Isomorphism.md",
-    "Computer Science/Formal Languages/Regular Languages/Minimisation of Deterministic Finite Automata.md",
-    "Math/Linear Algebra/Vector Spaces/Vector Space Isomorphism.md",
     "Assets/Pasted image 20250427214945.png",
     "Math/Category Theory/Universal Constructions/Untitled",
     "Math/Category Theory/Universal Constructions",
