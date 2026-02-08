@@ -13,6 +13,5 @@ A *norm* of a [[Vector Spaces|vector space]] $V$ is a [[Functions|function]] $\|
 3. **[[The Triangle Inequality|The Triangle Inequality]]**
    $\| \vecbf{u}+\vecbf{v} \| \le \| \vecbf{u} \|+\| \vecbf{v} \|$
 
-> [!definition] Induced Norms
-> In an [[Inner Products|inner product space]], an **induced norm** is the *norm* given by
-> $$\| \vecbf{v} \|^2 = \left< \vecbf{v},\vecbf{v} \right> $$
+> [!definition] *(Induced Norms)* In an [[Inner Products|inner product space]], an **induced norm** is the *norm* given by $$\| \vecbf{v} \|^2 = \left< \vecbf{v},\vecbf{v} \right> $$
+^induced-norms

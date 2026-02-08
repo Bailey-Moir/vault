@@ -42,4 +42,4 @@ An *inner product* $\left< \vecbf{v},\vecbf{w} \right> : V\times V \to \F$ of a 
 > 	&= c\left< f,h \right>  + d\left< g,h \right>  \\
 > \end{align}$$
 
-[^1]: [[Math/Calculus/Limits/Continuity/Continuity]]
+[^1]: [[Continuity]]
