@@ -3,8 +3,8 @@ tags:
   - atom
   - math
 ---
-A field $\F$ is a [[Sets|set]] with two [[Binary Operations|binary operations]] $+$ and $\times$ such that
-1. $\left( \F,+ \right)$ is an [[Groups|abelian group]].
+A *field* $\F$ is a [[Sets|set]] together with two [[Binary Operations|binary operations]] $+$ and $\times$ on $\F$ such that
+1. $\left( \F,+ \right)$ is an [[Groups#^abelian-groups|abelian group]].
 2. $\left( \F\setminus\{0\}, \times \right)$ is an [[Groups|abelian group]], where $0$ is the additive identity.
 3. $\forall a,b,c \in \F, (c(a+b) = ca+cb)$ (distributivity).
 # Field Theorems
@@ -16,6 +16,7 @@ A field $\F$ is a [[Sets|set]] with two [[Binary Operations|binary operations]] 
 > 	0a - 0a &= 0a + 0a - 0a \\
 > 	0 &= 0a && \text{Additive Inverse} \\
 > \end{align*}$$
+ ^zero-mult
 
 > [!theorem]- **(2)** $-a \equiv (-1)a$
 > $$\begin{align*}
@@ -24,6 +25,7 @@ A field $\F$ is a [[Sets|set]] with two [[Binary Operations|binary operations]] 
 > 	0 &= a + (-1)a && \mathbf{(1)}\, \forall a \in \F, 0a = 0 \\
 > \end{align*}$$
 > Therefore, $(-1)a$ is the *unique* additive inverse
+ ^negative-times-negative-one
 
 > [!theorem]- **(3)** $(-a)b = -(ab) = a(-b)$
 > $$\begin{array}{l}
@@ -38,6 +40,7 @@ A field $\F$ is a [[Sets|set]] with two [[Binary Operations|binary operations]] 
 > 		&= -(ab) && \mathbf{(2)}\, \forall a\in \F, -a= (-1)a \\
 > 	\end{align*} \\
 > \end{array}$$
+ ^negative-associative
 
 > [!theorem]- **(4)** $(ab)^2 = a^2b^2$
 > $$\begin{array}{l}
@@ -49,3 +52,4 @@ A field $\F$ is a [[Sets|set]] with two [[Binary Operations|binary operations]] 
 > 	\end{align*} \\
 > \end{array}$$
 > \[$(1)$ [[Powers in Groups]]\]
+ ^expand-square

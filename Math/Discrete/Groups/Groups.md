@@ -4,19 +4,19 @@ tags:
   - math
   - discrete
 ---
-For some [[Sets|set]] $G$ and [[Binary Operations|binary operation]] $*$, $(G, *)$ is a *group* iff it has the following properties
-- **Closure**
-  $\begin{array}{l} \forall a,b \in G, \exists! c \in G : \\ a*b=c \end{array}$
-- **Associativity**
+A *group* $\left( G,* \right)$ is a [[Sets|set]] $G$ together with a [[Binary Operations|binary operation]] $* : G \times G \to G$ that satisfies the following properties:
+1. **Associativity**
   $\begin{array}{l} \forall a,b,c \in G,\\ (a*b)*c = a*(b*c) \end{array}$
-- **Identity**
+2. **Identity**
   $\begin{array}{l} \exists e \in G : \forall a \in G, \\ a*e = a = e*a \end{array}$
-- **Inverse**
+3. **Inverse**
   $\begin{array}{l} \forall a \in G, \exists a^{-1} \in G : \\ a * a^{-1} = e = a^{-1} * a \end{array}$
-
+- ***Closure*** (given by $*$ being a [[Functions|function]])
+  $\begin{array}{l} \forall a,b \in G, \exists! c \in G : \\ a*b=c \end{array}$
+  
 > [!definition] Abelian Groups
-> An *abelian group* is a *group* with commutativity.
-> $$\forall a,b \in G, (a*b = b*a)$$
+> An *abelian group* is a *[[Groups|group]]* with commutativity: $\forall a,b \in G, (a*b = b*a)$.
+ ^abelian-groups
 
 \[[[Binary Operations]]\]
 # Theorems
