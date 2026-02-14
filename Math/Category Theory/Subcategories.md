@@ -4,6 +4,6 @@ tags:
   - math
   - discrete
 ---
-A *subcategory* of a [[Categories|category]] $C$ is another [[Categories|category]] $B$ formed from a [[Subsets|subset]] of the objects and morphisms of $C$ with the same [[Composite Functions|composition]] and identities as $C$.
+A *subcategory* of a [[Categories|category]] $\mathcal{C}$ is another [[Categories|category]] $\mathcal{B}$ formed from a [[Subsets|subset]] of the objects and morphisms of $\mathcal{C}$ with the same [[Composite Functions|composition]] and identities as $\mathcal{C}$.
 
-> [!definition] A *subcategory* $B$ of $C$ is **full** iff $\forall x,y \in B, B(x,y) = C(x,y)$<br/>*i.e. iff only orphaned morphisms are removed.*
+> [!definition] A *subcategory* $\mathcal{B}$ of $\mathcal{C}$ is **full** iff $\forall x,y \in \mathcal{B}, \mathcal{B}(x,y) = \mathcal{C}(x,y)$<br/>*i.e. iff only orphaned morphisms are removed.*

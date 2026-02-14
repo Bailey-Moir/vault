@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d6cc47a53201f606",
+        "id": "95f71eb4020af6ae",
         "type": "tabs",
         "children": [
           {
-            "id": "524061629da2d0c1",
+            "id": "2c398f5d535e466d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Category Theory/Universal Constructions/Products.md",
+                "file": "Math/Category Theory/Functors.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Products"
+              "title": "Functors"
             }
           }
         ]
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Math/Category Theory/Universal Constructions/Products.md",
+                "file": "Math/Category Theory/Functors.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -107,7 +107,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Products"
+              "title": "Graph of Functors"
             }
           }
         ]
@@ -209,35 +209,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "524061629da2d0c1",
+  "active": "2c398f5d535e466d",
   "lastOpenFiles": [
-    "Math/Category Theory/Universal Constructions/Initial and Terminal Objects.md",
-    "Math/Category Theory/Universal Constructions/Isomorphisms.md",
+    "Universality.md",
+    "Math/Category Theory/Functors.md",
+    "Math/Category Theory/Concrete Categories/Category of Topologies.md",
+    "Math/Category Theory/Concrete Categories/Category of Sets.md",
+    "Math/Category Theory/Concrete Categories/Category of Groups.md",
+    "Math/Category Theory/Induced Categories/Categories Induced by Preoder.md",
+    "Math/Category Theory/Universal Constructions/Split Monic Morphisms.md",
+    "Math/Category Theory/Universal Constructions/Split Epic Morphisms.md",
     "Math/Category Theory/Universal Constructions/Products.md",
+    "Math/Category Theory/Universal Constructions/morphism-relationship.excalidraw.md",
+    "Math/Category Theory/Universal Constructions/morphism-set-constructions-relationship.excalidraw.md",
+    "Math/Category Theory/Universal Constructions/Monic Morphisms.md",
+    "Math/Category Theory/Universal Constructions/Isomorphisms.md",
+    "Math/Category Theory/Universal Constructions/Initial and Terminal Objects.md",
+    "Math/Category Theory/Universal Constructions/Epic Morphisms.md",
+    "Math/Discrete/Set Theory/Functions/Surjective Functions.md",
+    "Math/Category Theory/Universal Constructions/Bimorphisms.md",
+    "Math/Category Theory/Categories.md",
+    "Math/Category Theory/Commutative Diagrams.md",
+    "Math/Category Theory/Duality.md",
+    "Math/Category Theory/Opposite Category.md",
+    "Math/Category Theory/Subcategories.md",
     "Computer Science/Formal Languages/Compiler Steps/Attribute Grammars.md",
     "Math/Algebra/Sequences & Series/Series/Tests/Absolute Convergence.md",
     "Math/Linear Algebra/Linear Transformations/Eigenvectors & Eigenvalues/Low-Rank Approximation.md",
     "Math/Linear Algebra/Linear Systems/Least Squares Approximation.md",
-    "Math/Metric, Normed, & Hilbert Spaces/Metric Spaces.md",
-    "Math/Calculus/Differential Equations/Frobenius Method.md",
-    "Archive/Lecture Notes/MATH240/Lec7A 8-9.md",
-    "Computer Science/Formal Languages/Compiler Steps/Dangling Else Problem.md",
-    "Math/Analysis/The Real Numbers.md",
-    "Math/Linear Algebra/Vectors/Norms/Norms.md",
-    "Math/Linear Algebra/Inner Products.md",
     "Math/Metric, Normed, & Hilbert Spaces",
-    "Computer Science/Networks/Protocols/Hypertext Transfer Protocol.md",
-    "Math/Category Theory/Concrete Categories/Category of Metric Spaces.md",
-    "Math/Algebra/Sequences & Series/Sequences/Metric Sequence Convergence.md",
-    "Assets/excali/http-packets.excalidraw.md",
-    "Computer Science/Algorithms/Graphs/Depth First Search.md",
-    "Math/Discrete/Number Theory/Modular Arithmetic/Changing Base.md",
-    "Math/Discrete/Groups/Quadratic Residues.md",
-    "Math/Discrete/Groups/Random-Ass QR Theorem.md",
-    "Math/Discrete/Number Theory/Primes/Square Roots of Primes.md",
-    "Math/Topology/Topological Operations/Boundaries.md",
-    "Math/Topology/Topological Operations/Interiors.md",
-    "Math/Topology/Topological Operations/Exteriors.md",
     "preamble.sty~",
     "Assets/Pasted image 20250427214945.png",
     "Math/Category Theory/Universal Constructions/Untitled",
