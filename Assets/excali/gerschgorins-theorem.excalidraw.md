@@ -33,7 +33,7 @@ c6cb16643bedab7a148e32c928360e0ff4c9d343: $$D_2$$
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.9.2",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.13.0",
 	"elements": [
 		{
 			"id": "JI3RFRjiGhh039nUhGZv4",
@@ -252,7 +252,8 @@ c6cb16643bedab7a148e32c928360e0ff4c9d343: $$D_2$$
 			"startBinding": null,
 			"endBinding": null,
 			"startArrowhead": null,
-			"endArrowhead": null
+			"endArrowhead": null,
+			"polygon": false
 		},
 		{
 			"id": "GaImcx9AHlir4Nuwh8IF7",
@@ -295,7 +296,8 @@ c6cb16643bedab7a148e32c928360e0ff4c9d343: $$D_2$$
 			"startBinding": null,
 			"endBinding": null,
 			"startArrowhead": null,
-			"endArrowhead": null
+			"endArrowhead": null,
+			"polygon": false
 		},
 		{
 			"id": "-V8aFnf5qK6WqTQbdXuOa",
@@ -338,7 +340,8 @@ c6cb16643bedab7a148e32c928360e0ff4c9d343: $$D_2$$
 			"startBinding": null,
 			"endBinding": null,
 			"startArrowhead": null,
-			"endArrowhead": null
+			"endArrowhead": null,
+			"polygon": false
 		},
 		{
 			"id": "ib8JbHm1wmBIeExi21R75",
@@ -381,7 +384,8 @@ c6cb16643bedab7a148e32c928360e0ff4c9d343: $$D_2$$
 			"startBinding": null,
 			"endBinding": null,
 			"startArrowhead": null,
-			"endArrowhead": null
+			"endArrowhead": null,
+			"polygon": false
 		},
 		{
 			"id": "oCMz0Us3_dFWVMJQa5_HT",
@@ -424,7 +428,8 @@ c6cb16643bedab7a148e32c928360e0ff4c9d343: $$D_2$$
 			"startBinding": null,
 			"endBinding": null,
 			"startArrowhead": null,
-			"endArrowhead": null
+			"endArrowhead": null,
+			"polygon": false
 		},
 		{
 			"id": "FxFxN7uSb1mKu98NeB6zC",
@@ -467,7 +472,8 @@ c6cb16643bedab7a148e32c928360e0ff4c9d343: $$D_2$$
 			"startBinding": null,
 			"endBinding": null,
 			"startArrowhead": null,
-			"endArrowhead": null
+			"endArrowhead": null,
+			"polygon": false
 		},
 		{
 			"id": "7WZd8m9Jd15FzGu2GvKNP",
@@ -510,7 +516,8 @@ c6cb16643bedab7a148e32c928360e0ff4c9d343: $$D_2$$
 			"startBinding": null,
 			"endBinding": null,
 			"startArrowhead": null,
-			"endArrowhead": null
+			"endArrowhead": null,
+			"polygon": false
 		},
 		{
 			"id": "aAuziU-cwImXaldL5sgfv",
@@ -553,7 +560,8 @@ c6cb16643bedab7a148e32c928360e0ff4c9d343: $$D_2$$
 			"startBinding": null,
 			"endBinding": null,
 			"startArrowhead": null,
-			"endArrowhead": null
+			"endArrowhead": null,
+			"polygon": false
 		},
 		{
 			"id": "7hy4n1Vr4MATMXVIUgP2i",
@@ -596,7 +604,8 @@ c6cb16643bedab7a148e32c928360e0ff4c9d343: $$D_2$$
 			"startBinding": null,
 			"endBinding": null,
 			"startArrowhead": null,
-			"endArrowhead": null
+			"endArrowhead": null,
+			"polygon": false
 		},
 		{
 			"id": "kHJA5zZTsDAAQFHRwQtSu",
@@ -639,7 +648,8 @@ c6cb16643bedab7a148e32c928360e0ff4c9d343: $$D_2$$
 			"startBinding": null,
 			"endBinding": null,
 			"startArrowhead": null,
-			"endArrowhead": null
+			"endArrowhead": null,
+			"polygon": false
 		},
 		{
 			"id": "nSsBRhsU_Ue11coKaG4WV",
@@ -682,7 +692,8 @@ c6cb16643bedab7a148e32c928360e0ff4c9d343: $$D_2$$
 			"startBinding": null,
 			"endBinding": null,
 			"startArrowhead": null,
-			"endArrowhead": null
+			"endArrowhead": null,
+			"polygon": false
 		},
 		{
 			"id": "60NrDKDopHbDjIIB5Wgst",
@@ -725,7 +736,8 @@ c6cb16643bedab7a148e32c928360e0ff4c9d343: $$D_2$$
 			"startBinding": null,
 			"endBinding": null,
 			"startArrowhead": null,
-			"endArrowhead": null
+			"endArrowhead": null,
+			"polygon": false
 		},
 		{
 			"id": "SiFgXvMqJSnc32o6h_YS9",
@@ -768,7 +780,8 @@ c6cb16643bedab7a148e32c928360e0ff4c9d343: $$D_2$$
 			"startBinding": null,
 			"endBinding": null,
 			"startArrowhead": null,
-			"endArrowhead": null
+			"endArrowhead": null,
+			"polygon": false
 		},
 		{
 			"id": "sJme2jcKdCmfLUN2zgkqR",
@@ -811,7 +824,8 @@ c6cb16643bedab7a148e32c928360e0ff4c9d343: $$D_2$$
 			"startBinding": null,
 			"endBinding": null,
 			"startArrowhead": null,
-			"endArrowhead": null
+			"endArrowhead": null,
+			"polygon": false
 		},
 		{
 			"id": "gULvVM7MMk0fwBNHJ5iWK",
@@ -882,7 +896,8 @@ c6cb16643bedab7a148e32c928360e0ff4c9d343: $$D_2$$
 			"startBinding": null,
 			"endBinding": null,
 			"startArrowhead": null,
-			"endArrowhead": null
+			"endArrowhead": null,
+			"polygon": false
 		},
 		{
 			"id": "fszA0PejGfsBR-6nI15_3",
@@ -925,7 +940,8 @@ c6cb16643bedab7a148e32c928360e0ff4c9d343: $$D_2$$
 			"startBinding": null,
 			"endBinding": null,
 			"startArrowhead": null,
-			"endArrowhead": null
+			"endArrowhead": null,
+			"polygon": false
 		},
 		{
 			"id": "2S8dKxEt1bjd3cgjS1yMB",
@@ -968,15 +984,16 @@ c6cb16643bedab7a148e32c928360e0ff4c9d343: $$D_2$$
 			"startBinding": null,
 			"endBinding": null,
 			"startArrowhead": null,
-			"endArrowhead": null
+			"endArrowhead": null,
+			"polygon": false
 		},
 		{
 			"id": "6SbpDsmn",
 			"type": "image",
-			"x": -194.29051181248644,
-			"y": -113.01107019827796,
-			"width": 29.15014006921279,
-			"height": 19.433426712808526,
+			"x": -194.47618897992743,
+			"y": -112.8888425232045,
+			"width": 29.52149440409479,
+			"height": 19.188971362661615,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -1008,10 +1025,10 @@ c6cb16643bedab7a148e32c928360e0ff4c9d343: $$D_2$$
 		{
 			"id": "2VaAunC153P2MOvXUbdjM",
 			"type": "image",
-			"x": 153.7852762780867,
-			"y": -21.62167753665226,
-			"width": 20.679370484527897,
-			"height": 14.217067208112931,
+			"x": 154.11360433327195,
+			"y": -21.854805869786855,
+			"width": 20.022714374157438,
+			"height": 14.683323874382122,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -1043,10 +1060,10 @@ c6cb16643bedab7a148e32c928360e0ff4c9d343: $$D_2$$
 		{
 			"id": "-C7BY3FQwkBvwcOfI0I7H",
 			"type": "image",
-			"x": 27.44872803909493,
-			"y": -27.784435987334763,
-			"width": 20.679370484527897,
-			"height": 14.217067208112931,
+			"x": 27.777056094280162,
+			"y": -28.017564320469358,
+			"width": 20.022714374157438,
+			"height": 14.683323874382122,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -1078,10 +1095,10 @@ c6cb16643bedab7a148e32c928360e0ff4c9d343: $$D_2$$
 		{
 			"id": "z9IjJ-nmHb21p5AhVvuwU",
 			"type": "image",
-			"x": -192.69869883806416,
-			"y": -21.621677536652232,
-			"width": 20.679370484527897,
-			"height": 14.217067208112931,
+			"x": -192.37037078287892,
+			"y": -21.854805869786826,
+			"width": 20.022714374157438,
+			"height": 14.683323874382122,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -1113,10 +1130,10 @@ c6cb16643bedab7a148e32c928360e0ff4c9d343: $$D_2$$
 		{
 			"id": "Djk1_1Mx8m7pfxzt_v2yn",
 			"type": "image",
-			"x": -16.48793504372574,
-			"y": -101.22157710288842,
-			"width": 29.15014006921279,
-			"height": 19.433426712808526,
+			"x": -16.67361221116674,
+			"y": -101.09934942781496,
+			"width": 29.52149440409479,
+			"height": 19.188971362661615,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -1148,10 +1165,10 @@ c6cb16643bedab7a148e32c928360e0ff4c9d343: $$D_2$$
 		{
 			"id": "cFhEk9vg1nStueAcGDPXM",
 			"type": "image",
-			"x": 75.50526140794275,
-			"y": -157.68092084790385,
-			"width": 29.15014006921279,
-			"height": 19.433426712808526,
+			"x": 75.85651953254678,
+			"y": -157.92087582850124,
+			"width": 28.44762382000472,
+			"height": 19.913336674003304,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -1183,10 +1200,10 @@ c6cb16643bedab7a148e32c928360e0ff4c9d343: $$D_2$$
 		{
 			"id": "G6CB8zLmV8vhSsbknyw-h",
 			"type": "image",
-			"x": -288.9161330794251,
-			"y": -214.63835607788533,
-			"width": 45.63155501183076,
-			"height": 19.393410880028075,
+			"x": -289.3224854829983,
+			"y": -214.4686782930461,
+			"width": 46.44425981897716,
+			"height": 19.054055310349604,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -1218,10 +1235,10 @@ c6cb16643bedab7a148e32c928360e0ff4c9d343: $$D_2$$
 		{
 			"id": "wpuGpsattO2S2dht-6XLt",
 			"type": "image",
-			"x": 286.8234799241637,
-			"y": -61.795767981950156,
-			"width": 45.63155501183076,
-			"height": 19.393410880028075,
+			"x": 286.4171275205905,
+			"y": -61.62609019711092,
+			"width": 46.44425981897716,
+			"height": 19.054055310349604,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -1305,6 +1322,173 @@ c6cb16643bedab7a148e32c928360e0ff4c9d343: $$D_2$$
 			"updated": 1743846589589,
 			"link": null,
 			"locked": false
+		},
+		{
+			"id": "V32sKPRxsybpzXoR1frq2",
+			"type": "line",
+			"x": 232.45617292666537,
+			"y": 133.9104889995466,
+			"width": 13.037537678483886,
+			"height": 0,
+			"angle": 1.5707963267948957,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "ak",
+			"roundness": null,
+			"seed": 1755205621,
+			"version": 575,
+			"versionNonce": 590189461,
+			"isDeleted": true,
+			"boundElements": [],
+			"updated": 1770804686060,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					13.037537678483886,
+					0
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"polygon": false
+		},
+		{
+			"id": "QkxV8GHZfoJFYIY09Y-g7",
+			"type": "line",
+			"x": 174.59638655455575,
+			"y": 133.72882312790617,
+			"width": 13.037537678483886,
+			"height": 0,
+			"angle": 1.5707963267948957,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "al",
+			"roundness": null,
+			"seed": 1754958165,
+			"version": 601,
+			"versionNonce": 517397563,
+			"isDeleted": true,
+			"boundElements": [],
+			"updated": 1770804686060,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					13.037537678483886,
+					0
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"polygon": false
+		},
+		{
+			"id": "8m4WTfxysnvIRcdcfCdpO",
+			"type": "line",
+			"x": 290.15965173741813,
+			"y": 133.7889716384841,
+			"width": 13.037537678483886,
+			"height": 0,
+			"angle": 1.5707963267948957,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"index": "am",
+			"roundness": null,
+			"seed": 59283125,
+			"version": 689,
+			"versionNonce": 62937333,
+			"isDeleted": true,
+			"boundElements": [],
+			"updated": 1770804686060,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					13.037537678483886,
+					0
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"polygon": false
+		},
+		{
+			"id": "yvJvbY2GnPsKu6wyexoDg",
+			"type": "image",
+			"x": 171.33505501717087,
+			"y": 145.20846887811103,
+			"width": 20.022714374157438,
+			"height": 14.683323874382122,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"roundness": null,
+			"seed": 604895253,
+			"version": 848,
+			"versionNonce": 1506122971,
+			"updated": 1770804686061,
+			"isDeleted": true,
+			"groupIds": [],
+			"boundElements": [],
+			"link": null,
+			"locked": false,
+			"fileId": "98414fbe1c3c9200d0f412c64f835bb933694df7",
+			"scale": [
+				1,
+				1
+			],
+			"index": "an",
+			"frameId": null,
+			"status": "pending",
+			"crop": null
 		}
 	],
 	"appState": {
@@ -1324,7 +1508,7 @@ c6cb16643bedab7a148e32c928360e0ff4c9d343: $$D_2$$
 		"currentItemEndArrowhead": "arrow",
 		"currentItemArrowType": "round",
 		"scrollX": 434.8991899830483,
-		"scrollY": 277.9334514794213,
+		"scrollY": 283.6756389794213,
 		"zoom": {
 			"value": 2
 		},
@@ -1366,6 +1550,7 @@ c6cb16643bedab7a148e32c928360e0ff4c9d343: $$D_2$$
 			"type": "selection",
 			"customType": null,
 			"locked": false,
+			"fromSelection": false,
 			"lastActiveTool": null
 		}
 	},
