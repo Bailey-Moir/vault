@@ -37,7 +37,7 @@ By the [[Initial and Terminal Objects|definition of terminal objects]], for any 
 \end{document}
 ```
 
-> [!note]- Uniqueness\*
+> [!note]- Uniqueness++
 > By [[Initial and Terminal Objects#^uniqueness-up-to-isomorphism|the uniqueness of terminal objects up to]] [[Isomorphisms|isomorphism]], *products* (if they exist) are unique up to [[Isomorphisms|isomorphism]] in $D$, which amounts to [[Isomorphisms|isomorphism]] in $C$ that preserves the [[Commutative Diagrams|commutativity]].
  ^uniqueness
 
