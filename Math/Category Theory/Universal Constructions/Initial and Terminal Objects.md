@@ -3,7 +3,7 @@ tags:
   - atom
   - math
 ---
-An object $c$ in a [[Categories|category]] $C$ is  ^ae602c
+An object $c$ in a [[Categories|category]] $C$ is
 - *initial* iff $\forall x \in C: \left|C(c,x)\right| = 1$, and
 - *terminal* iff $\forall x \in C: \left|C(x,c)\right| = 1$.
 
@@ -19,6 +19,7 @@ An object $c$ in a [[Categories|category]] $C$ is  ^ae602c
 > - $\alpha'\alpha : c' \to c'$ must be unique, but by the [[Categories|category]] axioms, there must be a $1_{c'} : c' \to c'$, meaning $\alpha'\alpha = 1_{c'}$.
 > 
 > Thus, $\alpha$ is an [[Isomorphisms|isomorphism]] with $\alpha^{-1} = \alpha'$, meaning $c \cong c'$. $\square$
+^uniqueness-up-to-isomorphism
 
 [^1]: [[Category of Sets]]
 [^2]: [[Category of Topologies]]

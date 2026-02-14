@@ -8,13 +8,48 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4b99242f4aa229a4",
+            "id": "524061629da2d0c1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Math/Category Theory/Universal Constructions/Products.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Products"
+            }
+          },
+          {
+            "id": "c2468b135ed16781",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Category Theory/Universal Constructions/Initial and Terminal Objects.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Initial and Terminal Objects"
+            }
+          },
+          {
+            "id": "7ce1d26568799af5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Category Theory/Universal Constructions/Isomorphisms.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Isomorphisms"
             }
           }
         ]
@@ -50,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "keepalive",
+                "query": "!definition",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,6 +109,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Math/Category Theory/Universal Constructions/Products.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -101,7 +137,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Products"
             }
           }
         ]
@@ -203,8 +239,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b99242f4aa229a4",
+  "active": "524061629da2d0c1",
   "lastOpenFiles": [
+    "Math/Category Theory/Universal Constructions/Initial and Terminal Objects.md",
+    "Computer Science/Formal Languages/Compiler Steps/Attribute Grammars.md",
+    "Math/Algebra/Sequences & Series/Series/Tests/Absolute Convergence.md",
+    "Math/Category Theory/Universal Constructions/Products.md",
+    "Math/Category Theory/Universal Constructions/Isomorphisms.md",
     "Math/Linear Algebra/Linear Transformations/Eigenvectors & Eigenvalues/Low-Rank Approximation.md",
     "Math/Linear Algebra/Linear Systems/Least Squares Approximation.md",
     "Math/Metric, Normed, & Hilbert Spaces/Metric Spaces.md",
@@ -227,12 +268,7 @@
     "Math/Topology/Topological Operations/Boundaries.md",
     "Math/Topology/Topological Operations/Interiors.md",
     "Math/Topology/Topological Operations/Exteriors.md",
-    "Math/Topology/Topological Operations/Closures.md",
-    "Math/Topology/Neighbourhoods.md",
     "preamble.sty~",
-    "Math/Category Theory/Universal Constructions/Isomorphisms.md",
-    "Math/Category Theory/Universal Constructions/Split Monic Morphisms.md",
-    "Math/Category Theory/Universal Constructions/Split Epic Morphisms.md",
     "Assets/Pasted image 20250427214945.png",
     "Math/Category Theory/Universal Constructions/Untitled",
     "Math/Category Theory/Universal Constructions",
