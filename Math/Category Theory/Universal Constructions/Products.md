@@ -5,10 +5,10 @@ tags:
 ---
 Let $\{ c_i \}_{i \in I}$ be a [[Collections|family]] of objects in a [[Categories|category]] $C$.
 
-> [!definition] Auxiliary Category
+> [!definition]- Auxiliary Category
 > The **auxiliary category** $D = D_\text{pr}$ is defined with
 > - objects being the pairs $\left( x, \{\alpha_i\}_{i \in I} \right)$, where $x \in C$ and $\alpha_i : x \to c_i$ for all $i \in I$,
-> - morphisms from an object $\left( x, \{\alpha_i\}_{i \in I} \right)$ to $\left( y, \{\beta_i\}_{i \in I} \right)$ being the morphisms $\gamma : x \to y$ in $C$ such that $\forall i \in I, \beta_i\gamma = \alpha_i$, i.e., such that the following diagram is [[Commutative Diagrams|commutative]] for all $i$:
+> - morphisms from an object $\left( x, \{\alpha_i\}_{i \in I} \right)$ to $\left( y, \{\beta_i\}_{i \in I} \right)$ being the morphisms $\gamma : x \to y$ in $C$ that [[Commutative Diagrams|commute]] with both families of morphisms, i.e., such that the following diagram is [[Commutative Diagrams|commutative]] for all $i$:
 > ```tikz
 > \usepackage{tikz-cd}
 > \begin{document}
@@ -41,9 +41,8 @@ By the [[Initial and Terminal Objects|definition of terminal objects]], for any 
 > By [[Initial and Terminal Objects#^uniqueness-up-to-isomorphism|the uniqueness of terminal objects up to]] [[Isomorphisms|isomorphism]], *products* (if they exist) are unique up to [[Isomorphisms|isomorphism]] in $D$, which amounts to [[Isomorphisms|isomorphism]] in $C$ that preserves the [[Commutative Diagrams|commutativity]].
  ^uniqueness
 
-> [!definition]
-> We say that a "**product exists**" in $C$ iff a *product* exists for every [[Collections|family]] of objects in $C$.
- ^product-exists
+> [!definition] We say that a "**product exists**" in $C$ iff a *product* exists for every [[Collections|family]] of objects in $C$.
+^product-exists
 
 # Binary Product
 ```tikz

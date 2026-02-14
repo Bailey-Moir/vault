@@ -21,36 +21,6 @@
               "icon": "lucide-file",
               "title": "Products"
             }
-          },
-          {
-            "id": "c2468b135ed16781",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Category Theory/Universal Constructions/Initial and Terminal Objects.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Initial and Terminal Objects"
-            }
-          },
-          {
-            "id": "7ce1d26568799af5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Category Theory/Universal Constructions/Isomorphisms.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Isomorphisms"
-            }
           }
         ]
       }
@@ -242,10 +212,10 @@
   "active": "524061629da2d0c1",
   "lastOpenFiles": [
     "Math/Category Theory/Universal Constructions/Initial and Terminal Objects.md",
+    "Math/Category Theory/Universal Constructions/Isomorphisms.md",
+    "Math/Category Theory/Universal Constructions/Products.md",
     "Computer Science/Formal Languages/Compiler Steps/Attribute Grammars.md",
     "Math/Algebra/Sequences & Series/Series/Tests/Absolute Convergence.md",
-    "Math/Category Theory/Universal Constructions/Products.md",
-    "Math/Category Theory/Universal Constructions/Isomorphisms.md",
     "Math/Linear Algebra/Linear Transformations/Eigenvectors & Eigenvalues/Low-Rank Approximation.md",
     "Math/Linear Algebra/Linear Systems/Least Squares Approximation.md",
     "Math/Metric, Normed, & Hilbert Spaces/Metric Spaces.md",
