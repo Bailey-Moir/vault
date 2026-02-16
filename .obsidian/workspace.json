@@ -13,25 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Notes/MATH343/Lec1A 16-2.md",
-                "mode": "preview",
+                "file": "Lecture Notes/DATA301/Lec1A 17-2.md",
+                "mode": "source",
                 "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lec1A 16-2"
+              "title": "Lec1A 17-2"
+            }
+          },
+          {
+            "id": "fbc6719bacea63cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Todo.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Todo"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lecture Notes/MATH343/Lec1A 16-2.md",
+                "file": "Personal/Todo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -116,7 +123,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Lec1A 16-2"
+              "title": "Graph of Todo"
             }
           }
         ]
@@ -218,11 +225,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be5566c1404ec294",
+  "active": "fbc6719bacea63cc",
   "lastOpenFiles": [
+    "Computer Science/Machine Architecture/CPU.md",
+    "Personal/Todo.md",
+    "Computer Science/Data",
+    "Lecture Notes/DATA301/Lec1A 17-2.md",
+    "Lecture Notes/DATA301",
+    "Lecture Notes/MATH343/Lec1A 16-2.md",
     "Math/Analysis/Completeness.md",
     "Math/Analysis/The Real Numbers.md",
-    "Lecture Notes/MATH343/Lec1A 16-2.md",
     "Math/Topology/Closed Sets.md",
     "Math/Topology/Topological Bases.md",
     "Math/Analysis/Ordered Fields.md",
@@ -232,7 +244,6 @@
     "Rational Numbers.md",
     "Math/Discrete/Set Theory/Basics/Number Sets.md",
     "Math/Calculus/Differential Equations/Standards of Differential Equations.md",
-    "Personal/Todo.md",
     "Math/Metric, Normed, & Hilbert Spaces/Metric Spaces.md",
     "Lecture Notes/MATH343",
     "Lecture Notes",
@@ -246,8 +257,6 @@
     "Math/Category Theory/Functors.md",
     "Assets/excali/pushdown-automata.excalidraw.md",
     "Archive/Lecture Notes/COSC264/Lec11A 7-10.md",
-    "Math/Discrete/Graph Theory/Dense & Sparse Graphs.md",
-    "Computer Science/Abstract Data Types/Deques.md",
     "Math/Metric, Normed, & Hilbert Spaces",
     "preamble.sty~",
     "Assets/Pasted image 20250427214945.png",
@@ -256,8 +265,6 @@
     "Pasted Image 20260109154703_886.png",
     "Math/Category Theory/Induced Categories",
     "Math/Category Theory/Concrete Categories",
-    "Math/Category Theory",
-    "Math/Topology/Homeomorphisms",
     "Assets/ospf.png",
     "ospf.png",
     "dijkstra.png",
