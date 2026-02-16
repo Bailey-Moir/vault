@@ -8,7 +8,7 @@ A [[Relations|relation]] $\rel$ is a *preorder* iff it is **[[Reflexive Property
 
 > [!definition] A [[Sets|set]] equipped with a *preorder* is called a **preordered set** (or **proset**).
 
-> [!note] All *preorders* are [[Partial Order|partial orders]] and [[Equivalence Relations|relations]].
+> [!note] All *preorders* are [[Partial Order|partial orders]].
 
 [^1]: [[The Real Numbers]]
 [^2]: [[Subsets]]

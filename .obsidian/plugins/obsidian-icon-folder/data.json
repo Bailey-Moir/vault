@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiPaperclip",
       "LiGitCompareArrows",
       "LiDonut",
       "LiCpu",
-      "LiBraces",
-      "LiWifi"
+      "LiBraces"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -97,5 +97,6 @@
   "Personal/Politics & Philosophy": "LiLectern",
   "Computer Science/Lambda Calculus": "LiFunctionSquare",
   "Math/Topology": "LiDonut",
-  "Math/Category Theory": "LiGitCompareArrows"
+  "Math/Category Theory": "LiGitCompareArrows",
+  "Lecture Notes": "LiPaperclip"
 }
