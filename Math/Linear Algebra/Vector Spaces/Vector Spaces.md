@@ -5,7 +5,7 @@ tags:
   - linear
 ---
 A *vector space* $V$ is a [[Sets|set]] with a scalar [[Fields|field]] $\F$ with [[Binary Operations|binary operations]] of addition $+$ and scalar multiplication $\times$ such that
-- $\left( V,+ \right)$ is an [[Groups|abelian group]].
+- $\left( V,+ \right)$ is an [[Groups#^abelian-groups|abelian group]].
 - **Scalar Associativity**
   $(ab)\vecbf{v} \equiv a(b\vecbf{v})$
 - **Distributivity**

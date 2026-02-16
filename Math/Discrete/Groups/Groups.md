@@ -15,7 +15,7 @@ A *group* $\left( G,* \right)$ is a [[Sets|set]] $G$ together with a [[Binary Op
   $\begin{array}{l} \forall a,b \in G, \exists! c \in G : \\ a*b=c \end{array}$
   
 > [!definition] Abelian Groups
-> An *abelian group* is a *[[Groups|group]]* with commutativity: $\forall a,b \in G, (a*b = b*a)$.
+> An *abelian group* is a *group* with commutativity: $\forall a,b \in G, (a*b = b*a)$.
  ^abelian-groups
 
 \[[[Binary Operations]]\]
