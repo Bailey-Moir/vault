@@ -1,6 +1,7 @@
 #!/bin/python
 import os
 import matplotlib.pyplot as plt
+from numpy import mean
 
 VAULT = '~/Documents/vaults/vault/'
 EXCLUDE = {
@@ -90,6 +91,7 @@ for name, count in sorted(table, key=tableCMP, reverse=True)[:10]:
 
 axes = plt.axes()
 
+print(f"\nMean: {mean([entry[1] for entry in table if entry != None])}")
 axes.hist([entry[1] for entry in table if entry != None], bins=range(max(table, key=tableCMP)[1]+1))
 
 axes.grid(True)
