@@ -20,7 +20,7 @@ Note this makes the *absolute value* a [[Norms|norm]] on $\R$.
 > \end{align}$$
 > Thus, $\left| a+b \right| \le \left| a \right| + \left| b \right|$.
 
-> [!corollary]- **1.12.1** $\forall x,y \in \R, \left| x-y \right| \ge \left| \left| x \right| - \left| y \right| \right|$
+> [!corollary]- **1.12.1** $\forall x,y \in \R, \left| x-y \right| \ge \left| \left| x \right| - \left| y \right| \right|$ <br/> or alternatively $\forall x,y \in \R, \left| x \right| - \left| y \right| \le \left| x-y \right|$
 > $$\begin{align}
 > 	x &= x - y + y \\
 > 	\left| x \right| &= \left| \left( x - y \right) + y \right|  \\

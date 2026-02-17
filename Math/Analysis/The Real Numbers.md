@@ -29,7 +29,7 @@ In other words, the *real numbers* are defined as a [[Completeness|complete]] [[
 > \end{align}$$
 > This violates the definition of a [[Supremums and Infimums|supremum]], since $\sup(\N) -1$ is an [[Bounded Sets|upper bound]] that is strictly less than $\sup \N$. 
 > Thus, the [[Negation|negation]] is a [[Contradictions|contradiction]], meaning $\forall x \in \R, \exists n \in \N : x < n$.
-> 
+ ^archimedean-property
 
 
 [^1]: [[Number Sets]]

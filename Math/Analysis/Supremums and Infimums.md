@@ -13,4 +13,9 @@ The *infimum* of a [[Subsets|subset]] $S$ of a [[Partial Order|poset]], denoted 
 
 > [!theorem] $\inf S = -\sup(-S)$
 
+> [!theorem]- $\forall s < \sup S, \exists x \in S: s < x \le M$
+> Suppose $\exists s < \sup S : \forall x \in S, x \le s$ (part of the [[Negation|negation]]).
+> Then $s$ is an [[Bounded Sets|upper bound]] on $S$ smaller than $\sup S$, a [[Contradictions|contradiction]].
+ ^inbetween
+
 \[[[Completeness]]\]

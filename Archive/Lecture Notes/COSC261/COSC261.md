@@ -1,5 +1,5 @@
 [[Lec11B 20-5]]
-[[Lec1B 18-2]]
+[[Archive/Lecture Notes/COSC261/Lec1B 18-2]]
 [[Archive/Lectures/COSC261/Lec1C 20-2]]
 [[Archive/Lectures/COSC261/Lec2A 24-2]]
 [[Lec2B 25-2]]

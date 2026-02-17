@@ -8,18 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c10a2924a991ac51",
+            "id": "673e0c9ea9d93235",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Daily/26-02-18.md",
-                "mode": "source",
+                "file": "Personal/Todo.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "26-02-18"
+              "title": "Todo"
             }
           }
         ]
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Personal/Daily/26-02-18.md",
+                "file": "Personal/Todo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -107,7 +107,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 26-02-18"
+              "title": "Graph of Todo"
             }
           }
         ]
@@ -209,9 +209,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c10a2924a991ac51",
+  "active": "673e0c9ea9d93235",
   "lastOpenFiles": [
     "Personal/Daily/26-02-18.md",
+    "Lecture Notes/MATH321/Lec1B 18-2.md",
+    "Math/Analysis/Triangle Ineqaulity.md",
+    "Math/Analysis/Supremums and Infimums.md",
+    "Math/Metric, Normed, & Hilbert Spaces/Metric Spaces.md",
+    "Math/Algebra/Sequences & Series/Sequences/Metric Sequence Convergence.md",
+    "Math/Analysis/The Real Numbers.md",
+    "Lecture Notes/MATH321/Untitled.md",
+    "Math/Topology/Convergence/Sequence Convergence.md",
+    "Math/Algebra/Sequences & Series/Sequences/Sequences.md",
     "Personal/Todo.md",
     "Lecture Notes/MATH321/Lec1A 17-2.md",
     "Math/Analysis/Rings.md",
@@ -226,23 +235,14 @@
     "Computer Science/Data",
     "Lecture Notes/DATA301",
     "Math/Analysis/Completeness.md",
-    "Math/Analysis/The Real Numbers.md",
     "Math/Topology/Closed Sets.md",
     "Math/Topology/Topological Bases.md",
     "Math/Analysis/Ordered Fields.md",
     "Math/Discrete/Set Theory/Relations/Total Order.md",
     "Math/Discrete/Set Theory/Relations/Partial Order/Partial Order.md",
     "Math/Discrete/Set Theory/Relations/Partial Order/Preorder.md",
-    "Rational Numbers.md",
-    "Math/Discrete/Set Theory/Basics/Number Sets.md",
-    "Math/Calculus/Differential Equations/Standards of Differential Equations.md",
-    "Math/Metric, Normed, & Hilbert Spaces/Metric Spaces.md",
     "Lecture Notes/MATH343",
     "Lecture Notes",
-    "Math/Linear Algebra/Vectors/Norms/Norms.md",
-    "Math/Linear Algebra/Vector Spaces/Vector Spaces.md",
-    "Assets/excali/Metric Spaces 2026-02-16 12.54.32.excalidraw.md",
-    "Math/Linear Algebra/Vectors/Basics/Vector Addition.md",
     "Math/Metric, Normed, & Hilbert Spaces",
     "preamble.sty~",
     "Assets/Pasted image 20250427214945.png",
