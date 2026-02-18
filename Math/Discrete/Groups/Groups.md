@@ -37,6 +37,7 @@ A *group* $\left( G,* \right)$ is a [[Sets|set]] $G$ together with a [[Binary Op
 > 	e_{1} &= e_{2} && \text{Identity} \\
 > \end{align}$$
 > Thus, if there are two identities, they must be the same, meaning the identity is unique.
+^identity-uniqueness
 
 > [!proof]- Inverses are unique
 > Let $b_{1}$ and $b_{2}$ be two inverses of $a$. Then
@@ -47,6 +48,7 @@ A *group* $\left( G,* \right)$ is a [[Sets|set]] $G$ together with a [[Binary Op
 > 	b_{1} &= b_{2} && \text{Identity} \\
 > \end{align}$$
 > Thus, if there are two inverses for any element, they must be the same, meaning inverses is unique.
+^inverse-uniqueness
 
 > [!proof]- $\left( a^{-1} \right)^{-1} \equiv a$
 > $$\begin{align}
@@ -55,6 +57,7 @@ A *group* $\left( G,* \right)$ is a [[Sets|set]] $G$ together with a [[Binary Op
 > 	e*\left( a^{-1} \right) &= a*e \\
 > 	\left( a^{-1} \right) &= a && \text{Identity} \\
 > \end{align}$$
+^inverse-inverse
 
 > [!proof]- $\left( ab \right)^{-1} \equiv b^{-1}a^{-1}$
 > $$\begin{align}
