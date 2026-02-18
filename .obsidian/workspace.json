@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Lecture Notes/MATH321/Lec1B 18-2.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -23,13 +23,13 @@
             }
           },
           {
-            "id": "d0a55b2f6617db71",
+            "id": "dca999bf290eeb92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Math/Analysis/Rings.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -37,8 +37,7 @@
               "title": "Rings"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Math/Analysis/Rings.md",
+                "file": "Lecture Notes/MATH321/Lec1B 18-2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -123,7 +122,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Rings"
+              "title": "Graph of Lec1B 18-2"
             }
           }
         ]
@@ -225,9 +224,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d0a55b2f6617db71",
+  "active": "7ccaa59cffaa7b71",
   "lastOpenFiles": [
+    "Math/Analysis/Rings.md",
     "Lecture Notes/MATH321/Lec1B 18-2.md",
+    "Math/Analysis/Function Rings.md",
+    "Math/Analysis/Direct Sums of Rings.md",
+    "Math/Discrete/Set Theory/Basics/Set-Builder Notation.md",
+    "Math/Discrete/Number Theory/Divisibility/The Euclidean Algorithm.md",
+    "Math/Discrete/Number Theory/Divisibility/Extended Euclidean Algorithm.md",
+    "Assets/excali/euclidean-algorithm-proof.excalidraw.md",
     "Lecture Notes/MATH343/Lec1B 18-2.md",
     "Personal/Todo.md",
     "Personal/Daily/26-02-18.md",
@@ -239,7 +245,6 @@
     "Math/Topology/Convergence/Sequence Convergence.md",
     "Math/Algebra/Sequences & Series/Sequences/Sequences.md",
     "Lecture Notes/MATH321/Lec1A 17-2.md",
-    "Math/Analysis/Rings.md",
     "Math/Discrete/Groups/Groups.md",
     "Lecture Notes/MATH343/Lec1A 16-2.md",
     "Lecture Notes/DATA301/Lec1A 17-2.md",
@@ -251,12 +256,6 @@
     "Computer Science/Data",
     "Lecture Notes/DATA301",
     "Math/Analysis/Completeness.md",
-    "Math/Topology/Closed Sets.md",
-    "Math/Topology/Topological Bases.md",
-    "Math/Analysis/Ordered Fields.md",
-    "Math/Discrete/Set Theory/Relations/Total Order.md",
-    "Math/Discrete/Set Theory/Relations/Partial Order/Partial Order.md",
-    "Math/Discrete/Set Theory/Relations/Partial Order/Preorder.md",
     "Lecture Notes/MATH343",
     "Lecture Notes",
     "Math/Metric, Normed, & Hilbert Spaces",
