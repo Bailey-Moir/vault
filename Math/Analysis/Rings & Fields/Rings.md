@@ -67,8 +67,22 @@ A *ring* $R$ is a [[Sets|set]] together with two [[Binary Operations|binary oper
 > [!lemma]- [[#^unit|unit]] $\to$ not [[Zero-divisors|zero-divisor]].
 > Suppose $a$ is a [[#^unit|unit]] and $ab = 0$. Then
 > $$b = a^{-1}ab = a^{-1}0 = 0$$
-^units-and-zero-divisors
+^unit-gives-not-zero-divisor
+
+> [!lemma]- If $R$ is finite, then if $a \ne 0$ is not a [[Zero-divisors|zero-divisor]] $\to$ $a$ is [[#^unit|unit]].
+
+Suppose $R$ is finite, and $a \in R \setminus \{ 0 \}$ is not a [[Zero-divisors|zero-divisor]].
+
+Then for some $n > 1$, $a^\left| a \right| = a$ (where $\left| a \right|$ is the [[Generated Subgroups#Finite Generated Subgroups]])
+$$\begin{align}
+	a^\left| a \right| - a = 0 \\
+	a(a^\left| a \right| - 1) = 0 && \left| a \right| \geq 1 \\
+	a(a^\left| a \right| - 1) = 0
+	a^\left| a \right| - 1 = 0 && (1) \\
+	a^\left| a \right| = 1
+\end{align}$$
 
 
 
-> [!lemma]- If $R$ is finite and $a \ne 0$, then if $a$ is not [[Zero-divisors|zero-divisor]] $\to$ $a$ is [[#^unit|unit]].
+
+^finite-not-zero-divisor-gives-unit
