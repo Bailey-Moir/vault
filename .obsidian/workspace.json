@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "554921f4dfcda4a1",
+            "id": "6306d529e88a495d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "Lec1B 19-2"
             }
+          },
+          {
+            "id": "a09933a8fafcc907",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Big Data/Five Vs of Big Data.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Five Vs of Big Data"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lecture Notes/DATA301/Lec1B 19-2.md",
+                "file": "Computer Science/Big Data/Five Vs of Big Data.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -107,7 +123,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Lec1B 19-2"
+              "title": "Graph of Five Vs of Big Data"
             }
           }
         ]
@@ -209,9 +225,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "554921f4dfcda4a1",
+  "active": "a09933a8fafcc907",
   "lastOpenFiles": [
+    "Computer Science/Machine Architecture/CPU.md",
+    "Computer Science/Big Data/Five Vs of Big Data.md",
     "Lecture Notes/DATA301/Lec1B 19-2.md",
+    "Lecture Notes/DATA301/Lec1A 17-2.md",
     "Lecture Notes/COSC363/Lec1B 19-2.md",
     "Math/Analysis/Rings & Fields/Subrings.md",
     "Math/Discrete/Groups/Groups.md",
@@ -235,12 +254,9 @@
     "Math/Analysis/Triangle Ineqaulity.md",
     "Math/Analysis/Supremums and Infimums.md",
     "Math/Metric, Normed, & Hilbert Spaces/Metric Spaces.md",
-    "Math/Algebra/Sequences & Series/Sequences/Metric Sequence Convergence.md",
-    "Math/Analysis/The Real Numbers.md",
-    "Math/Topology/Convergence/Sequence Convergence.md",
     "Lecture Notes/MATH321",
     "Lecture Notes/COSC363",
-    "Computer Science/Data",
+    "Computer Science/Big Data",
     "Lecture Notes/DATA301",
     "Lecture Notes/MATH343",
     "Lecture Notes",
