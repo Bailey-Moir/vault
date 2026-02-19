@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Big Data/Strong & Weak Scalability.md",
-                "mode": "source",
+                "file": "Archive/Working in a Digital World/Memory.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Strong & Weak Scalability"
+              "title": "Memory"
             }
           }
         ]
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Computer Science/Big Data/Strong & Weak Scalability.md",
+                "file": "Archive/Working in a Digital World/Memory.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -107,7 +107,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Strong & Weak Scalability"
+              "title": "Graph of Memory"
             }
           }
         ]
@@ -211,8 +211,8 @@
   },
   "active": "56126d9a70a05a70",
   "lastOpenFiles": [
-    "Lecture Notes/MATH321/Lec1C 20-2.md",
     "Computer Science/Big Data/Strong & Weak Scalability.md",
+    "Lecture Notes/MATH321/Lec1C 20-2.md",
     "Math/Analysis/Rings & Fields/Division Rings.md",
     "Math/Analysis/Rings & Fields/Rings.md",
     "Math/Discrete/Groups/Order in Groups.md",
