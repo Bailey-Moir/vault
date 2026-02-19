@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Notes/COSC363/Lec1B 19-2.md",
+                "file": "Lecture Notes/DATA301/Lec1B 19-2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lecture Notes/COSC363/Lec1B 19-2.md",
+                "file": "Lecture Notes/DATA301/Lec1B 19-2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -211,8 +211,9 @@
   },
   "active": "554921f4dfcda4a1",
   "lastOpenFiles": [
-    "Math/Analysis/Rings & Fields/Subrings.md",
+    "Lecture Notes/DATA301/Lec1B 19-2.md",
     "Lecture Notes/COSC363/Lec1B 19-2.md",
+    "Math/Analysis/Rings & Fields/Subrings.md",
     "Math/Discrete/Groups/Groups.md",
     "Math/Analysis/Rings & Fields/Rings.md",
     "Lecture Notes/MATH343/Lec1B 18-2.md",
@@ -237,7 +238,6 @@
     "Math/Algebra/Sequences & Series/Sequences/Metric Sequence Convergence.md",
     "Math/Analysis/The Real Numbers.md",
     "Math/Topology/Convergence/Sequence Convergence.md",
-    "Math/Algebra/Sequences & Series/Sequences/Sequences.md",
     "Lecture Notes/MATH321",
     "Lecture Notes/COSC363",
     "Computer Science/Data",
