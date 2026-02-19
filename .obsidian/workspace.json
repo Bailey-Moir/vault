@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Lecture Notes/DATA301/Lec1B 19-2.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -37,8 +37,7 @@
               "title": "Five Vs of Big Data"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Computer Science/Big Data/Five Vs of Big Data.md",
+                "file": "Lecture Notes/DATA301/Lec1B 19-2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -123,7 +122,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Five Vs of Big Data"
+              "title": "Graph of Lec1B 19-2"
             }
           }
         ]
@@ -225,10 +224,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a09933a8fafcc907",
+  "active": "6306d529e88a495d",
   "lastOpenFiles": [
-    "Computer Science/Machine Architecture/CPU.md",
     "Computer Science/Big Data/Five Vs of Big Data.md",
+    "Computer Science/Machine Architecture/CPU.md",
     "Lecture Notes/DATA301/Lec1B 19-2.md",
     "Lecture Notes/DATA301/Lec1A 17-2.md",
     "Lecture Notes/COSC363/Lec1B 19-2.md",
