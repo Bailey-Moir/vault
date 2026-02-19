@@ -7,8 +7,12 @@ A *field* $\F$ is a [[Sets|set]] together with two [[Binary Operations|binary op
 1. $\left( \F,+ \right)$ is an [[Groups#^abelian-groups|abelian group]].
 2. $\left( \F\setminus\{0\}, \times \right)$ is an [[Groups|abelian group]], where $0$ is the additive identity.
 3. $\forall a,b,c \in \F, (c(a+b) = ca+cb)$ (distributivity).
+
+> [!Note-]
+> - A *field* is a [[Groups#^abelian-groups|commutative]] [[Rings|ring]] with [[Rings#^unity|unity]] where everything is a [[Rings#^unit|unit]].
+> - A *field* is an [[Integral Domains|integral domain]] where everything is a [[Rings#^unit|unit]].
 # Field Theorems
-> [!theorem]- **(1)** $0a \equiv 0$
+> [!theorem]- *(1)* $0a \equiv 0$
 > $$\begin{align*}
 > 	0 &= 0 + 0 && \text{Additive Identity} \\
 > 	0a &= \left( 0+0 \right)a \\
@@ -18,7 +22,7 @@ A *field* $\F$ is a [[Sets|set]] together with two [[Binary Operations|binary op
 > \end{align*}$$
  ^zero-mult
 
-> [!theorem]- **(2)** $-a \equiv (-1)a$
+> [!theorem]- *(2)* $-a \equiv (-1)a$
 > $$\begin{align*}
 > 	0 &= 1 + (-1) && \text{Additive Inverse} \\
 > 	0a &= 1a + (-1)a && \text{Distributive Property}\\
@@ -27,7 +31,7 @@ A *field* $\F$ is a [[Sets|set]] together with two [[Binary Operations|binary op
 > Therefore, $(-1)a$ is the *unique* additive inverse
  ^negative-times-negative-one
 
-> [!theorem]- **(3)** $(-a)b = -(ab) = a(-b)$
+> [!theorem]- *(3)* $(-a)b = -(ab) = a(-b)$
 > $$\begin{array}{l}
 > 	\begin{align*}
 > 		(-a)b &= (-1)ab && \mathbf{(2)}\, \forall a\in \F, -a= (-1)a \\
@@ -42,7 +46,7 @@ A *field* $\F$ is a [[Sets|set]] together with two [[Binary Operations|binary op
 > \end{array}$$
  ^negative-associative
 
-> [!theorem]- **(4)** $(ab)^2 = a^2b^2$
+> [!theorem]- *(4)* $(ab)^2 = a^2b^2$
 > $$\begin{array}{l}
 > 	\begin{align*}
 > 		(ab)^2 &= (ab)(ab) && \text{(1)} \\

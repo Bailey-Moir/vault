@@ -62,3 +62,13 @@ A *ring* $R$ is a [[Sets|set]] together with two [[Binary Operations|binary oper
 > 	a_{1}^{-1} = a_{2}^{-1}. \\
 > \end{array}$$
 ^properties
+
+> [!lemma]- If $a \in R$ is a [[#^unit|unit]], then $a$ is not a [[Zero-divisors|zero-divisor]].
+> Suppose $a$ is a [[#^unit|unit]] and $ab = 0$. Then
+> $$b = a^{-1}ab = a^{-1}0 = 0$$
+^units-and-zero-divisors
+
+
+
+not-unit -> zero-divisor
+not-zero-divisor -> unit
