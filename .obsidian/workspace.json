@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "97397b241dafdcfe",
+        "id": "e68ebb563eeb984b",
         "type": "tabs",
         "children": [
           {
-            "id": "56126d9a70a05a70",
+            "id": "aa56c97a74dc9a66",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Archive/Working in a Digital World/Memory.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Memory"
+              "title": "New tab"
             }
           }
         ]
@@ -79,7 +74,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Archive/Working in a Digital World/Memory.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -107,7 +101,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Memory"
+              "title": "Graph view"
             }
           }
         ]
@@ -209,8 +203,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56126d9a70a05a70",
+  "active": "3a4f7896fbf90ae2",
   "lastOpenFiles": [
+    "Math/Discrete/Propositional Logic/Implication from Universal Quantifiers.md",
+    "Computer Science/Big Data/Distributed File Systems.md",
+    "Assets/excali/chunk-servers.excalidraw.md",
+    "Computer Science/C/Dynamic Memory.md",
+    "Computer Science/Machine Architecture/Program Memory.md",
+    "Computer Science/C/Memory in C.md",
+    "Archive/Working in a Digital World/Memory.md",
     "Computer Science/Big Data/Strong & Weak Scalability.md",
     "Lecture Notes/MATH321/Lec1C 20-2.md",
     "Math/Analysis/Rings & Fields/Division Rings.md",
@@ -224,19 +225,12 @@
     "Math/Analysis/Rings & Fields/Zero-divisors.md",
     "Math/Analysis/Fields.md",
     "Lecture Notes/DATA301/Lec1B 19-2.md",
-    "Computer Science/Big Data/Distributed File Systems.md",
     "Assets/excali/opposite-angles-cyclic-quads-proof.excalidraw.md",
-    "Assets/excali/chunk-servers.excalidraw.md",
     "Computer Science/Big Data/Five Vs of Big Data.md",
     "Math/Geometry/Circle Geometry/Opposite Angles of Cyclic Quadrilaterals.md",
     "Assets/excali/opposite-angles-cyclic-quads.excalidraw.md",
     "Assets/excali/inductor-opposing-change-in-current.excalidraw.md",
     "Computer Science/Machine Architecture/CPU.md",
-    "Lecture Notes/DATA301/Lec1A 17-2.md",
-    "Lecture Notes/COSC363/Lec1B 19-2.md",
-    "Math/Analysis/Rings & Fields/Subrings.md",
-    "Math/Discrete/Groups/Groups.md",
-    "Lecture Notes/MATH343/Lec1B 18-2.md",
     "Math/Analysis/Rings & Fields",
     "Lecture Notes/MATH321",
     "Lecture Notes/COSC363",
