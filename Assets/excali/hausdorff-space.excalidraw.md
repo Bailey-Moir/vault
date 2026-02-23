@@ -27,7 +27,7 @@ d99fbdc3c3fa6c1e78d32726577274cb1720619c: $$\exists$$
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.13.1",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.13.0",
 	"elements": [
 		{
 			"id": "YcTkT8WNVdfIQ9-Gk_R60",
@@ -114,10 +114,10 @@ d99fbdc3c3fa6c1e78d32726577274cb1720619c: $$\exists$$
 		{
 			"id": "27tBqqS1",
 			"type": "image",
-			"x": -100.65750155405661,
-			"y": -113.14383142828538,
-			"width": 14.770978917519928,
-			"height": 10.155048005794951,
+			"x": -100.77201209529665,
+			"y": -113.0663074253879,
+			"width": 15,
+			"height": 10,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -149,10 +149,10 @@ d99fbdc3c3fa6c1e78d32726577274cb1720619c: $$\exists$$
 		{
 			"id": "QV9NXs71DBfyL4w666sd9",
 			"type": "image",
-			"x": 39.411638689400405,
-			"y": -112.83030520207167,
-			"width": 13.96279735645038,
-			"height": 10.239384728063612,
+			"x": 39.070884661299615,
+			"y": -112.59204797559052,
+			"width": 14.64430541265196,
+			"height": 9.762870275101307,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -371,10 +371,10 @@ d99fbdc3c3fa6c1e78d32726577274cb1720619c: $$\exists$$
 		{
 			"id": "BO9fIz1Iqr1WcvmEWIScw",
 			"type": "image",
-			"x": -98.1245691611361,
-			"y": -145.5912359815331,
-			"width": 22.23847801766766,
-			"height": 15.697749188941877,
+			"x": -98.27224148618197,
+			"y": -145.48836292910445,
+			"width": 22.533822667759416,
+			"height": 15.492003084084597,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -406,10 +406,10 @@ d99fbdc3c3fa6c1e78d32726577274cb1720619c: $$\exists$$
 		{
 			"id": "UwQauI4AnL2e71bjCbZmg",
 			"type": "image",
-			"x": 29.87832156461573,
-			"y": -150.40587294693722,
-			"width": 22.23847801766766,
-			"height": 15.697749188941877,
+			"x": 29.730649239569853,
+			"y": -150.3029998945086,
+			"width": 22.533822667759416,
+			"height": 15.492003084084597,
 			"angle": 0,
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
@@ -455,10 +455,10 @@ d99fbdc3c3fa6c1e78d32726577274cb1720619c: $$\exists$$
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"currentItemArrowType": "round",
-		"scrollX": 420.21783367560687,
-		"scrollY": 342.7574853306627,
+		"scrollX": 152.87536641912592,
+		"scrollY": 201.3261079769303,
 		"zoom": {
-			"value": 2
+			"value": 5.924444
 		},
 		"currentItemRoundness": "round",
 		"gridSize": 20,

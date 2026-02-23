@@ -3,7 +3,7 @@ tags:
   - atom
   - math
 ---
-All [[Bounded Sequences|bounded]] [[Monotone Sequences|monotone sequences]] [[Metric Sequence Convergence|converge]] (its [[Supremums and Infimums|supremum]]/[[Supremums and Infimums|infimum]]).
+All [[Bounded Sequences|bounded]] [[Monotone Sequences|monotone sequences]] [[Metric Sequence Convergence|converge]] (to its [[Supremums and Infimums|supremum]]/[[Supremums and Infimums|infimum]]).
 
 > [!proof]-
 > **(Increasing)**

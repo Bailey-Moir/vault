@@ -3,7 +3,7 @@ tags:
   - atom
   - math
 ---
-> [!theorem]- **1.18.1** Let $S = \{ x \in \R : \forall \varepsilon \in \R , (\varepsilon > 0 \to x < \varepsilon) \}$. Then $0$ is an [[Bounded Sets|upper bound]] for $S$.
+> [!theorem]- **1.18.1** Let $S = \{ x \in \R : \forall \varepsilon > 0 , x < \varepsilon \}$. Then $0$ is an [[Bounded Sets|upper bound]] for $S$.
 > Suppose $0$ is not an [[Bounded Sets|upper bound]] for $S$.
 > 
 > Then there exists $x \in S$ such that $x > 0$.

@@ -17,6 +17,7 @@ $$\forall p,q \in X, \left( p \ne q \to \exists A_{p} \in \mathcal{N}_{p},A_{q} 
 > Thus, any pair of [[Neighbourhoods|neighbourhoods]] of $L$ and $M$ must be non-[[Disjoint Sets|disjoint]], meaning $\left( X,\mathcal{T} \right)$ is not a *Hausdorff space*.
 > 
 > Thus, the result is proven [[Proof by Contraposition|by contraposition]]. $\square$
+^unique-limits
 
 > [!theorem-2]- Any finite [[Subsets|subset]] of a *Hausdorff space* is [[Closed Sets|closed]].
 > Suppose $S$ is a finite [[Subsets|subset]] of a *Hausdorff space*.

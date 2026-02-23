@@ -3,34 +3,34 @@ tags:
   - atom
   - math
 ---
-A [[Sequences|sequence]] $(a_{n})$ *converges* to $L$ iff
-$$\forall \varepsilon > 0, \exists N \in \N : \forall n \ge N, \left| a_{n} - L \right| < \varepsilon.$$
-
-> [!theorem]- \- **Uniqueness of Limits of Sequences** - The *limit* of a [[Sequences|sequence]] is unique.
-> Suppose $\left( a_{n} \right)^\infty_{n=1}$ converges  to $L,M \in \R$.
+A [[Sequences|sequence]] $(a_{n}) : \N \to M$ for some [[Metric Spaces|metric space]] $M$ *converges* to $\lambda \in M$ iff
+$$\forall \varepsilon > 0, \exists N \in \N : \forall n \ge N, d(a_{n}, \lambda) < \varepsilon.$$
+> [!theorem]- *(Uniqueness of Limits)* The *limit* of a [[Sequences|sequence]] is unique.
+> Suppose $\left( a_{n} \right)^\infty_{n=1}$ converges  to $\lambda_{1},\lambda_{2} \in \R$.
 > 
-> Then for $\frac{\varepsilon}{2} > 0$, there exists $N_{L}$ such that for all $n \ge N_{L}$,
-> $$ \left| a_{n} - L \right| < \dfrac{\varepsilon}{2}, $$
-> and similarly, there exists $N_{M}$ such that for all $n \ge N_{M}$,
-> $$ \left| a_{n} - M \right| < \dfrac{\varepsilon}{2}. $$
-> If $n \ge \max\{ N_{L},N_{M} \}$, then both will hold.
+> Then for $\frac{\varepsilon}{2} > 0$, there exists $N_{\lambda_{1}}$ and $N_{\lambda_{2}}$ such that
+> $$\begin{align}
+> 	d(a_{n}, \lambda_{1}) &< \dfrac{\varepsilon}{2}, && \forall n \ge N_{\lambda_{1}} \\
+> 	d(a_{n}, \lambda_{2}) &< \dfrac{\varepsilon}{2}. && \forall n \ge N_{\lambda_{2}} 
+> \end{align}$$
+> Thus, if $n \ge N = \max\{ N_{\lambda_{1}},N_{\lambda_{2}} \}$, then both will hold.
 > 
 > By the [[Triangle Ineqaulity|triangle inequality]],
-> $$\left| L-M \right| \le \left| -\left( a_{n} - L \right) \right| + \left| a_{n}-M \right| < \varepsilon. $$
+> $$d(\lambda_{1}, \lambda_{2}) \le d(a_{n},\lambda_{1}) + d(a_{n}, \lambda_{2}) < \varepsilon.$$
+> Thus, for any $\varepsilon > 0$, $d(\lambda_{1},\lambda_{2}) < \varepsilon$, so by [[Bounding with Epsilon|theorem 1.18.3]], $\lambda_{1} = \lambda_{2}$. $\square$
 > 
-> Thus, for any $\varepsilon > 0$, $\left| L-M \right| < \varepsilon$, so by [[Bounding with Epsilon|theorem 1.18.3]], $L = M$.
+> This is also given directly by [[Metric Spaces|Metric spaces]] inducing a [[Hausdorff Spaces|Hausdorff space]], and [[Hausdorff Spaces#^unique-limits|Hausdroff spaces have unique limits]].
+^uniqueness
 
-> [!theorem]- **2.5** If $a_{n} = c$ for all $n$, then $a_{n}$ *converges* to $c$.
+> [!theorem]- *(Const. Conv.)* If $a_{n} = c$ for all $n$, then $a_{n}$ *converges* to $c$.
 > Let $\varepsilon > 0$ be given, and $N = 0$. Then for all $n \ge 0$,
-> $$\begin{align}
-> 	\left| a_{n}-L \right| &= \left| c-c \right| \\
-> 	&= \left| 0 \right| \\
-> 	&= 0 < \varepsilon && \varepsilon > 0 \\
-> \end{align}$$
+> $$ d(a_{n}, c) = d(c, c) = 0 < \varepsilon. $$
+^constant-convergence
 
-> [!definition] A [[Sequences|sequence]] $\left( a_{n} \right)$ *diverges* iff $\forall L \in \R, \exists \varepsilon > 0 : \forall N, \exists n\ge N : \left| a_{n} - L \right| \ge \varepsilon$
+> [!definition] A [[Sequences|sequence]] $\left( a_{n} \right)$ **diverges** iff $\forall \lambda \in M, \exists \varepsilon > 0 : \forall N \in \N, \exists n\ge N : d(a_{n}, \lambda) \ge \varepsilon$.
+^divergence
 ## Examples
-> [!example]- **2.3** $\left( \dfrac{1}{n} \right)^\infty_{n=1}$ converges to $0$.
+> [!example]- **2.3** $\left( \dfrac{1}{n} \right)^\infty_{n=1}$ converges to $0$ in $\R$.
 > Let $\varepsilon > 0$ be given.
 > $$\begin{align}
 > 	\left| a_{n} - L\right| &= \left| \dfrac{1}{n} - 0 \right| \\
@@ -40,7 +40,7 @@ $$\forall \varepsilon > 0, \exists N \in \N : \forall n \ge N, \left| a_{n} - L 
 > By the [[The Real Numbers#Properties of The Reals|the Archimedean property]] applied to $x = \dfrac{1}{\varepsilon}$, there is an $N$ such that $\dfrac{1}{\varepsilon} < N$.
 > Now if $n \ge N$, then $n \ge N > \dfrac{1}{\varepsilon}$, meaning $n > \dfrac{1}{\varepsilon}$, and thus $\dfrac{1}{n} < \varepsilon$.
 
-> [!example]- $a_{n} = 1 - \dfrac{1}{n^2 + 1}$
+> [!example]- $a_{n} = 1 - \dfrac{1}{n^2 + 1}$ in $\R$.
 > We expect $L=1$ as a limit.
 > 
 > Let $\varepsilon > 0$ be given. We want to test
@@ -54,7 +54,7 @@ $$\forall \varepsilon > 0, \exists N \in \N : \forall n \ge N, \left| a_{n} - L 
 > Thus,
 > $$\left| 1-\dfrac{1}{n^2-1}-1 \right| = \dfrac{1}{n^2 + 1} < \varepsilon$$
 
-> [!example]- $b_{n} = \dfrac{n^2-1}{2n^2+3}$
+> [!example]- $b_{n} = \dfrac{n^2-1}{2n^2+3}$ in $\R$.
 > We expect $L = \dfrac{1}{2}$
 > $$\begin{align}
 > 	\left| b_{n} - L \right| &= \left| \dfrac{n^2-1}{2n^2+3} - \dfrac{1}{2} \right|  \\

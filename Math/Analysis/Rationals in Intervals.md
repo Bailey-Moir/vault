@@ -21,7 +21,7 @@ tags:
 > 	\forall n, \hspace{0.5em}\left| x-x_{n} \right| &< \varepsilon_{n} \\
 > 	\lim\left| x-x_{n} \right| &\leq \lim\varepsilon_{n} && \text{Proof?} \\
 > 	\lim\left| x-x_{n} \right| &\leq 0 \\
-> 	\lim\left| x-x_{n} \right| &= 0 && \text{Proof?} \\
+> 	\lim\left| x-x_{n} \right| &= 0 \\
 > 	\lim \left( x-x_{n} \right) &= 0 \\
 > 	x - \lim x_{n} &= 0 \\
 > 	\lim x_{n} &= x \\

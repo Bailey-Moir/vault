@@ -3,7 +3,7 @@ tags:
   - atom
   - math
 ---
-Let $\left( a_{n} \right)_{n=1}^\infty$ and $\left( b_{n} \right)_{n=1}^\infty$ be [[Metric Sequence Convergence|convergent sequences]], and let $c \in \R$.
+Let $\left( a_{n} \right)_{n=1}^\infty$ and $\left( b_{n} \right)_{n=1}^\infty$ be [[Metric Sequence Convergence|convergent sequences]] in $\R$, and let $c \in \R$.
 > [!theorem]- **2.6.1** $\left( ca_{n} \right)_{n=1}^\infty$ is [[Metric Sequence Convergence|convergent]], and $$\lim(ca_{n})=c\lim a_{n}$$
 > Suppose $c = 0$, then $ca_{n}$ is a constant [[Sequences|sequence]] $0$, so it converges to $0 = c \lim a_{n}$.
 > 

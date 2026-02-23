@@ -69,5 +69,19 @@ A *ring* $R$ is a [[Sets|set]] together with two [[Binary Operations|binary oper
 > $$b = a^{-1}ab = a^{-1}0 = 0$$
 ^unit-gives-not-zero-divisor
 
-> [!lemma] If $R$ is finite, then if $a \ne 0$ is not a [[Zero-divisors|zero-divisor]] $\to$ $a$ is [[#^unit|unit]].
+> [!lemma]- If $R$ is finite, then if $a \ne 0$ is not a [[Zero-divisors|zero-divisor]] $\to$ $a$ is [[#^unit|unit]].
+> Let $R$ be a finite *ring*, and $a \ne 0$ be a non-[[Zero-divisors|zero-divisor]] in $R$.
+> 
+> Let $0\le m < n$ be the smallest [[Natural Numbers|natural]] powers such that $a^m = a^n$.
+> 
+> Otherwise, if $1 \leq m < n$ ($m \ne 0$, then
+> $$\begin{align}
+> 	a^m - a^n = 0 \\
+> 	a(a^{m-1} - a^{n-1}) = 0 \\
+> 	a^{m-1} - a^{n-1} = 0 && a \text{ is not zero-divisor} \\
+> 	a^{m-1} = a^{n - 1}. \\
+> \end{align}$$
+> This [[Contradictions|contradicts]] the minimality of $m,n$. Thus, $m = 0$
+> 
+> Thus, suppose $m = 0$. Then $a^0 = 1 = a^n$, so $a\times a^{n-1} = 1$ (as $n > 0$), meaning $a$ is a [[#^unit|unit]] with inverse $a^{n-1}$.
 ^finite-not-zero-divisor-gives-unit
