@@ -14,27 +14,12 @@
               "type": "markdown",
               "state": {
                 "file": "Lecture Notes/MATH321/Lec2A 24-2.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Lec2A 24-2"
-            }
-          },
-          {
-            "id": "5660145762573e36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Analysis/Rings & Fields/Ring Characteristic.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Ring Characteristic"
             }
           },
           {
@@ -44,22 +29,12 @@
               "type": "markdown",
               "state": {
                 "file": "Math/Analysis/Rings & Fields/Wedderburn's Theorem.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Wedderburn's Theorem"
-            }
-          },
-          {
-            "id": "f0900d5b712aaee9",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
             }
           }
         ],
@@ -120,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Math/Analysis/Rings & Fields/Ring Characteristic.md",
+                "file": "Math/Analysis/Rings & Fields/Wedderburn's Theorem.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,7 +123,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Ring Characteristic"
+              "title": "Graph of Wedderburn's Theorem"
             }
           }
         ]
@@ -250,12 +225,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5660145762573e36",
+  "active": "dea852d4a2b9dcf8",
   "lastOpenFiles": [
-    "preamble.sty~",
-    "Math/Analysis/Rings & Fields/Ring Characteristic.md",
     "Lecture Notes/MATH321/Lec2A 24-2.md",
     "Math/Analysis/Rings & Fields/Wedderburn's Theorem.md",
+    "Math/Discrete/Groups/Generated Subgroups.md",
+    "Math/Discrete/Groups/Order in Groups.md",
+    "Math/Analysis/Rings & Fields/Ring Characteristic.md",
+    "Math/Discrete/Number Theory/Primes/Primes.md",
+    "Math/Analysis/Rings & Fields/Integral Domains.md",
+    "Math/Discrete/Number Theory/Divisibility/GCD with LCM.md",
+    "Math/Discrete/Number Theory/Divisibility/Greatest Common Divisor.md",
+    "Lowest Common Multiple.md",
+    "preamble.sty~",
+    "Math/Discrete/Groups/Group Generators.md",
+    "Computer Science/Formal Languages/Compiler Steps/Code Generator.md",
     "Math/Analysis/Rings & Fields/Division Rings.md",
     "Computer Science/Big Data/Distributed File Systems.md",
     "Lecture Notes/DATA301/Lec2A 24-2.md",
@@ -270,14 +254,6 @@
     "Math/Algebra/Sequences & Series/Sequences/Metric Sequence Convergence.md",
     "Math/Topology/Convergence/Sequence Convergence.md",
     "Math/Algebra/Sequences & Series/Sequences/Sequences.md",
-    "Math/Topology/Topology.md",
-    "Math/Metric, Normed, & Hilbert Spaces/Metric Spaces.md",
-    "Math/Topology/Hausdorff Spaces.md",
-    "Math/Calculus/Fundamental Theorem of Calculus.md",
-    "Math/Analysis/Bounding with Epsilon.md",
-    "Math/Calculus/Limits/Sequence Limit Laws.md",
-    "Math/Algebra/Algebraic Laws.md",
-    "Math/Analysis/Rings & Fields/Rings.md",
     "Math/Analysis/Rings & Fields",
     "Lecture Notes/MATH321",
     "Lecture Notes/COSC363",
