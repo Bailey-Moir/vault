@@ -2,7 +2,7 @@
 [[Archive/Lecture Notes/COSC261/Lec1B 18-2]]
 [[Archive/Lectures/COSC261/Lec1C 20-2]]
 [[Archive/Lectures/COSC261/Lec2A 24-2]]
-[[Lec2B 25-2]]
+[[Archive/Lecture Notes/COSC261/Lec2B 25-2]]
 [[Archive/Lectures/COSC261/Lec2C 27-2]]
 [[Archive/Lectures/COSC261/Lec3A 03-3]]
 [[Lec3B 04-3]]

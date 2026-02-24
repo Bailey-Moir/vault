@@ -12,9 +12,9 @@ For three [[Sequences|sequences]] $\left( a_{n} \right)$, $\left( b_{n} \right)$
 > 	\forall n \ge N_{a},&\left| a_{n}-L \right| < \varepsilon \\
 > 	\forall n \ge N_{b},&\left| b_{n}-L \right| < \varepsilon. \\
 > \end{array}$$
-> Thus, for all $n \ge \max\{ N_{a},N_{b} \}$, $L - \varepsilon < a_{n}$ and $b_{n} < L+\varepsilon$. Thus,
+> Thus, for all $n \ge N = \max\{ N_{a},N_{b} \}$, $- \varepsilon < a_{n} - L$ and $b_{n} - L < \varepsilon$. Thus,
 > $$\begin{array}{c}
-> 	L-\varepsilon < a_{n} \le c_{n} \le b_{n} < L + \varepsilon \\
-> 	L-\varepsilon < c_{n} < L + \varepsilon \\
+> 	-\varepsilon < a_{n} - L \le c_{n} - L \le b_{n} - L < \varepsilon \\
+> 	-\varepsilon < c_{n} - L < \varepsilon \\
 > 	\left| c_{n} - L \right| < \varepsilon \\
 > \end{array}$$
