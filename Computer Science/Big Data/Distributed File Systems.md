@@ -11,3 +11,4 @@ In a *distributed file system*,
 
 > [!-] **Chunk servers** also serve as compute servers.
 
+> [!note] **Chunk servers** are organised into racks, typically intra-connected by gigabit [[Ethernet|ethernet]], and these racks are typically connected to each other by higher [[Bandwidth|bandwidth]] [[Ethernet|ethernet]].
