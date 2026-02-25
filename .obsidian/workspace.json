@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "51872cf9da280eb1",
+        "id": "0824e721ae00d5fb",
         "type": "tabs",
         "children": [
           {
-            "id": "12414d1ef8f6ef54",
+            "id": "88d5e24ced2548f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Todo.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Todo"
+              "title": "New tab"
             }
           }
         ]
@@ -164,8 +159,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "12414d1ef8f6ef54",
+  "active": "88d5e24ced2548f0",
   "lastOpenFiles": [
+    "Personal/Todo.md",
     "Math/Linear Algebra/Linear Systems/Least Squares Approximation.md",
     "Lecture Notes/MATH343/Lec2B 25-2.md",
     "Math/Algebra/Sequences & Series/Sequences/Bolzano-Weierstrass.md",
@@ -192,7 +188,6 @@
     "Math/Discrete/Number Theory/Divisibility/Greatest Common Divisor.md",
     "Lowest Common Multiple.md",
     "preamble.sty~",
-    "Math/Discrete/Groups/Group Generators.md",
     "Math/Analysis/Rings & Fields",
     "Lecture Notes/MATH321",
     "Lecture Notes/COSC363",
