@@ -6,7 +6,7 @@ tags:
 ---
 To convert to base $b$ from base $10$, divide the number by $b$, using the remainder as the digit base $b$, and do the same thing with the quotient.
 
-Suppose you have a number $q_{0}$ in base $10$ that you want to covert to base $b$. [[The Division Algorithm|The division algorithm]] gives
+Suppose you have a number $q_{0}$ in base $10$ that you want to covert to base $b$. [[Division Algorithm|The division algorithm]] gives
 $$\begin{array}{r}
 	q_{0} = q_{1}b + r_{1} \\
 	q_{1} = q_{2}b + r_{2} \\

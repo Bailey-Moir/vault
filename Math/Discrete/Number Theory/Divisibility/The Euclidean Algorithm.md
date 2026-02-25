@@ -46,5 +46,5 @@ The *Euclidean Algorithm* finds the [[Greatest Common Divisor|greatest common di
 
 \[[[Greatest Common Divisor]]\]
 
-[^1]: [[The Division Algorithm]]
+[^1]: [[Division Algorithm]]
 [^2]: [[Set Equality]]

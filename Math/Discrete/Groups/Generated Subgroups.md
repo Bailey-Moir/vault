@@ -50,4 +50,4 @@ and all of these elements are distinct
 
 [^1]: [[Groups]]
 [^2]: [[Order in Groups]]
-[^3]: [[The Division Algorithm]]
+[^3]: [[Division Algorithm]]

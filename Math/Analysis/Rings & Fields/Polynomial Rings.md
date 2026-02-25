@@ -20,6 +20,8 @@ $$\begin{align}
 > - has a [[Rings#^unity|unity]], 
 > - and has no [[Zero-divisors|zero-divisors]].
 > 
+> ---
+> 
 > $$\begin{align}
 > 	\sum_{i = 0}^n a_{i}x^i \times \sum_{i = 0}^m b_{i}x^i &= \sum_{i = 0}^n \sum_{j=0}^m a_{i}b_{j}x^{i+j} \\
 > 	&= \sum_{i = 0}^m \sum_{j=0}^n b_{j}a_{i}x^{j+i} && (1) \\
@@ -34,14 +36,4 @@ $$\begin{align}
 > \end{align}$$
 > Thus, $1 \in D$ is also the [[Rings#^unity|unity]] in $R[x]$.
 > 
-> $$\begin{align}
-> 	0 &= \sum_{i = 0}^n a_{i}x^i \times \sum_{i = 0}^m b_{i}x^i \\
-> 	&= \sum_{i = 0}^n \sum_{j=0}^m a_{i}b_{j}x^{i+j} \\
-> 	\to  \quad  a_{i}b_{j} &= 0 && \forall i \in \N_{\le n}, \forall j \in \N_{\le m} \\
-> \end{align}$$
-> Thus, if $\exists i \in \N_{\le n} : a_{i} \ne 0$, then $i \in \N_{\le n}$, then $\forall j \in \N_{\le m}, b_{j} = 0$ - by the lack of [[Zero-divisors|zero-divisors]] - which gives that $\sum_{i = 0}^m b_{i}x^i = 0$. By the [[Groups#^abelian-groups|commutativity]] of $D[x]$, this works in the other direction as well (as these are arbitrary [[Polynomials|polynomials]]).
-> 
-> Thus, if two [[Polynomials|polynomials]] multiply to $0$, at least one of them must be $0$, meaning there are no [[Zero-divisors|zero-divisors]].
-> 
-> 
-> 
+> Suppose $f(x) = \sum_{i = 0}^n a_{i}x^i \ne 0$, and $g(x) = \sum_{i = 0}^m b_{i}x^i \ne 0$. Then the leading coefficient $a_{n}b_{m}x^{n+m}$ of $f\times g$ is non-zero as $D$ has no [[Zero-divisors|zero-divisors]], meaning $f\times g$ is non-zero, so $D[x]$ has no [[Zero-divisors|zero-divisors]].
