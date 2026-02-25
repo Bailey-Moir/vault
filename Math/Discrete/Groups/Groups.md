@@ -7,6 +7,7 @@ tags:
 A *group* $\left( G,* \right)$ is a [[Sets|set]] $G$ together with a [[Binary Operations|binary operation]] $* : G \times G \to G$ that satisfies the following properties:
 1. **Associativity**
   $\begin{array}{l} \forall a,b,c \in G,\\ (a*b)*c = a*(b*c) \end{array}$
+  ^associtativity
 2. **Identity**
   $\begin{array}{l} \exists e \in G : \forall a \in G, \\ a*e = a = e*a \end{array}$
 3. **Inverse**
