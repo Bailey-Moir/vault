@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "125926397332c5fd",
+        "id": "5f8cd48e38692512",
         "type": "tabs",
         "children": [
           {
-            "id": "3044156d9db8ea83",
+            "id": "8140b83fcedad882",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ]
@@ -74,6 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Untitled.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -96,12 +102,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
+                  "scale": 0.4886401660982076,
+                  "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Untitled"
             }
           }
         ]
@@ -203,11 +209,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3044156d9db8ea83",
+  "active": "8140b83fcedad882",
   "lastOpenFiles": [
-    "Math/Analysis/Rings & Fields/Division Algorithm.md",
-    "Math/Discrete/Number Theory/Divisibility/Divisibility.md",
+    "Untitled.md",
     "Lecture Notes/MATH321/Lec2B 25-2.md",
+    "Math/Analysis/Rings & Fields/Division Algorithm.md",
+    "Math/Linear Algebra/Linear Transformations/Eigenvectors & Eigenvalues/Geometric and Algebraic Multiplicity.md",
+    "Math/Discrete/Number Theory/Divisibility/Divisibility.md",
     "Math/Discrete/Number Theory/Divisibility/The Euclidean Algorithm.md",
     "Math/Discrete/Number Theory/Modular Arithmetic/Changing Base.md",
     "Math/Discrete/Groups/Groups.md",
@@ -229,8 +237,6 @@
     "Math/Calculus/Limits/Squeeze Theorem.md",
     "Lecture Notes/MATH343/Lec1B 18-2.md",
     "Lecture Notes/MATH343/Lec2A 23-2.md",
-    "Math/Analysis/Rings & Fields/Wedderburn's Theorem.md",
-    "Computer Science/Big Data/MapReduce.md",
     "preamble.sty~",
     "Math/Analysis/Rings & Fields",
     "Lecture Notes/MATH321",
