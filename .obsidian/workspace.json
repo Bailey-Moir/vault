@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "814b00a58e02b4a9",
+        "id": "3ab43c473a596f0d",
         "type": "tabs",
         "children": [
           {
-            "id": "9c06b15100a94b68",
+            "id": "b1f36a1d1f751deb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Personal/Todo.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -209,8 +209,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c06b15100a94b68",
+  "active": "b1f36a1d1f751deb",
   "lastOpenFiles": [
+    "Personal/Todo.md",
     "Statistics/Probability/Probability Basics/Basic Probability Laws.md",
     "Statistics/Probability/Random Variables/Geometric Random Variable.md",
     "Math/Algebra/Sequences & Series/Series/p-series.md",
@@ -234,7 +235,6 @@
     "Math/Linear Algebra/Polynomials.md",
     "Math/Analysis/Rings & Fields/Function Rings.md",
     "Math/Analysis/Rings & Fields/Integral Domains.md",
-    "Personal/Todo.md",
     "Math/Linear Algebra/Linear Systems/Least Squares Approximation.md",
     "Lecture Notes/MATH343/Lec2B 25-2.md",
     "preamble.sty~",
