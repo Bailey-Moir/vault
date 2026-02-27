@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "49430f2cb96d21a5",
+        "id": "839fafa90e18c403",
         "type": "tabs",
         "children": [
           {
-            "id": "ac79b771c76689ac",
+            "id": "fe9df311da56b36f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Todo.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Todo"
             }
           }
         ]
@@ -74,6 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Personal/Todo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -101,7 +107,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Todo"
             }
           }
         ]
@@ -203,8 +209,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac79b771c76689ac",
+  "active": "fe9df311da56b36f",
   "lastOpenFiles": [
+    "Statistics/Probability/Probability Basics/Basic Probability Laws.md",
+    "Statistics/t-distributions.md",
     "Lecture Notes/MATH321/Lec2C 27-2.md",
     "Math/Analysis/Rings & Fields/Irreducible Factors.md",
     "Math/Linear Algebra/Polynomials.md",
@@ -214,7 +222,6 @@
     "Lecture Notes/MATH321/Lec2B 25-2.md",
     "Math/Calculus/Differentiation/Differentiation.md",
     "Personal/Todo.md",
-    "Statistics/Probability/Probability Basics/Basic Probability Laws.md",
     "Statistics/Probability/Random Variables/Geometric Random Variable.md",
     "Math/Algebra/Sequences & Series/Series/p-series.md",
     "Math/Algebra/Sequences & Series/Series/Geometric Series.md",
@@ -230,7 +237,6 @@
     "Math/Discrete/Groups/Groups.md",
     "Math/Analysis/Rings & Fields/Polynomial Rings.md",
     "Math/Analysis/Rings & Fields/Zero-divisors.md",
-    "Math/Analysis/Rings & Fields/Law of Cancellation.md",
     "preamble.sty~",
     "Math/Analysis/Rings & Fields",
     "Lecture Notes/MATH321",
