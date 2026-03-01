@@ -19,9 +19,10 @@ $$\forall g,h \in D[x], (f = gh \to g \text{ or } h \text{ are units}),$$
 > 	\Z_{7} :& f(x) = 3\left( x - 3 \right)(x+3) \to \text{reducible} \\
 > \end{array}$$
 
-[!theorem]- *(Reducibility Test)* If $f \in \F[x]$[^1] is of [[Polynomials#Degree|degree]] $2$ or $3$, then $f$ is *reducible* over $\F$ iff $f$ has a root in $\F$.
-$f$ has a root $a$ $\iff$ $\exists g \in \F[x] : f(x) = (x-a)g(x)$
-If $f$ is *reducible*, $f = gh$, and $\deg g + \deg h = \deg f$.
-#TODO
+> [!theorem]- *(Reducibility Test)* If $f \in \F[x]$[^1] is of [[Polynomials#Degree|degree]] $2$ or $3$, then $f$ is *reducible* over $\F$ iff $f$ has a root in $\F$.
+> wtf was this proof man
+> $f$ has a root $a$ $\iff$ $\exists g \in \F[x] : f(x) = (x-a)g(x)$
+> If $f$ is *reducible*, $f = gh$, and $\deg g + \deg h = \deg f$.
+> #TODO
 
 [^1]: [[Fields]]

@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "918028deca3bd917",
+        "id": "5055b48e96dc7456",
         "type": "tabs",
         "children": [
           {
-            "id": "dd9b86e5985fdfa1",
+            "id": "11e0a150f815ffca",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -205,13 +203,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd9b86e5985fdfa1",
+  "active": "11e0a150f815ffca",
   "lastOpenFiles": [
+    "Math/Analysis/Rings & Fields/Irreducible Factors.md",
+    "Lecture Notes/MATH321/Lec2C 27-2.md",
+    "Math/Calculus/Vector Calculus/Scalar Fields.md",
+    "Personal/Daily/26-02-28.md",
+    "Math/Linear Algebra/Vectors/Distance to a Subspace.md",
+    "Economics/Markets/Supply and Demand.md",
+    "Math/Geometry/Trigonometry/Identities/Compound Identities.md",
+    "Computer Science/Lambda Calculus/Beta Reduction.md",
+    "Archive/_Differentiability.md",
     "Personal/Todo.md",
     "Statistics/Probability/Probability Basics/Basic Probability Laws.md",
     "Statistics/t-distributions.md",
-    "Lecture Notes/MATH321/Lec2C 27-2.md",
-    "Math/Analysis/Rings & Fields/Irreducible Factors.md",
     "Math/Linear Algebra/Polynomials.md",
     "Math/Analysis/Rings & Fields/Maximum Polynomial Roots.md",
     "Math/Discrete/Propositional Logic/Arguments and Proofs/Induction.md",
@@ -226,13 +231,6 @@
     "Statistics/Probability/Probability Basics/Conditional Probability.md",
     "Statistics/Probability/Probability Basics/Bayes' Theorem.md",
     "Math/Analysis/Rings & Fields/Division Algorithm.md",
-    "Math/Linear Algebra/Linear Transformations/Eigenvectors & Eigenvalues/Geometric and Algebraic Multiplicity.md",
-    "Math/Discrete/Number Theory/Divisibility/Divisibility.md",
-    "Math/Discrete/Number Theory/Divisibility/The Euclidean Algorithm.md",
-    "Math/Discrete/Number Theory/Modular Arithmetic/Changing Base.md",
-    "Math/Discrete/Groups/Groups.md",
-    "Math/Analysis/Rings & Fields/Polynomial Rings.md",
-    "Math/Analysis/Rings & Fields/Zero-divisors.md",
     "preamble.sty~",
     "Math/Analysis/Rings & Fields",
     "Lecture Notes/MATH321",
