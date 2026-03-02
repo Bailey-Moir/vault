@@ -1,1 +1,2 @@
 - [[Cauchy Sequences]]
+- [[Continuity]]

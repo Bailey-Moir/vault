@@ -15,8 +15,7 @@
     "no-margin",
     "typewriter-tables",
     "typewriter-dark",
-    "tikz",
-    "column-pdf"
+    "tikz"
   ],
   "showRibbon": false,
   "showViewHeader": true

@@ -5,9 +5,9 @@
   "promptDelete": false,
   "pdfExportSettings": {
     "pageSize": "A4",
-    "landscape": true,
+    "landscape": false,
     "margin": "0",
-    "downscalePercent": 68
+    "downscalePercent": 100
   },
   "showIndentGuide": true
 }
