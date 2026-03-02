@@ -1,6 +1,6 @@
 {
   "accentColor": "",
-  "cssTheme": "Material Gruvbox",
+  "cssTheme": "Typewriter",
   "theme": "obsidian",
   "enabledCssSnippets": [
     "big-math",
@@ -13,10 +13,10 @@
     "better-callouts",
     "centre-math",
     "no-margin",
-    "column-pdf",
     "typewriter-tables",
     "typewriter-dark",
-    "tikz"
+    "tikz",
+    "column-pdf"
   ],
   "showRibbon": false,
   "showViewHeader": true
