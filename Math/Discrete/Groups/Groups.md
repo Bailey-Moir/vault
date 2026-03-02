@@ -12,6 +12,7 @@ A *group* $\left( G,* \right)$ is a [[Sets|set]] $G$ together with a [[Binary Op
   $\begin{array}{l} \exists e \in G : \forall a \in G, \\ a*e = a = e*a \end{array}$
 3. **Inverse**
   $\begin{array}{l} \forall a \in G, \exists a^{-1} \in G : \\ a * a^{-1} = e = a^{-1} * a \end{array}$
+  ^inverse
 - ***Closure*** (given by $*$ being a [[Functions|function]])
   $\begin{array}{l} \forall a,b \in G, \exists! c \in G : \\ a*b=c \end{array}$
   

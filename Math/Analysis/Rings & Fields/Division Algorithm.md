@@ -34,7 +34,6 @@ and $\deg r < \deg g$.
 > 	&\iff r = 0 && r \text{ is constant} \\
 > 	&\iff x-a | f(x). && \square_{2} \\
 > \end{align}$$
-
 ^remainder-theorem
 
 [^1]: [[Polynomial Rings]]
