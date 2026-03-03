@@ -35,6 +35,7 @@ Note this makes the *absolute value* a [[Norms|norm]] on $\R$.
 > 	&= \max\{ \left| x \right| -\left| y \right| ,\left| y \right| - \left| x \right| \} \\
 > 	&\le \left| x - y \right|  \\
 > \end{align}$$
+^reverse
 
 > [!corollary]- **1.12.2** $\forall x,y,z\in\R, \left| x-z \right| \le \left| x-y \right| + \left| y - z \right|$
 > Let $a = x-y$ and $b = y - z$. Then $a + b = x - z$. Thus,

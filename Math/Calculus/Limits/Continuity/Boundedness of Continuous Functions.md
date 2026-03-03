@@ -6,7 +6,22 @@ tags:
 For $f \in \mathcal{C}(I)$ for any [[Intervals|closed interval]] $I \subseteq \R$, $f$ is [[Bounded Sequences|bounded]] on $I$.
 
 [!proof]
-Suppose $f : \left[ a,b \right] \to M$ is [[Metric Continuity|continuous]]
+Suppose $f : \left[ a,b \right] \to M$ is [[Metric Continuity|continuous]] but not [[Bounded Functions|bounded]].
+Pick any $x_{0} \in \left[ a,b \right]$.
+For $n \in \N$, we can find $x_{n+1} \in \left[ a,b \right]$ such that $\left| f(x_{n+1}) \right| \ge \left| f(x_{n}) \right| + 1$.
+
+The [[Sequences|sequence]] $\left( x_{n} \right)$ in $\left[ a,b \right]$ is [[Bounded Sets|bounded]], so by [[Bolzano-Weierstrass|Bolzano-Weierstrass]], there exists a [[Metric Sequence Convergence|convergent]] subsequence $\left( x_{n(k)} \right)_{k=0}^\infty$.
+
+Since $\left[ a,b \right]$ is a [[Closed Sets|closed]] [[Intervals|interval]], $\lim_{ k \to \infty } x_{n(k)} \in \left[ a,b \right]$, otherwise as $k$ become sufficiently large, $x_{n(k)}$ will be outside of $\left[ a,b \right]$. (This is not very rigorous).
+
+Since $f \in \mathcal{C}(\left[ a,b \right])$, by the [[Metric Continuity#^sequences|sequence definition of continuity]],
+$$\lim_{ k \to \infty } f(x_{n(k)}) = f\left( \lim_{ k \to \infty } x_{n(k)} \right). $$
+Then since all [[Cauchy Sequences#^convergent-to-cauchy|convergent sequences are Cauchy]]. However, by the [[Triangle Ineqaulity#^reverse|reverse triangle inequality]], for all $n \in \N$
+$$\left| f(x_{n+1}) - f(x_{n}) \right| \ge \left| f(x_{n+1}) \right| - \left| f(x_{n}) \right| \ge 1,$$
+leading to [[Contradictions|contradiction]].
+
+Thus, $f$ is [[Bounded Functions|bounded]] on $\left[ a,b \right]$.
+
 
 > [!proof]-
 > Let $I = \left[ a,b \right]$, and $f \in \mathcal{C}(I)$, but suppose $f$ is **not** [[Bounded Sets|bounded]] on $I$.

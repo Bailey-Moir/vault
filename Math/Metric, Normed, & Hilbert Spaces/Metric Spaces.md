@@ -3,7 +3,7 @@ tags:
   - atom
   - math
 ---
-A *metric* of a [[Sets|set]] $M$ is a [[Functions|function]] $d : M \times M \to \R$ such that ($\forall x,y,z \in M$)
+A *metric* of a [[Empty Set|non-empty]] [[Sets|set]] $M$ is a [[Functions|function]] $d : M \times M \to \R$ such that ($\forall x,y,z \in M$)
 1. $d(x,y) = 0 \leftrightarrow x = y$,
 2. $d(x, y) = d(y, x)$,
 3. $d(x,z) \le d(x,y) + d(y,z)$ ([[Triangle Ineqaulity|triangle inequality]])
