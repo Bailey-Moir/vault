@@ -1090,7 +1090,7 @@ Entity ^U4jBWjR2
 			"width": 68.69770812988281,
 			"height": 12.196109353578496,
 			"angle": 0,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
@@ -1128,7 +1128,7 @@ Entity ^U4jBWjR2
 			"width": 36.98213195800781,
 			"height": 20.930212761437478,
 			"angle": 0,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
@@ -1332,7 +1332,7 @@ Entity ^U4jBWjR2
 			"width": 6.4000091552734375,
 			"height": 20,
 			"angle": 0,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
@@ -1366,7 +1366,7 @@ Entity ^U4jBWjR2
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#98c379",
+		"currentItemStrokeColor": "#61afef",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 1,
@@ -1395,18 +1395,18 @@ Entity ^U4jBWjR2
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				],
 				"elementStroke": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				]
 			}
 		},

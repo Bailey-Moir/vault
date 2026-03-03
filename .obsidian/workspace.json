@@ -23,18 +23,18 @@
             }
           },
           {
-            "id": "bbda095af75e1e97",
+            "id": "a3a01ba5bf5af929",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Calculus/Limits/Continuity/Continuity.md",
+                "file": "Math/Calculus/Limits/Continuity/Boundedness of Continuous Functions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Continuity"
+              "title": "Boundedness of Continuous Functions"
             }
           }
         ],
@@ -95,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Math/Calculus/Limits/Continuity/Continuity.md",
+                "file": "Math/Calculus/Limits/Continuity/Boundedness of Continuous Functions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -123,7 +123,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Continuity"
+              "title": "Graph of Boundedness of Continuous Functions"
             }
           }
         ]
@@ -225,9 +225,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bbda095af75e1e97",
+  "active": "a3a01ba5bf5af929",
   "lastOpenFiles": [
     "Lecture Notes/MATH343/Lec3B 4-3.md",
+    "Math/Metric, Normed, & Hilbert Spaces/Bounded Sequences.md",
+    "Math/Metric, Normed, & Hilbert Spaces/Bounded Functions.md",
+    "Learning/Chunking.md",
+    "Assets/excali/chunking.excalidraw.md",
+    "Archive/Lecture Notes/ENCE260/Lec2A 23-7.md",
+    "Archive/Lecture Notes/MATH220/Lec1B 19-2.md",
+    "Assets/excali/template.excalidraw.md",
+    "Math/Calculus/Limits/Continuity/Boundedness of Continuous Functions.md",
+    "Assets/excali/bounding.excalidraw.md",
+    "Math/Metric, Normed, & Hilbert Spaces/Metric Continuity.md",
+    "Math/Metric, Normed, & Hilbert Spaces/Metric Sequence Convergence.md",
+    "Math/Topology/Continuity/Continuous Maps.md",
+    "Math/Topology/Convergence/Sequence Convergence.md",
+    "Math/Topology/Topology.md",
     "Lecture Notes/MATH343/Lec3A 2-3.md",
     "Lecture Notes/MATH321/Lec3A 3-3.md",
     "Math/Linear Algebra/Linear Maps/Rank-Nullity Theorem.md",
@@ -240,20 +254,6 @@
     "Math/Analysis/Rings & Fields/Rings.md",
     "Math/Discrete/Groups/Groups.md",
     "Math/Calculus/Differential Equations/Laplace/Kernels.md",
-    "Math/Category Theory/Concrete Categories/Category of Rings.md",
-    "Math/Category Theory/Concrete Categories/Category of Sets.md",
-    "Math/Analysis/Rings & Fields/Reducible Factors.md",
-    "Lecture Notes/MATH321/Lec2C 27-2.md",
-    "Personal/Todo.md",
-    "Lecture Notes/DATA301/Lec1B 19-2.md",
-    "Lecture Notes/DATA301/Lec3A 3-3.md",
-    "Lecture Notes/DATA301/Lec1A 17-2.md",
-    "Computer Science/Big Data/MapReduce.md",
-    "Computer Science/Algorithm Analysis/Asymptotic Notation.md",
-    "Math/Algebra/Sequences & Series/Series/Taylor Series/Landua's Big Oh Notation.md",
-    "Math/Discrete/Graph Theory/Dense & Sparse Graphs.md",
-    "Math/Calculus/Limits/Continuity/Continuity.md",
-    "Math/Metric, Normed, & Hilbert Spaces/Cauchy Sequences.md",
     "preamble.sty~",
     "Math/Analysis/Rings & Fields",
     "Lecture Notes/MATH321",

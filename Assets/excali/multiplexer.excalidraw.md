@@ -435,18 +435,18 @@ c3ed849bdb1b8249b2a3861467a1fc2fff65c9a0: $$I_1$$
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				],
 				"elementStroke": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				]
 			}
 		},

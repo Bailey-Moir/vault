@@ -10,17 +10,17 @@ tags:
 
 ## Text Elements
 ## Embedded Files
-d9629eaf6485d707677aefa10b07fdf233b0f826: $$\textcolor{orange}{\vecbf{v}} - \text{proj}_{\textcolor{yellowGreen}{\vecbf{u}}}\textcolor{orange}{\vecbf{v}}$$
+d9629eaf6485d707677aefa10b07fdf233b0f826: $$\textcolor{red}{\vecbf{v}} - \text{proj}_{\textcolor{CornflowerBlue}{\vecbf{u}}}\textcolor{red}{\vecbf{v}}$$
 
-559191b9d186718a2a65675e2b2a0bd113bbbbc5: $$\textcolor{yellowGreen}{\vecbf{u}} - \text{proj}_{\textcolor{orange}{\vecbf{v}}}\textcolor{yellowGreen}{\vecbf{u}}$$
+559191b9d186718a2a65675e2b2a0bd113bbbbc5: $$\textcolor{CornflowerBlue}{\vecbf{u}} - \text{proj}_{\textcolor{red}{\vecbf{v}}}\textcolor{CornflowerBlue}{\vecbf{u}}$$
 
-e469a5ef9da98bacfee797facb3d512ebfe84d28: $$\textcolor{orange}{\vecbf{v}}$$
+e469a5ef9da98bacfee797facb3d512ebfe84d28: $$\textcolor{red}{\vecbf{v}}$$
 
-a6fcd07c451ffa239e8b047aee307e288606e7a9: $$\textcolor{yellowGreen}{\vecbf{u}}$$
+a6fcd07c451ffa239e8b047aee307e288606e7a9: $$\textcolor{CornflowerBlue}{\vecbf{u}}$$
 
-ab7a6a62ff4056bfb280e7700dc1b39367470b03: $$\textcolor{yellowGreen}{\vecbf{u}}$$
+ab7a6a62ff4056bfb280e7700dc1b39367470b03: $$\textcolor{CornflowerBlue}{\vecbf{u}}$$
 
-8c9048868cf839ef72d6f1f307864f9b1ab707c6: $$\textcolor{orange}{\vecbf{v}}$$
+8c9048868cf839ef72d6f1f307864f9b1ab707c6: $$\textcolor{red}{\vecbf{v}}$$
 
 %%
 ## Drawing
@@ -90,7 +90,7 @@ ab7a6a62ff4056bfb280e7700dc1b39367470b03: $$\textcolor{yellowGreen}{\vecbf{u}}$$
 			"angle": 0,
 			"x": -465.60000283157757,
 			"y": 56.078770057936765,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"width": 91.60060729092703,
 			"height": 113.51771592055447,
@@ -135,7 +135,7 @@ ab7a6a62ff4056bfb280e7700dc1b39367470b03: $$\textcolor{yellowGreen}{\vecbf{u}}$$
 			"angle": 0,
 			"x": -467.7592785855052,
 			"y": 58.9455433764835,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"width": 182.39265932487373,
 			"height": 35.73061554763244,
@@ -350,7 +350,7 @@ ab7a6a62ff4056bfb280e7700dc1b39367470b03: $$\textcolor{yellowGreen}{\vecbf{u}}$$
 			"angle": 0,
 			"x": -694.5646320574207,
 			"y": 95.09737303375773,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"width": 92.36418370226565,
 			"height": 115.80846217247608,
@@ -395,7 +395,7 @@ ab7a6a62ff4056bfb280e7700dc1b39367470b03: $$\textcolor{yellowGreen}{\vecbf{u}}$$
 			"angle": 0,
 			"x": -694.6425484145416,
 			"y": 95.12582319510693,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"width": 182.85081538242034,
 			"height": 35.73061554763244,
@@ -784,7 +784,7 @@ ab7a6a62ff4056bfb280e7700dc1b39367470b03: $$\textcolor{yellowGreen}{\vecbf{u}}$$
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#d19a66",
+		"currentItemStrokeColor": "#e06c75",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 1,
@@ -813,25 +813,25 @@ ab7a6a62ff4056bfb280e7700dc1b39367470b03: $$\textcolor{yellowGreen}{\vecbf{u}}$$
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				],
 				"canvasBackground": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				],
 				"elementStroke": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				]
 			}
 		},

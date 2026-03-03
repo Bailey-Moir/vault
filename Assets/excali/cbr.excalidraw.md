@@ -202,7 +202,7 @@ Time ^Vxf0Vztb
 			"width": 191.17076346971228,
 			"height": 0,
 			"angle": 0,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -242,7 +242,7 @@ Time ^Vxf0Vztb
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#98c379",
+		"currentItemStrokeColor": "#61afef",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
@@ -271,18 +271,18 @@ Time ^Vxf0Vztb
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				],
 				"elementStroke": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				]
 			}
 		},

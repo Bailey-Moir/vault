@@ -223,7 +223,7 @@ OPTIONAL ^4HqDtZEE
 			"width": 245.52898313100536,
 			"height": 41.70430895126168,
 			"angle": 0,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -260,7 +260,7 @@ OPTIONAL ^4HqDtZEE
 			"width": 65.99990844726562,
 			"height": 25,
 			"angle": 0,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -552,7 +552,7 @@ OPTIONAL ^4HqDtZEE
 			"width": 109.85989379882812,
 			"height": 25,
 			"angle": 0,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -765,7 +765,7 @@ OPTIONAL ^4HqDtZEE
 			"width": 245.52898313100536,
 			"height": 41.70430895126168,
 			"angle": 0,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -802,7 +802,7 @@ OPTIONAL ^4HqDtZEE
 			"width": 98.99986267089844,
 			"height": 25,
 			"angle": 0,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -1094,7 +1094,7 @@ OPTIONAL ^4HqDtZEE
 			"width": 103.23989868164062,
 			"height": 25,
 			"angle": 0,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -1132,7 +1132,7 @@ OPTIONAL ^4HqDtZEE
 			"width": 107.69989013671875,
 			"height": 25,
 			"angle": 0,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -1237,7 +1237,7 @@ OPTIONAL ^4HqDtZEE
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#98c379",
+		"currentItemStrokeColor": "#61afef",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
@@ -1266,18 +1266,18 @@ OPTIONAL ^4HqDtZEE
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				],
 				"elementStroke": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				]
 			}
 		},

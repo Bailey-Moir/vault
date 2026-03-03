@@ -136,7 +136,7 @@ China ^iXIauYV8
 			"angle": 0,
 			"x": -131.01229602748322,
 			"y": 57.4309218133313,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"width": 138.94263981838807,
 			"height": 125.98721722062712,
@@ -279,7 +279,7 @@ China ^iXIauYV8
 			"angle": 0,
 			"x": -204.4823421805968,
 			"y": 57.126873698532464,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"width": 65.29541058512274,
 			"height": 115.45717245824784,
@@ -344,7 +344,7 @@ China ^iXIauYV8
 			"angle": 0,
 			"x": -167.20688762316473,
 			"y": 14.742345658313305,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"width": 17.60302734375,
 			"height": 16.275813269277315,
@@ -550,7 +550,7 @@ China ^iXIauYV8
 			"angle": 0,
 			"x": -248.74675160238237,
 			"y": 25.721089048965496,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"width": 33.59730529785156,
 			"height": 16.275813269277315,
@@ -577,7 +577,7 @@ China ^iXIauYV8
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#98c379",
+		"currentItemStrokeColor": "#61afef",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
@@ -606,18 +606,18 @@ China ^iXIauYV8
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				],
 				"elementStroke": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				]
 			}
 		},

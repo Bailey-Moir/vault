@@ -31,13 +31,13 @@ x ^AecJBwHY
 
 ## Embedded Files
 06669f1184db75735ecab7cd9aadcc999d11c5a0: $$i$$
-19f53c9c001b5557074390217c90cd484c614e3d: $$\textcolor{orange}{j}$$
+19f53c9c001b5557074390217c90cd484c614e3d: $$\textcolor{red}{j}$$
 57ea2dfa6f8a170ce70184a104547fb7595fc9c2: $$T:$$
-c1b1d8938496d4392f48ba0f58129a2497a4ae67: $$\textcolor{orange}{P:}$$
+c1b1d8938496d4392f48ba0f58129a2497a4ae67: $$\textcolor{red}{P:}$$
 8b8175d3b6ab91fa6b9ee6a1fa8a3fda14eb5cf8: $$i$$
 a929fedd7694c74408b3bed19c509ad1b0e15439: $$T:$$
-b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{orange}{P:}$$
-44527db5e57860b14be501db0b33b44d82bfa297: $$\textcolor{orange}{j}$$
+b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{red}{P:}$$
+44527db5e57860b14be501db0b33b44d82bfa297: $$\textcolor{red}{j}$$
 
 %%
 ## Drawing
@@ -62,7 +62,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{orange}{P:}$$
 			"angle": 0,
 			"x": -285.42980165658594,
 			"y": 305.2846620196825,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"width": 320.84582852464075,
 			"height": 37,
@@ -186,7 +186,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{orange}{P:}$$
 			"angle": 0,
 			"x": -90.94172052543246,
 			"y": 305.3230256579117,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"width": 0,
 			"height": 36.40446888843047,
@@ -231,7 +231,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{orange}{P:}$$
 			"angle": 0,
 			"x": -65.6843564516765,
 			"y": 342.5741101018871,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"width": 1.4210854715202004e-14,
 			"height": 36.82777666620285,
@@ -434,7 +434,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{orange}{P:}$$
 			"angle": 0,
 			"x": 14.409284995565923,
 			"y": 306.0393184715839,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"width": 14.519989013671875,
 			"height": 33.000000000000014,
@@ -474,7 +474,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{orange}{P:}$$
 			"angle": 0,
 			"x": -11.042778322741572,
 			"y": 306.0393184715839,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"width": 15,
 			"height": 33.000000000000014,
@@ -514,7 +514,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{orange}{P:}$$
 			"angle": 0,
 			"x": -35.29466406009662,
 			"y": 306.0393184715839,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"width": 14.519989013671875,
 			"height": 33.000000000000014,
@@ -554,7 +554,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{orange}{P:}$$
 			"angle": 0,
 			"x": -60.35558361157534,
 			"y": 306.0393184715839,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"width": 15,
 			"height": 33.000000000000014,
@@ -594,7 +594,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{orange}{P:}$$
 			"angle": 0,
 			"x": 36.8999814441748,
 			"y": 458.90805611412,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"width": 405.1542440373892,
 			"height": 37,
@@ -876,7 +876,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{orange}{P:}$$
 			"angle": 0,
 			"x": 416.30528376617445,
 			"y": 459.5135326767137,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"width": 0,
 			"height": 36.40446888843047,
@@ -1079,7 +1079,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{orange}{P:}$$
 			"angle": 0,
 			"x": -85.67701298805923,
 			"y": 305.3799275278125,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"width": 14.519989013671875,
 			"height": 33.000000000000014,
@@ -1173,18 +1173,18 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{orange}{P:}$$
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				],
 				"elementStroke": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				]
 			}
 		},

@@ -35,7 +35,7 @@ $$\begin{align}
 > \end{align}$$
 > \[$(1)$ [[Bijective Functions#Properties of Bijections]]\]
 
-\[[[Continuity]]\]
+\[[[Metric Continuity]]\]
 # Examples
 > [!example]- Constants [[Functions|functions]] are *continuous*
 > Let $f : X\to Y$ be any constant [[Functions|function]] between [[Topology|topological spaces]], meaning $f(x) = c$ for some $c \in Y$.

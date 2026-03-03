@@ -141,7 +141,7 @@ tags: [excalidraw]
 			"angle": 0,
 			"x": 8.7818958427479,
 			"y": -107.04947065029167,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"width": 0.0001,
 			"height": 0.0001,
@@ -182,7 +182,7 @@ tags: [excalidraw]
 			"angle": 0,
 			"x": -86.3189526687193,
 			"y": -107.96443228802072,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"width": 0.0001,
 			"height": 0.0001,
@@ -223,7 +223,7 @@ tags: [excalidraw]
 			"angle": 0,
 			"x": -39.874553173531226,
 			"y": -116.45746594040035,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"width": 0.0001,
 			"height": 0.0001,
@@ -570,18 +570,18 @@ tags: [excalidraw]
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				],
 				"elementStroke": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				]
 			}
 		},

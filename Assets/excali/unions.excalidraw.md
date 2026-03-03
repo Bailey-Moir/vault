@@ -105,7 +105,7 @@ d25838af8c93b1462305c155763df842ff6e3f0d: $$\huge{A \cup B}$$
 			"x": -113.67932845172368,
 			"y": -195.3651298500787,
 			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#61afef",
+			"backgroundColor": "#98c379",
 			"width": 227.1532604978459,
 			"height": 227.1532604978459,
 			"seed": 592746646,
@@ -137,7 +137,7 @@ d25838af8c93b1462305c155763df842ff6e3f0d: $$\huge{A \cup B}$$
 			"x": -240.0750924143572,
 			"y": -194.85977882470252,
 			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#61afef",
+			"backgroundColor": "#98c379",
 			"width": 227.1532604978459,
 			"height": 227.1532604978459,
 			"seed": 1570837974,
@@ -226,7 +226,7 @@ d25838af8c93b1462305c155763df842ff6e3f0d: $$\huge{A \cup B}$$
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
 		"currentItemStrokeColor": "transparent",
-		"currentItemBackgroundColor": "#98c379",
+		"currentItemBackgroundColor": "#61afef",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
 		"currentItemStrokeStyle": "solid",
@@ -254,25 +254,25 @@ d25838af8c93b1462305c155763df842ff6e3f0d: $$\huge{A \cup B}$$
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				],
 				"canvasBackground": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				],
 				"elementStroke": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				]
 			}
 		},

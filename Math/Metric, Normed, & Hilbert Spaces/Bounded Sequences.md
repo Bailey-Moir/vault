@@ -16,3 +16,5 @@ A [[Sequences|sequence]] $\left( a_{n} \right)$ is *bounded* iff $\{ a_{n} : n \
 > If $K = \max \{  \left| a_{1} \right|,\dots,\left| a_{N-1} \right| \}$ (which must exist as the [[Sets|set]] is finite), then $-K \le a_{n} \le K$, meaning $\left( a_{n} \right)$ is *bounded* for $n < N$.
 > 
 > Thus, $\left( a_{n} \right)$ is *bounded* for all $n \in \N$.
+
+#TODO

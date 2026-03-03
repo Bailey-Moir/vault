@@ -207,11 +207,11 @@ tags:
 					"#ff6f00"
 				],
 				"canvasBackground": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				],
 				"elementStroke": [
 					"#ff7eb6",

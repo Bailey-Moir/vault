@@ -1,2 +1,2 @@
 - [[Cauchy Sequences]]
-- [[Continuity]]
+- [[Metric Continuity]]

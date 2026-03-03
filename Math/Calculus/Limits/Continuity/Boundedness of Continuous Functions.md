@@ -5,7 +5,10 @@ tags:
 ---
 For $f \in \mathcal{C}(I)$ for any [[Intervals|closed interval]] $I \subseteq \R$, $f$ is [[Bounded Sequences|bounded]] on $I$.
 
-> [!proof]- 4.33
+[!proof]
+Suppose $f : \left[ a,b \right] \to M$ is [[Metric Continuity|continuous]]
+
+> [!proof]-
 > Let $I = \left[ a,b \right]$, and $f \in \mathcal{C}(I)$, but suppose $f$ is **not** [[Bounded Sets|bounded]] on $I$.
 > 
 > Let's bisect $I$ with $\left[ a_{n},b_{n} \right]$ such that each iteration, a half that is [[Bounded Sets|unbounded]] is chosen.
@@ -20,6 +23,6 @@ For $f \in \mathcal{C}(I)$ for any [[Intervals|closed interval]] $I \subseteq \R
 > 
 > By [[Rationals in Intervals|theorem 2.22]], there exists a unique $c \in \R$ in the intersection of the intervals of $\left( I_{n} \right)$.
 > 
-> The [[Math/Calculus/Limits/Continuity/Continuity|continuity]] of  at $c$ gives an [[Intervals|open interval]] $U$ around $c$ on which $f$ is [[Bounded Sets|bounded]]. However, there must exists an $n$ such that $I_{n} \subset U$, meaning $I_{n}$ must be [[Bounded Sets|bounded]], a [[Contradictions|contradiction]].
+> The [[Metric Continuity|continuity]] of  at $c$ gives an [[Intervals|open interval]] $U$ around $c$ on which $f$ is [[Bounded Sets|bounded]]. However, there must exists an $n$ such that $I_{n} \subset U$, meaning $I_{n}$ must be [[Bounded Sets|bounded]], a [[Contradictions|contradiction]].
 > 
 > Thus, $I$ must be [[Bounded Sets|bounded]].
