@@ -3,6 +3,8 @@ tags:
   - atom
   - math
 ---
+$$\forall a \in M,\forall \varepsilon>0, \exists \delta>0: \forall a,x \in \R, d(x,a) < \delta \to d(f(x) - f(a)\right| < \varepsilon$$
+
 $$f \in \mathcal{C}(I) \iff \forall a \in I,\, \lim_{x\to a} f(x) = f(a) $$
 > [!note] This implicitly requires $f(a)$ and $\displaystyle\lim_{x\to a} f(x)$ to exist.
 

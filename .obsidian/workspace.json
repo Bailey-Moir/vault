@@ -4,25 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "b0c448b826697008",
+        "id": "960c963c310a9e5e",
         "type": "tabs",
         "children": [
           {
-            "id": "5de9ddf9ffd26c2d",
+            "id": "a975e1c82ef6cf0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Todo.md",
+                "file": "Lecture Notes/MATH343/Lec3B 4-3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Todo"
+              "title": "Lec3B 4-3"
+            }
+          },
+          {
+            "id": "bbda095af75e1e97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Calculus/Limits/Continuity/Continuity.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Continuity"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Personal/Todo.md",
+                "file": "Math/Calculus/Limits/Continuity/Continuity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -107,7 +123,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Todo"
+              "title": "Graph of Continuity"
             }
           }
         ]
@@ -209,8 +225,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5de9ddf9ffd26c2d",
+  "active": "bbda095af75e1e97",
   "lastOpenFiles": [
+    "Lecture Notes/MATH343/Lec3B 4-3.md",
+    "Lecture Notes/MATH343/Lec3A 2-3.md",
+    "Lecture Notes/MATH321/Lec3A 3-3.md",
+    "Math/Linear Algebra/Linear Maps/Rank-Nullity Theorem.md",
+    "Math/Analysis/Rings & Fields/Kernels.md",
+    "Math/Analysis/Rings & Fields/Ring Homomorphisms.md",
+    "Math/Category Theory/Universal Constructions/Initial and Terminal Objects.md",
+    "Assets/excali/scaling-columns-determinants.excalidraw.svg",
+    "Math/Linear Algebra/Linear Maps/Null Space.md",
+    "Math/Discrete/Set Theory/Basics/Sets.md",
+    "Math/Analysis/Rings & Fields/Rings.md",
+    "Math/Discrete/Groups/Groups.md",
+    "Math/Calculus/Differential Equations/Laplace/Kernels.md",
+    "Math/Category Theory/Concrete Categories/Category of Rings.md",
+    "Math/Category Theory/Concrete Categories/Category of Sets.md",
+    "Math/Analysis/Rings & Fields/Reducible Factors.md",
+    "Lecture Notes/MATH321/Lec2C 27-2.md",
+    "Personal/Todo.md",
     "Lecture Notes/DATA301/Lec1B 19-2.md",
     "Lecture Notes/DATA301/Lec3A 3-3.md",
     "Lecture Notes/DATA301/Lec1A 17-2.md",
@@ -218,25 +252,8 @@
     "Computer Science/Algorithm Analysis/Asymptotic Notation.md",
     "Math/Algebra/Sequences & Series/Series/Taylor Series/Landua's Big Oh Notation.md",
     "Math/Discrete/Graph Theory/Dense & Sparse Graphs.md",
-    "Lecture Notes/MATH343/Lec3A 2-3.md",
     "Math/Calculus/Limits/Continuity/Continuity.md",
     "Math/Metric, Normed, & Hilbert Spaces/Cauchy Sequences.md",
-    "Math/Algebra/Sequences & Series/Sequences/Metric Sequence Convergence.md",
-    "Untitled.md",
-    "Math/Algebra/Sequences & Series/Sequences/Bolzano-Weierstrass.md",
-    "Math/Algebra/Sequences & Series/Sequences/Bounded Sequences.md",
-    "Lecture Notes/MATH343/Lec2B 25-2.md",
-    "Cauchy Sequences are Convergent.md",
-    "Personal/Daily/26-02-18.md",
-    "Math/Analysis/Rationals in Intervals.md",
-    "Personal/Daily/26-03-02.md",
-    "Math/Topology/Convergence/Sequence Convergence.md",
-    "Math/Analysis/Bounding with Epsilon.md",
-    "Math/Discrete/Set Theory/Interval Partitions.md",
-    "Math/Linear Algebra/Vectors/Norms/Norms.md",
-    "Math/Algebra/Sequences & Series/Sequences/Monotone Convergence Theorem.md",
-    "Personal/Todo.md",
-    "Math/Analysis/Ordered Fields.md",
     "preamble.sty~",
     "Math/Analysis/Rings & Fields",
     "Lecture Notes/MATH321",
@@ -256,7 +273,6 @@
     "Personal/Pasted image 20251010201913.png",
     "Personal/Pasted Image 20251022112022_923.png",
     "Personal/Pasted image 20251022140613.png",
-    "Pasted Image 20251028123745_592.png",
     "Math/Geometry/Trigonometry/Trigonometry.canvas"
   ]
 }
