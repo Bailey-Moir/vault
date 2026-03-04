@@ -1,1 +1,1 @@
-- [[Math/Analysis/Rings & Fields/Kernels|Kernels#Properties]]
+- [[Ring Homomorphisms#Properties]]
