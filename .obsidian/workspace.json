@@ -4,25 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "86f87236b2a3f069",
+        "id": "11b8236a2a442d59",
         "type": "tabs",
         "children": [
           {
-            "id": "3d64846ed1f31a00",
+            "id": "e086e008594b7987",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Notes/MATH321/Lec3A 3-3.md",
+                "file": "Lecture Notes/MATH321/Lec3B 4-3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Lec3B 4-3"
+            }
+          },
+          {
+            "id": "69c28a1b59aeb9d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Analysis/Rings & Fields/Kernels.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lec3A 3-3"
+              "title": "Kernels"
+            }
+          },
+          {
+            "id": "db6ead478a214e51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Analysis/Rings & Fields/Kernels.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Kernels"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +110,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lecture Notes/MATH321/Lec3A 3-3.md",
+                "file": "Math/Analysis/Rings & Fields/Kernels.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -107,7 +138,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Lec3A 3-3"
+              "title": "Graph of Kernels"
             }
           }
         ]
@@ -209,10 +240,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d64846ed1f31a00",
+  "active": "69c28a1b59aeb9d3",
   "lastOpenFiles": [
-    "Math/Analysis/Rings & Fields/Kernels.md",
+    "Lecture Notes/MATH321/Lec3B 4-3.md",
     "Lecture Notes/MATH321/Lec3A 3-3.md",
+    "Math/Analysis/Rings & Fields/Kernels.md",
+    "Math/Analysis/Rings & Fields/Subrings.md",
+    "Math/Discrete/Number Theory/Modular Arithmetic/Chinese Remainder Theorem.md",
+    "Math/Analysis/Rings & Fields/Direct Sums of Rings.md",
+    "Math/Discrete/Set Theory/Functions/Surjective Functions.md",
+    "Math/Discrete/Set Theory/Functions/Injective Functions.md",
+    "Statistics/Probability/Random Variables/Binomial Random Variable.md",
+    "Computer Science/Algorithms/Euclidean Greatest Common Divisor Algorithm.md",
+    "Math/Discrete/Number Theory/Modular Arithmetic/Finding Inverses.md",
     "Math/Analysis/Rings & Fields/Ring Homomorphisms.md",
     "Math/Category Theory/Concrete Categories/Category of Rings.md",
     "Lecture Notes/MATH321/Lec2C 27-2.md",
@@ -228,15 +268,6 @@
     "Math/Linear Algebra/Vectors/Basics/Dot Product.md",
     "Math/Analysis/Triangle Ineqaulity.md",
     "Math/Metric, Normed, & Hilbert Spaces/Cauchy Sequences.md",
-    "Math/Metric, Normed, & Hilbert Spaces/Bounded Functions.md",
-    "Learning/Chunking.md",
-    "Assets/excali/chunking.excalidraw.md",
-    "Archive/Lecture Notes/ENCE260/Lec2A 23-7.md",
-    "Archive/Lecture Notes/MATH220/Lec1B 19-2.md",
-    "Assets/excali/template.excalidraw.md",
-    "Assets/excali/bounding.excalidraw.md",
-    "Math/Metric, Normed, & Hilbert Spaces/Metric Sequence Convergence.md",
-    "Math/Topology/Continuity/Continuous Maps.md",
     "Assets/excali/scaling-columns-determinants.excalidraw.svg",
     "preamble.sty~",
     "Math/Analysis/Rings & Fields",

@@ -1,0 +1,1 @@
+- [[Math/Analysis/Rings & Fields/Kernels|Kernels#Properties]]
