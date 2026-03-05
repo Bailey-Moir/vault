@@ -20,7 +20,7 @@ Let $R$ and $S$ be [[Rings|rings]], $\varphi : R \to S$ be a [[Ring Homomorphism
 4. $\varphi(A)$ is a [[Subrings|subring]] of $S$.
 5. $\varphi^{-1}(B)$ is a [[Subrings|subring]] of $R$.
 6. If $R$ is [[Groups#^abelian-groups|commutative]], then $\varphi(R)$ is [[Groups#^abelian-groups|commutative]].
-7. If $R$ is has a [[Rings#^unity|unity]] that isn't mapped to $0$, it is mapped to the [[Rings#^unity|unity]] of $\varphi(R)$.
+7. If $R$ has a [[Rings#^unity|unity]], it is either mapped to $0$ or the [[Rings#^unity|unity]] of $\varphi(R)$.
 
 > [!proof]- 1
 > $$\begin{align}
