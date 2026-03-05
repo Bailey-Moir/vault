@@ -11,10 +11,15 @@
             "id": "ef56540f07bcd4fa",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Lecture Notes/DATA301/Lec3B 5-4.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lec3B 5-4"
             }
           }
         ]
@@ -74,6 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Lecture Notes/DATA301/Lec3B 5-4.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -101,7 +107,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Lec3B 5-4"
             }
           }
         ]
@@ -205,6 +211,8 @@
   },
   "active": "ef56540f07bcd4fa",
   "lastOpenFiles": [
+    "Lecture Notes/DATA301/Lec3A 3-3.md",
+    "Lecture Notes/DATA301/Lec3B 5-4.md",
     "Personal/Todo.md",
     "Math/Metric, Normed, & Hilbert Spaces/Bounded Functions.md",
     "Assets/excali/bounding.excalidraw.md",
@@ -229,8 +237,6 @@
     "Lecture Notes/MATH321/Lec2C 27-2.md",
     "Lecture Notes/MATH321/Lec2B 25-2.md",
     "Lecture Notes/MATH343/Lec3B 4-3.md",
-    "Math/Calculus/Limits/Continuity/Boundedness of Continuous Functions.md",
-    "Math/Metric, Normed, & Hilbert Spaces/Bounded Sequences.md",
     "Assets/excali/scaling-columns-determinants.excalidraw.svg",
     "preamble.sty~",
     "Math/Analysis/Rings & Fields",

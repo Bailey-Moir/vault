@@ -1,0 +1,5 @@
+- [[Parallel Speedup]]
+- [[Amdahl's Law]]
+- [[Gustafson's Law]]
+- [[Karp-Flatt Metric]]
+- [[Cost Measures]]
