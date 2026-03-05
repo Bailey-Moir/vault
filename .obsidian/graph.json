@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "-path:Assets -path:Archive -path:\"Lecture Notes\"  ",
+  "collapse-filter": false,
+  "search": "-path:Assets -path:Archive -path:\"Lecture Notes\" -file:.canvas",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -74,6 +74,6 @@
   "repelStrength": 13.125,
   "linkStrength": 0.578125,
   "linkDistance": 30,
-  "scale": 0.0639762577248164,
-  "close": true
+  "scale": 0.043638614548354444,
+  "close": false
 }
