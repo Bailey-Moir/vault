@@ -1,5 +1,7 @@
 - [[Parallel Speedup]]
-- [[Amdahl's Law]]
+- [[Amdahl's Law]] #TODO
 - [[Gustafson's Law]]
 - [[Karp-Flatt Metric]]
 - [[Cost Measures]]
+- [[Market-Basket Model]]
+- [[A-Priori Algorithm]]

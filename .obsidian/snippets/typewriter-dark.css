@@ -1,4 +1,6 @@
 .theme-dark img[filesource*="excalidraw"],
+.excalidraw-svg-center img,
 .theme-dark img[src*="excalidraw.svg"] {
-    filter: sepia(42%) saturate(120%) brightness(81%);
+  filter: sepia(42%) saturate(120%) brightness(81%);
 }
+
