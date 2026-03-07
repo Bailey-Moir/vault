@@ -21,8 +21,19 @@
               "icon": "lucide-file",
               "title": "Spherical Coordinates"
             }
+          },
+          {
+            "id": "c1c07f13a8657274",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,7 +90,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Math/Calculus/Multi-variable Calculus/MATH201/Spherical Coordinates.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -107,7 +117,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Spherical Coordinates"
+              "title": "Graph view"
             }
           }
         ]
@@ -209,8 +219,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7fdd0d0bbd4c9cb3",
+  "active": "c1c07f13a8657274",
   "lastOpenFiles": [
+    "Math/Calculus/Multi-variable Calculus/MATH201/Spherical Coordinates.md",
     "Lecture Notes/MATH321/Lec3C 6-3.md",
     "Math/Analysis/Rings & Fields/Ring Characteristic.md",
     "Math/Linear Algebra/Linear Transformations/Eigenvectors & Eigenvalues/Characteristic Polynomial.md",
@@ -243,7 +254,6 @@
     "Statistics/Probability/Probability Basics/Conditional Probability.md",
     "Statistics/Probability/Probability Basics/Bayes' Theorem.md",
     "Statistics/Describing Data/Proportion.md",
-    "Computer Science/Big Data/Parallel Speedup.md",
     "Assets/excali/scaling-columns-determinants.excalidraw.svg",
     "preamble.sty~",
     "Math/Analysis/Rings & Fields",
