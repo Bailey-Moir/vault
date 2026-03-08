@@ -11,9 +11,9 @@ where $\Delta$ is the largest [[Vertices|degree]] of any [[Vertices|vertex]] in 
 \[$(1)$ [[Chromatic Numbers]]\]
 
 > [!proof]- Is this bound sharp?
-> In other words, are there any graphs which achieve this bound?
+> In other words, are there any [[Graphs|graphs]] which achieve this [[Bounded Sets|bound]]?
 >
-> Let $C$ be a set of $\Delta + 1$ colours. To colour $G$, we colour the vertices of $G$ one by one (the order is not important). We do this by assigning a colour from C to a vertex that it is not the colour of one of its [[Vertices|neighbourhood]]. Since any vertex of $G$ has at most $\Delta$ neighbours, we can always choose an unused colour of $C$ to colour $v$.
+> Let $C$ be a [[Sets|set]] of $\Delta + 1$ colours. To colour $G$, we colour the [[Vertices|vertices]] of $G$ one by one (the order is not important). We do this by assigning a colour from $C$ to a [[Vertices|vertex]] that it is not the colour of one of its [[Neighbourhoods|neighbours]]. Since any [[Vertices|vertex]] of $G$ has at most $\Delta$ [[Vertex Neighbourhoods|neighbours]], we can always choose an unused colour of $C$ to colour $v$.
 > 
 > Thus, the bound is sharp.
 

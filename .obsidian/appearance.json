@@ -1,6 +1,6 @@
 {
   "accentColor": "",
-  "cssTheme": "Typewriter",
+  "cssTheme": "Oxocarbon",
   "theme": "obsidian",
   "enabledCssSnippets": [
     "big-math",
@@ -13,8 +13,8 @@
     "better-callouts",
     "centre-math",
     "no-margin",
+    "column-pdf",
     "typewriter-tables",
-    "typewriter-dark",
     "tikz"
   ],
   "showRibbon": false,
