@@ -11,10 +11,10 @@ A *norm* of a [[Vector Spaces|vector space]] $V$ is a [[Functions|function]] $\|
 2. **[[Linear Maps|Absolute Homogeneity]]**
    $\| \lambda \vecbf{v} \| = \left| \lambda \right|\| \vecbf{v} \|$
 3. **[[The Triangle Inequality|The Triangle Inequality]]**
-   $\| \vecbf{u}+\vecbf{v} \| \le \| \vecbf{u} \|+\| \vecbf{v} \|$
+   $\| \vecbf{u}+\vecbf{v} \| \le \| \vecbf{u} \|+\| \vecbf{v} \|$.
 
 > [!definition] *(Induced Norms)* In an [[Inner Products|inner product space]], an **induced norm** is the *norm* given by $$\| \vecbf{v} \|^2 = \left< \vecbf{v},\vecbf{v} \right> $$
- ^induced-norms
+^induced-norms
 
 > [!theorem]- *(Positivity)* $\forall \vecbf{v} \in V, \| \vecbf{v} \| \ge 0$.
 > $$\begin{align}
@@ -25,4 +25,24 @@ A *norm* of a [[Vector Spaces|vector space]] $V$ is a [[Functions|function]] $\|
 > 	\to 0 &\le \| \vecbf{v} \| \\ 
 > \end{align}$$
 
-> [!theorem]- A [[Vector Spaces|vector space]] has a *norm* $\| \cdot \| : V \to \R$ iff it has a [[Metric Spaces|metric]] $d : V\times V \to \R$ such that $\forall \vecbf{u}, \vecbf{v} \in V$,$$\| \vecbf{u} - \vecbf{v} \| = d(\vecbf{u},\vecbf{v})$$
+> [!theorem]- *(Induced Metrics)* Every [[Vector Spaces|vector space]] with a *norm* $\| \cdot \| : V \to \R$ induces a [[Metric Spaces|metric]] $d : V\times V \to \R$ defined as,$$d(\vecbf{u},\vecbf{v}) = \| \vecbf{u} - \vecbf{v} \|$$
+> Suppose $V$ is a [[Vector Spaces|vector space]] with *norm* $\| \cdot \| : V \to \R$.
+> Let $d : V \times V \to \R$  be defined as
+> $$d(\vecbf{u},\vecbf{v}) = \| \vecbf{u} - \vecbf{v} \|.$$
+> (M1)
+> $$\begin{align}
+> 	d(\vecbf{u},\vecbf{v}) = 0 &\iff \| \vecbf{u} - \vecbf{v} \| = 0 \\
+> 	&\iff \vecbf{u} - \vecbf{v} = 0 && \text{N1} \\
+> 	&\iff \vecbf{u} = \vecbf{v} \\
+> \end{align}$$
+> (M2)
+> $$d(\vecbf{u},\vecbf{v}) = \| \vecbf{u} - \vecbf{v} \| = \left| -1 \right|\| \vecbf{v} - \vecbf{u} \| = \| \vecbf{v} - \vecbf{u} \| = d(\vecbf{v},\vecbf{u}).$$
+> (M3)
+> $$\begin{align}
+> 	d(\vecbf{u},\vecbf{v}) &= \| \vecbf{u} - \vecbf{v} \| \\
+> 	&= \| \vecbf{u} - \vecbf{w} - \vecbf{v} + \vecbf{w} \| \\
+> 	&\le \| \vecbf{u} - \vecbf{w} \| + \| -\vecbf{v} + \vecbf{w} \| && \text{N3} \\
+> 	&\le \| \vecbf{u} - \vecbf{w} \| + \left| -1 \right| \| \vecbf{w} - \vecbf{v} \| && \text{N2} \\
+> 	&\le d(\vecbf{u},\vecbf{w}) + d(\vecbf{w},\vecbf{v}). &&\square \\
+> \end{align}$$
+^induced-metrics
