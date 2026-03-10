@@ -16,7 +16,7 @@ Since $\left[ a,b \right]$ is a [[Closed Sets|closed]] [[Intervals|interval]], $
 
 Since $f \in \mathcal{C}(\left[ a,b \right])$, by the [[Metric Continuity#^sequences|sequence definition of continuity]],
 $$\lim_{ k \to \infty } f(x_{n(k)}) = f\left( \lim_{ k \to \infty } x_{n(k)} \right). $$
-Then since all [[Cauchy Sequences#^convergent-to-cauchy|convergent sequences are Cauchy]]. However, by the [[Triangle Ineqaulity#^reverse|reverse triangle inequality]], for all $n \in \N$
+Then since all [[Cauchy Sequences#^convergent-to-cauchy|convergent sequences are Cauchy]], $f$ is [[Cauchy Sequences|Cauchy]]. However, by the [[Triangle Ineqaulity#^reverse|reverse triangle inequality]], for all $n \in \N$
 $$\left| f(x_{n+1}) - f(x_{n}) \right| \ge \left| f(x_{n+1}) \right| - \left| f(x_{n}) \right| \ge 1,$$
 leading to [[Contradictions|contradiction]].
 
