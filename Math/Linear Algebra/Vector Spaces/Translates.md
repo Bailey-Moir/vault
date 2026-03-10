@@ -9,4 +9,4 @@ $$ \vecbf{v}+U = \{ \vecbf{v} + \vecbf{u} : \vecbf{u} \in U \} $$
 
 > [!example] All lines in $\R^2$ of slope $2$ are *translates* of $\{ \left< x,2x \right> : x \in \R \}$
 
-\[[[Set-Builder Notation]], [[Vector Spaces]]\]
+\[[[Set-Builder Notation]], [[Vector Spaces]], [[Cosets]]\]

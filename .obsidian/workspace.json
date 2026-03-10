@@ -4,71 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "a665b2a0ac84419e",
+        "id": "5e23e895cfd254b5",
         "type": "tabs",
         "children": [
           {
-            "id": "38e44f028ffbde33",
+            "id": "823e36a28671e4cc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture Notes/MATH321/Lec4A 10-3.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lec4A 10-3"
-            }
-          },
-          {
-            "id": "48ba7aa77567cb20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Discrete/Groups/Cosets.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Cosets"
-            }
-          },
-          {
-            "id": "b82cc1d6370d3ee3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Analysis/Rings & Fields/Kernels.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Kernels"
-            }
-          },
-          {
-            "id": "a1ec411ce08489ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Discrete/Groups/Lagrange's Theorem.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Lagrange's Theorem"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,7 +29,7 @@
       {
         "id": "a01d16ecc311c805",
         "type": "tabs",
-        "dimension": 68.77777777777777,
+        "dimension": 70.04048582995951,
         "children": [
           {
             "id": "3a4f7896fbf90ae2",
@@ -115,17 +64,16 @@
         ]
       },
       {
-        "id": "58dc21d164478f09",
+        "id": "9d13d2df83dfb748",
         "type": "tabs",
-        "dimension": 31.22222222222222,
+        "dimension": 29.959514170040485,
         "children": [
           {
-            "id": "9ae3dd4de4d980b8",
+            "id": "a35d3950561cba95",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Math/Discrete/Groups/Lagrange's Theorem.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -148,12 +96,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.969112166159282,
+                  "scale": 0.6133770042259026,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Lagrange's Theorem"
+              "title": "Graph view"
             }
           }
         ]
@@ -255,14 +203,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a1ec411ce08489ef",
+  "active": "823e36a28671e4cc",
   "lastOpenFiles": [
+    "Lecture Notes/MATH321/Lec4A 10-3.md",
+    "Math/Discrete/Groups/Lagrange's Theorem.md",
     "Math/Discrete/Groups/Cosets.md",
     "Math/Analysis/Rings & Fields/Kernels.md",
+    "Math/Analysis/Rings & Fields/Division Algorithm.md",
+    "Math/Analysis/Rings & Fields/Kernel Cosets.md",
+    "Math/Linear Algebra/Vector Spaces/Translates.md",
+    "Math/Linear Algebra/Vector Spaces/Quotient Spaces.md",
     "Math/Calculus/Differential Equations/Laplace/Kernels.md",
     "Math/Discrete/Groups/Orbit-Stabilizer Theorem.md",
     "Math/Discrete/Groups/Orbits and Stabilizers.md",
-    "Lecture Notes/MATH321/Lec4A 10-3.md",
     "Math/Analysis/Rings & Fields/Function Rings.md",
     "Computer Science/Big Data/Market-Basket Model.md",
     "Lecture Notes/DATA301/Lec3B 5-4.md",
@@ -278,11 +231,6 @@
     "Lecture Notes/MATH343/Lec3B 4-3.md",
     "Math/Calculus/Vector Calculus/Vector Fields.md",
     "Math/Topology/Topological Bases.md",
-    "Math/Calculus/Multi-variable Calculus/MATH201/Spherical Coordinates.md",
-    "Computer Science/Python/Numpy & Matplotlib.md",
-    "Lecture Notes/MATH321/Lec3C 6-3.md",
-    "Math/Analysis/Rings & Fields/Ring Characteristic.md",
-    "Math/Linear Algebra/Linear Transformations/Eigenvectors & Eigenvalues/Characteristic Polynomial.md",
     "Archive/Lectures/COSC262",
     "Archive/Lectures",
     "Computer Science/Formal Languages/Formal Languages.canvas",
