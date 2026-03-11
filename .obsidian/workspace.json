@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Notes/MATH321/Lec4B 11-3.md",
+                "file": "Personal/Todo.md",
                 "mode": "preview",
                 "source": false,
-                "backlinks": false
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Lec4B 11-3"
+              "title": "Todo"
             }
           }
         ]
@@ -79,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lecture Notes/MATH321/Lec4B 11-3.md",
+                "file": "Personal/Todo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -107,7 +116,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Lec4B 11-3"
+              "title": "Graph of Todo"
             }
           }
         ]
@@ -211,10 +220,10 @@
   },
   "active": "2ba87b6e053de1f3",
   "lastOpenFiles": [
+    "Lecture Notes/MATH321/Lec4B 11-3.md",
     "Math/Analysis/Rings & Fields/Ring Characteristic.md",
     "Math/Analysis/Rings & Fields/Rings.md",
     "Math/Analysis/Rings & Fields/Integral Domains.md",
-    "Lecture Notes/MATH321/Lec4B 11-3.md",
     "Math/Analysis/Rings & Fields/Zero-divisors.md",
     "Pasted image 20260311132746.png",
     "Pasted image 20260311132036.png",
