@@ -63,7 +63,6 @@ A *ring* $R$ is a [[Sets|set]] together with two [[Binary Operations|binary oper
 > \end{array}$$
 ^properties
 
-
 > [!lemma]- [[#^unit|unit]] $\to$ not [[Zero-divisors|zero-divisor]].
 > Suppose $a$ is a [[#^unit|unit]] and $ab = 0$. Then
 > $$b = a^{-1}ab = a^{-1}0 = 0$$
