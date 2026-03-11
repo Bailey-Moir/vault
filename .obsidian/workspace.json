@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Todo.md",
-                "mode": "preview",
+                "file": "Computer Science/Algorithms/Graphs/Dijkstra's Algorithm.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Todo"
+              "title": "Dijkstra's Algorithm"
             }
           }
         ]
@@ -88,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Personal/Todo.md",
+                "file": "Computer Science/Algorithms/Graphs/Dijkstra's Algorithm.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -116,7 +116,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Todo"
+              "title": "Graph of Dijkstra's Algorithm"
             }
           }
         ]
@@ -220,6 +220,7 @@
   },
   "active": "2ba87b6e053de1f3",
   "lastOpenFiles": [
+    "Personal/Todo.md",
     "Lecture Notes/MATH321/Lec4B 11-3.md",
     "Math/Analysis/Rings & Fields/Ring Characteristic.md",
     "Math/Analysis/Rings & Fields/Rings.md",
@@ -227,7 +228,6 @@
     "Math/Analysis/Rings & Fields/Zero-divisors.md",
     "Pasted image 20260311132746.png",
     "Pasted image 20260311132036.png",
-    "Personal/Todo.md",
     "Statistics/Probability/Probability Basics/Conditional Probability.md",
     "Computer Science/Big Data/Market-Basket Model.md",
     "Lecture Notes/MATH343/Lec4B 11-3.md",
