@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Metric, Normed, & Hilbert Spaces/Metrics/Angular Distance.md",
-                "mode": "preview",
+                "file": "Personal/Daily/26-03-13.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Angular Distance"
+              "title": "26-03-13"
             }
           }
         ]
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Math/Metric, Normed, & Hilbert Spaces/Metrics/Angular Distance.md",
+                "file": "Personal/Daily/26-03-13.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -107,7 +107,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Angular Distance"
+              "title": "Graph of 26-03-13"
             }
           }
         ]
@@ -211,10 +211,11 @@
   },
   "active": "6aa826883dcc259f",
   "lastOpenFiles": [
+    "Math/Metric, Normed, & Hilbert Spaces/Metrics/Angular Distance.md",
+    "Personal/Daily/26-03-13.md",
     "Lecture Notes/DATA301/Lec4B 12-3.md",
     "Computer Science/Algorithms/Edit Distance.md",
     "Math/Metric, Normed, & Hilbert Spaces/Metrics/Hamming Distance.md",
-    "Math/Metric, Normed, & Hilbert Spaces/Metrics/Angular Distance.md",
     "Math/Metric, Normed, & Hilbert Spaces/Metrics/Jaccard Distance.md",
     "Math/Linear Algebra/Vectors/Basics/Cosine Similarity Formula.md",
     "Math/Analysis/Rings & Fields/Reducible Factors.md",
@@ -239,7 +240,6 @@
     "Math/Metric, Normed, & Hilbert Spaces/Metrics/Untitled",
     "Math/Metric, Normed, & Hilbert Spaces/Metrics",
     "Math/Linear Algebra/Vectors/Norms/Norms.md",
-    "Computer Science/Algorithms/Euclidean Greatest Common Divisor Algorithm.md",
     "Computer Science/Algorithms/Strings",
     "Pasted image 20260311132746.png",
     "Pasted image 20260311132036.png",
