@@ -16,8 +16,8 @@ def kd_tree(points, depth=0)
 		axis = depth % 2 # 2 is dimension
 		sorted_points = sorted(points, key=lambda p: p[axis])
 		mid = len(points) // 2
-		median = points[mid - 1][axis]
-		left = kd_tree(points[:mid], depth + 1)
-		right = kd_tree(points[mid:], depth + 1)
+		median = sorted_points[mid - 1][axis]
+		left = kd_tree(sorted_points[:mid], depth + 1)
+		right = kd_tree(sorted_points[mid:], depth + 1)
 		return Node(axis, median, left, right)
 ```
