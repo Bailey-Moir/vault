@@ -7,7 +7,7 @@ Let $D$ be an [[Integral Domains|integral domain]]. A [[Polynomial Rings|polynom
 $$\exists g,h \in D[x] : f = gh \land g \text{ and } h \text{ aren't units},$$
 i.e. iff it is given by two non-[[Rings#^unit|units]] factors.
 
-> [!definition]- *(Irreducible)* $\forall g,h \in D[x], (f = gh \to g \text{ or } h \text{ are units}).$
+> [!definition] *(Irreducible)* $\forall g,h \in D[x], (f = gh \to g \text{ or } h \text{ are units}).$
 ^negation
 
 > [!example]- $f(x) = 3x^2 - 6$
@@ -39,8 +39,7 @@ i.e. iff it is given by two non-[[Rings#^unit|units]] factors.
 > Let $f^{-1} \in \F[x] = f^{-1}(x) = c^{-1}$ (which must exist as this is a [[Fields|field]]).
 > Then $f(x) \times f^{-1}(x) = c\times c^{-1} = 1$.
 > Thus, $f^{-1}$ is the [[Groups#^inverse|inverse]] of $f$, meaning $f$ is a [[Rings#^unit|unit]].
-
-^units-are-constant
+^field-units-are-constant
 
 > [!theorem]- *(Reducibility Test)* If $f \in \F[x]$[^1] is of [[Polynomials#Degree|degree]] $2$ or $3$, then $f$ is *reducible* over $\F$ iff $f$ has a root in $\F$.
 > $\left( \implies \right)$
@@ -53,6 +52,8 @@ i.e. iff it is given by two non-[[Rings#^unit|units]] factors.
 > Thus, $\deg g = \deg f - 1 > 0$.
 > Since $x-a$ and $g$ are non-constant, they are not [[Rings#^unit|units]] by [[#^units-are-constant|lemma 1]].
 Thus, $f$ is *reducible*.
+
+> [!theorem]- $f$ is *reducible* over $\Q$ $\to$ $f$ is *reducible* over $\Z$
 
 \[[[Polynomial Rings]]\]
 
