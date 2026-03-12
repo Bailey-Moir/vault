@@ -54,6 +54,7 @@ i.e. iff it is given by two non-[[Rings#^unit|units]] factors.
 Thus, $f$ is *reducible*.
 
 > [!theorem]- $f$ is *reducible* over $\Q$ $\to$ $f$ is *reducible* over $\Z$
+^rational-reducible-implies-integer-reducible
 
 \[[[Polynomial Rings]]\]
 

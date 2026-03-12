@@ -7,6 +7,12 @@ Let $p \in \P$[^1], and $f \in \Z[x]$[^2] with $\deg f \ge 1$. Let $\bar{f} \in 
 If $\bar{f}(x)$ is [[Reducible Factors#^negation|irreducible]] over $\Z_{p}$, and $\deg \bar{f} = \deg f$, then $f$ is [[Reducible Factors#^negation|irreducible]] over $\Q$.
 
 > [!proof]- [[Proof by Contraposition|by Contraposition]]
+> If $f \in \Q[x]$ factors as
+> $$f(x) = g(x)h(x)$$
+> for some [[Rings#^unit|units]] $g,h \in \Q[x]$, the [[Polynomials#Degree|degree]] of $g$ and $h$ are larger than $0$ by [[Reducible Factors#^field-units-are-constant|this lemma]].
+> 
+> By [[Reducible Factors#^rational-reducible-implies-integer-reducible|this theorem]], $f \in \Z[x]$ also has such [[Rings#^unit|unit]] factors of [[Polynomials#Degree|degree]] larger than $0$.
+> 
 > If $f \in \Z[x]$ factors as
 > $$f(x) = g(x)h(x)$$
 > for some [[Rings#^unit|units]] $g,h \in \Z[x]$, since $\tilde\sigma_{p}$ is a [[Ring Homomorphisms|homomorphism]],
