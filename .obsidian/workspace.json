@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "32e9d6256bf4e119",
+        "id": "9ff45aa37420e36f",
         "type": "tabs",
         "children": [
           {
-            "id": "6aa826883dcc259f",
+            "id": "814f35e33c4f2a11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Daily/26-03-13.md",
-                "mode": "source",
+                "file": "Math/Analysis/Rings & Fields/Polynomial Rings.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "26-03-13"
+              "title": "Polynomial Rings"
             }
           }
         ]
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Personal/Daily/26-03-13.md",
+                "file": "Math/Analysis/Rings & Fields/Polynomial Rings.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -107,7 +107,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 26-03-13"
+              "title": "Graph of Polynomial Rings"
             }
           }
         ]
@@ -209,10 +209,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6aa826883dcc259f",
+  "active": "814f35e33c4f2a11",
   "lastOpenFiles": [
-    "Math/Metric, Normed, & Hilbert Spaces/Metrics/Angular Distance.md",
+    "Math/Discrete/Number Theory/Counting Outcomes/Binomial Coefficient.md",
     "Personal/Daily/26-03-13.md",
+    "Math/Linear Algebra/Linear Transformations/Eigenvectors & Eigenvalues/Complex Conjugate Eigenpairs.md",
+    "Math/Metric, Normed, & Hilbert Spaces/Metrics/Angular Distance.md",
     "Lecture Notes/DATA301/Lec4B 12-3.md",
     "Computer Science/Algorithms/Edit Distance.md",
     "Math/Metric, Normed, & Hilbert Spaces/Metrics/Hamming Distance.md",
@@ -236,10 +238,8 @@
     "Math/Discrete/Set Theory/Relations/Symmetric Property.md",
     "Math/Metric, Normed, & Hilbert Spaces/Metric Spaces.md",
     "Computer Science/Abstract Data Types/Trees/K-D Trees.md",
-    "Lecture Notes/DATA301/Lec3B 5-4.md",
     "Math/Metric, Normed, & Hilbert Spaces/Metrics/Untitled",
     "Math/Metric, Normed, & Hilbert Spaces/Metrics",
-    "Math/Linear Algebra/Vectors/Norms/Norms.md",
     "Computer Science/Algorithms/Strings",
     "Pasted image 20260311132746.png",
     "Pasted image 20260311132036.png",
