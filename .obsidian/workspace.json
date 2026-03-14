@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9ff45aa37420e36f",
+        "id": "2a7a017307d3a69a",
         "type": "tabs",
         "children": [
           {
-            "id": "814f35e33c4f2a11",
+            "id": "53c5fe599ea5a464",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Analysis/Rings & Fields/Polynomial Rings.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Polynomial Rings"
+              "title": "New tab"
             }
           }
         ]
@@ -79,7 +74,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Math/Analysis/Rings & Fields/Polynomial Rings.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -107,7 +101,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Polynomial Rings"
+              "title": "Graph view"
             }
           }
         ]
@@ -209,19 +203,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "814f35e33c4f2a11",
+  "active": "53c5fe599ea5a464",
   "lastOpenFiles": [
+    "Computer Science/Algorithms/Sorting Algorithms/Merge Sort.md",
+    "Computer Science/Algorithms/Sorting Algorithms/Quick Sort.md",
+    "Computer Science/Algorithms/0,1 Knapsack.md",
+    "Computer Science/Algorithms/Disjoint Set Union.md",
+    "Computer Science/Algorithms/Edit Distance.md",
+    "Math/Analysis/Rings & Fields/Modulo Irreducibility Test.md",
+    "Math/Analysis/Rings & Fields/Polynomial Rings.md",
     "Math/Discrete/Number Theory/Counting Outcomes/Binomial Coefficient.md",
     "Personal/Daily/26-03-13.md",
     "Math/Linear Algebra/Linear Transformations/Eigenvectors & Eigenvalues/Complex Conjugate Eigenpairs.md",
     "Math/Metric, Normed, & Hilbert Spaces/Metrics/Angular Distance.md",
     "Lecture Notes/DATA301/Lec4B 12-3.md",
-    "Computer Science/Algorithms/Edit Distance.md",
     "Math/Metric, Normed, & Hilbert Spaces/Metrics/Hamming Distance.md",
     "Math/Metric, Normed, & Hilbert Spaces/Metrics/Jaccard Distance.md",
     "Math/Linear Algebra/Vectors/Basics/Cosine Similarity Formula.md",
     "Math/Analysis/Rings & Fields/Reducible Factors.md",
-    "Modulo Irreducibility Test.md",
     "Lecture Notes/MATH321/Lec4C 13-3.md",
     "Lecture Notes/MATH321/Lec1C 20-2.md",
     "Lecture Notes/MATH321/Lec2A 24-2.md",
@@ -233,11 +232,6 @@
     "Lecture Notes/MATH321/Lec4B 11-3.md",
     "Math/Analysis/Rings & Fields/Division Algorithm.md",
     "preamble.sty~",
-    "Math/Linear Algebra/Vectors/Cauchy-Schwartz Inequality.md",
-    "Math/Discrete/Set Theory/Cartesian Product.md",
-    "Math/Discrete/Set Theory/Relations/Symmetric Property.md",
-    "Math/Metric, Normed, & Hilbert Spaces/Metric Spaces.md",
-    "Computer Science/Abstract Data Types/Trees/K-D Trees.md",
     "Math/Metric, Normed, & Hilbert Spaces/Metrics/Untitled",
     "Math/Metric, Normed, & Hilbert Spaces/Metrics",
     "Computer Science/Algorithms/Strings",
