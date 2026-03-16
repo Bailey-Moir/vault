@@ -10,3 +10,4 @@ $$\begin{align}
 	\left( f+g \right)(x) &= f(x) + g(x) \\
 	(f \times g)(x) &= f(x) \times g(x).
 \end{align}$$
+> [!note] This is the same notation given in \[[[Sets of Functions]]\]
