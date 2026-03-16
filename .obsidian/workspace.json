@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2a7a017307d3a69a",
+        "id": "b99e95411fff2ce3",
         "type": "tabs",
         "children": [
           {
-            "id": "53c5fe599ea5a464",
+            "id": "613c52645087466b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -203,8 +203,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "53c5fe599ea5a464",
+  "active": "613c52645087466b",
   "lastOpenFiles": [
+    "Computer Science/Algorithms/Graphs/Connected Components.md",
+    "Computer Science/Algorithms/Graphs/Depth First Search.md",
+    "Computer Science/Algorithms/Graphs/Dijkstra's Algorithm.md",
+    "Computer Science/Algorithms/Graphs/Breadth First Search.md",
+    "Computer Science/Algorithms/Graphs/Bellman-Ford Algorithm.md",
     "Computer Science/Algorithms/Sorting Algorithms/Merge Sort.md",
     "Computer Science/Algorithms/Sorting Algorithms/Quick Sort.md",
     "Computer Science/Algorithms/0,1 Knapsack.md",
@@ -226,11 +231,6 @@
     "Lecture Notes/MATH321/Lec2A 24-2.md",
     "Lecture Notes/MATH321/Lec2B 25-2.md",
     "Lecture Notes/MATH321/Lec2C 27-2.md",
-    "Lecture Notes/MATH321/Lec3A 3-3.md",
-    "Lecture Notes/MATH321/Lec3B 4-3.md",
-    "Lecture Notes/MATH321/Lec4A 10-3.md",
-    "Lecture Notes/MATH321/Lec4B 11-3.md",
-    "Math/Analysis/Rings & Fields/Division Algorithm.md",
     "preamble.sty~",
     "Math/Metric, Normed, & Hilbert Spaces/Metrics/Untitled",
     "Math/Metric, Normed, & Hilbert Spaces/Metrics",

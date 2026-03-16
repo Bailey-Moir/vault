@@ -58,7 +58,7 @@ Identity ^hppMD2QA
 {
 	"type": "excalidraw",
 	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.13.1",
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.12.2",
 	"elements": [
 		{
 			"id": "pbkAy9OQ",
@@ -80,8 +80,8 @@ Identity ^hppMD2QA
 			"index": "a2",
 			"roundness": null,
 			"seed": 952257913,
-			"version": 96,
-			"versionNonce": 1005031417,
+			"version": 116,
+			"versionNonce": 1132508862,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -89,7 +89,7 @@ Identity ^hppMD2QA
 					"type": "arrow"
 				}
 			],
-			"updated": 1767927090584,
+			"updated": 1773555115223,
 			"link": null,
 			"locked": false,
 			"text": "Magma",
@@ -161,11 +161,11 @@ Identity ^hppMD2QA
 			"index": "a5",
 			"roundness": null,
 			"seed": 399994873,
-			"version": 205,
-			"versionNonce": 1810990745,
+			"version": 246,
+			"versionNonce": 413516740,
 			"isDeleted": false,
 			"boundElements": [],
-			"updated": 1767927090584,
+			"updated": 1773606374060,
 			"link": null,
 			"locked": false,
 			"text": "Quasigroup",
@@ -396,8 +396,8 @@ Identity ^hppMD2QA
 				"type": 2
 			},
 			"seed": 1638290585,
-			"version": 107,
-			"versionNonce": 67586551,
+			"version": 128,
+			"versionNonce": 1335216098,
 			"isDeleted": false,
 			"boundElements": [
 				{
@@ -405,7 +405,7 @@ Identity ^hppMD2QA
 					"id": "nXrhEf7Y"
 				}
 			],
-			"updated": 1767927090585,
+			"updated": 1773555115227,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -460,7 +460,7 @@ Identity ^hppMD2QA
 			"version": 15,
 			"versionNonce": 1622437431,
 			"isDeleted": false,
-			"boundElements": null,
+			"boundElements": [],
 			"updated": 1767926922274,
 			"link": null,
 			"locked": false,
@@ -812,7 +812,7 @@ Identity ^hppMD2QA
 		{
 			"id": "kP0GrKc9",
 			"type": "text",
-			"x": -23.271430604348097,
+			"x": -23.27143060434811,
 			"y": -135.44249082559625,
 			"width": 50.048095703125,
 			"height": 20,
@@ -998,7 +998,7 @@ Identity ^hppMD2QA
 		{
 			"id": "kn4Elz1c",
 			"type": "text",
-			"x": -34.618527350305556,
+			"x": -34.61852735030555,
 			"y": -111.74873094585185,
 			"width": 45.85609436035156,
 			"height": 20,
@@ -1317,7 +1317,7 @@ Identity ^hppMD2QA
 			"type": "arrow",
 			"x": -75.36825156012384,
 			"y": -185.933637797272,
-			"width": 33666.58756735334,
+			"width": 0,
 			"height": 73.80073800738009,
 			"angle": 0,
 			"strokeColor": "#98c379",
@@ -1515,10 +1515,10 @@ Identity ^hppMD2QA
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
 		"currentItemArrowType": "round",
-		"scrollX": 435.60302564013324,
-		"scrollY": 348.83048253655954,
+		"scrollX": 297.62959209799135,
+		"scrollY": 507.8517833352413,
 		"zoom": {
-			"value": 1.515618
+			"value": 0.891872
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": 20,
