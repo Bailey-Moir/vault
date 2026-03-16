@@ -20,3 +20,18 @@ $$\exists A,B \in \R_{> 0} : \forall \vecbf{v} \in V, A\| \vecbf{v} \|_{1} \le \
 > \end{align}$$
 > Thus, $( \vecbf{a_{n}} )$ [[Metric Sequence Convergence|converges]] to $\vecbf{\lambda}$ in the [[Metric Spaces|metric space]] [[Norms#^induced-metrics|induced]] by $\| \cdot \|_{2}$ as well.
 ^convergence
+
+> [!example]- The [[P-Norms|1-]] [[P-Norms|2-]] and $\infty$[[P-Norms|-norms]] are all *equivalent* (in fact, all [[P-Norms|p-norms]] are *equivalent*)
+> Let $\vecbf{v} \in \R^n$ for some $n \in \N$. Then
+> $$\begin{array}{c}
+> 	\displaystyle \max \left| v_{i} \right| \le \sum \left| v_{i} \right|  \le n\displaystyle \max \left| v_{i} \right|  \\
+> 	\| \vecbf{v} \|_{\infty} \le \| \vecbf{v} \|_{1} \le n\| \vecbf{v} \|_{\infty} \\
+> 	\\
+> 	\displaystyle \max \left| v_{i} \right| = \sqrt{ \max \left| v_{i} \right|^2} \le \sqrt{ \sum \left| v_{i} \right|^2 } \le \sqrt{ n\max \left| v_{i} \right|^2} = \sqrt{n}\displaystyle \max_{\vecbf{v} \in \R^{n}} \\
+> 	\| \vecbf{v} \|_{\infty} \le \| \vecbf{v} \|_{2} \le \sqrt{n}\| \vecbf{v} \|_{\infty} \\
+> 	\\
+> 	\to \dfrac{1}{n} \| \vecbf{v} \|_{1} \le \| \vecbf{v} \|_{\infty} \le \| \vecbf{v} \|_{2} \le \sqrt{n}\| \vecbf{v} \|_{\infty} \le \sqrt{ n } \| \vecbf{v} \|_{1}. \\
+> 	\dfrac{1}{n} \| \vecbf{v} \|_{1} \le \| \vecbf{v} \|_{2} \le \sqrt{ n } \| \vecbf{v} \|_{1}. \\
+> \end{array}$$
+> Thus, all three are *equivalent*.
+^p-norms
