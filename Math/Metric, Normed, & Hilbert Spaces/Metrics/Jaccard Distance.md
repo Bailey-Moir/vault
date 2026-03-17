@@ -4,7 +4,7 @@ tags:
   - math
 ---
 The *Jaccard similarity* between two [[Sets|sets]] is the [[Cardinality|cardinality]] of [[Unions & Intersections|intersection]] divided by that of their [[Unions & Intersections|union]] (the % of elements shared). The *Jaccard distance* is the complement of this,
-$$d(A,B) = 1 - \dfrac{\left| A \cap B \right|}{\left| A \cup B \right| }.$$
+$$d_{J}(A,B) = 1 - \dfrac{\left| A \cap B \right|}{\left| A \cup B \right| }.$$
 *i.e. the % of elements not shared*
 
 > [!theorem]- The *Jaccard distance* is a [[Metric Spaces|metric]] on any [[Classes|class]] of **finite** [[Sets|sets]].
