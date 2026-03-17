@@ -13,7 +13,7 @@ A *ring* $R$ is a [[Sets|set]] together with two [[Binary Operations|binary oper
 > [!definition] A **unity** in a *ring* is a non-zero multiplicative identity. 
 ^unity
 
-> [!definition] A **unit** in a *ring* is an element that has a multiplicative inverse. 
+> [!definition] A **unit** in a *ring* is an element that has a multiplicative inverse. The [[Sets|set]] of **units** of $R$ is denoted $R^\times$.
 ^unit
 
 > [!theorem]- If $R$ is a *ring*, then for all $a,b,c \in R$, <ol><li>$0a = a0 = 0$</li><li>$a(-b) = (-a)b = -(ab)$</li><li>$(-a)(-b) = ab$</li><li>$a\left( b-c \right) = ab - ac$ and $\left( a-b \right)c = ac - bc$</li></ol>If $R$ is a *ring* with **unity**, the **unity** is unique, and if $a \in R$ is a **unit**, its multiplicative inverse is unique. Further,<ol start="5"><li>$(-1)a = -a$</li><li>$(-1)(-1) = 1$</li></ol>

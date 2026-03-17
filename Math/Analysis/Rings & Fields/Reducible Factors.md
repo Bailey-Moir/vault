@@ -3,13 +3,13 @@ tags:
   - atom
   - math
 ---
-Let $D$ be an [[Integral Domains|integral domain]]. A [[Polynomial Rings|polynomial]] $f \in D[x]$ that is non-zero is called a *reducible factor* iff
-$$\exists g,h \in D[x] : f = gh \land g \text{ and } h \text{ aren't units},$$
+Let $D$ be an [[Integral Domains|integral domain]]. A element $r \in D$ that is non-zero is called a *reducible factor* iff
+$$\exists s,t \in D \setminus D^\times : r = st$$
 i.e. iff it is given by two non-[[Rings#^unit|units]] factors.
 
-> [!definition] *(Irreducible)* $\forall g,h \in D[x], (f = gh \to g \text{ or } h \text{ are units}).$
+> [!definition] *(Irreducible)* $\forall s,t \in D, (r = st \to s,t \in D^\times).$
 ^negation
-
+# Polynomials
 > [!example]- $f(x) = 3x^2 - 6$
 > $$\begin{array}{rl}
 > 	\R: & f(x) = 3\left( x-\sqrt{ 2 } \right)\left( x+\sqrt{ 2 } \right) \to \text{reducible} \\
