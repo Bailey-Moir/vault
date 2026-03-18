@@ -7,3 +7,12 @@ tags:
 If $s$ is the [[Proportion|proportion]] of program that is "inherently sequential", and $p$ is the number of processors, then the [[Parallel Speedup|speedup]] $S$ is given by
 $$S = \dfrac{1}{s + \dfrac{1-s}{p}} \le \dfrac{1}{s}.$$
 > [!example] If 10% of the program is "inherently sequential", even if the rest of the program ran with linear scalability and infinite processors, the maximum [[Parallel Speedup|speedup]] would be $10$.
+
+> [!theorem]- $s = \dfrac{p - S}{S(p - 1)}$
+> $$\begin{align}
+> 	S &= \dfrac{1}{s + \dfrac{1-s}{p}} \\
+> 	\dfrac{1}{S} &= s + \dfrac{1-s}{p} \\
+> 	\dfrac{1}{S} - \dfrac{1}{p} &= s\left( 1 - \dfrac{1}{p}\right) \\
+> 	s &= \dfrac{\dfrac{1}{S} - \dfrac{1}{p}}{1 - \dfrac{1}{p}} \\
+> 	s &= \dfrac{p - S}{S(p - 1)} \\
+> \end{align}$$
