@@ -13,3 +13,5 @@ $$\begin{bmatrix}
 	h_{m}(S_{m}) & h_{m}(S_{2}) & \cdots & h_{m}(S_{n}) \\
 \end{bmatrix}$$
 Then by the [[Minhashing#^theorem|minhashing theorem]], the [[Jaccard Distance|Jaccard similarity]] between two [[Sets|sets]] is approximated by the [[Proportion|proportion]] of rows where the two columns agree (as each row can be viewed as an [[Independent Events|independent]] experiment).
+
+[!note] In reality, [[Permutations|permuting]] a column is very expensive, so instead the columns are "[[Permutations|permuted]]" using a random [[Hash|hash]] function baked into each $h_{1},\dots,h_{m}$. This leads to non-[[Injective Functions|injectivity]] and non-[[Surjective Functions|surjectivity]], but this is not a problem as long as the height of $M$ is large enough.
