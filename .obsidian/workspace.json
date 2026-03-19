@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Linear Algebra/Vectors/Norms/Norms.md",
-                "mode": "preview",
+                "file": "Lecture Notes/DATA301/Lec5A ???.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Norms"
+              "title": "Lec5A ???"
             }
           }
         ]
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Math/Linear Algebra/Vectors/Norms/Norms.md",
+                "file": "Lecture Notes/DATA301/Lec5A ???.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -107,7 +107,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Norms"
+              "title": "Graph of Lec5A ???"
             }
           }
         ]
@@ -211,9 +211,17 @@
   },
   "active": "bf01bd2cd86ef94c",
   "lastOpenFiles": [
+    "Computer Science/Big Data/Minhash Signatures.md",
+    "Lecture Notes/DATA301/Lec5A ???.md",
+    "Computer Science/Big Data/Minhashing.md",
+    "Lecture Notes/MATH321/Lec5B 18-3.md",
+    "Math/Linear Algebra/Vectors/Norms/Norms.md",
+    "Math/Discrete/Set Theory/Basics/Set-Builder Notation.md",
+    "Computer Science/Big Data/Characteristic Set Matrices.md",
+    "Math/Linear Algebra/Linear Transformations/Eigenvectors & Eigenvalues/Characteristic Polynomial.md",
+    "SSH.md",
     "Computer Science/Big Data/Parallel Speedup.md",
     "Computer Science/Big Data/Amdahl's Law.md",
-    "Lecture Notes/MATH321/Lec5B 18-3.md",
     "Math/Analysis/Rings & Fields/Eisenstein's Criterion.md",
     "Math/Analysis/Rings & Fields/Reducible Factors.md",
     "Math/Analysis/Rings & Fields/Modulo Irreducibility Test.md",
@@ -223,20 +231,12 @@
     "Math/Analysis/Rings & Fields/Unique Factorisation Domain.md",
     "Math/Linear Algebra/Vectors/Cross Product.md",
     "Lecture Notes/DATA301/Lec4B 14-3.md",
-    "Computer Science/Big Data/Minhashing.md",
     "Math/Metric, Normed, & Hilbert Spaces/Metrics/Jaccard Distance.md",
     "Expected Value.md",
     "Computer Science/Big Data/Hashing Shingles.md",
-    "Computer Science/Big Data/Characteristic Set Matrices.md",
     "Sparse Matrices.md",
     "Math/Discrete/Graph Theory/Dense & Sparse Graphs.md",
     "Archive/Space Empires.md",
-    "Sparse.md",
-    "Math/Linear Algebra/Matrices/Matrices.md",
-    "Math/Linear Algebra/Matrices/Definitions/Sets of Matrices.md",
-    "Math/Discrete/Graph Theory/Colouring/Structure of Chromatic Polynomials.md",
-    "Math/Discrete/Set Theory/Ordered Sets.md",
-    "Math/Linear Algebra/Matrices/Matrix Multiplication.md",
     "preamble.sty~",
     "Math/Metric, Normed, & Hilbert Spaces/Metrics/Untitled",
     "Math/Metric, Normed, & Hilbert Spaces/Metrics",
