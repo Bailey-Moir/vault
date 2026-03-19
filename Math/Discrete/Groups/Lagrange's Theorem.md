@@ -28,7 +28,7 @@ Let $G$ be a finite [[Groups|group]], and $H \le G$. Then the [[Order in Groups|
 > $$g_{1}h = g_{2}h_{2}h_{1}^{-1}h \in g_{2}H$$
 >    Similarly, $g_{2} = g_{1}h_{1}h_{2}^{-1}$, meaning if $g_{2}h$ is any element in $g_{2}H$, we have
 > $$g_{2}h = g_{1}h_{1}h_{2}^{-1}h \in g_{1}H$$
->    Thus, $g_{1}H=g_{2}H$.jj
+>    Thus, $g_{1}H=g_{2}H$.
 
 > [!lemma]- $\mathbf{(2)}$ If $H \le G$, all [[Cosets|cosets]] of $H$ have the same [[Cardinality|cardinality]].
 > Let $gH$ be a [[Cosets|coset]]. Consider the [[Functions|function]]

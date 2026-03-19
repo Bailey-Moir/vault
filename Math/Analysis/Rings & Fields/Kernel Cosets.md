@@ -25,3 +25,5 @@ $$\varphi^{-1}\{ \varphi(r) \} = r + \ker \varphi.$$
 > 	&= \varphi(r). \\
 > \end{align}$$
 > Thus, $s \in \varphi^{-1}\{ \varphi(r) \}$.
+
+\[[[Ring Cosets]]\]
