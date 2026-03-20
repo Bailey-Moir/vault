@@ -14,31 +14,15 @@
               "type": "markdown",
               "state": {
                 "file": "Lecture Notes/DATA301/Lec4A-6B.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Lec4A-6B"
             }
-          },
-          {
-            "id": "22758e90a9337bb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locality Sensitive Hashing for Minhash Signatures.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Locality Sensitive Hashing for Minhash Signatures"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -95,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Locality Sensitive Hashing for Minhash Signatures.md",
+                "file": "Lecture Notes/DATA301/Lec4A-6B.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -123,7 +107,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Locality Sensitive Hashing for Minhash Signatures"
+              "title": "Graph of Lec4A-6B"
             }
           }
         ]
@@ -225,10 +209,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "22758e90a9337bb7",
+  "active": "6c7767d586410d50",
   "lastOpenFiles": [
-    "Personal/Todo.md",
     "Locality Sensitive Hashing for Minhash Signatures.md",
+    "Personal/Todo.md",
     "Assets/excali/lsh-minhash-sig-target.excalidraw.md",
     "Assets/excali/lsh-minhash-sig-11.excalidraw.md",
     "lsh-minhash-sig-11.excalidraw.md",
