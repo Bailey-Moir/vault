@@ -11,13 +11,34 @@
             "id": "6c7767d586410d50",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Lecture Notes/DATA301/Lec4A-6B.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lec4A-6B"
+            }
+          },
+          {
+            "id": "22758e90a9337bb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locality Sensitive Hashing for Minhash Signatures.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Locality Sensitive Hashing for Minhash Signatures"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,6 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Locality Sensitive Hashing for Minhash Signatures.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -101,7 +123,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Locality Sensitive Hashing for Minhash Signatures"
             }
           }
         ]
@@ -203,8 +225,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6c7767d586410d50",
+  "active": "22758e90a9337bb7",
   "lastOpenFiles": [
+    "Assets/excali/lsh-minhash-sig-target.excalidraw.md",
+    "Assets/excali/lsh-minhash-sig-11.excalidraw.md",
+    "Locality Sensitive Hashing for Minhash Signatures.md",
+    "lsh-minhash-sig-11.excalidraw.md",
+    "Assets/excali/ivp-eg.excalidraw.md",
+    "Archive/Lecture Notes/MATH240/Lec2C 24-7.md",
+    "Statistics/Inference for Means and Proportions/CI for Mean Difference.md",
+    "Archive/Lecture Notes/COSC264/Lec11A 7-10.md",
+    "Lecture Notes/MATH343/Lec4B 11-3.md",
+    "Math/Discrete/Cryptography/Pohlig-Hellman Algorithm.md",
+    "Computer Science/Big Data/Minhash Signatures.md",
+    "Math/Discrete/Number Theory/Counting Outcomes/Binomial Coefficient.md",
+    "Lecture Notes/DATA301/Lec4A-6B.md",
+    "Lecture Notes/DATA301/Lec5A ???.md",
     "Lecture Notes/MATH321/Lec6A 20-3.md",
     "Math/Analysis/Rings & Fields/Ring Ideals.md",
     "Math/Analysis/Rings & Fields/Kernels.md",
@@ -217,20 +253,6 @@
     "Lecture Notes/MATH321/Lec4B 11-3.md",
     "Lecture Notes/MATH321/Lec4C 13-3.md",
     "Math/Analysis/Rings & Fields/Kernel Cosets.md",
-    "Math/Discrete/Groups/Lagrange's Theorem.md",
-    "Lecture Notes/MATH321/Lec5B 18-3.md",
-    "Lecture Notes/DATA301/Lec5A ???.md",
-    "Computer Science/Big Data/Minhash Signatures.md",
-    "Computer Science/Big Data/Minhashing.md",
-    "Math/Linear Algebra/Vectors/Norms/Norms.md",
-    "Math/Discrete/Set Theory/Basics/Set-Builder Notation.md",
-    "Computer Science/Big Data/Characteristic Set Matrices.md",
-    "Math/Linear Algebra/Linear Transformations/Eigenvectors & Eigenvalues/Characteristic Polynomial.md",
-    "SSH.md",
-    "Computer Science/Big Data/Parallel Speedup.md",
-    "Computer Science/Big Data/Amdahl's Law.md",
-    "Math/Analysis/Rings & Fields/Eisenstein's Criterion.md",
-    "Math/Analysis/Rings & Fields/Reducible Factors.md",
     "preamble.sty~",
     "Math/Metric, Normed, & Hilbert Spaces/Metrics/Untitled",
     "Math/Metric, Normed, & Hilbert Spaces/Metrics",
