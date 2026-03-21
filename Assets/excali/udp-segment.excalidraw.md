@@ -55,7 +55,7 @@ Length ^wqyrROfc
 			"height": 133.5975577619811,
 			"angle": 0,
 			"strokeColor": "transparent",
-			"backgroundColor": "#98c379",
+			"backgroundColor": "#61afef",
 			"fillStyle": "hachure",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
@@ -843,18 +843,18 @@ Length ^wqyrROfc
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				],
 				"elementStroke": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				]
 			}
 		},

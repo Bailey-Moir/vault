@@ -224,7 +224,7 @@ f696e3f6b1a030add5e5e29553345bc6ff7fed18: $$64 - n$$
 			"height": 40.83395025366204,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#98c379",
+			"backgroundColor": "#61afef",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
@@ -268,7 +268,7 @@ f696e3f6b1a030add5e5e29553345bc6ff7fed18: $$64 - n$$
 			"height": 40.52894780096685,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#98c379",
+			"backgroundColor": "#61afef",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
@@ -388,7 +388,7 @@ f696e3f6b1a030add5e5e29553345bc6ff7fed18: $$64 - n$$
 			"height": 151.08306942467067,
 			"angle": 1.5707963267948957,
 			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#98c379",
+			"backgroundColor": "#61afef",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
@@ -454,7 +454,7 @@ f696e3f6b1a030add5e5e29553345bc6ff7fed18: $$64 - n$$
 			"height": 273.7957169331536,
 			"angle": 1.5707963267948957,
 			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#98c379",
+			"backgroundColor": "#61afef",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
@@ -586,7 +586,7 @@ f696e3f6b1a030add5e5e29553345bc6ff7fed18: $$64 - n$$
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
 		"currentItemStrokeColor": "#1e1e1e",
-		"currentItemBackgroundColor": "#98c379",
+		"currentItemBackgroundColor": "#61afef",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
 		"currentItemStrokeStyle": "solid",
@@ -614,18 +614,18 @@ f696e3f6b1a030add5e5e29553345bc6ff7fed18: $$64 - n$$
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				],
 				"elementStroke": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				]
 			}
 		},

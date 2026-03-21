@@ -216,7 +216,7 @@ Equilibrium ^GjXG6ecL
 			"width": 238.94307330809053,
 			"height": 238.94307330809056,
 			"angle": 0,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -260,7 +260,7 @@ Equilibrium ^GjXG6ecL
 			"width": 240.34799736383474,
 			"height": 240.34799736383468,
 			"angle": 0,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -311,7 +311,7 @@ Equilibrium ^GjXG6ecL
 			"angle": 0,
 			"x": -93.71406637813041,
 			"y": -325.06804450536663,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"width": 119.73416137695312,
 			"height": 22.222380690556392,
@@ -351,7 +351,7 @@ Equilibrium ^GjXG6ecL
 			"angle": 0,
 			"x": -93.71406637813041,
 			"y": -419.83534799565655,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"width": 107.50837707519531,
 			"height": 22.222380690556392,
@@ -769,18 +769,18 @@ Equilibrium ^GjXG6ecL
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				],
 				"elementStroke": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				]
 			}
 		},

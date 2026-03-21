@@ -73,7 +73,7 @@ Options ^exeDHOHs
 			"height": 38.81808728872047,
 			"angle": 0,
 			"strokeColor": "transparent",
-			"backgroundColor": "#e06c75",
+			"backgroundColor": "#d19a66",
 			"fillStyle": "hachure",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
@@ -101,7 +101,7 @@ Options ^exeDHOHs
 			"height": 133.5975577619811,
 			"angle": 0,
 			"strokeColor": "transparent",
-			"backgroundColor": "#98c379",
+			"backgroundColor": "#61afef",
 			"fillStyle": "hachure",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
@@ -1840,8 +1840,8 @@ Options ^exeDHOHs
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#98c379",
-		"currentItemBackgroundColor": "#98c379",
+		"currentItemStrokeColor": "#61afef",
+		"currentItemBackgroundColor": "#61afef",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
 		"currentItemStrokeStyle": "solid",
@@ -1869,18 +1869,18 @@ Options ^exeDHOHs
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				],
 				"elementStroke": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				]
 			}
 		},

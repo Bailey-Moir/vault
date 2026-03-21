@@ -1325,7 +1325,7 @@ Portion ^GIpWk4YJ
 			"width": 475.60727035436923,
 			"height": 18.854292524317202,
 			"angle": 0,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -1383,7 +1383,7 @@ Portion ^GIpWk4YJ
 			"width": 475.60727035436923,
 			"height": 52.210167328469105,
 			"angle": 0,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -1445,7 +1445,7 @@ Portion ^GIpWk4YJ
 			"width": 475.60727035436923,
 			"height": 157.89405627620684,
 			"angle": 0,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -1507,7 +1507,7 @@ Portion ^GIpWk4YJ
 			"width": 475.60727035436923,
 			"height": 333.33533144571516,
 			"angle": 0,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -1577,7 +1577,7 @@ Portion ^GIpWk4YJ
 			"x": 261.8606497858326,
 			"y": -237.8118152183609,
 			"strokeColor": "transparent",
-			"backgroundColor": "#d19a66",
+			"backgroundColor": "#e06c75",
 			"width": 18.359363932013377,
 			"height": 24.820393643810654,
 			"seed": 576886171,
@@ -1647,7 +1647,7 @@ Portion ^GIpWk4YJ
 			"x": 260.9062618926298,
 			"y": -296.4967951493808,
 			"strokeColor": "transparent",
-			"backgroundColor": "#61afef",
+			"backgroundColor": "#98c379",
 			"width": 18.359363932013377,
 			"height": 24.820393643810654,
 			"seed": 1015556827,
@@ -1717,7 +1717,7 @@ Portion ^GIpWk4YJ
 			"x": 260.91867905568756,
 			"y": -209.07829676375945,
 			"strokeColor": "transparent",
-			"backgroundColor": "#98c379",
+			"backgroundColor": "#61afef",
 			"width": 18.359363932013377,
 			"height": 24.820393643810654,
 			"seed": 465137691,
@@ -1787,7 +1787,7 @@ Portion ^GIpWk4YJ
 			"x": 261.2425153704804,
 			"y": -266.95537280556925,
 			"strokeColor": "transparent",
-			"backgroundColor": "#e06c75",
+			"backgroundColor": "#d19a66",
 			"width": 18.359363932013377,
 			"height": 24.820393643810654,
 			"seed": 1422550363,
@@ -1883,7 +1883,7 @@ Portion ^GIpWk4YJ
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#61afef",
+		"currentItemStrokeColor": "#98c379",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
@@ -1912,18 +1912,18 @@ Portion ^GIpWk4YJ
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				],
 				"elementStroke": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				]
 			}
 		},

@@ -17,21 +17,21 @@ Chunk Server 2 ^wuehpNX6
 Chunk Server 3 ^4ILRjcXh
 
 ## Embedded Files
-b737c9c3fb21f24035de158dc26ae4615669e7ee: $$\color{red}C_0$$
+b737c9c3fb21f24035de158dc26ae4615669e7ee: $$\color{orange}C_0$$
 
 b778c556145d1a3d3bd2904b384ab3ad3fc4222d: $$\color{CornFlowerBlue}C_1$$
 
-0c488d298fd35387f8137546682d0cf1aa8f6ad6: $$\color{yellowGreen}C_2$$
+0c488d298fd35387f8137546682d0cf1aa8f6ad6: $$\color{CornflowerBlue}C_2$$
 
-3618ed088b4442804e26c1d6015bbfaea82d3093: $$\color{orange}D_0$$
+3618ed088b4442804e26c1d6015bbfaea82d3093: $$\color{red}D_0$$
 
 355331dc88c85d314b296c6fe6b6752993410e0e: $$\color{teal}D_1$$
 
 57350b7b0d33a827d25b49ea578cc3192543b608: $$\color{purple}D_2$$
 
-c4e33ec9eb801a5328f22a7a63c80efedae98abf: $$\color{orange}D_0$$
+c4e33ec9eb801a5328f22a7a63c80efedae98abf: $$\color{red}D_0$$
 
-9ffcb64c62abad92d02f958f9a45b081394cd5bf: $$\color{yellowGreen}C_2$$
+9ffcb64c62abad92d02f958f9a45b081394cd5bf: $$\color{CornflowerBlue}C_2$$
 
 89c39e317aec8ca201567e14245ff7248edb5f9f: $$\color{teal}D_1$$
 
@@ -39,7 +39,7 @@ b0ac5e3bc91f26888922d6b96500e6618f28d89c: $$\color{purple}D_2$$
 
 de7fe524a9634e66a563964f4143b1c3ec59345a: $$\color{CornFlowerBlue}C_1$$
 
-d1b7fce28f3f5e43f2f484d3d60c430f60227149: $$\color{red}C_0$$
+d1b7fce28f3f5e43f2f484d3d60c430f60227149: $$\color{orange}C_0$$
 
 %%
 ## Drawing
@@ -228,7 +228,7 @@ d1b7fce28f3f5e43f2f484d3d60c430f60227149: $$\color{red}C_0$$
 			"width": 27.232360834734564,
 			"height": 25.275046921369253,
 			"angle": 0,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -365,7 +365,7 @@ d1b7fce28f3f5e43f2f484d3d60c430f60227149: $$\color{red}C_0$$
 			"width": 27.232360834734564,
 			"height": 25.275046921369253,
 			"angle": 0,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -432,7 +432,7 @@ d1b7fce28f3f5e43f2f484d3d60c430f60227149: $$\color{red}C_0$$
 			"width": 27.232360834734564,
 			"height": 25.275046921369253,
 			"angle": 0,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -499,7 +499,7 @@ d1b7fce28f3f5e43f2f484d3d60c430f60227149: $$\color{red}C_0$$
 			"width": 27.232360834734564,
 			"height": 25.275046921369253,
 			"angle": 0,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -566,7 +566,7 @@ d1b7fce28f3f5e43f2f484d3d60c430f60227149: $$\color{red}C_0$$
 			"width": 27.232360834734564,
 			"height": 25.275046921369253,
 			"angle": 0,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -633,7 +633,7 @@ d1b7fce28f3f5e43f2f484d3d60c430f60227149: $$\color{red}C_0$$
 			"width": 27.232360834734564,
 			"height": 25.275046921369253,
 			"angle": 0,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -974,7 +974,7 @@ d1b7fce28f3f5e43f2f484d3d60c430f60227149: $$\color{red}C_0$$
 			"width": 27.232360834734564,
 			"height": 25.275046921369253,
 			"angle": 0,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -1041,7 +1041,7 @@ d1b7fce28f3f5e43f2f484d3d60c430f60227149: $$\color{red}C_0$$
 			"width": 27.232360834734564,
 			"height": 25.275046921369253,
 			"angle": 0,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -1638,18 +1638,18 @@ d1b7fce28f3f5e43f2f484d3d60c430f60227149: $$\color{red}C_0$$
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				],
 				"elementStroke": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				]
 			}
 		},

@@ -236,7 +236,7 @@ ef1bf50f096f2ceeb87e60776c7017d8dba741d8: $$b$$
 			"angle": 0,
 			"x": -90.55151291662735,
 			"y": 24.10678790463369,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"width": 111.12778459840824,
 			"height": 73.09459957427745,
@@ -390,7 +390,7 @@ ef1bf50f096f2ceeb87e60776c7017d8dba741d8: $$b$$
 			"angle": 0,
 			"x": -89.86930811632423,
 			"y": 24.524696167516353,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"width": 111.70899345536255,
 			"height": 73.48207214558035,
@@ -533,8 +533,8 @@ ef1bf50f096f2ceeb87e60776c7017d8dba741d8: $$b$$
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#98c379",
-		"currentItemBackgroundColor": "#98c379",
+		"currentItemStrokeColor": "#61afef",
+		"currentItemBackgroundColor": "#61afef",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
 		"currentItemStrokeStyle": "dashed",
@@ -562,18 +562,18 @@ ef1bf50f096f2ceeb87e60776c7017d8dba741d8: $$b$$
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				],
 				"elementStroke": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				]
 			}
 		},

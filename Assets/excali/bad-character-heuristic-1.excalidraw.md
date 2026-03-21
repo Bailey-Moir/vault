@@ -76,7 +76,7 @@ gccgaga ^iN5Ll3bs
 			"angle": 0,
 			"x": -76.1001010889195,
 			"y": 104.94441750566384,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"width": 102.11993408203125,
 			"height": 33.000000000000014,
@@ -170,7 +170,7 @@ gccgaga ^iN5Ll3bs
 			"angle": 0,
 			"x": 26.51807112789176,
 			"y": 126.90330841436509,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"width": 102.11993408203125,
 			"height": 33.000000000000014,
@@ -246,7 +246,7 @@ gccgaga ^iN5Ll3bs
 			"angle": 0,
 			"x": 297.76593953666736,
 			"y": 197.30769875566386,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"width": 102.11993408203125,
 			"height": 33.000000000000014,
@@ -335,7 +335,7 @@ gccgaga ^iN5Ll3bs
 			"angle": 0,
 			"x": 297.51807112789174,
 			"y": 219.26658966436509,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"width": 102.11993408203125,
 			"height": 33.000000000000014,
@@ -362,7 +362,7 @@ gccgaga ^iN5Ll3bs
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#d19a66",
+		"currentItemStrokeColor": "#e06c75",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
@@ -391,18 +391,18 @@ gccgaga ^iN5Ll3bs
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				],
 				"elementStroke": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				]
 			}
 		},

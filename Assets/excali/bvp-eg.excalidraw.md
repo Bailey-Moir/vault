@@ -31,7 +31,7 @@ b3c5ab79eff8c712e91864c5bfd2fd939a97dc18: $$t$$
 			"width": 54.575118580711546,
 			"height": 127.94792995287287,
 			"angle": 1.8772622994747827,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -442,18 +442,18 @@ b3c5ab79eff8c712e91864c5bfd2fd939a97dc18: $$t$$
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				],
 				"elementStroke": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				]
 			}
 		},

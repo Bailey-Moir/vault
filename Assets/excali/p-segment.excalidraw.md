@@ -46,7 +46,7 @@ with a border ^MwTStq6C
 			"x": -118.5,
 			"y": 74.86783022196077,
 			"strokeColor": "transparent",
-			"backgroundColor": "#98c379",
+			"backgroundColor": "#61afef",
 			"width": 70.5,
 			"height": 36.153839311451414,
 			"seed": 2026118108,
@@ -79,7 +79,7 @@ with a border ^MwTStq6C
 			"x": -294.0301318801893,
 			"y": 74.4034587694488,
 			"strokeColor": "transparent",
-			"backgroundColor": "#98c379",
+			"backgroundColor": "#61afef",
 			"width": 75.30198705632041,
 			"height": 34.91538550523032,
 			"seed": 288398564,
@@ -419,7 +419,7 @@ with a border ^MwTStq6C
 			"angle": 0,
 			"x": -47.99604131020109,
 			"y": 66.51715468307594,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"width": 165.86901316213851,
 			"height": 8.349116092262136,
@@ -516,7 +516,7 @@ with a border ^MwTStq6C
 			"height": 25,
 			"angle": 0,
 			"strokeColor": "transparent",
-			"backgroundColor": "#98c379",
+			"backgroundColor": "#61afef",
 			"fillStyle": "cross-hatch",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
@@ -550,7 +550,7 @@ with a border ^MwTStq6C
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
 		"currentItemStrokeColor": "transparent",
-		"currentItemBackgroundColor": "#98c379",
+		"currentItemBackgroundColor": "#61afef",
 		"currentItemFillStyle": "cross-hatch",
 		"currentItemStrokeWidth": 2,
 		"currentItemStrokeStyle": "solid",
@@ -578,18 +578,18 @@ with a border ^MwTStq6C
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				],
 				"elementStroke": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				]
 			}
 		},

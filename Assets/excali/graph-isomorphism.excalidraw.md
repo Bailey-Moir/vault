@@ -269,7 +269,7 @@ tags: [excalidraw]
 			"width": 0.00021081081081081082,
 			"height": 0.00021081081081081082,
 			"angle": 0,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -310,7 +310,7 @@ tags: [excalidraw]
 			"width": 0.00021081081081081082,
 			"height": 0.00021081081081081082,
 			"angle": 0,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -351,7 +351,7 @@ tags: [excalidraw]
 			"width": 0.00021081081081081082,
 			"height": 0.00021081081081081082,
 			"angle": 0,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -392,7 +392,7 @@ tags: [excalidraw]
 			"width": 0.00021081081081081082,
 			"height": 0.00021081081081081082,
 			"angle": 0,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -562,7 +562,7 @@ tags: [excalidraw]
 			"width": 0.0001,
 			"height": 0.0001,
 			"angle": 0,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -603,7 +603,7 @@ tags: [excalidraw]
 			"width": 0.0001,
 			"height": 0.0001,
 			"angle": 0,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -644,7 +644,7 @@ tags: [excalidraw]
 			"width": 0.0001,
 			"height": 0.0001,
 			"angle": 0,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -685,7 +685,7 @@ tags: [excalidraw]
 			"width": 0.0001,
 			"height": 0.0001,
 			"angle": 0,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 4,
@@ -722,7 +722,7 @@ tags: [excalidraw]
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#98c379",
+		"currentItemStrokeColor": "#61afef",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 4,
@@ -751,18 +751,18 @@ tags: [excalidraw]
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				],
 				"elementStroke": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				]
 			}
 		},

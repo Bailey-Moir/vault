@@ -1238,7 +1238,7 @@ Interface ^c2G5Xv0W
 			"width": 230.1609344482422,
 			"height": 35,
 			"angle": 0,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -1276,7 +1276,7 @@ Interface ^c2G5Xv0W
 			"width": 221.87286376953125,
 			"height": 35,
 			"angle": 0,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -1314,7 +1314,7 @@ Interface ^c2G5Xv0W
 			"width": 117.29248046875,
 			"height": 35,
 			"angle": 0,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -1352,7 +1352,7 @@ Interface ^c2G5Xv0W
 			"width": 253.59703063964844,
 			"height": 35,
 			"angle": 0,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -1390,7 +1390,7 @@ Interface ^c2G5Xv0W
 			"width": 192.78077697753906,
 			"height": 35,
 			"angle": 0,
-			"strokeColor": "#98c379",
+			"strokeColor": "#61afef",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -1428,7 +1428,7 @@ Interface ^c2G5Xv0W
 			"width": 76.09004987792639,
 			"height": 61.71082785375131,
 			"angle": 0,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -1474,7 +1474,7 @@ Interface ^c2G5Xv0W
 			"width": 94.139892578125,
 			"height": 50,
 			"angle": 0,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -1508,7 +1508,7 @@ Interface ^c2G5Xv0W
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#d19a66",
+		"currentItemStrokeColor": "#e06c75",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 0.5,
@@ -1537,18 +1537,18 @@ Interface ^c2G5Xv0W
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				],
 				"elementStroke": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				]
 			}
 		},

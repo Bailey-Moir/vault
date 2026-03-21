@@ -15,7 +15,7 @@ f8c22a5d95303adfa659b4576afc5169bacd6ebe: $$p$$
 
 386d7aa7efd4f091804baa71a7612e53f256b851: $$q$$
 
-da47e580ac64e83431571d89938f3be10ff1629a: $$\textcolor{CornflowerBlue}{\not\cap}$$
+da47e580ac64e83431571d89938f3be10ff1629a: $$\textcolor{yellowGreen}{\not\cap}$$
 
 d99fbdc3c3fa6c1e78d32726577274cb1720619c: $$\exists$$
 
@@ -471,18 +471,18 @@ d99fbdc3c3fa6c1e78d32726577274cb1720619c: $$\exists$$
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				],
 				"elementStroke": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				]
 			}
 		},

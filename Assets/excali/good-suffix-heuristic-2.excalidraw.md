@@ -43,13 +43,13 @@ x ^qVYw6GfD
 
 ## Embedded Files
 06669f1184db75735ecab7cd9aadcc999d11c5a0: $$i$$
-19f53c9c001b5557074390217c90cd484c614e3d: $$\textcolor{orange}{j}$$
+19f53c9c001b5557074390217c90cd484c614e3d: $$\textcolor{red}{j}$$
 57ea2dfa6f8a170ce70184a104547fb7595fc9c2: $$T:$$
-c1b1d8938496d4392f48ba0f58129a2497a4ae67: $$\textcolor{orange}{P:}$$
+c1b1d8938496d4392f48ba0f58129a2497a4ae67: $$\textcolor{red}{P:}$$
 8b8175d3b6ab91fa6b9ee6a1fa8a3fda14eb5cf8: $$i$$
 a929fedd7694c74408b3bed19c509ad1b0e15439: $$T:$$
-b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{orange}{P:}$$
-44527db5e57860b14be501db0b33b44d82bfa297: $$\textcolor{orange}{j}$$
+b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{red}{P:}$$
+44527db5e57860b14be501db0b33b44d82bfa297: $$\textcolor{red}{j}$$
 424d9385d6daa28a5934b04677b224a4fd608380: $$b$$
 
 %%
@@ -75,7 +75,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{orange}{P:}$$
 			"angle": 0,
 			"x": -289.51748240871916,
 			"y": 305.2846620196825,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"width": 405.1542440373892,
 			"height": 37,
@@ -417,7 +417,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{orange}{P:}$$
 			"angle": 0,
 			"x": 95.08929442959618,
 			"y": 306.0393184715839,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"width": 14.519989013671875,
 			"height": 33.000000000000014,
@@ -457,7 +457,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{orange}{P:}$$
 			"angle": 0,
 			"x": 69.63723111128868,
 			"y": 306.0393184715839,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"width": 15,
 			"height": 33.000000000000014,
@@ -497,7 +497,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{orange}{P:}$$
 			"angle": 0,
 			"x": 45.38534537393363,
 			"y": 306.0393184715839,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"width": 14.519989013671875,
 			"height": 33.000000000000014,
@@ -537,7 +537,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{orange}{P:}$$
 			"angle": 0,
 			"x": 20.32442582245492,
 			"y": 306.0393184715839,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"width": 15,
 			"height": 33.000000000000014,
@@ -577,7 +577,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{orange}{P:}$$
 			"angle": 0,
 			"x": -257.99629954163174,
 			"y": 306.8169954841638,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"width": 14.519989013671875,
 			"height": 33.000000000000014,
@@ -620,7 +620,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{orange}{P:}$$
 			"angle": 0,
 			"x": -283.4483628599392,
 			"y": 306.8169954841638,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"width": 15,
 			"height": 33.000000000000014,
@@ -658,7 +658,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{orange}{P:}$$
 			"angle": 0,
 			"x": 65.00278661509078,
 			"y": 463.4940014490204,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"width": 405.1542440373892,
 			"height": 37,
@@ -940,7 +940,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{orange}{P:}$$
 			"angle": 0,
 			"x": -238.00875012718637,
 			"y": 343.2711276197706,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"width": 1.4210854715202004e-14,
 			"height": 36.82777666620285,
@@ -1017,7 +1017,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{orange}{P:}$$
 			"angle": 0,
 			"x": 96.36488816000275,
 			"y": 463.91608262776776,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"width": 14.519989013671875,
 			"height": 33.000000000000014,
@@ -1055,7 +1055,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{orange}{P:}$$
 			"angle": 0,
 			"x": 70.91282484169528,
 			"y": 463.91608262776776,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"width": 15,
 			"height": 33.000000000000014,
@@ -1093,7 +1093,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{orange}{P:}$$
 			"angle": 0,
 			"x": 116.35243757444812,
 			"y": 500.3702147633745,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"width": 1.4210854715202004e-14,
 			"height": 36.82777666620285,
@@ -1136,7 +1136,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{orange}{P:}$$
 			"angle": 0,
 			"x": 444.40808893709044,
 			"y": 464.0994780116141,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"width": 0,
 			"height": 36.40446888843047,
@@ -1419,7 +1419,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{orange}{P:}$$
 			"angle": 0,
 			"x": -10.494031910662972,
 			"y": 306.31604829453664,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"width": 0,
 			"height": 36.40446888843047,
@@ -1464,7 +1464,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{orange}{P:}$$
 			"angle": 0,
 			"x": 14.76333216309298,
 			"y": 343.56713273851193,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"width": 1.4210854715202004e-14,
 			"height": 36.82777666620285,
@@ -1509,7 +1509,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{orange}{P:}$$
 			"angle": 0,
 			"x": -5.131639345956737,
 			"y": 305.5934768351871,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"width": 14.519989013671875,
 			"height": 33.000000000000014,
@@ -1603,18 +1603,18 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{orange}{P:}$$
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				],
 				"elementStroke": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				]
 			}
 		},

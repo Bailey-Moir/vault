@@ -79,7 +79,7 @@ Acknowledgement # ^YQ6upo8Z
 			"height": 133.5975577619811,
 			"angle": 0,
 			"strokeColor": "transparent",
-			"backgroundColor": "#98c379",
+			"backgroundColor": "#61afef",
 			"fillStyle": "hachure",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
@@ -1625,7 +1625,7 @@ Acknowledgement # ^YQ6upo8Z
 			"height": 38.81808728872047,
 			"angle": 0,
 			"strokeColor": "transparent",
-			"backgroundColor": "#e06c75",
+			"backgroundColor": "#d19a66",
 			"fillStyle": "hachure",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
@@ -1690,8 +1690,8 @@ Acknowledgement # ^YQ6upo8Z
 			"width": 132.03285217285156,
 			"height": 21.055911399993697,
 			"angle": 0,
-			"strokeColor": "#d19a66",
-			"backgroundColor": "#98c379",
+			"strokeColor": "#e06c75",
+			"backgroundColor": "#61afef",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
@@ -1914,18 +1914,18 @@ Acknowledgement # ^YQ6upo8Z
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				],
 				"elementStroke": [
-					"#d19a66",
+					"#e06c75",
 					"#1e1e1e",
-					"#98c379",
 					"#61afef",
-					"#e06c75"
+					"#98c379",
+					"#d19a66"
 				]
 			}
 		},
