@@ -27,9 +27,9 @@ A morphism $\alpha : x \to y$  is an *isomorphism* iff there exists a morphism $
 > Let $\alpha :x \to y$ be [[Split Monic Morphisms|split monic]] and [[Split Epic Morphisms|split epic]], so there exists $\beta,\gamma : y \to x$ such that $\beta\alpha = 1_{x}$ and $\alpha\gamma = 1_{y}$. Then
 > $$\beta = \beta {1}_{y} = \beta\alpha\gamma = 1_{x}\gamma = \gamma,$$
 > meaning $\alpha$ is an *isomorphism* with $\alpha^{-1} = \beta = \gamma$. $\square$
- ^split-monic-and-split-epic
+^split-monic-and-split-epic
 
 > [!theorem-2]- $\alpha^{-1}$ is unique
 >  Let $\alpha : x \to y$ be an *isomorphism* with two inverses $\alpha_1^{-1},\alpha_2^{-1} : y \to x$. Then
 > $$ \alpha_1^{-1} = 1_x\alpha_1^{-1} = \alpha_2^{-1}\alpha\alpha_1^{-1} = \alpha_2^{-1}1_y = \alpha_2^{-1}. \quad \square$$
- ^uniqueness
+^uniqueness
