@@ -53,7 +53,7 @@ Type ^VtV2w3pH
 			"height": 133.5975577619811,
 			"angle": 0,
 			"strokeColor": "transparent",
-			"backgroundColor": "#61afef",
+			"backgroundColor": "#98c379",
 			"fillStyle": "hachure",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
@@ -730,8 +730,8 @@ Type ^VtV2w3pH
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#61afef",
-		"currentItemBackgroundColor": "#61afef",
+		"currentItemStrokeColor": "#98c379",
+		"currentItemBackgroundColor": "#98c379",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
 		"currentItemStrokeStyle": "solid",
@@ -759,18 +759,18 @@ Type ^VtV2w3pH
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

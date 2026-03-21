@@ -583,7 +583,7 @@ ec89bb654afa1a789cff5d545f1dd00637c4bb76: $$V$$
 			"width": 91.7808514124581,
 			"height": 0,
 			"angle": 0,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -627,7 +627,7 @@ ec89bb654afa1a789cff5d545f1dd00637c4bb76: $$V$$
 			"width": 91.7808514124581,
 			"height": 0,
 			"angle": 0,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -671,7 +671,7 @@ ec89bb654afa1a789cff5d545f1dd00637c4bb76: $$V$$
 			"width": 45.525491903396244,
 			"height": 0,
 			"angle": 0,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -715,7 +715,7 @@ ec89bb654afa1a789cff5d545f1dd00637c4bb76: $$V$$
 			"width": 45.525491903396244,
 			"height": 0,
 			"angle": 0,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -937,18 +937,18 @@ ec89bb654afa1a789cff5d545f1dd00637c4bb76: $$V$$
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

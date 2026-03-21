@@ -54,7 +54,7 @@ Host B ^Vycbiyab
 			"width": 99.05511654858606,
 			"height": 26.541738485364334,
 			"angle": 0,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -100,7 +100,7 @@ Host B ^Vycbiyab
 			"width": 98.60949556917727,
 			"height": 26.422334703801397,
 			"angle": 0,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -146,7 +146,7 @@ Host B ^Vycbiyab
 			"width": 98.60949556917727,
 			"height": 26.422334703801397,
 			"angle": 0,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -192,7 +192,7 @@ Host B ^Vycbiyab
 			"width": 98.60949556917727,
 			"height": 26.422334703801397,
 			"angle": 0,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -714,7 +714,7 @@ Host B ^Vycbiyab
 			"width": 83.737060546875,
 			"height": 15.876817205423773,
 			"angle": 0,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -752,7 +752,7 @@ Host B ^Vycbiyab
 			"width": 62.80279541015625,
 			"height": 15.876817205423773,
 			"angle": 0,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -790,7 +790,7 @@ Host B ^Vycbiyab
 			"width": 69.7808837890625,
 			"height": 15.876817205423773,
 			"angle": 0,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -828,7 +828,7 @@ Host B ^Vycbiyab
 			"width": 62.80279541015625,
 			"height": 15.876817205423773,
 			"angle": 0,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -1043,18 +1043,18 @@ Host B ^Vycbiyab
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

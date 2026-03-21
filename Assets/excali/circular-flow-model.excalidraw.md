@@ -606,7 +606,7 @@ $ ^P8lULhde
 			"angle": 0,
 			"x": -407.03937689592755,
 			"y": -84.86584642108011,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 17.1597900390625,
 			"height": 29.760586573987148,
@@ -644,7 +644,7 @@ $ ^P8lULhde
 			"angle": 0,
 			"x": -285.61805349025195,
 			"y": -92.03408993987398,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 17.1597900390625,
 			"height": 29.760586573987148,
@@ -682,7 +682,7 @@ $ ^P8lULhde
 			"angle": 0,
 			"x": -236.18838017022063,
 			"y": -77.76607431937593,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 200.1675135419864,
 			"height": 38.964987741911365,
@@ -748,7 +748,7 @@ $ ^P8lULhde
 			"angle": 0,
 			"x": -413.086585742498,
 			"y": 6.707459009310227,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 17.1597900390625,
 			"height": 29.760586573987148,
@@ -786,7 +786,7 @@ $ ^P8lULhde
 			"angle": 0,
 			"x": -291.6652623368224,
 			"y": 13.8757025281041,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 17.1597900390625,
 			"height": 29.760586573987148,
@@ -824,7 +824,7 @@ $ ^P8lULhde
 			"angle": 0.09502430715225962,
 			"x": -441.23932535373046,
 			"y": 30.07971931164645,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 200.16751354198647,
 			"height": 38.96498774191137,
@@ -955,7 +955,7 @@ $ ^P8lULhde
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#61afef",
+		"currentItemStrokeColor": "#98c379",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
@@ -984,18 +984,18 @@ $ ^P8lULhde
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

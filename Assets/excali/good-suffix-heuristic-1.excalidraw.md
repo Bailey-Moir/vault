@@ -69,15 +69,15 @@ z ^XfA0wN4o
 
 ## Embedded Files
 06669f1184db75735ecab7cd9aadcc999d11c5a0: $$i$$
-19f53c9c001b5557074390217c90cd484c614e3d: $$\textcolor{red}{j}$$
+19f53c9c001b5557074390217c90cd484c614e3d: $$\textcolor{orange}{j}$$
 57ea2dfa6f8a170ce70184a104547fb7595fc9c2: $$T:$$
-c1b1d8938496d4392f48ba0f58129a2497a4ae67: $$\textcolor{red}{P:}$$
-961b5ebf86df71bfa76f7632ff85a4ccdc9efb13: $$\textcolor{red}{k}$$
+c1b1d8938496d4392f48ba0f58129a2497a4ae67: $$\textcolor{orange}{P:}$$
+961b5ebf86df71bfa76f7632ff85a4ccdc9efb13: $$\textcolor{orange}{k}$$
 2d3469e9cdaf5240d352752497a303a54314f077: $$j-k$$
 8b8175d3b6ab91fa6b9ee6a1fa8a3fda14eb5cf8: $$i$$
 a929fedd7694c74408b3bed19c509ad1b0e15439: $$T:$$
-b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{red}{P:}$$
-44527db5e57860b14be501db0b33b44d82bfa297: $$\textcolor{red}{j}$$
+b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{orange}{P:}$$
+44527db5e57860b14be501db0b33b44d82bfa297: $$\textcolor{orange}{j}$$
 
 %%
 ## Drawing
@@ -102,7 +102,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{red}{P:}$$
 			"angle": 0,
 			"x": -289.51748240871916,
 			"y": 305.2846620196825,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 405.1542440373892,
 			"height": 37,
@@ -231,7 +231,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{red}{P:}$$
 			"angle": 0,
 			"x": -11.303961599292087,
 			"y": 305.3230256579117,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 0,
 			"height": 36.40446888843047,
@@ -276,7 +276,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{red}{P:}$$
 			"angle": 0,
 			"x": 13.953402474463864,
 			"y": 342.5741101018871,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 1.4210854715202004e-14,
 			"height": 36.82777666620285,
@@ -535,7 +535,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{red}{P:}$$
 			"angle": 0,
 			"x": 94.69805399958577,
 			"y": 306.0393184715839,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 14.519989013671875,
 			"height": 33.000000000000014,
@@ -575,7 +575,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{red}{P:}$$
 			"angle": 0,
 			"x": 69.24599068127827,
 			"y": 306.0393184715839,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 15,
 			"height": 33.000000000000014,
@@ -615,7 +615,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{red}{P:}$$
 			"angle": 0,
 			"x": 44.99410494392322,
 			"y": 306.0393184715839,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 14.519989013671875,
 			"height": 33.000000000000014,
@@ -655,7 +655,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{red}{P:}$$
 			"angle": 0,
 			"x": 19.933185392444507,
 			"y": 306.0393184715839,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 15,
 			"height": 33.000000000000014,
@@ -700,7 +700,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{red}{P:}$$
 			"angle": 0,
 			"x": -215.9261674433179,
 			"y": 306.10070267049156,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 0,
 			"height": 36.40446888843047,
@@ -745,7 +745,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{red}{P:}$$
 			"angle": 0,
 			"x": -190.66880336956197,
 			"y": 343.35178711446696,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 1.4210854715202004e-14,
 			"height": 36.82777666620285,
@@ -790,7 +790,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{red}{P:}$$
 			"angle": 0,
 			"x": -111.21713842654498,
 			"y": 306.8169954841638,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 14.519989013671875,
 			"height": 33.000000000000014,
@@ -828,7 +828,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{red}{P:}$$
 			"angle": 0,
 			"x": -136.66920174485247,
 			"y": 306.8169954841638,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 15,
 			"height": 33.000000000000014,
@@ -866,7 +866,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{red}{P:}$$
 			"angle": 0,
 			"x": -160.92108748220753,
 			"y": 306.8169954841638,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 14.519989013671875,
 			"height": 33.000000000000014,
@@ -904,7 +904,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{red}{P:}$$
 			"angle": 0,
 			"x": -185.98200703368622,
 			"y": 306.8169954841638,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 15,
 			"height": 33.000000000000014,
@@ -1015,7 +1015,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{red}{P:}$$
 			"angle": 0,
 			"x": -84.39173501211467,
 			"y": 505.3946131979519,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 405.1542440373892,
 			"height": 37,
@@ -1263,7 +1263,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{red}{P:}$$
 			"angle": 0,
 			"x": 295.19957995328656,
 			"y": 506.210653848761,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 0,
 			"height": 36.40446888843047,
@@ -1660,7 +1660,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{red}{P:}$$
 			"angle": 0,
 			"x": -5.801779202514115,
 			"y": 306.06398877115146,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 14.519989013671875,
 			"height": 33.000000000000014,
@@ -1864,7 +1864,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{red}{P:}$$
 			"angle": 0,
 			"x": -210.70348227551307,
 			"y": 306.54260901350733,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 14.519989013671875,
 			"height": 33.000000000000014,
@@ -1902,7 +1902,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{red}{P:}$$
 			"angle": 0,
 			"x": 299.60862844593873,
 			"y": 506.2445210989017,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 14.519989013671875,
 			"height": 33.000000000000014,
@@ -1942,7 +1942,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{red}{P:}$$
 			"angle": 0,
 			"x": 274.15656512763127,
 			"y": 506.2445210989017,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 15,
 			"height": 33.000000000000014,
@@ -1982,7 +1982,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{red}{P:}$$
 			"angle": 0,
 			"x": 249.90467939027621,
 			"y": 506.2445210989017,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 14.519989013671875,
 			"height": 33.000000000000014,
@@ -2022,7 +2022,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{red}{P:}$$
 			"angle": 0,
 			"x": 224.8437598387975,
 			"y": 506.2445210989017,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 15,
 			"height": 33.000000000000014,
@@ -2062,7 +2062,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{red}{P:}$$
 			"angle": 0,
 			"x": -11.015592996964898,
 			"y": 505.30590529780943,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 0,
 			"height": 36.40446888843047,
@@ -2107,7 +2107,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{red}{P:}$$
 			"angle": 0,
 			"x": 14.241771076791025,
 			"y": 542.5569897417848,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 1.4210854715202004e-14,
 			"height": 36.82777666620285,
@@ -2152,7 +2152,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{red}{P:}$$
 			"angle": 0,
 			"x": 93.69343601980799,
 			"y": 507.02219811148166,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 14.519989013671875,
 			"height": 33.000000000000014,
@@ -2190,7 +2190,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{red}{P:}$$
 			"angle": 0,
 			"x": 68.24137270150052,
 			"y": 507.02219811148166,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 15,
 			"height": 33.000000000000014,
@@ -2228,7 +2228,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{red}{P:}$$
 			"angle": 0,
 			"x": 43.98948696414547,
 			"y": 507.02219811148166,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 14.519989013671875,
 			"height": 33.000000000000014,
@@ -2266,7 +2266,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{red}{P:}$$
 			"angle": 0,
 			"x": 18.92856741266675,
 			"y": 507.02219811148166,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 15,
 			"height": 33.000000000000014,
@@ -2304,7 +2304,7 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{red}{P:}$$
 			"angle": 0,
 			"x": -5.7929078291601,
 			"y": 506.74781164082515,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 14.519989013671875,
 			"height": 33.000000000000014,
@@ -2360,18 +2360,18 @@ b96689a177f635da0605796ee9444e8c4aa97d48: $$\textcolor{red}{P:}$$
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

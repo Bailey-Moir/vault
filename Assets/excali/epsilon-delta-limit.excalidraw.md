@@ -10,13 +10,13 @@ tags:
 
 ## Text Elements
 ## Embedded Files
-f40218cf0d58a489cfa95d8bb41c885f1f6e87a5: $$\textcolor{CornflowerBlue}{\varepsilon}$$
+f40218cf0d58a489cfa95d8bb41c885f1f6e87a5: $$\textcolor{yellowGreen}{\varepsilon}$$
 
-4b161b0985dd6cb77b8b8311d8c09ba5d294707e: $$\textcolor{CornflowerBlue}{\varepsilon}$$
+4b161b0985dd6cb77b8b8311d8c09ba5d294707e: $$\textcolor{yellowGreen}{\varepsilon}$$
 
-d97fb47f4a7299936db6de4f98ed1c1f08feec96: $$\textcolor{red}{\delta}$$
+d97fb47f4a7299936db6de4f98ed1c1f08feec96: $$\textcolor{orange}{\delta}$$
 
-9eddaa94bbabc35514c702ced5088164bb7f04ef: $$\textcolor{red}{\delta}$$
+9eddaa94bbabc35514c702ced5088164bb7f04ef: $$\textcolor{orange}{\delta}$$
 
 ff831b771f3ac6402bbacbb835af8618245b676e: $$\forall \varepsilon, \exists \delta : i \left( x \in \hspace{1em} \implies\hspace{-.3em} f(x) \in \hspace{1em} \right)$$
 
@@ -44,7 +44,7 @@ ff831b771f3ac6402bbacbb835af8618245b676e: $$\forall \varepsilon, \exists \delta 
 			"x": -79.37199466151996,
 			"y": -237.17109011974208,
 			"strokeColor": "transparent",
-			"backgroundColor": "#e06c75",
+			"backgroundColor": "#d19a66",
 			"width": 41.091515445408476,
 			"height": 156.6101543630429,
 			"seed": 332822508,
@@ -142,7 +142,7 @@ ff831b771f3ac6402bbacbb835af8618245b676e: $$\forall \varepsilon, \exists \delta 
 			"x": -213.91463828604827,
 			"y": -237.55129376851244,
 			"strokeColor": "transparent",
-			"backgroundColor": "#61afef",
+			"backgroundColor": "#98c379",
 			"width": 287.4546981745961,
 			"height": 71.09373849240474,
 			"seed": 149633260,
@@ -319,7 +319,7 @@ ff831b771f3ac6402bbacbb835af8618245b676e: $$\forall \varepsilon, \exists \delta 
 			"angle": 0,
 			"x": -214.33042533027,
 			"y": -166.1653357240752,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 288.3742981102454,
 			"height": 0,
@@ -365,7 +365,7 @@ ff831b771f3ac6402bbacbb835af8618245b676e: $$\forall \varepsilon, \exists \delta 
 			"angle": 0,
 			"x": -214.60004513761749,
 			"y": -236.69094353015646,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 288.9206112979317,
 			"height": 0,
@@ -411,7 +411,7 @@ ff831b771f3ac6402bbacbb835af8618245b676e: $$\forall \varepsilon, \exists \delta 
 			"angle": 0,
 			"x": -79.08829110769386,
 			"y": -80.1893569337143,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 0,
 			"height": 156.0469043123632,
@@ -457,7 +457,7 @@ ff831b771f3ac6402bbacbb835af8618245b676e: $$\forall \varepsilon, \exists \delta 
 			"angle": 0,
 			"x": -38.906145762128986,
 			"y": -79.89037610892339,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 0,
 			"height": 156.0469043123632,
@@ -503,8 +503,8 @@ ff831b771f3ac6402bbacbb835af8618245b676e: $$\forall \varepsilon, \exists \delta 
 			"angle": 0,
 			"x": -210.7904387564641,
 			"y": -183.69720016241757,
-			"strokeColor": "#61afef",
-			"backgroundColor": "#98c379",
+			"strokeColor": "#98c379",
+			"backgroundColor": "#61afef",
 			"width": 0.07016636137591523,
 			"height": 17.331091259852336,
 			"seed": 264807380,
@@ -552,8 +552,8 @@ ff831b771f3ac6402bbacbb835af8618245b676e: $$\forall \varepsilon, \exists \delta 
 			"angle": 0,
 			"x": -210.77654526488092,
 			"y": -183.6621169817297,
-			"strokeColor": "#61afef",
-			"backgroundColor": "#98c379",
+			"strokeColor": "#98c379",
+			"backgroundColor": "#61afef",
 			"width": 0.07016636137591532,
 			"height": 17.331091259852364,
 			"seed": 1387381740,
@@ -606,8 +606,8 @@ ff831b771f3ac6402bbacbb835af8618245b676e: $$\forall \varepsilon, \exists \delta 
 			"angle": 0,
 			"x": -210.9093465822765,
 			"y": -219.67655523799544,
-			"strokeColor": "#61afef",
-			"backgroundColor": "#98c379",
+			"strokeColor": "#98c379",
+			"backgroundColor": "#61afef",
 			"width": 0.07016636137591523,
 			"height": 17.331091259852336,
 			"seed": 1285330772,
@@ -660,8 +660,8 @@ ff831b771f3ac6402bbacbb835af8618245b676e: $$\forall \varepsilon, \exists \delta 
 			"angle": 0,
 			"x": -210.8954530906933,
 			"y": -219.64147205730762,
-			"strokeColor": "#61afef",
-			"backgroundColor": "#98c379",
+			"strokeColor": "#98c379",
+			"backgroundColor": "#61afef",
 			"width": 0.07016636137591532,
 			"height": 17.331091259852364,
 			"seed": 1832291540,
@@ -789,7 +789,7 @@ ff831b771f3ac6402bbacbb835af8618245b676e: $$\forall \varepsilon, \exists \delta 
 			"angle": 0,
 			"x": -213.1012694409365,
 			"y": -201.14365220578287,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"width": 153.97096175312922,
 			"height": 0.1740668020578937,
@@ -835,7 +835,7 @@ ff831b771f3ac6402bbacbb835af8618245b676e: $$\forall \varepsilon, \exists \delta 
 			"angle": 0,
 			"x": -58.92559186730765,
 			"y": -201.36025125456825,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 0.2790768500265841,
 			"height": 122.24893348860124,
@@ -923,7 +923,7 @@ ff831b771f3ac6402bbacbb835af8618245b676e: $$\forall \varepsilon, \exists \delta 
 			"x": -117.62723881114898,
 			"y": -73.71004516156545,
 			"strokeColor": "transparent",
-			"backgroundColor": "#e06c75",
+			"backgroundColor": "#d19a66",
 			"width": 9.906129441248194,
 			"height": 13.392295785889926,
 			"seed": 454616560,
@@ -986,7 +986,7 @@ ff831b771f3ac6402bbacbb835af8618245b676e: $$\forall \varepsilon, \exists \delta 
 			"x": -27.977105377376944,
 			"y": -73.48700037328909,
 			"strokeColor": "transparent",
-			"backgroundColor": "#61afef",
+			"backgroundColor": "#98c379",
 			"width": 9.906129441248194,
 			"height": 13.392295785889926,
 			"seed": 1940662768,
@@ -1013,8 +1013,8 @@ ff831b771f3ac6402bbacbb835af8618245b676e: $$\forall \varepsilon, \exists \delta 
 			"angle": 0,
 			"x": -79.41230015374813,
 			"y": -83.11016560706152,
-			"strokeColor": "#e06c75",
-			"backgroundColor": "#d19a66",
+			"strokeColor": "#d19a66",
+			"backgroundColor": "#e06c75",
 			"width": 19.705506718176792,
 			"height": 0,
 			"seed": 1506378378,
@@ -1062,8 +1062,8 @@ ff831b771f3ac6402bbacbb835af8618245b676e: $$\forall \varepsilon, \exists \delta 
 			"angle": 0,
 			"x": -58.43044840045907,
 			"y": -83.39120352338087,
-			"strokeColor": "#e06c75",
-			"backgroundColor": "#d19a66",
+			"strokeColor": "#d19a66",
+			"backgroundColor": "#e06c75",
 			"width": 19.705506718176792,
 			"height": 0,
 			"seed": 1800711510,
@@ -1100,8 +1100,8 @@ ff831b771f3ac6402bbacbb835af8618245b676e: $$\forall \varepsilon, \exists \delta 
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#e06c75",
-		"currentItemBackgroundColor": "#e06c75",
+		"currentItemStrokeColor": "#d19a66",
+		"currentItemBackgroundColor": "#d19a66",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 0.5,
 		"currentItemStrokeStyle": "solid",
@@ -1129,25 +1129,25 @@ ff831b771f3ac6402bbacbb835af8618245b676e: $$\forall \varepsilon, \exists \delta 
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"canvasBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

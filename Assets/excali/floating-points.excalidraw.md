@@ -1762,7 +1762,7 @@ F ^slIPjnsM
 			"versionNonce": 448318082,
 			"index": "aj",
 			"isDeleted": false,
-			"id": "DE-dAzbDYl-ukltorangeeh2",
+			"id": "DE-dAzbDYl-ukltredeh2",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
@@ -2965,18 +2965,18 @@ F ^slIPjnsM
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

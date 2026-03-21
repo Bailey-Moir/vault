@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Notes/DATA301/Lec4A-6B.md",
-                "mode": "preview",
+                "file": "Lecture Notes/DATA301/Lec5A-B.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lec4A-6B"
+              "title": "Lec5A-B"
             }
           }
         ]
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lecture Notes/DATA301/Lec4A-6B.md",
+                "file": "Lecture Notes/DATA301/Lec5A-B.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -107,7 +107,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Lec4A-6B"
+              "title": "Graph of Lec5A-B"
             }
           }
         ]
@@ -211,6 +211,9 @@
   },
   "active": "6c7767d586410d50",
   "lastOpenFiles": [
+    "Lecture Notes/DATA301/Lec4B.md",
+    "Lecture Notes/DATA301/Lec5A-B.md",
+    "Lecture Notes/DATA301/Lec4A 12-3.md",
     "Locality Sensitive Hashing for Minhash Signatures.md",
     "Personal/Todo.md",
     "Assets/excali/lsh-minhash-sig-target.excalidraw.md",
@@ -224,7 +227,6 @@
     "Math/Discrete/Cryptography/Pohlig-Hellman Algorithm.md",
     "Computer Science/Big Data/Minhash Signatures.md",
     "Math/Discrete/Number Theory/Counting Outcomes/Binomial Coefficient.md",
-    "Lecture Notes/DATA301/Lec4A-6B.md",
     "Lecture Notes/DATA301/Lec5A ???.md",
     "Lecture Notes/MATH321/Lec6A 20-3.md",
     "Math/Analysis/Rings & Fields/Ring Ideals.md",
@@ -235,8 +237,6 @@
     "Math/Discrete/Groups/Cosets.md",
     "Lecture Notes/MATH321/Lec4A 10-3.md",
     "Math/Analysis/Rings & Fields/Ring Cosets.md",
-    "Lecture Notes/MATH321/Lec4B 11-3.md",
-    "Lecture Notes/MATH321/Lec4C 13-3.md",
     "preamble.sty~",
     "Math/Metric, Normed, & Hilbert Spaces/Metrics/Untitled",
     "Math/Metric, Normed, & Hilbert Spaces/Metrics",

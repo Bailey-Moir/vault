@@ -10,7 +10,7 @@ tags: [excalidraw]
 # Excalidraw Data
 ## Text Elements
 ## Embedded Files
-3272aabd614d75e7b4dcfbd52a3e59cd929efe92: $$\color{red}\text{null}\,T
+3272aabd614d75e7b4dcfbd52a3e59cd929efe92: $$\color{orange}\text{null}\,T
 $$
 
 47f82e2f1822f543184924c410894c3b75cfaef3: $$T$$
@@ -31,7 +31,7 @@ $$
 			"width": 5.904629976335741,
 			"height": 27.294987626457953,
 			"angle": 0,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"fillStyle": "cross-hatch",
 			"strokeWidth": 2,
@@ -76,8 +76,8 @@ $$
 			"width": 0,
 			"height": 46.39811162653575,
 			"angle": 0.22794833994047448,
-			"strokeColor": "#61afef",
-			"backgroundColor": "#e06c75",
+			"strokeColor": "#98c379",
+			"backgroundColor": "#d19a66",
 			"fillStyle": "hachure",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
@@ -359,7 +359,7 @@ $$
 			"height": 123.54629631166294,
 			"angle": 0.22794833994047448,
 			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#e06c75",
+			"backgroundColor": "#d19a66",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
@@ -595,8 +595,8 @@ $$
 			"width": 63.94416663369685,
 			"height": 6.068319043458629,
 			"angle": 0.22794833994047448,
-			"strokeColor": "#e06c75",
-			"backgroundColor": "#e06c75",
+			"strokeColor": "#d19a66",
+			"backgroundColor": "#d19a66",
 			"fillStyle": "hachure",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
@@ -685,7 +685,7 @@ $$
 			"height": 306.59832040044,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#e06c75",
+			"backgroundColor": "#d19a66",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
@@ -731,7 +731,7 @@ $$
 			"height": 0,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#e06c75",
+			"backgroundColor": "#d19a66",
 			"fillStyle": "cross-hatch",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
@@ -778,8 +778,8 @@ $$
 			"width": 236.64820341036105,
 			"height": 251.39022263920327,
 			"angle": 0,
-			"strokeColor": "#61afef",
-			"backgroundColor": "#e06c75",
+			"strokeColor": "#98c379",
+			"backgroundColor": "#d19a66",
 			"fillStyle": "cross-hatch",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
@@ -823,7 +823,7 @@ $$
 			"width": 0.0001313802546508423,
 			"height": 0.0001313802546508423,
 			"angle": 0,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"fillStyle": "cross-hatch",
 			"strokeWidth": 2,
@@ -1125,7 +1125,7 @@ $$
 			"height": 0,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#e06c75",
+			"backgroundColor": "#d19a66",
 			"fillStyle": "hachure",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
@@ -1248,7 +1248,7 @@ $$
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#61afef",
+		"currentItemStrokeColor": "#98c379",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "cross-hatch",
 		"currentItemStrokeWidth": 2,
@@ -1277,18 +1277,18 @@ $$
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

@@ -67,7 +67,7 @@ Detination Address ^T7OcJnxk
 			"height": 133.5975577619811,
 			"angle": 0,
 			"strokeColor": "transparent",
-			"backgroundColor": "#61afef",
+			"backgroundColor": "#98c379",
 			"fillStyle": "hachure",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
@@ -1006,8 +1006,8 @@ Detination Address ^T7OcJnxk
 			"width": 82.47433471679688,
 			"height": 21.055911399993697,
 			"angle": 0,
-			"strokeColor": "#e06c75",
-			"backgroundColor": "#61afef",
+			"strokeColor": "#d19a66",
+			"backgroundColor": "#98c379",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
@@ -1158,8 +1158,8 @@ Detination Address ^T7OcJnxk
 			"width": 82.47433471679688,
 			"height": 21.055911399993697,
 			"angle": 0,
-			"strokeColor": "#e06c75",
-			"backgroundColor": "#61afef",
+			"strokeColor": "#d19a66",
+			"backgroundColor": "#98c379",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
@@ -1230,8 +1230,8 @@ Detination Address ^T7OcJnxk
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#e06c75",
-		"currentItemBackgroundColor": "#61afef",
+		"currentItemStrokeColor": "#d19a66",
+		"currentItemBackgroundColor": "#98c379",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
 		"currentItemStrokeStyle": "solid",
@@ -1259,18 +1259,18 @@ Detination Address ^T7OcJnxk
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

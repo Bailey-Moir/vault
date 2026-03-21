@@ -21,15 +21,15 @@ x ^nY40psix
 
 ## Embedded Files
 06669f1184db75735ecab7cd9aadcc999d11c5a0: $$i$$
-19f53c9c001b5557074390217c90cd484c614e3d: $$\textcolor{red}{j}$$
+19f53c9c001b5557074390217c90cd484c614e3d: $$\textcolor{orange}{j}$$
 57ea2dfa6f8a170ce70184a104547fb7595fc9c2: $$T:$$
-c1b1d8938496d4392f48ba0f58129a2497a4ae67: $$\textcolor{red}{P:}$$
+c1b1d8938496d4392f48ba0f58129a2497a4ae67: $$\textcolor{orange}{P:}$$
 8951541222c0441ebf42b941717400bd113a30b5: $$m-k$$
 65a4a952338c4f4934fd16170fabe53d2cec7d5c: $$i$$
-707253117cb2eee6aa1cfb7d58b2cb3b714e8822: $$\textcolor{red}{j}$$
+707253117cb2eee6aa1cfb7d58b2cb3b714e8822: $$\textcolor{orange}{j}$$
 1df1e78788ed288bbf48b7eabd62baaf9492628d: $$T:$$
-a38a19c7e44a15ddfc988f1f08e5853e393310f7: $$\textcolor{red}{P:}$$
-0aeef1fe17b7e8b235ed9cf671c74722233aacc2: $$\textcolor{red}{k}$$
+a38a19c7e44a15ddfc988f1f08e5853e393310f7: $$\textcolor{orange}{P:}$$
+0aeef1fe17b7e8b235ed9cf671c74722233aacc2: $$\textcolor{orange}{k}$$
 7bd79038681d61ee0f5d5047e671f7013405aa2f: $$m-k$$
 
 %%
@@ -55,7 +55,7 @@ a38a19c7e44a15ddfc988f1f08e5853e393310f7: $$\textcolor{red}{P:}$$
 			"angle": 0,
 			"x": -324.09619472001054,
 			"y": 305.2846620196825,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 316.51180953687174,
 			"height": 37,
@@ -179,7 +179,7 @@ a38a19c7e44a15ddfc988f1f08e5853e393310f7: $$\textcolor{red}{P:}$$
 			"angle": 0,
 			"x": -74.57914821216008,
 			"y": 307.3074652873086,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 14.519989013671875,
 			"height": 33.000000000000014,
@@ -260,7 +260,7 @@ a38a19c7e44a15ddfc988f1f08e5853e393310f7: $$\textcolor{red}{P:}$$
 			"angle": 0,
 			"x": -266.2966369755819,
 			"y": 307.44856787989943,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 14.519989013671875,
 			"height": 33.000000000000014,
@@ -303,7 +303,7 @@ a38a19c7e44a15ddfc988f1f08e5853e393310f7: $$\textcolor{red}{P:}$$
 			"angle": 0,
 			"x": -271.79881937235984,
 			"y": 305.3230256579117,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 0,
 			"height": 36.40446888843047,
@@ -348,7 +348,7 @@ a38a19c7e44a15ddfc988f1f08e5853e393310f7: $$\textcolor{red}{P:}$$
 			"angle": 0,
 			"x": -246.5414552986039,
 			"y": 342.5741101018871,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 1.4210854715202004e-14,
 			"height": 36.82777666620285,
@@ -393,7 +393,7 @@ a38a19c7e44a15ddfc988f1f08e5853e393310f7: $$\textcolor{red}{P:}$$
 			"angle": 0,
 			"x": -80.10182289986811,
 			"y": 305.181923065321,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 0,
 			"height": 36.40446888843047,
@@ -438,7 +438,7 @@ a38a19c7e44a15ddfc988f1f08e5853e393310f7: $$\textcolor{red}{P:}$$
 			"angle": 0,
 			"x": -54.84445882611213,
 			"y": 342.43300750929626,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 1.4210854715202004e-14,
 			"height": 36.82777666620285,
@@ -721,7 +721,7 @@ a38a19c7e44a15ddfc988f1f08e5853e393310f7: $$\textcolor{red}{P:}$$
 			"angle": 0,
 			"x": -132.12103658572897,
 			"y": 524.6340060836058,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 316.51180953687174,
 			"height": 37,
@@ -888,7 +888,7 @@ a38a19c7e44a15ddfc988f1f08e5853e393310f7: $$\textcolor{red}{P:}$$
 			"angle": 0,
 			"x": -74.32147884130035,
 			"y": 526.7979119438226,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 14.519989013671875,
 			"height": 33.000000000000014,
@@ -926,7 +926,7 @@ a38a19c7e44a15ddfc988f1f08e5853e393310f7: $$\textcolor{red}{P:}$$
 			"angle": 0,
 			"x": -79.82366123807827,
 			"y": 524.6723697218349,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 0,
 			"height": 36.40446888843047,
@@ -971,7 +971,7 @@ a38a19c7e44a15ddfc988f1f08e5853e393310f7: $$\textcolor{red}{P:}$$
 			"angle": 0,
 			"x": -54.56629716432229,
 			"y": 561.9234541658102,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 1.4210854715202004e-14,
 			"height": 36.82777666620285,
@@ -1016,7 +1016,7 @@ a38a19c7e44a15ddfc988f1f08e5853e393310f7: $$\textcolor{red}{P:}$$
 			"angle": 0,
 			"x": 158.16065404284092,
 			"y": 524.5312671292442,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"width": 0,
 			"height": 36.40446888843047,
@@ -1512,18 +1512,18 @@ a38a19c7e44a15ddfc988f1f08e5853e393310f7: $$\textcolor{red}{P:}$$
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

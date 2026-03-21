@@ -44,7 +44,7 @@ c6cb16643bedab7a148e32c928360e0ff4c9d343: $$D_2$$
 			"height": 230.84864664980898,
 			"angle": 0,
 			"strokeColor": "transparent",
-			"backgroundColor": "#e06c75",
+			"backgroundColor": "#d19a66",
 			"fillStyle": "hachure",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
@@ -72,7 +72,7 @@ c6cb16643bedab7a148e32c928360e0ff4c9d343: $$D_2$$
 			"height": 114.20142930656345,
 			"angle": 0,
 			"strokeColor": "transparent",
-			"backgroundColor": "#61afef",
+			"backgroundColor": "#98c379",
 			"fillStyle": "hachure",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
@@ -100,7 +100,7 @@ c6cb16643bedab7a148e32c928360e0ff4c9d343: $$D_2$$
 			"height": 114.20142930656345,
 			"angle": 0,
 			"strokeColor": "transparent",
-			"backgroundColor": "#d19a66",
+			"backgroundColor": "#e06c75",
 			"fillStyle": "hachure",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
@@ -835,7 +835,7 @@ c6cb16643bedab7a148e32c928360e0ff4c9d343: $$D_2$$
 			"width": 114.20142930656345,
 			"height": 114.20142930656345,
 			"angle": 0,
-			"strokeColor": "#d19a66",
+			"strokeColor": "#e06c75",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -1275,7 +1275,7 @@ c6cb16643bedab7a148e32c928360e0ff4c9d343: $$D_2$$
 			"width": 114.20142930656345,
 			"height": 114.20142930656345,
 			"angle": 0,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -1303,7 +1303,7 @@ c6cb16643bedab7a148e32c928360e0ff4c9d343: $$D_2$$
 			"width": 230.84864664980898,
 			"height": 230.84864664980898,
 			"angle": 0,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -1494,8 +1494,8 @@ c6cb16643bedab7a148e32c928360e0ff4c9d343: $$D_2$$
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#d19a66",
-		"currentItemBackgroundColor": "#d19a66",
+		"currentItemStrokeColor": "#e06c75",
+		"currentItemBackgroundColor": "#e06c75",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 2,
 		"currentItemStrokeStyle": "solid",
@@ -1523,18 +1523,18 @@ c6cb16643bedab7a148e32c928360e0ff4c9d343: $$D_2$$
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

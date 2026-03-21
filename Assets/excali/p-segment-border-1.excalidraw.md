@@ -34,7 +34,7 @@ p-segment ^MwTStq6C
 			"height": 37.990968776838315,
 			"angle": 0,
 			"strokeColor": "transparent",
-			"backgroundColor": "#61afef",
+			"backgroundColor": "#98c379",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
@@ -62,7 +62,7 @@ p-segment ^MwTStq6C
 			"height": 37.990968776838315,
 			"angle": 0,
 			"strokeColor": "transparent",
-			"backgroundColor": "#61afef",
+			"backgroundColor": "#98c379",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
@@ -90,7 +90,7 @@ p-segment ^MwTStq6C
 			"height": 37.46815487192467,
 			"angle": 0,
 			"strokeColor": "transparent",
-			"backgroundColor": "#e06c75",
+			"backgroundColor": "#d19a66",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
@@ -224,7 +224,7 @@ p-segment ^MwTStq6C
 			"height": 0.27856999990528664,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#61afef",
+			"backgroundColor": "#98c379",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
@@ -313,7 +313,7 @@ p-segment ^MwTStq6C
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
 		"currentItemStrokeColor": "#1e1e1e",
-		"currentItemBackgroundColor": "#61afef",
+		"currentItemBackgroundColor": "#98c379",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
 		"currentItemStrokeStyle": "solid",
@@ -341,18 +341,18 @@ p-segment ^MwTStq6C
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

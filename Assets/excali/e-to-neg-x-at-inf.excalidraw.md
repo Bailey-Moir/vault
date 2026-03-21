@@ -265,7 +265,7 @@ c54004d58466b6d488839eb10357beec36ba7123: $$\displaystyle\lim_{x\to\infty}\left[
 			"width": 203.2825458562264,
 			"height": 113.21428915260134,
 			"angle": 0,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -367,7 +367,7 @@ c54004d58466b6d488839eb10357beec36ba7123: $$\displaystyle\lim_{x\to\infty}\left[
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#61afef",
+		"currentItemStrokeColor": "#98c379",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
@@ -396,18 +396,18 @@ c54004d58466b6d488839eb10357beec36ba7123: $$\displaystyle\lim_{x\to\infty}\left[
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

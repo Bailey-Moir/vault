@@ -232,7 +232,7 @@ t ^5RASZ0tj
 			"width": 0,
 			"height": 42.275367090988254,
 			"angle": 0,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -417,7 +417,7 @@ t ^5RASZ0tj
 			"width": 32.605737097579095,
 			"height": 36.386112413240426,
 			"angle": 0,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -645,7 +645,7 @@ t ^5RASZ0tj
 			"width": 32.605737097579095,
 			"height": 36.386112413240426,
 			"angle": 0,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -959,7 +959,7 @@ t ^5RASZ0tj
 			"width": 32.605737097579095,
 			"height": 36.386112413240426,
 			"angle": 0,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -1111,7 +1111,7 @@ t ^5RASZ0tj
 			"width": 38.18511637740586,
 			"height": 46.41356505532764,
 			"angle": 0,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -1555,7 +1555,7 @@ t ^5RASZ0tj
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
 		"currentItemStrokeColor": "#1e1e1e",
-		"currentItemBackgroundColor": "#61afef",
+		"currentItemBackgroundColor": "#98c379",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 2,
 		"currentItemStrokeStyle": "dashed",
@@ -1583,18 +1583,18 @@ t ^5RASZ0tj
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

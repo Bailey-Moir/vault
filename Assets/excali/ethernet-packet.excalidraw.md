@@ -57,7 +57,7 @@ SOF ^qQvwkgyy
 			"height": 36.433430653640194,
 			"angle": 0,
 			"strokeColor": "transparent",
-			"backgroundColor": "#61afef",
+			"backgroundColor": "#98c379",
 			"fillStyle": "hachure",
 			"strokeWidth": 2,
 			"strokeStyle": "solid",
@@ -909,7 +909,7 @@ SOF ^qQvwkgyy
 			"height": 381.62846297201185,
 			"angle": 1.5707963267948957,
 			"strokeColor": "#1e1e1e",
-			"backgroundColor": "#61afef",
+			"backgroundColor": "#98c379",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
@@ -1009,7 +1009,7 @@ SOF ^qQvwkgyy
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
 		"currentItemStrokeColor": "#1e1e1e",
-		"currentItemBackgroundColor": "#61afef",
+		"currentItemBackgroundColor": "#98c379",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 2,
 		"currentItemStrokeStyle": "solid",
@@ -1037,18 +1037,18 @@ SOF ^qQvwkgyy
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},

@@ -11,11 +11,11 @@ tags: [excalidraw]
 
 ## Text Elements
 ## Embedded Files
-8a2b1e75d4421f78274ecdbc5010d36381a89129: $$\textcolor{red}{e_1}$$
+8a2b1e75d4421f78274ecdbc5010d36381a89129: $$\textcolor{orange}{e_1}$$
 
-aeafde6a30287fe6304c3353699b0da16f93efe2: $$\textcolor{red}{e_2}$$
+aeafde6a30287fe6304c3353699b0da16f93efe2: $$\textcolor{orange}{e_2}$$
 
-a3d3632c45f11c047ed9cfe81b0d82cb10f224fe: $$\textcolor{red}{e_3}$$
+a3d3632c45f11c047ed9cfe81b0d82cb10f224fe: $$\textcolor{orange}{e_3}$$
 
 %%
 ## Drawing
@@ -33,7 +33,7 @@ a3d3632c45f11c047ed9cfe81b0d82cb10f224fe: $$\textcolor{red}{e_3}$$
 			"width": 0,
 			"height": 18.242215823134188,
 			"angle": 0,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
@@ -76,7 +76,7 @@ a3d3632c45f11c047ed9cfe81b0d82cb10f224fe: $$\textcolor{red}{e_3}$$
 			"width": 0,
 			"height": 33.803942790624184,
 			"angle": 0,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
@@ -119,7 +119,7 @@ a3d3632c45f11c047ed9cfe81b0d82cb10f224fe: $$\textcolor{red}{e_3}$$
 			"width": 0,
 			"height": 33.803942790624184,
 			"angle": 0,
-			"strokeColor": "#e06c75",
+			"strokeColor": "#d19a66",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
@@ -254,7 +254,7 @@ a3d3632c45f11c047ed9cfe81b0d82cb10f224fe: $$\textcolor{red}{e_3}$$
 			"width": 187.00962087075015,
 			"height": 158.71994892374175,
 			"angle": 0,
-			"strokeColor": "#61afef",
+			"strokeColor": "#98c379",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 2,
@@ -521,7 +521,7 @@ a3d3632c45f11c047ed9cfe81b0d82cb10f224fe: $$\textcolor{red}{e_3}$$
 	"appState": {
 		"theme": "dark",
 		"viewBackgroundColor": "transparent",
-		"currentItemStrokeColor": "#e06c75",
+		"currentItemStrokeColor": "#d19a66",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 1,
@@ -550,18 +550,18 @@ a3d3632c45f11c047ed9cfe81b0d82cb10f224fe: $$\textcolor{red}{e_3}$$
 		"colorPalette": {
 			"topPicks": {
 				"elementBackground": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				],
 				"elementStroke": [
-					"#e06c75",
+					"#d19a66",
 					"#1e1e1e",
-					"#61afef",
 					"#98c379",
-					"#d19a66"
+					"#61afef",
+					"#e06c75"
 				]
 			}
 		},
