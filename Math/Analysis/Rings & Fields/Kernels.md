@@ -4,7 +4,7 @@ tags:
   - math
 ---
 The *kernel* of a [[Ring Homomorphisms|ring homomorphism]] $\varphi : R \to S$ [[Sets|set]]
-$$ \ker \varphi =  \varphi^{-1}(\{ 0 \}) = \{ r \in R : \varphi(r) = 0\}. $$
+$$ \ker \varphi =  \varphi^{-1}\{ 0 \} = \{ r \in R : \varphi(r) = 0\}. $$
 
 > [!note] [[Null Space|Null spaces]] of [[Linear Maps|linear maps]] are also called *kernels*.
 

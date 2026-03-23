@@ -1,2 +1,1 @@
 - [[Page Rank]]
-- [[Stochastic Adjacency Matrix]]

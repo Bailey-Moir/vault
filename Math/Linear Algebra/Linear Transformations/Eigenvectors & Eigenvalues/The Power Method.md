@@ -13,7 +13,7 @@ tags:
 > - solving the $n$ different [[Eigenspaces|eigenspaces]] using [[Gaussian Elimination|Gaussian elimination]].
 > 
 > Each of these steps is $O\hspace{-0.2em}\left( n^3 \right)$[^1], which is very inefficient for large [[Matrices|matrices]].
-
+	
 1. Choose a starting vector $\vecbf{x}_{0}$ (whose largest [[Components|components]] is $1$) and set $k = 0$.
    (typically $\vecbf{x}_{0} = \begin{bmatrix} 1 & 1 & \cdots & 1 \end{bmatrix}^T$)
 2. Calculate $\vecbf{y}_{k} = A\vecbf{x}_{k}$.
