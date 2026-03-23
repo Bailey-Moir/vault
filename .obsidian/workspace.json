@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "76f00cc0d9f66ebf",
+        "id": "058da0845636950b",
         "type": "tabs",
         "children": [
           {
-            "id": "39f23695626dce63",
+            "id": "6b430828c75601db",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -203,8 +203,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "39f23695626dce63",
+  "active": "6b430828c75601db",
   "lastOpenFiles": [
+    "Math/Analysis/Rings & Fields/Unique Factorisation Domain.md",
+    "Math/Analysis/Rings & Fields/Reducible Factors.md",
+    "Math/Analysis/Rings & Fields/Eisenstein's Criterion.md",
+    "Math/Analysis/Rings & Fields/Modulo Irreducibility Test.md",
     "Math/Linear Algebra/Linear Transformations/Eigenvectors & Eigenvalues/Dominant Eigenvectors & Eigenvalues.md",
     "Page Rank.md",
     "Math/Linear Algebra/Linear Transformations/Eigenvectors & Eigenvalues/Eigenspaces.md",
@@ -219,18 +223,14 @@
     "Math/Analysis/Rings & Fields/Ring Cosets.md",
     "Math/Discrete/Groups/Lagrange's Theorem.md",
     "Math/Discrete/Number Theory/Divisibility/Divisibility.md",
-    "Math/Analysis/Rings & Fields/Reducible Factors.md",
     "Math/Discrete/Number Theory/Divisibility/GCD with LCM.md",
     "Math/Analysis/Rings & Fields/Division Rings.md",
     "Math/Analysis/Rings & Fields/Integral Domains.md",
-    "Math/Analysis/Rings & Fields/Modulo Irreducibility Test.md",
-    "Math/Analysis/Rings & Fields/Eisenstein's Criterion.md",
     "Math/Analysis/Rings & Fields/Ring Homomorphisms.md",
     "Math/Linear Algebra/Linear Systems/Pivots and Free Variables.md",
     "Math/Linear Algebra/Linear Systems/Homogeneous Systems.md",
     "Math/Linear Algebra/Linear Systems/Solutions of Linear Systems.md",
     "Math/Linear Algebra/Linear Systems/Linear Systems.md",
-    "Lecture Notes/DATA301/Lec4B - 5.md",
     "preamble.sty~",
     "Math/Metric, Normed, & Hilbert Spaces/Metrics/Untitled",
     "Math/Metric, Normed, & Hilbert Spaces/Metrics",

@@ -53,7 +53,7 @@ i.e. iff it is given by two non-[[Rings#^unit|units]] factors.
 > Since $x-a$ and $g$ are non-constant, they are not [[Rings#^unit|units]] by [[#^units-are-constant|lemma 1]].
 Thus, $f$ is *reducible*.
 
-> [!theorem]- $f$ is *reducible* over $\Q$ $\to$ $f$ is *reducible* over $\Z$
+> [!theorem] $f$ is *reducible* over $\Q$ $\to$ $f$ is *reducible* over $\Z$
 ^rational-reducible-implies-integer-reducible
 
 \[[[Polynomial Rings]]\]
