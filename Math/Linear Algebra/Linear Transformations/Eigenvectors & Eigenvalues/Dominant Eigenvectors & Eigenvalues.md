@@ -4,9 +4,9 @@ tags:
   - math
   - linear
 ---
-Suppose $A \in \R^{n,n}$[^2] is a [[Zero Matrices|non-zero]] [[Diagonalisation|diagonalisable]] [[Matrices|matrix]]. Then, there exists [[Eigenvectors & Eigenvalues|eigenvectors]] $\vecbf{v}_{1},\dots,\vecbf{v}_{n}$ of $A$ (with corresponding [[Eigenvectors & Eigenvalues|eigenvalues]] $\lambda_{1},\dots,\lambda_{n}$) such that there exists $\vecbf{x} \in\text{domain}\,A$ such that (#TODO should this be a for all?)
-$$ \vecbf{x} = a_{1}\vecbf{v}_{1} + \dots + a_{n}\vecbf{v}_{n} $$
-for some $a_{1},\dots,a_{n} \in \F$. This gives
+Suppose $A \in \R^{n,n}$[^2] is a [[Zero Matrices|non-zero]] [[Diagonalisation|diagonalisable]] [[Matrices|matrix]]. Then, there exists [[Eigenvectors & Eigenvalues|eigenvectors]] $\vecbf{v}_{1},\dots,\vecbf{v}_{n}$ of $A$ (with corresponding [[Eigenvectors & Eigenvalues|eigenvalues]] $\lambda_{1},\dots,\lambda_{n}$) such that for all $\vecbf{x} \in  \R^n$, there exists $a_{1},\dots,a_{n} \in \F$ such that
+$$ \vecbf{x} = a_{1}\vecbf{v}_{1} + \dots + a_{n}\vecbf{v}_{n}. $$
+This gives
 $$\begin{align}
 	A^n\vecbf{x} &= A^n(a_{1}\vecbf{v}_{1} + \dots + a_{n}\vecbf{v}_{n}) \\
 	&= \lambda^n_{1}a_{1}\vecbf{v}_{1} + \lambda_{2}^n a_{2}\vecbf{v}_{2} + \dots + \lambda_{n}^n a_{n}\vecbf{v}_{n}.
