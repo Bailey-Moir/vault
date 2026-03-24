@@ -13,5 +13,12 @@ $$ \forall \varepsilon > 0, \exists N \in \N : \forall n \ge N, \sup_{x \in X} \
 > \end{align}$$
 > Thus, $f$ is [[Point-wise Convergence|point-wise convergent]] to $g$.
 
+[!theorem] *(Completeness)* If $X \ne \emptyset$, $\left( B(X),d_{\infty} \right)$[^1][^2] is [[Completeness|complete]].
+Let $\left( f_{n} \right)$ be a [[Cauchy Sequences|Cauchy sequence]] in $\left( B(X),d_{\infty} \right)$ where $X \ne \emptyset$.
+#TODO
+
+[!theorem] *(Preserves Continuity)* Suppose $\left( f_{n} \right)$ is a [[Sequences|sequence]] of [[Bounded Functions|bounded]], [[Metric Continuity|continuous]] [[Functions|functions]] that *uniformly converge* on some $I$ to to a [[Functions|function]] $\lambda$. Then $\lambda$ is [[Metric Continuity|continuous]] on $I$.
+#TODO
+
 [^1]: [[Bounded Function Set]]
 [^2]:  $\infty$-[[P-Norms|-norm]]
