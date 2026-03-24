@@ -11,10 +11,15 @@
             "id": "5a181b05e461fb75",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Math/Linear Algebra/Linear Maps/Example Maps/Quotient Map.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Quotient Map"
             }
           }
         ]
@@ -74,6 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Math/Linear Algebra/Linear Maps/Example Maps/Quotient Map.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -101,7 +107,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Quotient Map"
             }
           }
         ]
@@ -203,7 +209,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a4f7896fbf90ae2",
+  "active": "5a181b05e461fb75",
   "lastOpenFiles": [
     "Lecture Notes/MATH343/Lec6B 25-3.md",
     "Lecture Notes/MATH343/Lec6A 23-3.md",
