@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Linear Algebra/Vectors/Basics/Cosine Similarity Formula.md",
-                "mode": "preview",
+                "file": "Personal/Todo.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Cosine Similarity Formula"
+              "title": "Todo"
             }
           }
         ]
@@ -79,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Math/Linear Algebra/Vectors/Basics/Cosine Similarity Formula.md",
+                "file": "Personal/Todo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -107,7 +107,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Cosine Similarity Formula"
+              "title": "Graph of Todo"
             }
           }
         ]
@@ -211,6 +211,7 @@
   },
   "active": "1459ee20f613ef88",
   "lastOpenFiles": [
+    "Math/Linear Algebra/Vectors/Basics/Cosine Similarity Formula.md",
     "Lecture Notes/MATH343/Lec6B 25-3.md",
     "Math/Algebra/Sequences & Series/Series/Geometric Series.md",
     "Contraction Maps.md",
@@ -236,7 +237,6 @@
     "Lecture Notes/MATH321/Lec4C 13-3.md",
     "Lecture Notes/MATH321/Lec5A 17-3.md",
     "Lecture Notes/MATH321/Lec4B 11-3.md",
-    "Lecture Notes/MATH321/Lec4A 10-3.md",
     "preamble.sty~",
     "Math/Metric, Normed, & Hilbert Spaces/Metrics/Untitled",
     "Math/Metric, Normed, & Hilbert Spaces/Metrics",
