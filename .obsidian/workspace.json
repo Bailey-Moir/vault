@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2f6dcbb6e1128594",
+        "id": "b1ad458a10c94cc0",
         "type": "tabs",
         "children": [
           {
-            "id": "a42bb1ebb44c5bf9",
+            "id": "67a188b359cc06fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lecture Notes/MATH321/Lec6A 20-3.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Lec6A 20-3"
+              "title": "New tab"
             }
           }
         ]
@@ -79,7 +74,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lecture Notes/MATH321/Lec6A 20-3.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -107,7 +101,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Lec6A 20-3"
+              "title": "Graph view"
             }
           }
         ]
@@ -209,8 +203,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a42bb1ebb44c5bf9",
+  "active": "67a188b359cc06fe",
   "lastOpenFiles": [
+    "Math/Analysis/Rings & Fields/Reducible Factors.md",
+    "Math/Analysis/Rings & Fields/Ring Homomorphisms.md",
+    "Math/Analysis/Rings & Fields/Modulo Irreducibility Test.md",
+    "Math/Analysis/Rings & Fields/Division Algorithm.md",
+    "Math/Analysis/Rings & Fields/Unique Factorisation Domain.md",
+    "Lecture Notes/MATH321/Lec4C 13-3.md",
+    "Lecture Notes/MATH321/Lec5A 17-3.md",
+    "Lecture Notes/MATH321/Lec4B 11-3.md",
+    "Lecture Notes/MATH321/Lec4A 10-3.md",
+    "Lecture Notes/MATH321/Lec3B 4-3.md",
+    "Lecture Notes/MATH321/Lec3A 3-3.md",
+    "Lecture Notes/MATH321/Lec2C 27-2.md",
+    "Lecture Notes/MATH321/Lec2B 25-2.md",
+    "Lecture Notes/MATH321/Lec2A 24-2.md",
+    "Math/Analysis/Rings & Fields/Wedderburn's Theorem.md",
+    "Lecture Notes/MATH321/Lec1C 20-2.md",
+    "Lecture Notes/MATH321/Lec1B 18-2.md",
+    "Lecture Notes/MATH321/Lec1A 17-2.md",
+    "Lecture Notes/MATH321/Lec6A 20-3.md",
     "Math/Linear Algebra/Linear Transformations/Eigenvectors & Eigenvalues/The Power Method.md",
     "Lecture Notes/DATA301/Page Rank.md",
     "Math/Discrete/Graph Theory/Stochastic Adjacency Matrix.md",
@@ -218,25 +231,6 @@
     "Math/Linear Algebra/Vectors/Basics/Components.md",
     "Lecture Notes/DATA301/Lec6A.md",
     "Lecture Notes/DATA301/Lec6B 19-3.md",
-    "Lecture Notes/DATA301/Lec4B - 5.md",
-    "Math/Analysis/Rings & Fields/Unique Factorisation Domain.md",
-    "Math/Analysis/Rings & Fields/Reducible Factors.md",
-    "Math/Analysis/Rings & Fields/Eisenstein's Criterion.md",
-    "Math/Analysis/Rings & Fields/Modulo Irreducibility Test.md",
-    "Math/Linear Algebra/Linear Transformations/Eigenvectors & Eigenvalues/Dominant Eigenvectors & Eigenvalues.md",
-    "Math/Linear Algebra/Linear Transformations/Eigenvectors & Eigenvalues/Eigenspaces.md",
-    "Math/Linear Algebra/Linear Transformations/Eigenvectors & Eigenvalues/Eigenvectors & Eigenvalues.md",
-    "Math/Linear Algebra/Matrices/Zero Matrices.md",
-    "Math/Linear Algebra/Vectors/Norms/P-Norms.md",
-    "Computer Science/Abstract Data Types/Graphs/Adjacency Matrices.md",
-    "Statistics/Probability/Density Curve.md",
-    "Math/Analysis/Rings & Fields/Kernel Cosets.md",
-    "Math/Analysis/Rings & Fields/Ring Cosets.md",
-    "Math/Discrete/Groups/Lagrange's Theorem.md",
-    "Math/Discrete/Number Theory/Divisibility/Divisibility.md",
-    "Math/Discrete/Number Theory/Divisibility/GCD with LCM.md",
-    "Math/Analysis/Rings & Fields/Division Rings.md",
-    "Math/Analysis/Rings & Fields/Integral Domains.md",
     "preamble.sty~",
     "Math/Metric, Normed, & Hilbert Spaces/Metrics/Untitled",
     "Math/Metric, Normed, & Hilbert Spaces/Metrics",
