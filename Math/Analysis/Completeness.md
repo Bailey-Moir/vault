@@ -3,7 +3,7 @@ tags:
   - atom
   - math
 ---
-A [[Metric Spaces|metric space]] is *complete* iff all [[Cauchy Sequences|Cauchy sequences]] [[Metric Sequence Convergence|converge]].
+A [[Metric Spaces|metric space]] is *complete* iff all [[Cauchy Sequences|Cauchy sequences]] [[Metric Convergence|converge]].
 
 > [!example] $\R^n$ is *complete* under the $1$-, $2$- and $\infty$[[P-Norms|-norm]] [[Norms#^induced-metrics|induced metrics]].
 

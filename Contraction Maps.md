@@ -15,10 +15,10 @@
 > 	&= \dfrac{c^n - c^{m}}{1-c}d(T\,x, x) \\
 > 	&\le \dfrac{c^n}{1-c}d(T\,x, x) \to 0 \text{ as } n \to \infty && 1 \\
 > \end{align}$$
-> Thus, $\left( T^n\,x \right)$ is [[Cauchy Sequences|Cauchy]], so by the [[Completeness|completeness]] of $M$, $\left( T^n x \right)$ is [[Metric Sequence Convergence|convergent]] to some $x^*$.
+> Thus, $\left( T^n\,x \right)$ is [[Cauchy Sequences|Cauchy]], so by the [[Completeness|completeness]] of $M$, $\left( T^n x \right)$ is [[Metric Convergence|convergent]] to some $x^*$.
 > #TODO do this a better way (by contradiction) cause this is shit 
 > $$d(T\,x^*, x^*) \le d(T\,x^*, T^{n+1}\,x) + d(T^{n+1}\,x, T^{n}\,x) + d(T^{n}\,x,x^*)$$
-> This first term is less than $\frac{\varepsilon}{3}$ by the [[Metric Continuity|continuity]] of $T$, the second term is less than $\frac{\varepsilon}{3}$ since $\left( T^n\,x \right)$ is [[Cauchy Sequences|Cauchy]], and the third term is less than $\frac{\varepsilon}{3}$ by the [[Metric Sequence Convergence|convergence]] of $\left( T^n \, x \right)$. Thus,
+> This first term is less than $\frac{\varepsilon}{3}$ by the [[Metric Continuity|continuity]] of $T$, the second term is less than $\frac{\varepsilon}{3}$ since $\left( T^n\,x \right)$ is [[Cauchy Sequences|Cauchy]], and the third term is less than $\frac{\varepsilon}{3}$ by the [[Metric Convergence|convergence]] of $\left( T^n \, x \right)$. Thus,
 > $$\forall \varepsilon > 0, d(T\,x^*, x^*) < \varepsilon \to d(T\,x^*, x^*) = 0 \to T\,x^* = x^*.$$
 > 
 > Let $x^*,y^* \in M$ such that $T\,x^* = x^*$ and $T\,y^* = y^*$. Then

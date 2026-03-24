@@ -14,6 +14,6 @@ where $M$ is a [[Stochastic Adjacency Matrix|uniform Stochastic adjacency matrix
 > 1. Let $k = 0$, and $\vecbf{r_{0}} = \begin{bmatrix} 1 & \cdots & 1\end{bmatrix}^T$.
 > 2. Set $\vecbf{r_{k+1}} = A\vecbf{r_{k}}$, and increment $k$.
 >    *Normally you'd divide by some [[Norms|norm]], $A$ preserves the [[P-Norms|1-norm]] as it is, so this is unnecessary.*
-> 3. Repeat until $( \vecbf{r_{n}} )$ [[Metric Sequence Convergence|converges]] (within some chosen $\varepsilon > 0$).
+> 3. Repeat until $( \vecbf{r_{n}} )$ [[Metric Convergence|converges]] (within some chosen $\varepsilon > 0$).
 
 [^1]: [[Eigenspaces]]

@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bf4b1f73bf29461a",
+        "id": "c5049a3157969290",
         "type": "tabs",
         "children": [
           {
-            "id": "1459ee20f613ef88",
+            "id": "5a181b05e461fb75",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Todo.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Todo"
+              "title": "New tab"
             }
           }
         ]
@@ -79,7 +74,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Personal/Todo.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -107,7 +101,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Todo"
+              "title": "Graph view"
             }
           }
         ]
@@ -209,34 +203,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1459ee20f613ef88",
+  "active": "3a4f7896fbf90ae2",
   "lastOpenFiles": [
-    "Math/Linear Algebra/Vectors/Basics/Cosine Similarity Formula.md",
     "Lecture Notes/MATH343/Lec6B 25-3.md",
+    "Lecture Notes/MATH343/Lec6A 23-3.md",
+    "Lecture Notes/MATH343/Lec5B 18-3.md",
+    "Uniform Convergence.md",
+    "Math/Metric, Normed, & Hilbert Spaces/Point-wise Convergence.md",
+    "Math/Metric, Normed, & Hilbert Spaces/Metric Convergence.md",
+    "Math/Calculus/Limits/Continuity/Uniform Continuity.md",
+    "Math/Metric, Normed, & Hilbert Spaces/Cauchy Sequences.md",
+    "Lecture Notes/MATH343/Lec5A 16-3.md",
+    "Personal/Todo.md",
+    "Math/Linear Algebra/Vectors/Basics/Cosine Similarity Formula.md",
     "Math/Algebra/Sequences & Series/Series/Geometric Series.md",
     "Contraction Maps.md",
     "Metric Continuity.md",
-    "Uniform Convergence.md",
     "Math/Calculus/Differential Equations/Vector Differential Equations/Classifying Points/Fixed Points.md",
     "Math/Metric, Normed, & Hilbert Spaces/Metric Spaces.md",
-    "Math/Metric, Normed, & Hilbert Spaces/Cauchy Sequences.md",
     "Math/Analysis/Completeness.md",
     "Math/Calculus/Limits/Continuity/Boundedness of Continuous Functions.md",
-    "Math/Metric, Normed, & Hilbert Spaces/Point-wise Convergence.md",
-    "Lecture Notes/MATH343/Lec5A 16-3.md",
     "Math/Metric, Normed, & Hilbert Spaces/Bounded Function Set.md",
-    "Math/Calculus/Limits/Continuity/Uniform Continuity.md",
     "Math/Analysis/Bounded Sets.md",
-    "Lecture Notes/MATH343/Lec6A 23-3.md",
-    "Lecture Notes/MATH343/Lec5B 18-3.md",
     "Math/Analysis/Rings & Fields/Reducible Factors.md",
     "Math/Analysis/Rings & Fields/Ring Homomorphisms.md",
     "Math/Analysis/Rings & Fields/Modulo Irreducibility Test.md",
     "Math/Analysis/Rings & Fields/Division Algorithm.md",
     "Math/Analysis/Rings & Fields/Unique Factorisation Domain.md",
     "Lecture Notes/MATH321/Lec4C 13-3.md",
-    "Lecture Notes/MATH321/Lec5A 17-3.md",
-    "Lecture Notes/MATH321/Lec4B 11-3.md",
     "preamble.sty~",
     "Math/Metric, Normed, & Hilbert Spaces/Metrics/Untitled",
     "Math/Metric, Normed, & Hilbert Spaces/Metrics",

@@ -10,7 +10,7 @@ Suppose $f : \left[ a,b \right] \to M$ is [[Metric Continuity|continuous]] but n
 Pick any $x_{0} \in \left[ a,b \right]$.
 For $n \in \N$, we can find $x_{n+1} \in \left[ a,b \right]$ such that $\left| f(x_{n+1}) \right| \ge \left| f(x_{n}) \right| + 1$.
 
-The [[Sequences|sequence]] $\left( x_{n} \right)$ in $\left[ a,b \right]$ is [[Bounded Sets|bounded]], so by [[Bolzano-Weierstrass|Bolzano-Weierstrass]], there exists a [[Metric Sequence Convergence|convergent]] subsequence $\left( x_{n(k)} \right)_{k=0}^\infty$.
+The [[Sequences|sequence]] $\left( x_{n} \right)$ in $\left[ a,b \right]$ is [[Bounded Sets|bounded]], so by [[Bolzano-Weierstrass|Bolzano-Weierstrass]], there exists a [[Metric Convergence|convergent]] subsequence $\left( x_{n(k)} \right)_{k=0}^\infty$.
 
 Since $\left[ a,b \right]$ is a [[Closed Sets|closed]] [[Intervals|interval]], $\lim_{ k \to \infty } x_{n(k)} \in \left[ a,b \right]$, otherwise as $k$ become sufficiently large, $x_{n(k)}$ will be outside of $\left[ a,b \right]$. (This is not very rigorous).
 
@@ -34,7 +34,7 @@ Thus, $f$ is [[Bounded Functions|bounded]] on $\left[ a,b \right]$.
 > 
 > Note that at least one of these [[Intervals|intervals]] must be [[Bounded Sets|unbounded]], as if they were both [[Bounded Sets|bounded]], $I_{n}$ would be [[Bounded Sets|bounded]] by the maximum of their bounds.
 > 
-> Then both [[Sequences|sequences]] [[Metric Sequence Convergence|converge]] by [[Monotone Convergence Theorem|monotone convergence theorem]], and $\lim\left( b_{n} - a_{n} \right) = \lim \frac{b-a}{2^n} = 0$.
+> Then both [[Sequences|sequences]] [[Metric Convergence|converge]] by [[Monotone Convergence Theorem|monotone convergence theorem]], and $\lim\left( b_{n} - a_{n} \right) = \lim \frac{b-a}{2^n} = 0$.
 > 
 > By [[Rationals in Intervals|theorem 2.22]], there exists a unique $c \in \R$ in the intersection of the intervals of $\left( I_{n} \right)$.
 > 

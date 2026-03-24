@@ -21,7 +21,7 @@ Every [[Bounded Sequences|bounded]] [[Sequences|sequence]] $\left( x_{n} \right)
 > Note that $\left[ a_{k+1},b_{k+1} \right] \subseteq \left[ a_{k},b_{k} \right]$.
 > 
 > **Conclusion**
-> Since $\forall k \in \Z^+, \left[ a_{k+1},b_{k+1} \right] \subseteq \left[ a_{k},b_{k} \right]$, $(a_{n})$ is [[Increasing and Decreasing Functions|increasing]] and $\left( b_{n} \right)$ is [[Monotone Sequences|decreasing]] also, and they are [[Bounded Sets|bounded]] within $\left[ a_{1},b_{1} \right]$. Thus, they both [[Metric Sequence Convergence|converge]] by [[Monotone Convergence Theorem|MCT]].
+> Since $\forall k \in \Z^+, \left[ a_{k+1},b_{k+1} \right] \subseteq \left[ a_{k},b_{k} \right]$, $(a_{n})$ is [[Increasing and Decreasing Functions|increasing]] and $\left( b_{n} \right)$ is [[Monotone Sequences|decreasing]] also, and they are [[Bounded Sets|bounded]] within $\left[ a_{1},b_{1} \right]$. Thus, they both [[Metric Convergence|converge]] by [[Monotone Convergence Theorem|MCT]].
 > 
 > Further
 > $$\begin{align}
@@ -30,7 +30,7 @@ Every [[Bounded Sequences|bounded]] [[Sequences|sequence]] $\left( x_{n} \right)
 > 	\lim_{ n \to \infty } a_{n} &= \lim_{ n \to \infty } b_{n}. \\
 > \end{align}$$
 > 
-> By [[Squeeze Theorem for Sequences|squeeze theorem]], since $a_{n} \le c_{n} \le b_{n}$ for all $n$, $\left( c_{n} \right)$ must also [[Metric Sequence Convergence|converge]].
+> By [[Squeeze Theorem for Sequences|squeeze theorem]], since $a_{n} \le c_{n} \le b_{n}$ for all $n$, $\left( c_{n} \right)$ must also [[Metric Convergence|converge]].
 > 
 > Thus, $\lim_{ n \to \infty } (c_{n})$ is a [[Limit Points#^sequence-limit-points|limit point]] of $\left( x_{n} \right)$.
 

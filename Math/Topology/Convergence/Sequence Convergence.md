@@ -39,4 +39,4 @@ Let $A \in \mathcal{N}_L$. By definition, there must exist $\mathcal{C} \subsete
 > \end{align}$$
 > Thus, by the the [[Closures|characterisation of closures]], $L \in \bar{S}$.
 
-\[[[Metric Sequence Convergence]]\]
+\[[[Metric Convergence]]\]
