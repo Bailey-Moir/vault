@@ -11,10 +11,15 @@
             "id": "d350fe7d60f05e6a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Lecture Notes/MATH343/Lec5B 18-3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lec5B 18-3"
             }
           }
         ]
@@ -74,6 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Lecture Notes/MATH343/Lec5B 18-3.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -101,7 +107,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Lec5B 18-3"
             }
           }
         ]
@@ -205,6 +211,9 @@
   },
   "active": "d350fe7d60f05e6a",
   "lastOpenFiles": [
+    "Lecture Notes/MATH343/Lec5A 16-3.md",
+    "Lecture Notes/MATH343/Lec5B 18-3.md",
+    "Lecture Notes/MATH343/Lec6A 23-3.md",
     "Personal/Todo.md",
     "Computer Science/Abstract Data Types/Trees/Tree Traversal.md",
     "Computer Science/Algorithms/Graphs/Depth First Search.md",
@@ -228,11 +237,8 @@
     "Math/Analysis/Rings & Fields/Polynomial Rings/Reducible Factors.md",
     "Math/Analysis/Rings & Fields/Polynomial Rings/Unique Factorisation Domain.md",
     "Math/Analysis/Rings & Fields/Ring Characteristic.md",
-    "Math/Analysis/Rings & Fields/Division Rings.md",
-    "Math/Analysis/Rings & Fields/Direct Sums of Rings.md",
     "Math/Analysis/Rings & Fields/Polynomial Rings",
     "Math/Analysis/Rings & Fields/Ideals",
-    "Math/Analysis/Rings & Fields/Untitled.md",
     "preamble.sty~",
     "Math/Metric, Normed, & Hilbert Spaces/Metrics/Untitled",
     "Math/Metric, Normed, & Hilbert Spaces/Metrics",
