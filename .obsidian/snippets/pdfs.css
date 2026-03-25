@@ -1,9 +1,34 @@
 @media print {
-    a.internal-link {
-        color: black !important;
-    }
+  a.internal-link {
+    color: black !important;
+  }
 
-    .footnote-ref, .footnotes {
-        display: none;
-    }
+  .footnote-ref,
+  .footnotes {
+    display: none;
+  }
+
+  /* * { */
+  /*   --neutral-red_x: 204, 36, 29; /* #cc241d */ */
+  /*   --neutral-red: rgb(var(--neutral-red_x)); */
+  /*   --neutral-green_x: 152, 151, 26; /* #98971a */ */
+  /*   --neutral-green: rgb(var(--neutral-green_x)); */
+  /*   --neutral-yellow_x: 215, 153, 33; /* #d79921 */ */
+  /*   --neutral-yellow: rgb(var(--neutral-yellow_x)); */
+  /*   --neutral-blue_x: 69, 133, 136; /* #458588 */ */
+  /*   --neutral-blue: rgb(var(--neutral-blue_x)); */
+  /*   --neutral-purple_x: 177, 98, 134; /* #b16286 */ */
+  /*   --neutral-purple: rgb(var(--neutral-purple_x)); */
+  /*   --neutral-aqua_x: 104, 157, 106; /* #689d6a */ */
+  /*   --neutral-aqua: rgb(var(--neutral-aqua_x)); */
+  /*   --neutral-orange_x: 214, 93, 14; /* #d65d0e */ */
+  /*   --neutral-orange: rgb(var(--neutral-orange_x)); */
+  /**/
+  /*   --h1-color: var(--neutral-red); */
+  /*   --h2-color: var(--neutral-yellow); */
+  /*   --h3-color: var(--neutral-green); */
+  /*   --h4-color: var(--neutral-aqua); */
+  /*   --h5-color: var(--neutral-blue); */
+  /*   --h6-color: var(--neutral-purple); */
+  /* } */
 }

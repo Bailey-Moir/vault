@@ -13,10 +13,10 @@
     "better-callouts",
     "centre-math",
     "no-margin",
-    "column-pdf",
     "typewriter-tables",
     "tikz",
-    "typewriter-dark"
+    "typewriter-dark",
+    "column-pdf"
   ],
   "showRibbon": false,
   "showViewHeader": true
