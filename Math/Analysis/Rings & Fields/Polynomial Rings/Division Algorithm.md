@@ -6,7 +6,7 @@ tags:
 ---
 Let $\F$ be a [[Fields|field]] and $f,g \in \F[x]$[^1] with $g \ne 0$. Then there exists **unique** $q,r \in \F[x]$ such that
 $$f = qg + r$$
-and $\deg r < \deg g$.
+and either $r = 0$ or $\deg r < \deg g$.
 
 > [!definitions] $q$ and $r$ are called the **quotient** and **remainder** respectively.
 
