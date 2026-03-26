@@ -3,7 +3,7 @@ tags:
   - atom
   - math
 ---
-The *quotient ring* $R/ A$ of a [[Rings|ring]] $R$ modulo an [[Ideals|ideal]] $A$ is the [[Rings|ring]] of [[Cosets|cosets]] of $A$ under the operations
+The *quotient ring* $R/\hspace{-.2em} A$ of a [[Rings|ring]] $R$ modulo an [[Ideals|ideal]] $A$ is the [[Rings|ring]] of [[Cosets|cosets]] of $A$ under the operations
 $$\begin{align}
 	\left( s + A \right) + \left( t + A \right) &= \left( s + t \right) + A \\
 	\left( s + A \right)\left( t + A \right) &= \left( st \right) + A. \\
