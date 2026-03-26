@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "db6a37a243d627ec",
+        "id": "2470b9ce0cf90c9e",
         "type": "tabs",
         "children": [
           {
-            "id": "a05a24d5697a1c5b",
+            "id": "783103808b47e6e4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -203,8 +203,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a05a24d5697a1c5b",
+  "active": "783103808b47e6e4",
   "lastOpenFiles": [
+    "Math/Calculus/Limits/Continuity/Continuity of Combined Functions.md",
     "MATH343 Cheatsheet.md",
     "Archive/Lecture Notes/MATH240/Lec2B 22-7.md",
     "Math/Analysis/Bounding with Epsilon.md",
@@ -230,7 +231,6 @@
     "Math/Calculus/Limits/Continuity/Boundedness of Continuous Functions.md",
     "Lecture Notes/MATH343/Lec3A 2-3.md",
     "Metric Continuity.md",
-    "Math/Metric, Normed, & Hilbert Spaces/Cauchy Sequences.md",
     "Math/Analysis/Rings & Fields/Polynomial Rings",
     "Math/Analysis/Rings & Fields/Ideals",
     "preamble.sty~",
