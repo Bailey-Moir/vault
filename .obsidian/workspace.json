@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "85486abb5901f0dd",
+        "id": "db6a37a243d627ec",
         "type": "tabs",
         "children": [
           {
-            "id": "1ac74e04a32202f7",
+            "id": "a05a24d5697a1c5b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MATH343 Cheatsheet.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "MATH343 Cheatsheet"
+              "title": "New tab"
             }
           }
         ]
@@ -79,7 +74,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "MATH343 Cheatsheet.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -107,7 +101,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of MATH343 Cheatsheet"
+              "title": "Graph view"
             }
           }
         ]
@@ -209,8 +203,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ac74e04a32202f7",
+  "active": "a05a24d5697a1c5b",
   "lastOpenFiles": [
+    "MATH343 Cheatsheet.md",
     "Archive/Lecture Notes/MATH240/Lec2B 22-7.md",
     "Math/Analysis/Bounding with Epsilon.md",
     "Math/Analysis/Open Intervals with Absolute Value.md",
@@ -219,7 +214,6 @@
     "Archive/Lecture Notes/MATH240/Lec1B 15-7.md",
     "Archive/Lecture Notes/MATH240/Lec1A 14-7.md",
     "Math/Analysis/Completeness.md",
-    "MATH343 Cheatsheet.md",
     "Lecture Notes/MATH343/Lec5B 18-3.md",
     "Lecture Notes/MATH343/Lec5A 16-3.md",
     "Uniform Convergence.md",

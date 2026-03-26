@@ -10,6 +10,8 @@ $$B(X) := \{ f : X \to \R : \exists M \in \R : \left| f \right| < M \} \subseteq
 $f(x) : I \to M$ is *continuous* at $x_{0} \in I$ iff for any [[Sequences|sequence]] $\left( x_{n} \right)$ in $I$ that [[Metric Convergence|converges]] to $x_{0}$, the [[Sequences|sequence]] $\left( f(x_{n}) \right)$ [[Metric Convergence|converges]] to $f(x_{0})$.
 ### Boundedness w/ Continuity
 For $f \in \mathcal{C}(I)$ for any [[Intervals|closed interval]] $I \subseteq \R$, $f$ is [[Bounded Sequences|bounded]] on $I$.
+<br/>
+<br/>
 ### Metric Space Definition
 A *metric* of a [[Empty Set|non-empty]] [[Sets|set]] $M$ is a [[Functions|function]] $d : M \times M \to \R$ such that ($\forall x,y,z \in M$)
 1. $d(x,y) = 0 \leftrightarrow x = y$ (and $d(x,y) \ge 0$),
