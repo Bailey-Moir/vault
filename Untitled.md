@@ -1,0 +1,1 @@
+Let $\left( f_{} \right)$
