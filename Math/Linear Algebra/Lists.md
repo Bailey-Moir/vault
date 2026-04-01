@@ -3,6 +3,9 @@ tags:
   - atom
   - math
   - linear
+sr-due: 2026-04-05
+sr-interval: 4
+sr-ease: 274
 ---
 *Lists* are often written as elements separated by commas and surrounded by parentheses. Thus a *list* of length two is an ordered pair that might be written as $(a,b)$. A *list* of length $n$ (called an **$\bf{n}$-tuple**) might look like $\left( z_1, \dots, z_n \right)$. Note *lists* always have a non-negative finite length. *Lists* differ from sets in that they are **ordered**, allowing for **repetition**.
 

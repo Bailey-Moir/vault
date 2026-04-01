@@ -2,6 +2,9 @@
 tags:
   - atom
   - math
+sr-due: 2026-04-05
+sr-interval: 4
+sr-ease: 270
 ---
 A *field* $\F$ is a [[Sets|set]] together with two [[Binary Operations|binary operations]] $+$ and $\times$ on $\F$ such that
 1. $\left( \F,+ \right)$ is an [[Groups#^abelian-groups|abelian group]].

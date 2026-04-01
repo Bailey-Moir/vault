@@ -3,6 +3,9 @@ tags:
   - atom
   - math
   - discrete
+sr-due: 2026-04-05
+sr-interval: 4
+sr-ease: 278
 ---
 The *cardinality* (or size) of a **finite** [[Sets|set]] $A$ is the number of distinct elements in $A$, denoted $|A|$.
 
@@ -14,13 +17,10 @@ $$ |A \cup B| = |A| + |B| - |A \cap B|$$
 
 \[[[Unions & Intersections]]\]
 
-> [!theorem]
-> Let $S$ be a [[Empty Set|non-empty]] finite [[Sets|set]]. Then $|S| = n$ iff there is a [[Bijective Functions|bijection]] from $S$ to $\Z_n$[^1].
+> [!theorem] Let $S$ be a [[Empty Set|non-empty]] finite [[Sets|set]]. Then $|S| = n$ iff there is a [[Bijective Functions|bijection]] from $S$ to $\Z_n$[^1].
 
-> [!theorem]
-> Let $A$ and $B$ be two [[Sets|sets]]. $|A| = |B|$ iff there is a [[Bijective Functions|bijection]] from $A$ to $B$.
+> [!theorem] Let $A$ and $B$ be two [[Sets|sets]]. $|A| = |B|$ iff there is a [[Bijective Functions|bijection]] from $A$ to $B$.
 
-> [!theorem]
-> $|A| = |B|$ is an [[Equivalence Relations|equivalence relation]].
+> [!theorem] $|A| = |B|$ is an [[Equivalence Relations|equivalence relation]].
 
 [^1]: [[Residue Classes]]

@@ -3,6 +3,9 @@ tags:
   - atom
   - math
   - discrete
+sr-due: 2026-04-05
+sr-interval: 4
+sr-ease: 270
 ---
 A *graph* $G$ consists of a **[[Vertices|vertex]] [[Sets|set]]** $V$, and a [[Sets|set]] $E$ of 2-element [[Multi-sets|multi-set]] [[Subsets|subsets]] of $V$ called the **[[Edges|edge]] [[Sets|set]]**.
 $$ G=\left( V,E \right)  $$

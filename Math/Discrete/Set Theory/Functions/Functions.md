@@ -3,6 +3,9 @@ tags:
   - atom
   - math
   - discrete
+sr-due: 2026-04-05
+sr-interval: 4
+sr-ease: 270
 ---
 
 ![400|center](function-sets.excalidraw.md)

@@ -3,6 +3,9 @@ tags:
   - atom
   - math
   - discrete
+sr-due: 2026-04-05
+sr-interval: 4
+sr-ease: 274
 ---
 $p \iff q$ if and only if $p \leftrightarrow q$[^1] is a [[Tautologies|tautology]] (i.e. [[Statements and Propositions|statements]] are *logically equivalent* if and only if they have the same [[Truth Tables|truth table]]). Note that $p \iff q$ is said: $p$ if and only if (or iff) $q$.
 

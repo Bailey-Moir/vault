@@ -3,6 +3,9 @@ tags:
   - atom
   - math
   - discrete
+sr-due: 2026-04-05
+sr-interval: 4
+sr-ease: 270
 ---
 The *Cartesian product* of two [[Sets|sets]] $A$ and $B$ (denoted $A \times B$) is the set of [[Ordered Sets|ordered pairs]]
 $$\begin{array}{l}

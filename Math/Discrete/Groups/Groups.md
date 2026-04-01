@@ -3,6 +3,9 @@ tags:
   - atom
   - math
   - discrete
+sr-due: 2026-04-05
+sr-interval: 4
+sr-ease: 270
 ---
 A *group* $\left( G,* \right)$ is a [[Sets|set]] $G$ together with a [[Binary Operations|binary operation]] $* : G \times G \to G$ that satisfies the following properties:
 1. **Associativity**

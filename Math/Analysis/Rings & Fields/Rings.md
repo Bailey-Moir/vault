@@ -2,6 +2,9 @@
 tags:
   - atom
   - math
+sr-due: 2026-04-04
+sr-interval: 3
+sr-ease: 263
 ---
 A *ring* $R$ is a [[Sets|set]] together with two [[Binary Operations|binary operations]] $+$ and $\times$ on $R$ such that
 1. $\left( R,+ \right)$ is an [[Groups#^abelian-groups|abelian group]].
