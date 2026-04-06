@@ -11,10 +11,15 @@
             "id": "4a034dcfa7ae120d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Lecture Notes/DATA301/Lec1B 19-2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lec1B 19-2"
             }
           }
         ]
@@ -74,7 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Math/Calculus/Differential Equations/Laplace/Laplace Transforms Table.md",
+                "file": "Lecture Notes/DATA301/Lec1B 19-2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -102,7 +107,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Laplace Transforms Table"
+              "title": "Graph of Lec1B 19-2"
             }
           }
         ]
@@ -206,6 +211,10 @@
   },
   "active": "4a034dcfa7ae120d",
   "lastOpenFiles": [
+    "Lecture Notes/DATA301/Lec1A 17-2.md",
+    "Lecture Notes/DATA301/Lec6A.md",
+    "Lecture Notes/DATA301/Lec6B 19-3.md",
+    "Computer Science/Big Data/Page Rank.md",
     "Computer Science/Python/Numpy & Matplotlib.md",
     "Computer Science/Python/Basic Python.md",
     "Computer Science/Python/Python Decorators.md",
@@ -228,10 +237,6 @@
     "Math/Calculus/Limits/Continuity/Boundedness of Continuous Functions.md",
     "Lecture Notes/MATH343/Lec5B 18-3.md",
     "Math/Calculus/Limits/Continuity/Uniform Continuity.md",
-    "Math/Analysis/Rings & Fields/First Isomorphism Theorem for Rings.md",
-    "Personal/Todo.md",
-    "Untitled.md",
-    "Math/Topology/Continuity/Continuity Under Composition.md",
     "Math/Analysis/Rings & Fields/Polynomial Rings",
     "Math/Analysis/Rings & Fields/Ideals",
     "preamble.sty~",
