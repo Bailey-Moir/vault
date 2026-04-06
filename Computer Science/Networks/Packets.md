@@ -2,6 +2,9 @@
 tags:
   - atom
   - comp
+sr-due: 2026-04-07
+sr-interval: 4
+sr-ease: 270
 ---
 Information is transmitted in *packets*: pieces of data that are passed through [[Networks|networks]] ($\approx 1000$ bytes, but depends on [[Maximum Transmission Units|MTU]])
 

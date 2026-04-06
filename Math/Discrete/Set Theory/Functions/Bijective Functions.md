@@ -3,6 +3,9 @@ tags:
   - atom
   - math
   - discrete
+sr-due: 2026-04-07
+sr-interval: 4
+sr-ease: 280
 ---
 A [[Functions|function]] is *bijective* (*one-to-one correspondence*) iff it is [[Surjective Functions|surjective]] and [[Injective Functions|injective]];
 $$ \forall b \in B, \exists!a \in A : f(a) = b $$

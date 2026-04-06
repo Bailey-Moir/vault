@@ -3,6 +3,9 @@ tags:
   - atom
   - math
   - linear
+sr-due: 2026-04-07
+sr-interval: 4
+sr-ease: 278
 ---
 A *vector space* $V$ is a [[Sets|set]] with a scalar [[Fields|field]] $\F$ with [[Binary Operations|binary operations]] of addition $+$ and scalar multiplication $\times$ such that
 - $\left( V,+ \right)$ is an [[Groups#^abelian-groups|abelian group]].

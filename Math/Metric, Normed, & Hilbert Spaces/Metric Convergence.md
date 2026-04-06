@@ -2,6 +2,9 @@
 tags:
   - atom
   - math
+sr-due: 2026-04-07
+sr-interval: 4
+sr-ease: 277
 ---
 A [[Sequences|sequence]] $(a_{n}) : \N \to M$ for some [[Metric Spaces|metric space]] $M$ *converges* to $\lambda \in M$ iff
 $$\forall \varepsilon > 0, \exists N \in \N : \forall n \ge N, d(a_{n}, \lambda) < \varepsilon.$$

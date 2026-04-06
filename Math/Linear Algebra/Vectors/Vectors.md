@@ -3,6 +3,9 @@ tags:
   - atom
   - math
   - linear
+sr-due: 2026-04-07
+sr-interval: 4
+sr-ease: 270
 ---
 A *vector* describes a shift in space. We can represent it with an arrow like below.
 ![300|center](vectors.excalidraw.md)

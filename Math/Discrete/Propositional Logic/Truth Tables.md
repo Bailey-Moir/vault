@@ -3,6 +3,9 @@ tags:
   - atom
   - math
   - discrete
+sr-due: 2026-04-07
+sr-interval: 4
+sr-ease: 272
 ---
 Tell us how the truth of a [[Compound Statements|compound statement]] relates to the truth of the underlying [[Primitive Statements|primitive statements]].
 

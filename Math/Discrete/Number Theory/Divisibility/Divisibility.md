@@ -3,6 +3,9 @@ tags:
   - atom
   - math
   - discrete
+sr-due: 2026-04-04
+sr-interval: 1
+sr-ease: 230
 ---
 If $a$ is a *divisor*/factor of $b$ (or $b$ is a multiple of $a$), then it is said that $a|b$.
 $$\begin{align*}

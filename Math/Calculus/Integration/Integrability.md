@@ -3,7 +3,7 @@ tags:
   - atom
   - math
 ---
-We say $f$ is *integrable* with respect to $g$ on $J$ iff there exists a unique number $I$ such that for every $\varepsilon>0$, there exists a [[Interval Partitions|partition]] $P_{\varepsilon}$ on $J$ such that if $P$ is any [[Partitions Refinements|refinement]] of $P\varepsilon$ and $S(P;f,g)$ is any [[Riemann-Stieltjes Sums|R-S]] sum corresponding to $P\varepsilon$, then
+We say $f$ is *integrable* with respect to $g$ on $J$ iff there exists a unique number $I$ such that for every $\varepsilon>0$, there exists a [[Interval Partitions|partition]] $P_{\varepsilon}$ on $J$ such that if $P$ is any [[Partitions Refinements|refinement]] of $P\varepsilon$ and $S(P;f,g)$ is any [[Riemann-Stieltjes Sums|R-S]] sum corresponding to $P$, then
 $$\left| S(P;f,g) - I \right|  < \varepsilon.$$
 > [!theorem]- The [[Functions|function]] $f$ is *integrable* with respect to $g$ over $\left[ a,b \right]$ iff for all $\varepsilon > 0$, there exists a [[Interval Partitions|partition]] of $\left[ a,b \right]$ such that$$\overline{S}(P;f,g) - \underline{S}(P;f,g) < \varepsilon \hspace{1em} \left( * \right)$$
 > $\left( \impliedby \right)$
