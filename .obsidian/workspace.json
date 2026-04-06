@@ -4,36 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a18e8bb95f8e3c5d",
+        "id": "550b043d55a5858f",
         "type": "tabs",
         "children": [
           {
-            "id": "cf9d636ca57d2663",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "b0ac2d5c524c440c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Python/Python Decorators.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Python Decorators"
-            }
-          },
-          {
-            "id": "68a78d7767a16047",
+            "id": "4a034dcfa7ae120d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -42,8 +17,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5,
-    "collapsed": true
+    "width": 282.5
   },
   "right": {
     "id": "d43908d22eb03dd3",
@@ -231,8 +204,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "68a78d7767a16047",
+  "active": "4a034dcfa7ae120d",
   "lastOpenFiles": [
+    "Computer Science/Python/Numpy & Matplotlib.md",
+    "Computer Science/Python/Basic Python.md",
     "Computer Science/Python/Python Decorators.md",
     "Band.md",
     "Math/Calculus/Differential Equations/Laplace/Laplace Transforms Table.md",
@@ -257,8 +232,6 @@
     "Personal/Todo.md",
     "Untitled.md",
     "Math/Topology/Continuity/Continuity Under Composition.md",
-    "Math/Calculus/Limits/Composite Limit Theorem.md",
-    "Math/Calculus/Limits/Continuity/Continuity of Combined Functions.md",
     "Math/Analysis/Rings & Fields/Polynomial Rings",
     "Math/Analysis/Rings & Fields/Ideals",
     "preamble.sty~",
