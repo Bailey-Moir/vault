@@ -1,1 +1,0 @@
-- [[Landua's Big Oh Notation]] or [[Asymptotic Notation]]

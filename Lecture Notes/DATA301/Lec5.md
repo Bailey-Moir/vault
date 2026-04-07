@@ -1,6 +1,8 @@
+- [[Landua's Big Oh Notation]] or [[Asymptotic Notation]]
 - [[Parallel Speedup]]
-- [[Amdahl's Law]] #TODO
+- [[Amdahl's Law]]
 - Gustafson's Law ????
+- Karp-Flatt Metric ????
 - [[Cost Measures]]
 - [[Market-Basket Model]]
 - [[A-Priori Algorithm]]
