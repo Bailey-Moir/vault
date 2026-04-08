@@ -67,7 +67,8 @@
               "title": "Backtracking"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lecture Notes/DATA301/Lec10.md",
+                "file": "Computer Science/Big Data/Page Rank.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -152,7 +153,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Lec10"
+              "title": "Graph of Page Rank"
             }
           }
         ]
@@ -254,12 +255,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4485e0fb4b3ec3ae",
+  "active": "a5ce464471fc6b9c",
   "lastOpenFiles": [
+    "Lecture Notes/DATA301/Lec10.md",
     "Computer Science/Big Data/Page Rank.md",
     "Computer Science/Algorithms/Graphs/Floyd-Warshall Algorithm.md",
     "Computer Science/Algorithm Analysis/Backtracking.md",
-    "Lecture Notes/DATA301/Lec10.md",
     "Math/Discrete/Graph Theory/Basics/Vertex Degrees.md",
     "Math/Discrete/Graph Theory/Planar Graphs/Face Degrees.md",
     "Math/Discrete/Graph Theory/Matchings/Alternating Paths.md",
