@@ -1,1 +1,3 @@
 - [[Page Rank#^implementation]]
+- [[Page Rank#^topic-specific]]
+- [[Page Rank#^trust-specific]]

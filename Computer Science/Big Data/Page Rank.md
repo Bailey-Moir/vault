@@ -1,6 +1,7 @@
 ---
 tags:
   - atom
+  - math
   - comp
 ---
 The [[Internet|web]] can be modelled as a [[Directed Graphs|directed]] [[Graphs|graph]] $G$ with [[Vertices|vertices]] representing pages, and [[Edges|edges]] representing links between them. These [[Vertices|vertices]] are given weights representing the **rank**/importance of each [[Vertices|vertex]]/page. The *ranks* are given by a [[Vectors|vector]] $\vecbf{r}$ satisfying
@@ -36,7 +37,20 @@ where $M$ is a [[Stochastic Adjacency Matrix|uniform Stochastic adjacency matrix
 > 
 > \hline
 > \end{array}$$
-
 ^implementation
 
-[^1]: [[Eigenspaces]]
+> [!corollary]- One can get a **Topic-Specific *Page Rank*** by doing this same process, but only **teleporting** to "relevant" [[Vertices|vertices]] in the calculation.
+> Let $I$ be the (indices of the) **teleport [[Sets|set]]**. Swap $\left[ \frac{1}{N} \right]_{N \times N}$ for a [[Matrices|matrix]] of size $N\times N$ defined by
+> $$a_{i,j} = \begin{cases}
+> 	\dfrac{1}{\left| I \right| } & i \in I \\
+> 	0 & i \notin I \\
+> \end{cases},$$
+> meaning this [[Matrices|matrix]] represents teleporting to a random [[Vertices|vertex]] in the **teleport [[Sets|set]]** with equal probability.
+> 
+> \[[[Stochastic Adjacency Matrix]]\]
+^topic-specific
+
+> [!corollary] To combat link farms, one can use **Trust Rank**, a [[#^topic-specific|topic specific page rank]] with a **teleport [[Sets|set]]** of  trusted pages.
+^trust-rank
+
+\[[[P-Norms]]\]

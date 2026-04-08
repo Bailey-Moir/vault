@@ -14,8 +14,7 @@
     "centre-math",
     "no-margin",
     "typewriter-tables",
-    "tikz",
-    "column-pdf"
+    "tikz"
   ],
   "showRibbon": false,
   "showViewHeader": true
