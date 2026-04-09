@@ -29,7 +29,7 @@
               "type": "markdown",
               "state": {
                 "file": "Community Detection.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -50,6 +50,7 @@
       {
         "id": "a01d16ecc311c805",
         "type": "tabs",
+        "dimension": 76.06490872210954,
         "children": [
           {
             "id": "3a4f7896fbf90ae2",
@@ -79,6 +80,50 @@
               },
               "icon": "lucide-search",
               "title": "Search"
+            }
+          }
+        ]
+      },
+      {
+        "id": "f1209ebca5b4db34",
+        "type": "tabs",
+        "dimension": 23.935091277890468,
+        "children": [
+          {
+            "id": "58bf238a53e87485",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Community Detection.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.4989201048940838,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Community Detection"
             }
           }
         ]
@@ -182,16 +227,18 @@
   },
   "active": "00bf7230248ff3a7",
   "lastOpenFiles": [
-    "Computer Science/Algorithms/Graphs/Shortest Paths.md",
+    "Computer Science/Big Data/Page Rank.md",
     "Community Detection.md",
+    "Computer Science/Algorithms/Graphs/Breadth First Search.md",
+    "Computer Science/Abstract Data Types/Trees/Parent Arrays.md",
     "Personal/Todo.md",
+    "Computer Science/Algorithms/Graphs/Shortest Paths.md",
     "Lecture Notes/DATA301/Lec10.md",
     "Computer Science/Algorithms/Graphs/Dijkstra's Algorithm.md",
     "Personal/Band.md",
     "Computer Science/Algorithms/Graphs/Floyd-Warshall Algorithm.md",
     "Computer Science/Algorithms/Graphs/Bellman-Ford Algorithm.md",
     "dijsk.md",
-    "Computer Science/Big Data/Page Rank.md",
     "Computer Science/Big Data/A-Priori Algorithm.md",
     "Computer Science/Big Data/Market-Basket Model.md",
     "Computer Science/Big Data/Locality Sensitive Hashing for Minhash Signatures.md",
@@ -206,8 +253,6 @@
     "Lecture Notes/DATA301/Lec9.md",
     "Lecture Notes/DATA301/Lec6B 19-3.md",
     "Lecture Notes/DATA301/Lec8.md",
-    "Lecture Notes/DATA301/Lec7.md",
-    "Lecture Notes/DATA301/Lec7.md",
     "Math/Analysis/Rings & Fields/Polynomial Rings",
     "Math/Analysis/Rings & Fields/Ideals",
     "preamble.sty~",
