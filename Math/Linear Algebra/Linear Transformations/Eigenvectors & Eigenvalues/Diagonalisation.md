@@ -37,11 +37,11 @@ $$D = P^{-1}AP$$
 > \end{align}$$
 > where $\{ \vecbf{v}_{i}; \lambda_{i} \}$ for all $i$.
 # Properties
-> [!proof]- $A^n = PD^{301}P^{-1}$
+> [!proof]- $A^n = PD^{n}P^{-1}$
 > $$\begin{align}
-> 	A^n &= (PDP^{-1})^{301} \\ 
+> 	A^n &= (PDP^{-1})^n \\ 
 > 	&= (PDP^{-1})(PDP^{-1})\dots(PDP^{-1}) \\
-> 	&=PD^{301}P^{-1}
+> 	&=PD^{n}P^{-1}
 > \end{align}$$
 
 [^1]: [[Sets of Matrices]]
