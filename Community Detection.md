@@ -41,7 +41,7 @@ $$\begin{array}{rl}
 
 
 \scriptsize3& \hspace{1em} children \leftarrow [p^{-1}(u) \textbf{for} \; v \; \textbf{in} \; p^{-1}(u)] \\
-\scriptsize6& \hspace{1em} \text{sort } children \text{ with F{\scriptsize LOW} as the key}   \\
+\scriptsize4& \hspace{1em} \text{sort } children \text{ with F{\scriptsize LOW} as the key}   \\
 
 \scriptsize3& \hspace{1em} \textbf{for} \; v \; \textbf{in} \; p^{-1}(u)  \\
  
