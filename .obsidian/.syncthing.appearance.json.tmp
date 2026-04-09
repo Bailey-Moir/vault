@@ -1,0 +1,21 @@
+{
+  "accentColor": "",
+  "cssTheme": "Typewriter",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "big-math",
+    "center-svg",
+    "larger-inline-math",
+    "pdfs",
+    "excali",
+    "no-folder-icon",
+    "better-atom",
+    "better-callouts",
+    "centre-math",
+    "no-margin",
+    "typewriter-tables",
+    "tikz"
+  ],
+  "showRibbon": false,
+  "showViewHeader": true
+}

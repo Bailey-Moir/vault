@@ -39,10 +39,8 @@ $$\begin{array}{rl}
 
 \scriptsize2& \textbf{procedure} \; \text{F{\scriptsize LOW}}(u) \\
 
-\scriptsize3& \hspace{1em} \textbf{for} \; v \; \textbf{in} \; p^{-1}(u)  \\
-\scriptsize4& \hspace{2em} \text{F{\scriptsize LOW}}(v)  \\
 
-\scriptsize5& \hspace{1em} children \leftarrow [p^{-1}(u) \textbf{for} \; v \; \textbf{in} \; p^{-1}(u)] \\
+\scriptsize3& \hspace{1em} children \leftarrow [p^{-1}(u) \textbf{for} \; v \; \textbf{in} \; p^{-1}(u)] \\
 \scriptsize6& \hspace{1em} \text{sort } children \text{ with F{\scriptsize LOW} as the key}   \\
 
 \scriptsize3& \hspace{1em} \textbf{for} \; v \; \textbf{in} \; p^{-1}(u)  \\
