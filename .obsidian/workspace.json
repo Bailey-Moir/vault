@@ -4,40 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "671ece8639bb0e63",
+        "id": "45e9e8b4c5e4bf65",
         "type": "tabs",
         "children": [
           {
-            "id": "9679ac76dd08facb",
+            "id": "90f1411e6ad9ec6b",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20260311132036.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260311132036"
-            }
-          }
-        ]
-      },
-      {
-        "id": "5bcfc59e361cabcc",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fa7d20397bbf7977",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math/Analysis/Rings & Fields/Integer Map.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Integer Map"
+              "title": "New tab"
             }
           }
         ]
@@ -97,7 +74,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Pasted image 20260311132036.png",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -125,7 +101,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Pasted image 20260311132036"
+              "title": "Graph view"
             }
           }
         ]
@@ -227,11 +203,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9679ac76dd08facb",
+  "active": "90f1411e6ad9ec6b",
   "lastOpenFiles": [
-    "Lecture Notes/MATH321/Lec4B 11-3.md",
     "Pasted image 20260311132036.png",
     "Math/Analysis/Rings & Fields/Integer Map.md",
+    "Math/Analysis/Rings & Fields/Polynomial Rings/Modulo Irreducibility Test.md",
+    "Lecture Notes/MATH321/Lec4B 11-3.md",
     "Pasted image 20260311132746.png",
     "Personal/Todo.md",
     "Computer Science/Big Data/Community Detection.md",
@@ -256,8 +233,6 @@
     "Math/Linear Algebra/Matrices/Matrices.md",
     "Computer Science/Algorithm Analysis/Backtracking.md",
     "Math/Discrete/Graph Theory/Basics/Vertex Degrees.md",
-    "Math/Discrete/Graph Theory/Planar Graphs/Face Degrees.md",
-    "Math/Discrete/Graph Theory/Matchings/Alternating Paths.md",
     "Math/Analysis/Rings & Fields/Polynomial Rings",
     "Math/Analysis/Rings & Fields/Ideals",
     "preamble.sty~",
