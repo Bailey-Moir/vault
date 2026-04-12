@@ -3,7 +3,7 @@ tags:
   - atom
   - math
 ---
-A finite [[Rings|ring]] $R$ with [[Rings#^unity|unity]] that has no [[Zero-divisors|zero-divisors]] is a [[Fields|field]].
+A finite [[Rings|ring]] with [[Rings#^unity|unity]] that has no [[Zero-divisors|zero-divisors]] is a [[Fields|field]].
 
 [!proof]
 Suppose $R$ is a finite [[Rings|ring]] with [[Rings#^unity|unity]] that has no [[Zero-divisors|zero-divisors]].

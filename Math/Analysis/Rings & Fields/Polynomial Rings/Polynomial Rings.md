@@ -27,10 +27,10 @@ $$\begin{align}
 > 	&= \sum_{i = 0}^m \sum_{j=0}^n b_{j}a_{i}x^{j+i} && (1) \\
 > 	&= \sum_{i = 0}^m b_{i}x^j \times \sum_{i = 0}^n a_{i}x^i.
 > \end{align}$$
-> where $(1)$ is by the [[Groups#^abelian-groups|commutativity]] of $\left( R,\times \right)$ and $\left( \N, + \right)$, and the [[Groups#^associtativity|associativity]] of $\left( R[x], + \right)$. Thus, $R[x]$ is [[Groups#^abelian-groups|commutative]].
+> where $(1)$ is by the [[Groups#^abelian-groups|commutativity]] of $\left( D,\times \right)$ and $\left( \N, + \right)$, and the [[Groups#^associtativity|associativity]] of $\left( D[x], + \right)$. Thus, $D[x]$ is [[Groups#^abelian-groups|commutative]].
 > 
 > $$\begin{align}
-> 	\left( \sum_{i = 0}^n a_{i}x^i \right) \times 1 &= \sum_{i = 0}^n a_{i}x^i \times \sum_{i = 0}^0 1x^i \\
+> 	\left( \sum_{i = 0}^n a_{i}x^i \right) \times 1 &= \sum_{i = 0}^n a_{i}x^i \times \sum_{j = 0}^0 1x^j \\
 > 	&= \sum_{i = 0}^n \sum_{j=0}^0 a_{i}1x^{i+j} \\ 
 > 	&= \sum_{i = 0}^n a_{i}x^{i}.
 > \end{align}$$
