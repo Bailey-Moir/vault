@@ -31,21 +31,20 @@ $$\forall \varepsilon>0, \exists \delta>0: \forall x \in M, d_{M}(x,a) < \delta 
 #TODO also prove this is equivalent to topological definition (same for convergence)
 
 > [!theorem]- [[Contraction Maps|Contraction maps]] are *continuuous*.
-
-Let $T$ be a [[Contraction Maps|contraction map]] on the [[Metric Spaces|metric space]] $\left( M,d \right)$ with [[Contraction Maps|contraction constant]] $c$ .
-
-If $c = 0$, then for all $x,y \in X$,
-$$\begin{align}
-	d(T\,x,T\,y) &\le 0d(x,y) = 0 \\\
-	d(T\,x,T\,y) &= 0 \\\
-	T\,x &= T\,y \\\
-	d(x,a) = 0 < \varepsilon \\
-	\forall\varepsilon > 0, \forall x,a \in X
-\end{align}$$
-
-If $c > 0$, let $\delta = \dfrac{\varepsilon}{c}$. Then for all $x,a  \in X$ such that $d(x,a) < \delta$,
-$$d(T\,x, T\,a) \le cd(x,a) \le c \delta = \varepsilon.$$
-
+> Let $T$ be a [[Contraction Maps|contraction map]] on the [[Metric Spaces|metric space]] $\left( M,d \right)$ with [[Contraction Maps|contraction constant]] $c$ .
+> 
+> If $c = 0$, then for all $x,y \in X$ (including when $d(x,y) < \delta$ for any $\delta > 0$)
+> $$\begin{align}
+> 	d(T\,x,T\,y) &\le 0d(x,y) = 0 \\\
+> 	d(T\,x,T\,y) &= 0 \\\
+> 	\forall \varepsilon , d(T\,x,T\,y) &< \varepsilon. \\\
+> \end{align}$$
+> If $c > 0$, let $\delta = \dfrac{\varepsilon}{c}$. Then for all $x,y  \in X$ such that $d(x,y) < \delta$,
+> $$\begin{array}{cl}
+> 	d(T\,x, T\,a) \le cd(x,a) < c \delta \\
+> 	d(T\,x, T\,a) < c \dfrac{\varepsilon}{c} = \varepsilon. &\square
+> \end{array}$$
+^contraction-maps
 
 > [!theorem]- In $\R$,$$f \in \mathcal{C}(I) \iff \forall a \in I,\, \lim_{x\to a} f(x) = f(a).$$This implicitly requires $f(a)$ and $\displaystyle\lim_{x\to a} f(x)$ to exist.
 
