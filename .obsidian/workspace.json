@@ -11,10 +11,30 @@
             "id": "aa173b2fbb1415de",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Metric Continuity.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Metric Continuity"
+            }
+          },
+          {
+            "id": "d72946eea1776a46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Metric, Normed, & Hilbert Spaces/Contraction Maps.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Contraction Maps"
             }
           }
         ]
@@ -74,6 +94,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Metric Continuity.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -101,7 +122,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Metric Continuity"
             }
           }
         ]
@@ -205,6 +226,9 @@
   },
   "active": "aa173b2fbb1415de",
   "lastOpenFiles": [
+    "Math/Metric, Normed, & Hilbert Spaces/Contraction Maps.md",
+    "Metric Continuity.md",
+    "Math/Metric, Normed, & Hilbert Spaces/Metric Spaces.md",
     "Lecture Notes/MATH321/Lec2C 27-2.md",
     "Math/Analysis/Rings & Fields/Polynomial Rings/Polynomial Rings.md",
     "Lecture Notes/MATH321/Lec2B 25-2.md",
@@ -231,9 +255,6 @@
     "Personal/Band.md",
     "Computer Science/Algorithms/Graphs/Floyd-Warshall Algorithm.md",
     "Computer Science/Algorithms/Graphs/Bellman-Ford Algorithm.md",
-    "dijsk.md",
-    "Computer Science/Big Data/A-Priori Algorithm.md",
-    "Computer Science/Big Data/Market-Basket Model.md",
     "Math/Analysis/Rings & Fields/Polynomial Rings",
     "Math/Analysis/Rings & Fields/Ideals",
     "preamble.sty~",
