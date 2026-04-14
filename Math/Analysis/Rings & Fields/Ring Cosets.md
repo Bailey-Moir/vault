@@ -9,24 +9,6 @@ where $u \in R$.
 
 > [!note] *Ring cosets* are just [[Cosets|cosets]] in the addition [[Groups|group]]
 
-> [!theorem]- $u +S = v + S \iff v - u \in S$ 
-> $\left( \implies \right)$
-> $$\begin{align}
-> 	u + S &= v + S\\
-> 	u + s_{1} &= v + s_{2}\\
-> 	u &= v + s_{3} && s_{3} = s_{2} - s_{1} \in S\\
-> 	u - v &= s_{3}\\
-> 	u - v &\in S\\
-> \end{align}$$
-> $\left( \impliedby \right)$
-> $$\begin{align}
-> 	u - v &\in S \\
-> 	u - v &= s_{1} \\
-> 	u + 0  &= v + s_{1} \\
-> 	\to u + S &= v + S \\
-> \end{align}$$
-^equality
-
 > [!theorem]- The *ring cosets* of a [[Subrings|subring]] $S$ of a [[Rings|ring]] $R$ is a [[Rings|ring]] itself, where $$\begin{align} \left( u + S \right) + \left( v + S \right) &= \left( u+v \right) + S \\ \left( u + S \right) \times \left( v + S \right) &= \left( u \times v \right) + S, \end{align}$$iff $S$ is an [[Ideals|ideal]].
 > ### Addition
 > We need to prove that this addition is well defined, meaning that if you add two equal pairs of *cosets*, then their sum is the equal. Thus, suppose
