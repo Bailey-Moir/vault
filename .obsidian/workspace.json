@@ -23,18 +23,13 @@
             }
           },
           {
-            "id": "72ea744329cffec1",
+            "id": "0f610518373b9552",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Formal Languages/Computability/Satisfiability.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Satisfiability"
+              "title": "New tab"
             }
           }
         ],
@@ -95,7 +90,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Computer Science/Formal Languages/Computability/Satisfiability.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -123,7 +117,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Satisfiability"
+              "title": "Graph view"
             }
           }
         ]
@@ -225,9 +219,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "72ea744329cffec1",
+  "active": "0f610518373b9552",
   "lastOpenFiles": [
+    "Computer Science/Formal Languages/Computability/Satisfiability.md",
     "Lecture Notes/MATH321/Lec6B 25-3.md",
+    "Computer Science/Formal Languages/Computability/Complexity/NP-complete.md",
+    "Computer Science/Formal Languages/Computability/Complexity/P & NP.md",
+    "Computer Science/Formal Languages/Definitions/Alphabets.md",
+    "Computer Science/Formal Languages/Definitions/Strings.md",
+    "Computer Science/Formal Languages/Definitions/Languages.md",
+    "Computer Science/Formal Languages/Computability/Non-Deterministic Turing Machines.md",
     "Lecture Notes/MATH321/Lec6A 20-3.md",
     "Lecture Notes/MATH321/Lec5B 18-3.md",
     "Math/Analysis/Rings & Fields/Polynomial Rings/Eisenstein's Criterion.md",
@@ -246,13 +247,6 @@
     "Math/Discrete/Groups/Cosets.md",
     "Lecture Notes/MATH321/Lec6C 27-3.md",
     "Lecture Notes/MATH321/Lec3B 4-3.md",
-    "Math/Analysis/Rings & Fields/Ring Homomorphisms.md",
-    "Lecture Notes/MATH321/Lec3A 3-3.md",
-    "Community Detection.md",
-    "Metric Continuity.md",
-    "Lecture Notes/MATH321/Lec2C 27-2.md",
-    "Math/Analysis/Rings & Fields/Polynomial Rings/Reducible Factors.md",
-    "Math/Analysis/Rings & Fields/Polynomial Rings/Maximum Polynomial Roots.md",
     "Assets/Pastedimage20260409235020.png",
     "Pasted image 20260311132036.png",
     "Pasted image 20260311132746.png",

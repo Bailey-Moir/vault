@@ -43,8 +43,8 @@ $$\begin{align}
 $$\begin{align}
 	\text{CNF} &= \text{Clause}(\land \text{ Clause})^* \\
 	\text{Clause} &=  \text{Literal}\lor\text{Literal}\lor\text{Literal} && (\text{Literal}(\lor \text{ Literal})^*) \\
-	\text{Literal} &= \text{variable} \;|\; \neg\text{variable} \\
-\end{align},$$
+	\text{Literal} &= \text{variable} \;|\; \neg\text{variable}, \\
+\end{align}$$
 with exactly $3$ literals per clause.
 
 > [!definition] **Conjunctive normal form** is a [[Conjunction|conjunction]] of [[Disjunction|disjunction]] of literals.
