@@ -38,6 +38,6 @@ $$\begin{align}
 > **[[Bijective Functions|Bijection]]**
 > For all $a \in \Z_{n}$, we have $\varphi(a + \left< n \right>) = a \mod n$. Thus, $\varphi$ is [[Surjective Functions|surjective]].
 > 
-> Let $a + \left< n \right> \in \Z/\hspace{-.2em}\left< n \right>$ such that $\varphi(a + \left< n \right>) = 0$, so $a \equiv 0 \mod n$. Thus $a \in \left< n \right>$, and so $a + \left< n \right> = \left< n \right> = 0$. Thus, $\ker \varphi = \{ 0 \}$, so by [[Math/Analysis/Rings & Fields/Kernels#^injectivity|this theorem]], $\varphi$ is [[Injective Functions|injective]].
+> Let $a + \left< n \right> \in \Z/\hspace{-.2em}\left< n \right>$ such that $\varphi(a + \left< n \right>) = 0$, so $a \equiv 0 \mod n$. Thus $a \in \left< n \right>$, and so $a + \left< n \right> = 0 + \left< n \right>$. Thus, $\ker \varphi = \{ 0 \}$, so by [[Math/Analysis/Rings & Fields/Kernels#^injectivity|this theorem]], $\varphi$ is [[Injective Functions|injective]].
 
 \[[[Translates]]\]

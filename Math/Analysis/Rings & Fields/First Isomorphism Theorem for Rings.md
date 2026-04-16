@@ -13,7 +13,7 @@ is an [[Isomorphisms|isomorphism]]; $R/\hspace{-.1em}\ker{\varphi} \overset{\til
 > $$\begin{align}
 > 	\varphi(r - r') &= 0 \\
 > 	\varphi(r) - \varphi(r') &= 0 \\
-> 	\varphi(r) &=  - \varphi(r'). \\
+> 	\varphi(r) &=  \varphi(r'). \\
 > \end{align}$$
 > Thus,
 > $$\tilde{\varphi}(r + \ker\varphi) = \varphi(r) = \varphi(r') = \tilde{\varphi}(r' + \ker \varphi)$$
