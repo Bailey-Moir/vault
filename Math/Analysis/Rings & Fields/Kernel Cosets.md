@@ -4,9 +4,11 @@ tags:
   - math
 ---
 Let $\varphi: R \to S$ be a [[Ring Homomorphisms|ring homomorphism]]. Then for all $s \in S$,
-$$\varphi^{-1}\{ s \} = r + \ker \varphi \quad\text{s.t.}\quad r \in \varphi^{-1}\{ s \}.$$
-Alternatively, for all $r \in R$,
-$$\varphi^{-1}\{ \varphi(r) \} = r + \ker \varphi.$$
+$$\begin{array}{c}
+	\forall r \in R, \quad \varphi^{-1}\{ \varphi(r) \} = r + \ker \varphi; \\
+	\forall s \in S, \forall r \in \varphi^{-1}\{ s \}, \quad \varphi^{-1}\{ s \} = r + \ker \varphi.
+\end{array}$$
+
 > [!proof]-
 > $\left( \subseteq \right)$
 > Let $a \in \varphi^{-1}\{ \varphi(r) \}$ for some $r \in R$. Then

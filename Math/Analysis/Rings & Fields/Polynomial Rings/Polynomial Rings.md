@@ -3,7 +3,7 @@ tags:
   - atom
   - math
 ---
-The *polynomial [[Rings|ring]]* $R[x]$ over a [[Rings|rings]] $R$ is defined as
+The *polynomial [[Rings|ring]]* $R[x]$ over a [[Rings|ring]] $R$ is defined as
 $$R[x] := \left\{ \sum_{i= 0}^n a_{i}x^i : n \in \N, a_{0},\dots,a_{n} \in R \right\},$$
 where $n$ gives the [[Polynomials#Degree|degree]] of the given [[Polynomials|polynomial]], and $+$ and $\times$ are given by
 $$\begin{align}

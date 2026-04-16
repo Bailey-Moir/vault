@@ -3,6 +3,6 @@ tags:
   - atom
   - math
 ---
-A *division ring* is a [[Rings|ring]] with [[Rings#^unity|unity]] where every element is a [[Rings#^unit|unit]].
+A *division ring* is a [[Rings|ring]] with [[Rings#^unity|unity]] where every element is a [[Rings#^unit|unit]] (a [[Fields|field]] without [[Groups#^abelian-groups|commutativity]]).
 
 > [!note] *Division rings* have no [[Zero-divisors|zero-divisors]] by [[Rings#^unit-gives-not-zero-divisor]].
