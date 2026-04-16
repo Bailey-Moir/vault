@@ -1,3 +1,5 @@
+- [[Geometric Series#Partial Sum Formula]]
+
 - Last three theorems in [[Rings]]
 - [[Subrings#^subring-test]]
 - [[Zero-divisors]]

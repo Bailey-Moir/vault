@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "321 Cheatsheet.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -212,8 +212,10 @@
   },
   "active": "e241454a92b81a68",
   "lastOpenFiles": [
-    "Lecture Notes/MATH321/Lec6C 27-3.md",
+    "Math/Algebra/Sequences & Series/Series/Geometric Series.md",
     "321 Cheatsheet.md",
+    "Math/Algebra/Sequences & Series/Series/Partial Sums.md",
+    "Lecture Notes/MATH321/Lec6C 27-3.md",
     "Math/Analysis/Rings & Fields/First Isomorphism Theorem for Rings.md",
     "Lecture Notes/MATH321/Lec6B 25-3.md",
     "Lecture Notes/MATH321/Lec6A 20-3.md",
@@ -236,8 +238,6 @@
     "Math/Analysis/Rings & Fields/Polynomial Rings/Polynomial Rings.md",
     "Lecture Notes/MATH321/Lec2A 24-2.md",
     "Math/Analysis/Rings & Fields/Ring Characteristic.md",
-    "Lecture Notes/MATH321/Lec1C 20-2.md",
-    "Math/Analysis/Rings & Fields/Fields.md",
     "Assets/Pastedimage20260409235020.png",
     "Pasted image 20260311132036.png",
     "Pasted image 20260311132746.png",
