@@ -1,4 +1,5 @@
 - [[Geometric Series#Partial Sum Formula]]
+- $x^2+x+1$ is the only irreducible quadratic in $\Z_{2}$ (is there an over-arching why?)
 
 - Last three theorems in [[Rings]]
 - [[Subrings#^subring-test]]
