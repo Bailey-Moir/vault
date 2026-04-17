@@ -3,7 +3,7 @@ tags:
   - atom
   - math
 ---
-Let $\varphi: R \to S$ be a [[Ring Homomorphisms|ring homomorphism]]. Then for all $s \in S$,
+Let $\varphi: R \to S$ be a [[Ring Homomorphisms|ring homomorphism]].
 $$\begin{array}{c}
 	\forall r \in R, \quad \varphi^{-1}\{ \varphi(r) \} = r + \ker \varphi; \\
 	\forall s \in S, \forall r \in \varphi^{-1}\{ s \}, \quad \varphi^{-1}\{ s \} = r + \ker \varphi.
