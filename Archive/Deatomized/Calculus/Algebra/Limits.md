@@ -17,7 +17,7 @@ sticker: lucide//infinity
 ![[Composite Limit Theorem]]
 # Continuity
 ## Definition of Continuity
-![[Metric Continuity]]
+![[Metric Continuity 1]]
 ## Types of Discontinuities
 ![[Types of Discontinuities]]
 ## Direct Substitution Property

@@ -31,13 +31,12 @@ $$\forall \varepsilon>0, \exists \delta>0: \forall x \in M, d_{M}(x,a) < \delta 
 #TODO also prove this is equivalent to topological definition (same for convergence)
 
 > [!theorem]- [[Contraction Maps|Contraction maps]] are *continuuous*.
-
-Let $T$ be a [[Contraction Maps|contraction map]] on the [[Metric Spaces|metric space]] $\left( M,d \right)$ with [[Contraction Maps|contraction constant]] $c$ .
-
-If $c = 0$, then $d(T\,x,T\,a) \le 0$, $d(x,a) = 0 < \varepsilon$ $\forall\varepsilon > 0, \forall x,a \in X$.
-
-If $c > 0$, let $\delta = \dfrac{\varepsilon}{c}$. Then for all $x,a  \in X$ such that $d(x,a) < \delta$,
-$$d(T\,x, T\,a) \le cd(x,a) \le c \delta = \varepsilon.$$
+> Let $T$ be a [[Contraction Maps|contraction map]] on the [[Metric Spaces|metric space]] $\left( M,d \right)$ with [[Contraction Maps|contraction constant]] $c$ .
+> 
+> If $c = 0$, then $d(T\,x,T\,a) \le 0$, $d(x,a) = 0 < \varepsilon$ $\forall\varepsilon > 0, \forall x,a \in X$.
+> 
+> If $c > 0$, let $\delta = \dfrac{\varepsilon}{c}$. Then for all $x,a  \in X$ such that $d(x,a) < \delta$,
+> $$d(T\,x, T\,a) \le cd(x,a) \le c \delta = \varepsilon.$$
 
 
 > [!theorem]- In $\R$,$$f \in \mathcal{C}(I) \iff \forall a \in I,\, \lim_{x\to a} f(x) = f(a).$$This implicitly requires $f(a)$ and $\displaystyle\lim_{x\to a} f(x)$ to exist.

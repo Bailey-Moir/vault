@@ -65,12 +65,12 @@ $$ \forall \varepsilon > 0, \exists N \in \N : \forall n \ge N, \sup_{x \in X} \
 > Finally, this proves that if any [[Sequences|sequence]] $\left( f_{n} \right)$ in $\left( B(X),d_{\infty} \right)$ is [[Cauchy Sequences|Cauchy]], it is [[Metric Convergence|convergent]] in that metric space, so $\left( B(X),d_{\infty} \right)$ is [[Completeness|complete]].
 ^completeness
 
-> [!theorem]- *(Preserves Continuity)* Suppose $\left( f_{n} \right)$ is a [[Sequences|sequence]] of [[Bounded Functions|bounded]], [[Metric Continuity|continuous]] [[Functions|functions]] on the [[The Real Numbers|reals]] that *uniformly converge* on some $I$ to to a [[Functions|function]] $f_{*}$. Then $f_{*}$ is [[Metric Continuity|continuous]] on $I$.
+> [!theorem]- *(Preserves Continuity)* Suppose $\left( f_{n} \right)$ is a [[Sequences|sequence]] of [[Bounded Functions|bounded]], [[Metric Continuity 1|continuous]] [[Functions|functions]] on the [[The Real Numbers|reals]] that *uniformly converge* on some $I$ to to a [[Functions|function]] $f_{*}$. Then $f_{*}$ is [[Metric Continuity 1|continuous]] on $I$.
 > Let $a \in I$ and $\varepsilon > 0$ be given.
 > 
 > By the *uniform convergence* of $\left( f_{n} \right)$, there exists $N \in \N$ such that
 > $$\forall x \in I, \left| f_{N}(x) - f_{*}(x) \right| < \dfrac{\varepsilon}{3}. \hspace{2em} (1)$$
-> Further, by the [[Metric Continuity|continuity]] of $f_{N}$, there exists $\delta > 0$ such that
+> Further, by the [[Metric Continuity 1|continuity]] of $f_{N}$, there exists $\delta > 0$ such that
 > $$\forall x \in I, \left| x - a \right| < \delta \to \left| f_{N}(x) - f_{N}(a) \right| < \dfrac{\varepsilon}{3}.\hspace{2em} (2)$$
 > 
 > Thus, for all $a \in I$ and $\varepsilon > 0$, there exists $\delta > 0$ such that for all $x \in I$,
@@ -82,7 +82,7 @@ $$ \forall \varepsilon > 0, \exists N \in \N : \forall n \ge N, \sup_{x \in X} \
 > 	&< \dfrac{\varepsilon}{3} + \dfrac{\varepsilon}{3} + \dfrac{\varepsilon}{3} = \varepsilon.
 > \end{align}
 > \end{array}$$
-> Thus, $f_{*}$ is [[Metric Continuity|continuous]] on $I$ 
+> Thus, $f_{*}$ is [[Metric Continuity 1|continuous]] on $I$ 
 ^preserves-continuity
 
 > [!corollary]- of *(Preserves Continuity)* $\left( \mathcal{C}(\left[ a,b \right]), d_{\infty} \right)$[^1][^3] is [[Complement|complete]].
@@ -90,4 +90,4 @@ $$ \forall \varepsilon > 0, \exists N \in \N : \forall n \ge N, \sup_{x \in X} \
 
 [^1]: [[Bounded Function Set]]
 [^2]:  $\infty$-[[P-Norms|-norm]]
-[^3]: [[Metric Continuity]]
+[^3]: [[Metric Continuity 1]]

@@ -38,7 +38,7 @@ $$\forall x,y \in X, \quad d(T(x),T(y)) \le cd(x,y).$$
 > Thus, $\left( T^n\,x \right)$ is [[Cauchy Sequences|Cauchy]], so by the [[Completeness|completeness]] of $X$, $\left( T^n x \right)$ is [[Metric Convergence|convergent]] to some $x^*$.
 > #TODO do this a better way (by contradiction) cause this is shit 
 > $$d(T\,x^*, x^*) \le d(T\,x^*, T^{n+1}\,x) + d(T^{n+1}\,x, T^{n}\,x) + d(T^{n}\,x,x^*)$$
-> This first term is less than $\frac{\varepsilon}{3}$ by the [[Metric Continuity|continuity]] of $T$, the second term is less than $\frac{\varepsilon}{3}$ since $\left( T^n\,x \right)$ is [[Cauchy Sequences|Cauchy]], and the third term is less than $\frac{\varepsilon}{3}$ by the [[Metric Convergence|convergence]] of $\left( T^n \, x \right)$. Thus,
+> This first term is less than $\frac{\varepsilon}{3}$ by the [[Metric Continuity 1|continuity]] of $T$, the second term is less than $\frac{\varepsilon}{3}$ since $\left( T^n\,x \right)$ is [[Cauchy Sequences|Cauchy]], and the third term is less than $\frac{\varepsilon}{3}$ by the [[Metric Convergence|convergence]] of $\left( T^n \, x \right)$. Thus,
 > $$\forall \varepsilon > 0, d(T\,x^*, x^*) < \varepsilon \to d(T\,x^*, x^*) = 0 \to T\,x^* = x^*.$$
 > 
 > Let $x^*,y^* \in X$ such that $T\,x^* = x^*$ and $T\,y^* = y^*$. Then
