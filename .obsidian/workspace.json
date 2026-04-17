@@ -23,18 +23,18 @@
             }
           },
           {
-            "id": "6000debc483370bb",
+            "id": "82c7a739d38ded1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture Notes/MATH321/Lec4B 11-3.md",
+                "file": "Math/Analysis/Rings & Fields/Ideals/Principal Ideals.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lec4B 11-3"
+              "title": "Principal Ideals"
             }
           }
         ],
@@ -95,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Lecture Notes/MATH321/Lec4B 11-3.md",
+                "file": "Math/Analysis/Rings & Fields/Ideals/Principal Ideals.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -123,7 +123,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Lec4B 11-3"
+              "title": "Graph of Principal Ideals"
             }
           }
         ]
@@ -225,12 +225,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6000debc483370bb",
+  "active": "82c7a739d38ded1f",
   "lastOpenFiles": [
-    "Math/Analysis/Rings & Fields/Ring Characteristic.md",
-    "Lecture Notes/MATH321/Lec4B 11-3.md",
-    "Math/Analysis/Rings & Fields/Integer Map.md",
     "321 Cheatsheet.md",
+    "Math/Analysis/Rings & Fields/Ideals/Ideals.md",
+    "Math/Analysis/Rings & Fields/Isomorphic Subrings.md",
+    "Lecture Notes/MATH321/Lec4B 11-3.md",
+    "Pasted image 20260311132746.png",
+    "Pasted image 20260311132036.png",
+    "Math/Analysis/Rings & Fields/Ring Characteristic.md",
+    "Math/Analysis/Rings & Fields/Integer Map.md",
     "Math/Analysis/Rings & Fields/Kernel Cosets.md",
     "Math/Analysis/Rings & Fields/Kernels.md",
     "Math/Analysis/Rings & Fields/Ring Homomorphisms.md",
@@ -251,11 +255,7 @@
     "Lecture Notes/MATH321/Lec6C 27-3.md",
     "Math/Analysis/Rings & Fields/First Isomorphism Theorem for Rings.md",
     "Lecture Notes/MATH321/Lec6B 25-3.md",
-    "Lecture Notes/MATH321/Lec6A 20-3.md",
-    "Lecture Notes/MATH321/Lec5B 18-3.md",
     "Assets/Pastedimage20260409235020.png",
-    "Pasted image 20260311132036.png",
-    "Pasted image 20260311132746.png",
     "Math/Analysis/Rings & Fields/Polynomial Rings",
     "Math/Analysis/Rings & Fields/Ideals",
     "preamble.sty~",

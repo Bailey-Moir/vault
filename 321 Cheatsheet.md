@@ -22,7 +22,7 @@
 - [[Math/Analysis/Rings & Fields/Kernels|Kernels]]
 - [[Kernel Cosets]]
 - [[Integer Map]]
-- Subring isomorphisms with $\Z_{n}$, $\Z$, $\Z_{p}$ and $\Q$.
+- [[Isomorphic Subrings]]
  
 - [[Ideals]]
 - [[Principal Ideals]]
