@@ -11,8 +11,8 @@
 ## Polynomials
 - [[Polynomial Rings]]
 - [[Division Algorithm]] w/ Theorem
-- [[Maximum Polynomial Roots]]
-- [[Reducible Factors|Reducibility]]
+- (didn't include) [[Maximum Polynomial Roots]]
+- [[Reduciblity|Reducibility]]
 - [[Modulo Irreducibility Test]]
 - [[Eisenstein's Criterion]]
 - [[Unique Factorisation Domain]]

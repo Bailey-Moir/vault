@@ -4,20 +4,20 @@ tags:
   - math
 ---
 Let $p \in \P$[^1], and $f \in \Z[x]$[^2] with $\deg f \ge 1$. Let $\bar{f} \in \Z_{p}[x]$ be obtained by reducing all coefficients of $f$ [[Modular Arithmetic|modulo]] $p$.
-If $\bar{f}(x)$ is [[Reducible Factors#^negation|irreducible]] over $\Z_{p}$, and $\deg \bar{f} = \deg f$, then $f$ is [[Reducible Factors#^negation|irreducible]] over $\Q$.
+If $\bar{f}(x)$ is [[Reduciblity#^negation|irreducible]] over $\Z_{p}$, and $\deg \bar{f} = \deg f$, then $f$ is [[Reduciblity#^negation|irreducible]] over $\Q$.
 
 > [!proof]- [[Proof by Contraposition|by Contraposition]]
 > If $f \in \Q[x]$ factors as
 > $$f(x) = g(x)h(x)$$
-> for some [[Rings#^unit|units]] $g,h \in \Q[x]$, the [[Polynomials#Degree|degree]] of $g$ and $h$ are larger than $0$ by [[Reducible Factors#^field-units-are-constant|this lemma]].
+> for some [[Rings#^unit|units]] $g,h \in \Q[x]$, the [[Polynomials#Degree|degree]] of $g$ and $h$ are larger than $0$ by [[Reduciblity#^field-units-are-constant|this lemma]].
 > 
-> By [[Reducible Factors#^rational-reducible-implies-integer-reducible|this theorem]], $f \in \Z[x]$ also has such [[Rings#^unit|unit]] factors of [[Polynomials#Degree|degree]] larger than $0$.
+> By [[Reduciblity#^rational-reducible-implies-integer-reducible|this theorem]], $f \in \Z[x]$ also has such [[Rings#^unit|unit]] factors of [[Polynomials#Degree|degree]] larger than $0$.
 > 
 > If $f \in \Z[x]$ factors as
 > $$f(x) = g(x)h(x)$$
 > for some [[Rings#^unit|units]] $g,h \in \Z[x]$, since $\tilde\sigma_{p}$ is a [[Ring Homomorphisms|homomorphism]],
 > $$\bar{f}(x) = \bar{g}(x)\bar{h}(x).$$
-> As long as $\bar{g}$ and $\bar{h}$ have [[Polynomials#Degree|degree]] larger than $0$, this shows $\bar{f}$ is [[Reducible Factors|reducible]] in $\Z_{p}[x]$ by [[Reducible Factors#^field-units-are-constant|this lemma]].
+> As long as $\bar{g}$ and $\bar{h}$ have [[Polynomials#Degree|degree]] larger than $0$, this shows $\bar{f}$ is [[Reduciblity|reducible]] in $\Z_{p}[x]$ by [[Reduciblity#^field-units-are-constant|this lemma]].
 > 
 > If $\deg f = \deg \bar{f}$, then
 > $$\begin{align}

@@ -3,11 +3,11 @@ tags:
   - atom
   - math
 ---
-Let $D$ be an [[Integral Domains|integral domain]]. A element $r \in D$ that is non-zero is called a *reducible factor* iff
+Let $D$ be an [[Integral Domains|integral domain]]. A element $r \in D$ that is non-zero is called *reducible* iff
 $$\exists s,t \in D \setminus D^\times : r = st$$
 i.e. iff it is given by two non-[[Rings#^unit|units]] factors.
 
-> [!definition] *(Irreducible)* $\forall s,t \in D, (r = st \to s,t \in D^\times).$
+> [!definition] *(Irreducible)* $\forall s,t \in D, (r = st \to s\in D^\times \lor t \in D^\times).$
 ^negation
 # Polynomials
 > [!example]- $f(x) = 3x^2 - 6$

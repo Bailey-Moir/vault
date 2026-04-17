@@ -10,7 +10,7 @@ $$\forall a,b \in D, p \in D \setminus D^\times, \left( p|ab \leftrightarrow p |
 > Suppose $p|ab$ and $p \nmid a$. Let
 > $$G(x) = \gcd(p,A),$$
 > meaning $G$ is a [[Polynomial Rings|polynomial]] of maximal [[Polynomials#Degree|degree]] which [[Divisibility|divides]] $p$ and $A$.
-> Since $p \nmid A$, $G \ne P$. Since $p$ is also [[Reducible Factors#^negation|irreducible]], $\deg G = 0$, so $G(x) = c \in \F$, a [[Rings#^unit|unit]] in $\F[x]$.
+> Since $p \nmid A$, $G \ne P$. Since $p$ is also [[Reduciblity#^negation|irreducible]], $\deg G = 0$, so $G(x) = c \in \F$, a [[Rings#^unit|unit]] in $\F[x]$.
 > Using the [[Extended Euclidean Algorithm|extended Euclidean algorithm]], we write
 > $$\begin{align}
 > 	c &= p(x)r(x) + A(x)s(x) \\
