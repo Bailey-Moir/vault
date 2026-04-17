@@ -5,7 +5,6 @@
 - [[Subrings#^subring-test]]
 - [[Zero-divisors]]
 - [[Law of Cancellation]]
-- [[Integral Domains]]
 - [[Wedderburn's Theorem]]
 - [[Division Rings]]
 - [[Ring Characteristic]] w/ Theorem
