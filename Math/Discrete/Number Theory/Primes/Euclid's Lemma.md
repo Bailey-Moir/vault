@@ -5,7 +5,7 @@ tags:
   - discrete
 ---
 For any [[Unique Factorisation Domain|unique factorisation domain]] $D$,
-$$\forall a,b \in D, p \in D \setminus D^\times, \left( p|ab \leftrightarrow p | a \lor \ p | b \right).$$
+$$\forall a,b \in D, p \in D^\text{irreducible}, \left( p|ab \leftrightarrow p | a \lor \ p | b \right).$$
 > [!proof]- for $\F[x]$[^1]
 > Suppose $p|ab$ and $p \nmid a$. Let
 > $$G(x) = \gcd(p,A),$$
