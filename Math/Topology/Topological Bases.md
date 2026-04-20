@@ -8,7 +8,7 @@ $$\begin{align}
 	& \forall A \in \mathcal{T}, \exists \mathcal{C} \subseteq \mathcal{B} : A = \bigcup \mathcal{C} \\
 	{\textcolor{gray}\iff} & \mathcal{T} = \left\{ \bigcup \mathcal{C} : \mathcal{C} \subseteq \mathcal{B} \right\}
 \end{align}$$
-> [!theorem-1]- $S \in \mathcal{T}$ iff $\forall p \in S, \exists B \in \mathcal{B} : p \in B \subseteq S$.
+> [!theorem]- $S \in \mathcal{T}$ iff $\forall p \in S, \exists B \in \mathcal{B} : p \in B \subseteq S$.
 > $$\begin{align}
 > 	& S \in \mathcal{T} \\
 > 	\iff & S = \text{int}\,S && (1) \\
@@ -17,8 +17,9 @@ $$\begin{align}
 > 	\iff & \forall p \in S, \exists B \in \mathcal{B} :  p \in B \subseteq S. \\
 > \end{align}$$
 > \[$(1)$ [[Interiors]], Theorem 1, $(2)$ [[Interiors]], Characterisation\]
+^open-equivalence
 
->[!theorem-2]- $\mathcal{B} \subseteq \mathcal{P}(X)$ forms a valid [[Topology|topology]] on $X$ as a *basis* iff <ol><li>$\mathcal{B}$ covers $X$ ($\bigcup \mathcal{B} = X$), and</li><li>$\forall B_{1},B_{2} \in \mathcal{B}, \forall p \in B_{1} \cap B_{2}, \exists B \in \mathcal{B} : p \in B \subseteq B_{1} \cap B_{2}$.</li></ol>
+>[!theorem]- $\mathcal{B} \subseteq \mathcal{P}(X)$ forms a valid [[Topology|topology]] on $X$ as a *basis* iff <ol><li>$\mathcal{B}$ covers $X$ ($\bigcup \mathcal{B} = X$), and</li><li>$\forall B_{1},B_{2} \in \mathcal{B}, \forall p \in B_{1} \cap B_{2}, \exists B \in \mathcal{B} : p \in B \subseteq B_{1} \cap B_{2}$.</li></ol>
 > 
 > $\left( \implies \right)$
 > Let $\left( X,\mathcal{T} \right)$ be a [[Topology|topological space]] with a *basis* $\mathcal{B} \subseteq \mathcal{T}$.
@@ -55,3 +56,5 @@ $$\begin{align}
 >    
 >    $$B_{1} \cap B_{2} = \bigcup_{p \in B_{1} \cap B_{2}} B_{p} \in \mathcal{T}.$$
 >    If $B_{1} \cap B_{2}$ is [[Empty Set|empty]], then $B_{1} \cap B_{2} = \emptyset \in \mathcal{T}$.
+
+[!theorem] 
