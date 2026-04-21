@@ -56,5 +56,3 @@ $$\begin{align}
 >    
 >    $$B_{1} \cap B_{2} = \bigcup_{p \in B_{1} \cap B_{2}} B_{p} \in \mathcal{T}.$$
 >    If $B_{1} \cap B_{2}$ is [[Empty Set|empty]], then $B_{1} \cap B_{2} = \emptyset \in \mathcal{T}$.
-
-[!theorem] 
