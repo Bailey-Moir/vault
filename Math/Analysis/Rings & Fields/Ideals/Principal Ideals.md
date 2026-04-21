@@ -9,6 +9,4 @@ $$\left< a \right> = Ra = \{ ra : r \in R \},$$
 V NEVERMIND THIS IS WRONG. 
 > [!theorem] $\left< a \right>$  is the smallest [[Subrings|subring]] of $R$ containing $a$.
 
----
-
-
+\[[[Ideals]]\]
