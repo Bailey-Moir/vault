@@ -29,7 +29,22 @@
               "type": "markdown",
               "state": {
                 "file": "Math/Analysis/Rings & Fields/Ideals/Maximal Ideals.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Maximal Ideals"
+            }
+          },
+          {
+            "id": "5d317ae2d63e94d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math/Analysis/Rings & Fields/Ideals/Maximal Ideals.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -38,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -225,17 +240,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c2ee8977fb5b1aa4",
+  "active": "5d317ae2d63e94d6",
   "lastOpenFiles": [
-    "Math/Analysis/Rings & Fields/Ideals/Field Ideal Test.md",
+    "Math/Analysis/Rings & Fields/Rings.md",
     "Math/Analysis/Rings & Fields/Ideals/Maximal Ideals.md",
-    "Math/Discrete/Set Theory/Basics/Subsets.md",
+    "unit.md",
     "Lecture Notes/MATH321/Lec7A 21-4.md",
+    "Math/Analysis/Rings & Fields/Ideals/Field Ideal Test.md",
+    "Math/Discrete/Set Theory/Basics/Subsets.md",
     "Math/Analysis/Rings & Fields/Ideals/Ideals.md",
     "Math/Analysis/Rings & Fields/Ring Homomorphisms.md",
     "Math/Analysis/Rings & Fields/First Isomorphism Theorem for Rings.md",
     "Math/Analysis/Rings & Fields/Polynomial Rings/Division Algorithm.md",
-    "Math/Analysis/Rings & Fields/Rings.md",
     "Personal/Todo.md",
     "Math/Category Theory/Universal Constructions/Isomorphisms.md",
     "Math/Discrete/Set Theory/Functions/Domain.md",
@@ -252,7 +268,6 @@
     "Math/Topology/Dense Subsets.md",
     "321 Cheatsheet.md",
     "Math/Analysis/Rings & Fields/Quotient Rings.md",
-    "Math/Analysis/Rings & Fields/Ideals/Principal Ideal Domains.md",
     "Pasted image 20260311132746.png",
     "Pasted image 20260311132036.png",
     "Assets/Pastedimage20260409235020.png",
