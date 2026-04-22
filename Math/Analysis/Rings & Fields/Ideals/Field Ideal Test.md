@@ -3,7 +3,7 @@ tags:
   - atom
   - math
 ---
-A [[Groups#^abelian-groups|commutative]] [[Rings|ring]] with [[Rings#^unity|unity]] $R$ is a [[Fields|field]] iff it has no proper non-trivial [[Ideals|ideals]] (i.e. [[Ideals|ideals]] other than $\{ 0 \}$ and $R$).
+A [[Groups#^abelian-groups|commutative]] [[Rings|ring]] with [[Rings#^unity|unity]] $R$ is a [[Fields|field]] iff it has no [[Subsets|proper]] non-trivial [[Ideals|ideals]] (i.e. [[Ideals|ideals]] other than $\{ 0 \}$ and $R$).
 
 > [!proof]-
 > $\left( \implies \right)$
