@@ -5,7 +5,7 @@ tags:
 ---
 A *principal ideal domain* is an [[Integral Domains|integral domain]] where every [[Ideals|ideal]] is a [[Principal Ideals|principal ideal]].
 
-> [!theorem]- $\F[x]$ is a *PID*, and for any non-zero [[Ideals|ideal]] $I \subseteq \F[x]$ and $g \in \F[x]$, $I = \left< g \right>$ iff $g$ is a non-zero [[Polynomial Rings|polynomial]] of minimum [[Polynomials#Degree|degree]] in $I$.
+> [!theorem]- $\F[x]$ is a *PID*, and for any non-zero [[Ideals|ideal]] $I \subseteq \F[x]$ and $g \in \F[x]$, $I = \left< g \right>$ iff $g$ is a non-zero [[Polynomial Rings|polynomial]] of minimum [[Polynomials#Degree|degree]] that is in $I$.
 > Let $I \subseteq \F[x]$ be an [[Ideals|ideal]], and $g \in I$ be a non-zero [[Polynomial Rings|polynomial]] of minimum [[Polynomials#Degree|degree]] in $I$. We will show $I = \left< g \right>$.
 > 
 > $\left< g \right> \subseteq I$ because $I$ has the [[Ideals|absorbing property]].

@@ -43,12 +43,13 @@ $$A \subset B \subset R.$$
 > $R/A$ inherits the structure of a [[Groups#^abelian-groups|commutative]] [[Rings|ring]] with [[Rings#^unity|unity]] from $R$.
 >
 > Using the notation of [[#^lemma|the lemma]], by the [[Field Ideal Test|field ideal test]],
-> $\,$<div style="width: max-content; margin: auto; margin-top: -3em">
-> $R / A$ is a [[Fields|field]] $\iff$ $R / A$ has no [[Subsets|proper]] non-trivial [[Ideals|ideal]].
-> <span style="color:rgba(0,0,0,0) !important;">$R / A$ is a field</span> $\iff$ $\mathcal{I}_{R / A} = \{ R / A, \{ 0 \} \}$
-> <span style="color:rgba(0,0,0,0) !important;">$R / A$ is a field</span> $\iff$ $\mathcal{I}_{R} = \{ R, A \}$
-> <span style="color:rgba(0,0,0,0) !important;">$R / A$ is a field</span> $\iff$ $A$ is a *maximal ideal* of $R$.
-> </div>
+> $\,$<div style="width: max-content; margin: auto; margin-top: -1em">$R / A$ is a [[Fields|field]] $\iff$ $R / A$ has no [[Subsets|proper]] non-trivial [[Ideals|ideal]].<br/><span style="color:rgba(0,0,0,0) !important;">$R / A$ is a field</span> $\iff$ $\mathcal{I}_{R / A} = \{ R / A, \{ 0 \} \}$<br/><span style="color:rgba(0,0,0,0) !important;">$R / A$ is a field</span> $\iff$ $\mathcal{I}_{R} = \{ R, A \}$<br/><span style="color:rgba(0,0,0,0) !important;">$R / A$ is a field</span> $\iff$ $A$ is a *maximal ideal* of $R$.</div>
+^quotient-field
 
+> [!theorem]- For $p \in \F[x]$, $\left< p(x) \right>$ is a *maximal ideal* of $\F[x]$ iff $p(x)$ is [[Reduciblity#^negation|irreducible]] over $\F$.
+> $$\left< p(x) \right> \subseteq \left< f(x) \right> \iff f(x) | p(x) $$
+> 
+> Thus, $\left< p(x) \right>$ is *maximal* iff for all $f \in \F[x]$ such that $f(x) | p(x)$, $f(x) = cp(x)$ or $f(x) = c$ for $c \in \F^\times$, which is the case iff $p(x)$ is [[Reduciblity#^negation|irreducible]].
+^polynomials
 
 \[[[Quotient Rings]]\]
