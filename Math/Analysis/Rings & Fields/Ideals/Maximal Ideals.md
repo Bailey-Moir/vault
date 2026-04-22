@@ -10,16 +10,11 @@ $$A \subset B \subset R.$$
 
 $R/A$ inherits the structure of a [[Groups#^abelian-groups|commutative]] [[Rings|ring]] with [[Rings#^unity|unity]] from $R$.
 
+Thus, by the [[Field Ideal Test|field ideal test]], $R / A$ is a [[Fields|field]] $\iff$ $R / A$ has no [[Subsets|proper]] non-trivial [[Ideals|ideal]].
+
 $\left( \implies \right)$
-Suppose every element of $R / A$ is a [[Rings#^unit|unit]] ($R /A$ is a [[Fields|field]]).
-
-Let $B$ be an [[Ideals|ideal]] of $R$ such that $A \subset B$.
+Suppose every element of $R / A$ is a [[Rings#^unit|unit]] ($R /A$ is a [[Fields|field]]). Then the [[Ideals|ideals]] of $R/ A$ are $\{ 0 \}$ and $R/ A$.
 
 
 
-$\left( \impliedby \right)$
-Suppose $A$ is *maximal ideal* of $R$, and $R / A$ has a non-[[Rings#^unit|unit]] element $r + A$ ($R/A$ is not a [[Fields|field]]).
-
-
-
-[^1]: [[Quotient Rings]]
+\[[[Quotient Rings]]\]
