@@ -33,5 +33,32 @@ is an [[Isomorphisms|isomorphism]]; $R/\hspace{-.1em}\ker{\varphi} \overset{\til
 > 
 > If $\tilde{\varphi}(r + \ker\varphi) = 0$, then $\varphi(r) = 0$, so $r \in \ker \varphi$, and so $r + \ker\varphi = 0 + \ker \varphi$. Thus, by [[Math/Analysis/Rings & Fields/Kernels#^injectivity|this theorem]], $\tilde{\varphi}$ is [[Injective Functions|injective]].
 
+> [!example]- $\R[x] / \left< x^2+1 \right> \cong \C$
+> Consider the evaluation [[Ring Homomorphisms|homomorphism]] $\varphi : \R[x] \to \C$ defined by
+> $$f(x) \mapsto f(i).$$
+> 
+> Let $f \in \ker \varphi$. By the [[Division Algorithm|division algorithm]], there exists $q,r \in \R[x]$
+> $$f(x) = q(x)(x^2 + 1) + r(x),$$
+> where $r(x) = ax + b$ for some $a,b \in \R$. Thus,
+> $$\begin{align}
+> 	 0 = f(i) &= q(i)(i^2 + 1) + ai + b \\
+> 	&= q(i)(-1 + 1) + ai + b \\
+> 	&= ai + b \\
+> 	\iff 0 &= a = b \\
+> 	\iff r(x) &= 0.
+> \end{align}$$
+> Thus, for all $f \in \ker \varphi$, $(x^2 + 1)|f(x)$, giving $\ker \varphi \subseteq \left< x^2 + 1 \right>$.
+>
+> $$\varphi(x^2 + 1) = i^2 + 1 = -1 + 1 = 0,$$
+> thus, any [[Divisibility|multiple]] of $x^2 + 1$ maps to $0$ as well (as $\varphi$ preserves multiplication), so $\left< x^2 + 1 \right> \subseteq \ker \varphi$.
+> 
+> Together, this gives $\ker \varphi = \left< x^2 + 1 \right>$[^1].
+> 
+> Further, $\varphi$ is [[Surjective Functions|surjective]], as any $a + bi \in \C$ is given by $bx + a \in \R[x]$.
+> 
+> Finally, by *first isomorphism theorem*, $\R[x] / \left< x^2+1 \right> \cong \C$. $\square$
+> 
+> [^1]: [[Principal Ideals]]
 
 \[[[Quotient Rings]]\]
+

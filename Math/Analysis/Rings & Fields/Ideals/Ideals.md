@@ -24,6 +24,33 @@ This is called the **absorbing property**.
 > \end{align}$$
 ^kernels-are-ideals
 
+> [!theorem]- Let $R$ and $S$ be [[Rings|rings]], $\varphi : R \to S$ be a [[Ring Homomorphisms|homomorphism]] between them, and $A$ and $B$ be **[[Ideals|ideals]]** of $R$ and $S$ respectively.<ol><li>if $\varphi$ is [[Surjective Functions|surjective]], $\varphi(A)$ is an [[Ideals|ideal]] of $S$, and</li><li>$\varphi^{-1}(B)$ is an [[Ideals|ideal]] of $R$, and</li></ol>
+> 1. Let $a \in A$ and $s \in S$ be given.
+>    Since $\varphi$ is [[Surjective Functions|surjective]], $\exists r \in R: s = \varphi(r)$. Thus,
+>    $$\begin{align}
+> 	\varphi(a) s
+> 	&= \varphi(a) \varphi(r) \\
+> 	&= \varphi(ar) \\
+> 	&\in \varphi(A) && ar \in A. \\
+> 	s \varphi(a)
+> 	&= \varphi(r) \varphi(a) \\
+> 	&= \varphi(ra) \\
+> 	&\in \varphi(A) && ra \in A. \\
+> \end{align}$$
+>    Thus, $\varphi(A)$ is a [[Subrings|subring]] of $S$ ([[Ring Homomorphisms#Properties|as]] $A$ [[Ring Homomorphisms#Properties|is subring of]] $R$) satisfying the [[Ideals|absorbing property]], so $\varphi(A)$ is an [[Ideals|ideal]] of $S$.
+> 2. Let $a \in \varphi^{-1}(B)$ and $r \in R$ be given.
+>    $$\begin{align}
+> 	\varphi(ar)
+> 	&= \varphi(a) \times \varphi(r) \\
+> 	& \in B && \varphi(a) \in B. \\
+> 	\varphi(ra)
+> 	&= \varphi(r) \times \varphi(a) \\
+> 	& \in B && \varphi(a) \in B
+> \end{align}$$
+>    Thus, $ar,ra \in \varphi^{-1}(B)$. Then $\varphi^{-1}(B)$ is a [[Subrings|subring]] of $R$ ([[Ring Homomorphisms#Properties|as]] $B$ [[Ring Homomorphisms#Properties|is subring of]] $S$) satisfying the [[Ideals|absorbing property]], so $\varphi^{-1}(B)$ is an [[Ideals|ideal]] of $R$.
+
+^homomorphism-properties
+
 \[[[Ring Cosets]]\]
 
 ---
