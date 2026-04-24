@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b5c6cd89a5c2d7e1",
+        "id": "08ebab5401f26543",
         "type": "tabs",
         "children": [
           {
-            "id": "ea3f35d1b902ebde",
+            "id": "637875c573f1e135",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -203,8 +203,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ea3f35d1b902ebde",
+  "active": "637875c573f1e135",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Lecture Notes/MATH321/Lec7B 24-4.md",
+    "Computer Science/Big Data/Community Detection 1.md",
+    "Lecture Notes/DATA301/Lec10.md",
+    "Computer Science/Big Data/Community Detection.md",
+    "Learning/Learning.md",
     "Maximal vs. Maximum.md",
     "Math/Analysis/Rings & Fields/Ideals/Maximal Ideals.md",
     "Math/Analysis/Rings & Fields/Polynomial Rings/Reduciblity.md",
@@ -225,12 +231,6 @@
     "unit.md",
     "Math/Discrete/Set Theory/Basics/Subsets.md",
     "Math/Analysis/Rings & Fields/Ring Homomorphisms.md",
-    "Math/Analysis/Rings & Fields/Polynomial Rings/Division Algorithm.md",
-    "Math/Category Theory/Universal Constructions/Isomorphisms.md",
-    "Math/Discrete/Set Theory/Functions/Domain.md",
-    "Math/Analysis/Rings & Fields/Kernels.md",
-    "Math/Analysis/Rings & Fields/Ideals/Principal Ideals.md",
-    "Math/Topology/Topology.md",
     "Pasted image 20260311132746.png",
     "Pasted image 20260311132036.png",
     "Assets/Pastedimage20260409235020.png",

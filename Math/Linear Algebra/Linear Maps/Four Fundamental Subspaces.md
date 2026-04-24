@@ -35,10 +35,10 @@ Each [[Matrices|matrix]] $A \in \R^{m,n}$[^3] (or [[Linear Maps|linear map]]) is
 > 		0 & 0
 > 	\end{bmatrix}
 > \end{array}$$
-> 1. $\text{null}(A) =\text{span}\left\{ \begin{bmatrix}-3 \\ 1\end{bmatrix} \right\}$[^1]
-> 2. $\text{row}(A) =\text{span}\left\{ \begin{bmatrix}1\\ 3\end{bmatrix} \right\}$[^2]
-> 3. $\text{null}(A^T) =\text{span}\left\{ \begin{bmatrix}-2\\ 1\end{bmatrix} \right\}$[^1]
-> 4. $\text{col}(A) =\text{span}\left\{ \begin{bmatrix}1\\ 2\end{bmatrix} \right\}$[^2]
+> 1. $\text{null}(A) =\span{ \begin{bmatrix}-3 \\ 1\end{bmatrix} }$[^1]
+> 2. $\text{row}(A) =\span{ \begin{bmatrix}1\\ 3\end{bmatrix} }$[^2]
+> 3. $\text{null}(A^T) =\span{ \begin{bmatrix}-2\\ 1\end{bmatrix} }$[^1]
+> 4. $\text{col}(A) =\span{ \begin{bmatrix}1\\ 2\end{bmatrix} }$[^2]
 
 > [!theorem]- For all $A \in \R^{m,n}$[^3], $\text{null}\,A =(\text{row}\,A)^\perp$[^4], and thus $\text{null}\,A^T =(\text{col}\,A)^\perp$[^4].
 > Let $A = \begin{bmatrix} \vecbf{a}_{1} \\  \vecbf{a}_{2} \\  \vdots \\ \vecbf{a}_{n} \\  \end{bmatrix}$. Then $A\vecbf{x} = \begin{bmatrix} \vecbf{a}_{1} \\  \vecbf{a}_{2} \\  \vdots \\ \vecbf{a}_{n} \\  \end{bmatrix}\begin{bmatrix} x_{1} \\  x_{2} \\  \vdots \\ x_{n} \\  \end{bmatrix} = \begin{bmatrix} \vecbf{a}_{1}\cdot\vecbf{x} \\ \vecbf{a}_{2}\cdot\vecbf{x} \\ \vdots \\ \vecbf{a}_{3}\cdot\vecbf{x} \\ \end{bmatrix}$. Thus,

@@ -15,7 +15,7 @@ $$ \text{dim}(U)=\text{dim}(V) \iff U=V $$
 > 
 > Thus, $B$ must be a [[Vector Bases|basis]] of $V$[^1].
 > 
-> This means $V=\text{span}(B) = U$[^2], thus $U = V$.
+> This means $V=\span B = U$[^2], thus $U = V$.
 > 
 > ($\impliedby$)
 > Since $U = V$, they obviously must have the same [[Dimension|dimension]].

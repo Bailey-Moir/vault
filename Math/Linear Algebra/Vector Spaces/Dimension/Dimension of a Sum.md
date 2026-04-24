@@ -29,8 +29,8 @@ $$\begin{array}{rll}
 > \end{align*}$$
 > 
 > $$\begin{align*}
-> 	U + W &= \text{span}(\vecbf{v}_{1}, \dots, \vecbf{v}_{n}, \vecbf{u}_{1}, \dots, \vecbf{u}_{j}) + \text{span}(\vecbf{v}_{1}, \dots, \vecbf{v}_{n}, \vecbf{w}_{1}, \dots, \vecbf{w}_{k}) \\
-> 	&= \text{span}(\vecbf{v}_{1}, \dots, \vecbf{v}_{n}, \vecbf{u}_{1}, \dots, \vecbf{u}_{j}, \vecbf{w}_{1}, \dots, \vecbf{w}_{k}) \\
+> 	U + W &= \span{\vecbf{v}_{1}, \dots, \vecbf{v}_{n}, \vecbf{u}_{1}, \dots, \vecbf{u}_{j}} + \span{\vecbf{v}_{1}, \dots, \vecbf{v}_{n}, \vecbf{w}_{1}, \dots, \vecbf{w}_{k}} \\
+> 	&= \span{\vecbf{v}_{1}, \dots, \vecbf{v}_{n}, \vecbf{u}_{1}, \dots, \vecbf{u}_{j}, \vecbf{w}_{1}, \dots, \vecbf{w}_{k}} \\
 > \end{align*}$$
 > Thus, $(1)$ is a [[Span|spanning list]] of $U+W$. To prove the [[Linear Independence|linear independence]] of $(1)$, consider
 > $$\begin{align*}

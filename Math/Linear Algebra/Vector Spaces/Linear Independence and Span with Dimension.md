@@ -18,7 +18,7 @@ $$ \left| I \right| \le \text{dim}(V) \le \left| S \right|  $$
 > **Induction Step**
 > Suppose $\vecbf{v}_{1}, \dots, \vecbf{v}_{k-1}$ in $S$ is [[Linear Independence|linearly independent]]. If $k = n+1$, terminate. 
 > 
-> If $\vecbf{v}_{k} \in \text{span}(\vecbf{v}_{1}, \dots, \vecbf{v}_{k-1})$, remove $\vecbf{v}_{k}$ from $S$.
+> If $\vecbf{v}_{k} \in \span{\vecbf{v}_{1}, \dots, \vecbf{v}_{k-1}}$, remove $\vecbf{v}_{k}$ from $S$.
 > 
 > Now $\vecbf{v}_{1}, \dots, \vecbf{v}_{k}$ in $S$ is [[Linear Independence|linearly independent]], and $S$ still [[Span|spans]] $V$, both by the [[Linear Dependence Lemma|linear dependence lemma]].
 > 

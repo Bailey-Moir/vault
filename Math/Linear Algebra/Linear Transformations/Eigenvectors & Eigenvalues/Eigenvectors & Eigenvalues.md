@@ -13,7 +13,7 @@ for some scalar $\lambda \in \F$, called its *eigenvalue*.
 
 > [!theorem]- A 1[[Dimension|-dimensional]] [[Subspaces|subspace]] $U$ of $V$ is [[Invariant Subspaces|invariant]] iff it is a [[Subspaces|subspace]] of an [[Eigenspaces|eigenspace]].
 > Every 1[[Dimension|-dimensional]] [[Subspaces|subspace]] $U$ of $V$ is of the form
-> $$U = \text{span}(\vecbf{v}) = \{ \lambda \vecbf{v} : \lambda \in \F \}$$
+> $$U = \span{\vecbf{v}} = \{ \lambda \vecbf{v} : \lambda \in \F \}$$
 > for some $\vecbf{v} \in U$. Thus, if $U$ is [[Invariant Subspaces|invariant]] under $T$, then
 > $$T\,\vecbf{v} = \lambda \vecbf{v}$$
 > for some $\lambda \in \F$. Thus, due to [[Linear Maps|homogeneity of linear maps]], $U$ is a [[Subspaces|subspace]] of an [[Eigenspaces|eigenspace]] of $T$.
@@ -58,7 +58,7 @@ for some scalar $\lambda \in \F$, called its *eigenvalue*.
 > Then, there must exist *eigenvectors* $\vecbf{v}_{1},\dots,\vecbf{v}_{k}$ corresponding to these *eigenvalues*.
 > By **(3)**, this [[Lists|list]] of *eigenvectors* must be [[Linear Independence|linearly independent]], and since each *eigenvector* is in $V$, their [[Span|span]] must be a [[Subspaces|subspace]] of $V$, meaning
 > $$\begin{align}
-> 	\text{dim}\,\text{span}\left( \vecbf{v}_{1},\dots,\vecbf{v}_{k} \right) &\leq \text{dim}\,V && \text{Subspace of } V \\
+> 	\text{dim}\,\span{\vecbf{v}_{1},\dots,\vecbf{v}_{k}} &\leq \text{dim}\,V && \text{Subspace of } V \\
 > 	k &\leq \text{dim}\,V && \text{Linear indepence} \\
 > \end{align}$$
 > Thus, $T$ must have at most $\text{dim}\,V$ distinct *eigenvalues*.
