@@ -1,4 +1,4 @@
 - [[Page Rank#^implementation]]
 - [[Page Rank#^topic-specific]]
 - [[Page Rank#^trust-rank]]
-- [[Community Detection 1]]
+- [[Community Detection]]
