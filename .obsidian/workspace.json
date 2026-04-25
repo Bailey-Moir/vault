@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cf26bb2a32a18e90",
+        "id": "bd33f3f193abf57b",
         "type": "tabs",
         "children": [
           {
-            "id": "fea2facd84f50ff7",
+            "id": "5ff7909e3ca681b5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -203,8 +203,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fea2facd84f50ff7",
+  "active": "5ff7909e3ca681b5",
   "lastOpenFiles": [
+    "Personal/Todo.md",
+    "Computer Science/Big Data/Strong & Weak Scalability.md",
     "Computer Science/Big Data/Five Vs of Big Data.md",
     "Lecture Notes/DATA301/Lec13.md",
     "Computer Science/Big Data/Clustering.md",
@@ -229,8 +231,6 @@
     "Untitled.md",
     "Math/Analysis/Rings & Fields/First Isomorphism Theorem for Rings.md",
     "Math/Analysis/Rings & Fields/Quotient Rings.md",
-    "Math/Analysis/Rings & Fields/Polynomial Rings/Unique Factorisation Domain.md",
-    "Lecture Notes/MATH321/Lec7A 21-4.md",
     "Pasted image 20260311132746.png",
     "Pasted image 20260311132036.png",
     "Assets/Pastedimage20260409235020.png",
