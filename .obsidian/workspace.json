@@ -11,10 +11,15 @@
             "id": "637875c573f1e135",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Daily/26-04-24.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "26-04-24"
             }
           }
         ]
@@ -74,6 +79,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Personal/Daily/26-04-24.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -101,7 +107,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of 26-04-24"
             }
           }
         ]
@@ -205,6 +211,7 @@
   },
   "active": "637875c573f1e135",
   "lastOpenFiles": [
+    "Personal/Daily/26-04-24.md",
     "conflict-files-obsidian-git.md",
     "Lecture Notes/MATH321/Lec7B 24-4.md",
     "Computer Science/Big Data/Community Detection 1.md",
@@ -230,7 +237,6 @@
     "Math/Analysis/Rings & Fields/Rings.md",
     "unit.md",
     "Math/Discrete/Set Theory/Basics/Subsets.md",
-    "Math/Analysis/Rings & Fields/Ring Homomorphisms.md",
     "Pasted image 20260311132746.png",
     "Pasted image 20260311132036.png",
     "Assets/Pastedimage20260409235020.png",
