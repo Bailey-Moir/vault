@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ef35b696f0a0b47e",
+        "id": "0eb9a1ad203e6b93",
         "type": "tabs",
         "children": [
           {
-            "id": "8e386395ec94f6de",
+            "id": "4c33914744f12c20",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -203,8 +203,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8e386395ec94f6de",
+  "active": "4c33914744f12c20",
   "lastOpenFiles": [
+    "Lecture Notes/MATH321/Lec7A 21-4.md",
+    "Math/Analysis/Rings & Fields/Division Rings.md",
+    "Math/Analysis/Rings & Fields/Polynomial Rings/Division Algorithm.md",
+    "Lecture Notes/MATH321/Lec7B 24-4.md",
+    "Math/Discrete/Number Theory/Modular Arithmetic/Chinese Remainder Theorem.md",
     "Statistics/Describing Data/Regression/Correlation.md",
     "Statistics/Describing Data/Regression/Test for Correlation.md",
     "Computer Science/Big Data/Clustering.md",
@@ -226,11 +231,6 @@
     "Math/Metric, Normed, & Hilbert Spaces/Metric Spaces.md",
     "Math/Discrete/Graph Theory/Basics/Graphs.md",
     "Math/Discrete/Graph Theory/Multigraphs.md",
-    "Math/Discrete/Graph Theory/Basics/Parallel and Inverted Edges.md",
-    "Math/Discrete/Set Theory/Partitions.md",
-    "Computer Science/Big Data/Community Detection.md",
-    "Personal/Daily/26-04-24.md",
-    "Community Detection 1.md",
     "Pasted image 20260311132746.png",
     "Pasted image 20260311132036.png",
     "Assets/Pastedimage20260409235020.png",
