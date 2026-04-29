@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8f9ec270293168f5",
+        "id": "9676719348c2299c",
         "type": "tabs",
         "children": [
           {
-            "id": "7319ececd4cf8431",
+            "id": "cb4ae5d9b2e9a6a1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -207,10 +207,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7319ececd4cf8431",
+  "active": "cb4ae5d9b2e9a6a1",
   "lastOpenFiles": [
-    "Math/Topology/Topological Operations/Interiors.md",
     "Lecture Notes/MATH343/Lec8A 29-4.md",
+    "Math/Topology/Topological Operations/Interiors.md",
     "Math/Topology/Closed Sets.md",
     "Lecture Notes/MATH321/Lec8A 28-4.md",
     "Math/Linear Algebra/Vector Spaces/Vector Bases.md",
