@@ -16,7 +16,7 @@ If $U = \{ \vecbf{0} \}$, then $U$ is *finite-dimensional*, and it is proven. Ot
 > **Induction Step**
 For some $k \in \Z^+$, let $\vecbf{u}_{1},\dots,\vecbf{u}_{k} \in U$.
 > 
-> If $U = \text{span}(\vecbf{u}_{1}, \dots, \vecbf{u}_{k})$, $U$ is *finite-dimensional*, and it is proven. Otherwise, If $U \ne \text{span}(\vecbf{u}_{1}, \dots, \vecbf{u}_{k})$, chose a vector $\vecbf{u}_{k+1} \notin \text{span}(\vecbf{u}_{1}, \dots, \vecbf{u}_{k})$, which must exist.
+> If $U = \span{\vecbf{u}_{1}, \dots, \vecbf{u}_{k}}$, $U$ is *finite-dimensional*, and it is proven. Otherwise, If $U \ne \span{\vecbf{u}_{1}, \dots, \vecbf{u}_{k}}$, chose a vector $\vecbf{u}_{k+1} \notin \span{\vecbf{u}_{1}, \dots, \vecbf{u}_{k}}$, which must exist.
 > 
 > **Conclusion**
 > Note that after each step, no vector in the [[Lists|list]] is in the [[Span|span]] of the previous vectors, and thus the [[Lists|list]] is [[Linear Independence|linearly independent]] by the [[Linear Dependence Lemma|linear dependence lemma]].

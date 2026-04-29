@@ -39,7 +39,7 @@ where
 > 	2 & 1 \\
 > 	1 & 2 \\
 > \end{bmatrix}$$
-> are $E_{3}(A^TA) =\text{span}\{ \vecbf{v}_{1} \}$ and $E_{1}(A^TA) =\text{span}\{ \vecbf{v}_{2} \}$, where
+> are $E_{3}(A^TA) =\span{ \vecbf{v}_{1} }$ and $E_{1}(A^TA) =\span{ \vecbf{v}_{2} }$, where
 > $$\begin{array}{cc}
 > 	\vecbf{v}_{1} = \begin{bmatrix}
 > 		\dfrac{1}{\sqrt{ 2 }} \\ \dfrac{1}{\sqrt{ 2 }}

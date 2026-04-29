@@ -6,7 +6,7 @@ tags:
 ---
 $\mathcal{P}(\F)$ is the set of all polynomials with coefficients in $\F$. 
 $$ \mathcal{P}(\F) = \left\{ p : \F \to \F : \exists m \in \N, a_{0},\dots,a_{m} \in \F : p(z) = a_0 + a_1 z + \dots + a_mz^m \right\} $$
-$$ \mathcal{P}_m(\F) = \text{span}\left( \lambda z.1, \lambda z.z, \dots, \lambda z.z^m,\right) $$
+$$ \mathcal{P}_m(\F) = \span{ \lambda z.1, \lambda z.z, \dots, \lambda z.z^m} $$
 Thus $\mathcal{P}_m(\F)$ is a [[Finite-Dimensional Vector Spaces|finite-dimensional vector space]] for each $m \in \Z^+$.
 # Degree
 A polynomial $p \in \mathcal{P}(\F)$ is said to have *degree* $m$ if $m$ is in the same set as above, with the condition that $a_m \ne 0$.

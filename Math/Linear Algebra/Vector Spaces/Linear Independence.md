@@ -5,7 +5,7 @@ tags:
   - linear
 ---
 A [[Lists|list]] of vectors is *linearly independent* iff each vector in their [[Span|span]] has a **unique** representation as a [[Linear Combinations|linear combination]] of the [[Lists|list]]. 
-$$\forall \vecbf{v} \in \text{span}(\vecbf{v}_1,\dots,\vecbf{v}_n), \exists!a_1, \dots, a_n \in \F : \vecbf{v} = a_1\vecbf{v}_1 + \dots + a_n\vecbf{v}_n$$
+$$\forall \vecbf{v} \in \span{\vecbf{v}_1,\dots,\vecbf{v}_n}, \exists!a_1, \dots, a_n \in \F : \vecbf{v} = a_1\vecbf{v}_1 + \dots + a_n\vecbf{v}_n$$
 *Each value has a unique linear combination*
 
 > [!note] Condition for Linear Independence

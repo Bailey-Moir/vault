@@ -5,7 +5,7 @@ tags:
   - linear
 ---
 If $\vecbf{v}_{1}, \cdots, \vecbf{v}_{n}$ is [[Linear Independence|linearly dependent]],
-$$\exists k \in \{ 1, \dots, n \} : \vecbf{v}_{k} \in \text{span}(\vecbf{v}_{1},\dots \vecbf{v}_{k-1})$$
+$$\exists k \in \{ 1, \dots, n \} : \vecbf{v}_{k} \in \span{\vecbf{v}_{1},\dots \vecbf{v}_{k-1}}$$
 Further, if $k$ satisfies this condition, the [[Span|span]] of the [[Lists|list]] without $\vecbf{v}_{k}$ is the same as the [[Span|span]] of the [[Lists|list]] with $\vecbf{v}_{k}$.
 
 > [!proof]-

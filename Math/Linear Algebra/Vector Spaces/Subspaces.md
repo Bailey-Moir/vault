@@ -12,7 +12,7 @@ A [[Subsets|subset]] $U$ of a [[Vector Spaces|vector space]] $V$ is called a *su
 - **Closed Under Scalar Multiplication**
   $\forall \vecbf{u} \in U, \lambda \in \F, \left( \lambda \vecbf{u} \in U \right)$
 
- > [!note]- This is equivalent to saying a [[Subsets|subset]] $U$ of a [[Vector Spaces|vector space]] is a *subspace* iff $U =\text{span}\,U$.
+ > [!note]- This is equivalent to saying a [[Subsets|subset]] $U$ of a [[Vector Spaces|vector space]] is a *subspace* iff $U =\spanop U$.
 
 > [!note]- If $U$ is not [[Empty Set|empty]], **closure under scalar multiplication** implies $\vecbf{0} \in U$.
 

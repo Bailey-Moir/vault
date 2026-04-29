@@ -46,7 +46,7 @@ Each [[Matrices|matrix]] $A \in \R^{m,n}$[^3] (or [[Linear Maps|linear map]]) is
 > 	& \vecbf{x} \in \text{null}\,A \\
 > 	\iff& A\vecbf{x} = \vecbf{0} \\
 > 	\iff& \vecbf{x} \text{ is orthogonal to } \vecbf{a}_{1},\dots,\vecbf{a}_{n}\\
-> 	\iff& \vecbf{x} \text{ is orthogonal to } \text{span}\,\{\vecbf{a}_{1},\dots,\vecbf{a}_{n}\}\\
+> 	\iff& \vecbf{x} \text{ is orthogonal to } \span{\vecbf{a}_{1},\dots,\vecbf{a}_{n}}\\
 > 	\iff& \vecbf{x} \text{ is orthogonal to } \text{row}\,A \\
 > 	\iff& \vecbf{x} \in \left( \text{row}\,A \right)^\perp \\
 > \end{align}$$

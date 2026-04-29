@@ -15,7 +15,7 @@ For some [[Intervals|interval]] $I$, let $y_{1},\dots,y_{n}$ be [[Functions|func
 
 > [!proof]-
 > If $y_{1},\dots,y_{n}$ is [[Linear Independence|linearly dependent]], by the [[Linear Dependence Lemma|linear dependence lemma]], there exists $k$ such that
-> $$y_{k} \in \text{span}(y_{1},\dots,y_{k-1}).$$
+> $$y_{k} \in \span{y_{1},\dots,y_{k-1}}.$$
 > Thus, there exists $a_{1},\dots,a_{k-1}$ such that
 > $$\begin{align}
 > 	y_{k} &= a_{1}y_{1}+\dots+a_{k-1}y_{k-1} \\

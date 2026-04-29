@@ -15,7 +15,7 @@ is a solution to $\dfrac{d\vecbf{x}}{dt}=A\vecbf{x}$.
 > \end{align}$$
 
 # Repeated Eigenvalues
-Suppose $\lambda$ is an [[Eigenvectors & Eigenvalues|eigenvalue]] of $A$ with a [[Geometric and Algebraic Multiplicity|algebraic multiplicity]] of 2, but $E_{\lambda}(A) =\text{span}\{ \vecbf{v} \}$ (the [[Geometric and Algebraic Multiplicity|geometric multiplicity]] is 1). Then
+Suppose $\lambda$ is an [[Eigenvectors & Eigenvalues|eigenvalue]] of $A$ with a [[Geometric and Algebraic Multiplicity|algebraic multiplicity]] of 2, but $E_{\lambda}(A) =\span{ \vecbf{v} }$ (the [[Geometric and Algebraic Multiplicity|geometric multiplicity]] is 1). Then
 $$\exists \vecbf{u} \in \R^m : \hspace{1em} (A-\lambda I)\vecbf{u} = \vecbf{v},$$
 where $\vecbf{u}$ forms a solution
 $$\vecbf{x} = te^{\lambda t}\vecbf{v}+e^{\lambda t}\vecbf{u}$$
