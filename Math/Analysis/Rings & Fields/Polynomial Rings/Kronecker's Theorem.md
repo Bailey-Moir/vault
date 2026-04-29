@@ -24,6 +24,6 @@ Then there is an [[Subfields#^extension-field|extension field]] $E$ of $F$ in wh
 > $$a_{0}+a_{1}\alpha+\dots+a_{n}\alpha^n = a_{0}+a_{1}x+\dots+a_{n}x^n.$$
 > In particular, $g(\alpha) = g(x) + \left< g(x) \right> = 0$, meaning $\alpha$ is a root of $g(x) \in E$.
 
-
+[!theorem]
 
 [^1]: [[Polynomial Rings]]
