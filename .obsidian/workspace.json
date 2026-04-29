@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "13c8456166cd1ce3",
+        "id": "185be6da7b388599",
         "type": "tabs",
         "children": [
           {
-            "id": "ed2c299fa933cec9",
+            "id": "26505705c0275d84",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -201,14 +201,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed2c299fa933cec9",
+  "active": "26505705c0275d84",
   "lastOpenFiles": [
+    "Math/Analysis/Rings & Fields/Smallest Containing Fields.md",
     "Lecture Notes/MATH321/Lec8B 29-4.md",
     "Math/Analysis/Rings & Fields/Polynomial Rings/Kronecker's Theorem.md",
     "Math/Analysis/Rings & Fields/First Isomorphism Theorem for Rings.md",
     "Math/Analysis/Rings & Fields/Quotient Rings.md",
     "Math/Linear Algebra/Done Right.canvas",
-    "Math/Analysis/Rings & Fields/Smallest Containing Fields.md",
     "Math/Calculus/Differential Equations/Wronskian Determinant.md",
     "Math/Linear Algebra/Vector Spaces/Subspaces.md",
     "Math/Linear Algebra/Vector Spaces/Sums of Subspaces/Subspace Complement Theorem.md",
