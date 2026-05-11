@@ -1,0 +1,3 @@
+- [[Simple Field Extensions]] covered again I guess
+- [[Algebraic Elements]] YIPPEEEEEEEEE
+- [[Algebraic Extensions]]
