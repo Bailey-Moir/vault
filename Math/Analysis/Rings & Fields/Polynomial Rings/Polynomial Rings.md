@@ -7,7 +7,7 @@ The *polynomial [[Rings|ring]]* $R[x]$ over a [[Rings|ring]] $R$ is defined as
 $$R[x] := \left\{ \sum_{i= 0}^n a_{i}x^i : n \in \N, a_{0},\dots,a_{n} \in R \right\},$$
 where $n$ gives the [[Polynomials#Degree|degree]] of the given [[Polynomials|polynomial]], and $+$ and $\times$ are given by
 $$\begin{align}
-	\sum_{i = 0}^n a_{i}x^i + \sum_{i = 0}^m b_{i}x^i &= \sum_{i = 0}^n \left( a_{i} + b_{i} \right)x^i \\
+	\sum_{i = 0}^n a_{i}x^i + \sum_{i = 0}^m b_{i}x^i &= \sum_{i = 0}^{\max \{ n,m \}} \left( a_{i} + b_{i} \right)x^i \\
 	\sum_{i = 0}^n a_{i}x^i \times \sum_{i = 0}^m b_{i}x^i &= \sum_{i = 0}^n \sum_{j=0}^m a_{i}b_{j}x^{i+j}. \\
 \end{align}$$
 

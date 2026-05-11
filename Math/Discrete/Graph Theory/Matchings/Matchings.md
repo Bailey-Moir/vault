@@ -5,7 +5,7 @@ tags:
   - discrete
 ---
 ![450|center](matching.excalidraw)
-A *matching* $M$ of a [[Groups|graph]] $G$ is a [[Sets|set]] of [[Edges|edges]] such that no [[Vertices|vertices]] are shared.
+A *matching* $M$ of a [[Graphs|graph]] $G$ is a [[Sets|set]] of [[Edges|edges]] such that no [[Vertices|vertices]] are shared.
 
 > [!definition]- Maximum and Maximal Matchings
 > A *matching* $M$ of $G$ is a **maximum matching** iff there is no *matching* that has more [[Edges|edges]] than $M$.

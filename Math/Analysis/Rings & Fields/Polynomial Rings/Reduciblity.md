@@ -41,7 +41,7 @@ i.e. iff it is given by two non-[[Rings#^unit|units]] factors.
 > Thus, $f^{-1}$ is the [[Groups#^inverse|inverse]] of $f$, meaning $f$ is a [[Rings#^unit|unit]].
 ^field-units-are-constant
 
-> [!theorem]- *(Reducibility Test)* If $f \in \F[x]$[^1] is of [[Polynomials#Degree|degree]] $2$ or $3$, then $f$ is *reducible* over $\F$ iff $f$ has a root in $\F$.
+> [!theorem]- *(Small Degree Reducibility Test)* If $f \in \F[x]$[^1] is of [[Polynomials#Degree|degree]] $2$ or $3$, then $f$ is *reducible* over $\F$ iff $f$ has a root in $\F$.
 > $\left( \implies \right)$
 > Suppose $f \in \F[x]$ is *reducible*, and $\deg f \in \{ 2,3 \}$.
 > Then by definition, there exists $g,h \in \F[x]$ that aren't [[Rings#^unit|units]] such that $f = gh$. Thus, both have [[Polynomials#Degree|degree]] larger than $0$, and $\deg f = \deg g + \deg h$. This implies that $g$ or $h$ has [[Polynomials#Degree|degree]] $1$, so by the definition of roots, gives a root of $f$.
@@ -52,6 +52,7 @@ i.e. iff it is given by two non-[[Rings#^unit|units]] factors.
 > Thus, $\deg g = \deg f - 1 > 0$.
 > Since $x-a$ and $g$ are non-constant, they are not [[Rings#^unit|units]] by [[#^units-are-constant|lemma 1]].
 Thus, $f$ is *reducible*.
+^small-degree-reducibility-test
 
 > [!theorem] $f$ is *reducible* over $\Q$ $\to$ $f$ is *reducible* over $\Z$
 ^rational-reducible-implies-integer-reducible

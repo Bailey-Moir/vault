@@ -8,6 +8,7 @@ An [[Integral Domains|integral domain]] $D$ is a *unique factorisation domain* i
 - if $p_{1},p_{2},\dots,p_{n} = q_{1},q_{2},\dots q_{m}$ where the $p_{i}$'s and $q_{j}$'s are [[Reduciblity#^negation|irreducible]] elements of $D$, then $m = n$, and after renumbering the $q_{j}$'s, you get $p_{i} = u_{i}q_{i}$ for some [[Rings#^unit|unit]] $u_{i} \in D$.
 
 > [!examples] $\F[x]$[^1], $\Z$, and $\Z_{p}[x]$
+^examples
 
 [^1]: [[Polynomial Rings]] and [[Fields]]
 

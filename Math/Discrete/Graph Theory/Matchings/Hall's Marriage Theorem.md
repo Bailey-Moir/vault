@@ -22,7 +22,7 @@ $$\forall X \subseteq V_{1}, \left| X \right| \le \left| N(X) \right| $$
 > 
 > By the definition of a [[Bipartite Graphs|bipartite graph]], $V_{1}$ is a [[Coverings|covering]] of $G$.
 > 
-> Let $W$ be a [[Coverings|minimum covering]] of $G$. Let $S_{1} = W \cap V_{1}$ and $S_{2} = V_{1} - S_{1}$.
+> Let $W$ be a [[Coverings|minimum covering]] of $G$. Let $S_{1} = W \cap V_{1}$ and $S_{2} = V_{1} \setminus W$.
 > 
 > By the premise, $\left| S_{2} \right| \le\left| N(S_{2}) \right|$. But $N(S_{2}) \subseteq W \cap V_{2}$, as $S_{2}$ is by definition not part of the [[Coverings|covering]] $W$, so all of its [[Vertex Neighbourhoods|neighbours]] must be.
 > 

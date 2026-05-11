@@ -7,7 +7,10 @@ sr-interval: 4
 sr-ease: 277
 ---
 A [[Sequences|sequence]] $(a_{n}) : \N \to M$ for some [[Metric Spaces|metric space]] $M$ *converges* to $\lambda \in M$ iff
-$$\forall \varepsilon > 0, \exists N \in \N : \forall n \ge N, d(a_{n}, \lambda) < \varepsilon.$$
+$$\begin{align}
+	&\forall \varepsilon > 0, \exists N \in \N : \forall n \ge N, d(a_{n}, \lambda) < \varepsilon \\
+	\iff & \lim d(a_{n},\lambda) = 0 \quad \text{in } \R
+\end{align}$$
 > [!theorem]- *(Uniqueness of Limits)* The *limit* of a [[Sequences|sequence]] is unique.
 > Suppose $\left( a_{n} \right)^\infty_{n=1}$ converges  to $\lambda_{1},\lambda_{2} \in \R$.
 > 

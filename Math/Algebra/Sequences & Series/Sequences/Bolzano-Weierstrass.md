@@ -3,7 +3,7 @@ tags:
   - atom
   - math
 ---
-Every [[Bounded Sequences|bounded]] [[Sequences|sequence]] $\left( x_{n} \right)$ in $\R$ has a [[Limit Points#^sequence-limit-points|limit point]].
+Every [[Bounded Sequences|bounded]] [[Sequences|sequence]] $\left( x_{n} \right)$ in $\R$ has an [[Sequence Accumulation Points|accumulation point]].
 
 > [!proof]-
 > Let $\left( x_{n} \right)$ be a [[Sequences|sequence]] in $\R$ [[Bounded Sequences|bounded]] within $\left[ a_{1},b_{1} \right]$.
@@ -32,6 +32,6 @@ Every [[Bounded Sequences|bounded]] [[Sequences|sequence]] $\left( x_{n} \right)
 > 
 > By [[Squeeze Theorem for Sequences|squeeze theorem]], since $a_{n} \le c_{n} \le b_{n}$ for all $n$, $\left( c_{n} \right)$ must also [[Metric Convergence|converge]].
 > 
-> Thus, $\lim_{ n \to \infty } (c_{n})$ is a [[Limit Points#^sequence-limit-points|limit point]] of $\left( x_{n} \right)$.
+> Thus, $\lim_{ n \to \infty } (c_{n})$ is an [[Sequence Accumulation Points|accumulation point]] of $\left( x_{n} \right)$.
 
 > [!note] This generalises to $\R^n$.

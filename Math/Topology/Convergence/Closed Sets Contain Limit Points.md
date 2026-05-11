@@ -19,3 +19,4 @@ Suppose $S \in X$ is **not** [[Closed Sets|closed]],  and that the limit of ever
 $S^c \notin X$
 
 > [!corollary] In a [[Hausdorff Spaces|Hausdorff space]], this means $S \subseteq X$ is [[Closed Sets|closed]] iff the limit of every [[Sequence Convergence|convergent sequence]] $\left( x_{n} \right) \subseteq S$ is in $S$
+^hausdorff

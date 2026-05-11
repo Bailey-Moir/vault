@@ -1,0 +1,4 @@
+- [[Closures]]
+- [[Closures#^sequence]]
+- [[Closures#^closedness]]
+- [[Closures#^properties]]

@@ -4,11 +4,12 @@
   "readableLineLength": true,
   "promptDelete": false,
   "pdfExportSettings": {
-    "includeName": true,
+    "includeName": false,
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",
     "downscalePercent": 80
   },
-  "showIndentGuide": true
+  "showIndentGuide": true,
+  "showInlineTitle": true
 }

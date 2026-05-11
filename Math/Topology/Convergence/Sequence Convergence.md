@@ -21,7 +21,7 @@ Let $A \in \mathcal{N}_L$. By definition, there must exist $\mathcal{C} \subsete
 > 
 > Thus by the premise, there exists $N \in\N$ such that for all $n \ge N$, $a_n \in B \subseteq A$.  $\square$
 
-> [!theorem-1]- For any non-eventually constant [[Sequences|sequence]] $\left( a_{n} \right)$ with *limit* $L$, $L$ is a [[Limit Points|limit point]] of $\{ a_{n}\}$.
+> [!theorem]- For any non-eventually constant [[Sequences|sequence]] $\left( a_{n} \right)$ with *limit* $L$, $L$ is a [[Limit Points|limit point]] of $\{ a_{n}\}$.
 > Suppose $L$ is not a [[Limit Points|limit point]] of $\{ a_{n} \}$. Then $L$ must have a [[Neighbourhoods|neighbourhood]] $A$ such that $\{ a_{n} \} \cap A \subseteq \{ L \}$.
 > 
 > If $\{ a_{n} \} \cap A = \emptyset$, then $\forall n \in \N, a_{n} \notin A$, meaning $\left( a_{n} \right)$ does not converge to $L$.
@@ -30,7 +30,7 @@ Let $A \in \mathcal{N}_L$. By definition, there must exist $\mathcal{C} \subsete
 > 
 > Thus, the theorem is [[Proof by Contraposition|proven by contraposition]]. $\square$
 
-> [!theorem-2]- If $\{ a_{n} \} \subseteq S \subseteq X$ with $a_{n} \to L$, then $L \in \bar{S}$.
+> [!theorem]- If $\{ a_{n} \} \subseteq S \subseteq X$ with $a_{n} \to L$, then $L \in \bar{S}$.
 > $$\begin{align}
 > &\forall A \in \mathcal{N}_{L}, \exists N \in \N: \forall n \ge N, a_{n} \in A  \\
 > \to &\forall A \in \mathcal{N}_{L}, \exists n \in \N : a_{n} \in A \\

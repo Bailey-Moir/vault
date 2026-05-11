@@ -48,7 +48,6 @@ This is called the **absorbing property**.
 > 	& \in B && \varphi(a) \in B
 > \end{align}$$
 >    Thus, $ar,ra \in \varphi^{-1}(B)$. Then $\varphi^{-1}(B)$ is a [[Subrings|subring]] of $R$ ([[Ring Homomorphisms#Properties|as]] $B$ [[Ring Homomorphisms#Properties|is subring of]] $S$) satisfying the [[Ideals|absorbing property]], so $\varphi^{-1}(B)$ is an [[Ideals|ideal]] of $R$.
-
 ^homomorphism-properties
 
 \[[[Ring Cosets]]\]

@@ -1,0 +1,1 @@
+- [[Online vs Offline Algorithms]] (offline takes all at once)

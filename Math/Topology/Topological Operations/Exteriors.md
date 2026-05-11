@@ -13,7 +13,7 @@ $$\begin{align}
 > This is given directly through the [[Converse, Inverse, and Contrapositive|contrapositives]] of the [[Closures#^characterisation|characterisation of closures]]. $\square$
 ^characterisation
 
-> [!theorem-1]- $\text{ext}\,S = \text{int}\,S^c$[^2]
+> [!theorem-1]- $\text{ext}\,S = \inte{S^c}$[^2]
 > $$\begin{align}
 > 	p \in \ext S &\iff \exists A \in \mathcal{N}_p : S \cap A = \emptyset \\
 > 	&\iff \exists A \in \mathcal{N}_p : A \subseteq S^c \\
