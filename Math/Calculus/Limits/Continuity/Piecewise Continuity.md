@@ -3,6 +3,6 @@ tags:
   - atom
   - math
 ---
-A [[Functions|function]] $f$ is *piecewise continuous* iff its [[Domain|domain]] can [[Interval Partitions|partitioned]] into finitely many [[Intervals|intervals]], such that is $f$ [[Metric Continuity 1|continuous]] on each [[Partitions|part]]/[[Intervals|interval]].
+A [[Functions|function]] $f$ is *piecewise continuous* iff its [[Domain|domain]] can [[Interval Partitions|partitioned]] into finitely many [[Intervals|intervals]], such that is $f$ [[Metric Continuity|continuous]] on each [[Partitions|part]]/[[Intervals|interval]].
 
 > [!note] The end points of these [[Intervals|intervals]] must [[Metric Convergence|converge]] on either side (both not necessarily together)

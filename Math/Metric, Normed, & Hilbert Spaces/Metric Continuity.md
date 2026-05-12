@@ -28,7 +28,32 @@ $$\forall \varepsilon>0, \exists \delta>0: \forall x \in M, d_{M}(x,a) < \delta 
 > leading to [[Contradictions|contradiction]].
 ^sequences
 
-#TODO also prove this is equivalent to topological definition (same for convergence)
+> [!theorem]- This is equivalent to [[Continuity|topological continuity]].
+> $\left( \implies \right)$
+> Let $f:X\to Y$ a [[Continuity|topologically continuous]].
+> Let $\varepsilon > 0$ and $x_{0} \in X$ be given.
+> By the [[Continuity|topological continutiy]] of $f$, since $B(f(x_{0}),\varepsilon) \in \mathcal{T}_{Y}$,
+> $$ x_{0} \in f^{-1}(B(x_{0},\varepsilon)) \in \mathcal{T}_{X} $$
+> Thus, there exists a [[Epsilon Balls|open ball]] around $x_{0}$ contained in this set. This gives
+> $$\begin{array}{c}
+> 	B(x_{0},\delta) \subseteq f^{-1}(B(f(x_{0}),\varepsilon)) \\
+> 	f(B(x_{0},\delta)) \subseteq B(f(x_{0}),\varepsilon) \\
+> \end{array}$$
+> Thus, if $d_{X}(x,x_{0}) < \delta$, $d_{Y}(f(x),f(x_{0}))$.
+> 
+> $\left( \impliedby \right)$
+> Let $f:X\to Y$ be *metric continuous* .
+> Let $V \in \mathcal{T}_{Y}$, and $x_{0} \in f^{-1}(V)$.
+> By the [[Interiors#^characterisation|characterisation of interiors]], there exists $\varepsilon > 0$ such that such that
+> $$B(f(x_{0}),\varepsilon) \subseteq V.$$
+> By the *metric continuity* of $f$, there exists $\delta > 0$ such that
+> $$\begin{align}
+> d_{X}(x,x_{0}) &\to d_{Y}(f(x),f(x_{0})) \\
+> f(B(x_{0},\delta)) &\subseteq B(f(x_{0}),\varepsilon) \subseteq V \\
+> \to B(x_{0},\delta) & \subseteq f^{-1}(V) \\
+> \end{align}$$
+> Thus, [[Unions & Intersections|unioning]] these for every $x_{0} \in f^{-1}(V)$ gives an [[Open Sets|open set]] that is equal to $f^{-1}(V)$. Thus, $f^{-1}(V) \in \mathcal{T}_{X}$.
+^topological-equivalence
 
 > [!theorem]- [[Contraction Maps|Contraction maps]] are *continuuous*.
 > Let $T$ be a [[Contraction Maps|contraction map]] on the [[Metric Spaces|metric space]] $\left( M,d \right)$ with [[Contraction Maps|contraction constant]] $c$ .
@@ -45,9 +70,5 @@ $$\forall \varepsilon>0, \exists \delta>0: \forall x \in M, d_{M}(x,a) < \delta 
 > 	d(T\,x, T\,a) < c \dfrac{\varepsilon}{c} = \varepsilon. &\square
 > \end{array}$$
 ^contraction-maps
-
-> [!theorem]- In $\R$,$$f \in \mathcal{C}(I) \iff \forall a \in I,\, \lim_{x\to a} f(x) = f(a).$$This implicitly requires $f(a)$ and $\displaystyle\lim_{x\to a} f(x)$ to exist.
-
-> [!note] If $I = \{ a \}$ for some $a \in M$, this implicitly requires $f$ to be [[Defined Near|defined near]] $a$ and at $a$.
 
 \[[[Continuity]]\]

@@ -1,3 +1,3 @@
 - [[Bounded Function Set]]
 - [[Cauchy Sequences]]
-- [[Metric Continuity 1]]
+- [[Metric Continuity]]

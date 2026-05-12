@@ -29,14 +29,13 @@ $$\begin{align}
 
 > [!proof]- $\left( 2 \right)$
 > $$\begin{align}
-> 	&\forall V \in \mathcal{T}_{Y}, f^{-1}(V) \in \mathcal{T}_{X}  \\
-> 	\iff &\forall V^c \in \mathcal{T}_{Y}, f^{-1}(V^c) \in \mathcal{T}_{X}  \\
-> 	\iff &\forall V^c \in \mathcal{T}_{Y}, f^{-1}(V)^c \in \mathcal{T}_{X}  && (1) \\
+> 	&\forall V \in \mathcal{T}_{Y}, f^{-1}(V) \in \mathcal{T}_{X} \\
+> 	\iff &\forall V^c \in \mathcal{T}_{Y}, f^{-1}(V^c) \in \mathcal{T}_{X} \\
+> 	\iff &\forall V^c \in \mathcal{T}_{Y}, f^{-1}(V)^c \in \mathcal{T}_{X} \\
 > \end{align}$$
-> \[$(1)$ [[Bijective Functions#Properties of Bijections]]\]
 ^proof-2
 
-\[[[Metric Continuity 1]]\]
+\[[[Metric Continuity]]\]
 # Examples
 > [!example]- Constants [[Functions|functions]] are *continuous*
 > Let $f : X\to Y$ be any constant [[Functions|function]] between [[Topology|topological spaces]], meaning $f(x) = c$ for some $c \in Y$.
@@ -46,8 +45,6 @@ $$\begin{align}
 >   Then $f^{-1}(V) = X$, which is axiomatically defined to be [[Open Sets|open]].
 > - **Case** $c \notin V$
 >   Then $f^{-1}(V) = \emptyset$, which is also axiomatically defined to be [[Open Sets|open]].
-> 
-> $\square$
 
 > [!example]- Identity maps are *continuous*
 > Let $f : X\to X$ be any identity [[Operators|operator]] on [[Topology|topological space]], meaning $f(x) = x$.

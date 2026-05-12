@@ -1,4 +1,4 @@
-- [[Metric Continuity 1#^sequences]]
+- [[Metric Continuity#^sequences]]
 - [[Bounded Sequences]]
 - [[Bounded Functions]]
 - [[Boundedness of Continuous Functions]]
