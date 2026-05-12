@@ -10,25 +10,19 @@ Let $E$ be an [[Subfields#^extension-field|extension field]] of $F$. We say the 
 > - If $[E:F]$ is infinite, $E$ is a **infinite extension**
 ^finite-and-infinite
 
-[!theorem] $[F(\alpha) : F] = \deg p$ where $p$ is the [[Algebraic and Transcendetal Simple Extensions#^minimal-polynomial|minimal polynomial]] of $\alpha$ over $F$.
-The [[Structure of Simple Field Extensions|structure of simple field extensions]] gives that $1,\alpha,\dots,\alpha^{\deg p(x)-1}$ form a [[Vector Bases|basis]] for $F(\alpha)$, meaning the [[Dimension|dimension]] of $F(\alpha)$ over $F$ is $\deg p$.
+> [!theorem]- $[F(\alpha) : F] = \deg p$ where $p$ is the [[Algebraic and Transcendetal Simple Extensions#^minimal-polynomial|minimal polynomial]] of $\alpha$ over $F$.
+> The [[Structure of Simple Field Extensions|structure of simple field extensions]] gives that $1,\alpha,\dots,\alpha^{\deg p(x)-1}$ form a [[Vector Bases|basis]] for $F(\alpha)$, meaning the [[Dimension|dimension]] of $F(\alpha)$ over $F$ is $\deg p$.
+^simple-extensions
 
 > [!theorem]- [[#^finite-and-infinite|Finite extensions]] of $F$ are [[Algebraic Extensions|algebraic]].
-
-Let $E$ be an [[Subfields#^extension-field|extension field]] of $F$ of *degree* $n$. Let $\alpha \in E$.
-
-Consider $1,\dots,\alpha^n$. This is a [[Lists|list]] of $n+1$ elements, meaning they are [[Linear Independence|linearly dependent]][^1].
-Thus, there exists $c_{0},\dots,c_{n} \in F$ that aren't all zero such that
-$$c_{n}\alpha^n + \dots+c_{1}\alpha + c_{0} = 0.$$
-Thus, $\alpha$ is a root of
-$$f(x) = c_{n}x^n + \dots+c_{1}x + c_{0},$$
-a non-zero polynomial
-
-By definition, there exists $v_{1},\dots,v_{n} \in E$ such that
-$$\alpha = c_{1}v_{1},\dots,c_{1}v_{n}$$
-for some $c_{1},\dots,c_{n} \in F$.
-
-#TODO look at lecture notes for proof
+> Let $E$ be an [[Subfields#^extension-field|extension field]] of $F$ of *degree* $n$. Let $\alpha \in E$.
+> 
+> Consider $1,\dots,\alpha^n$. This is a [[Lists|list]] of $n+1$ elements, meaning they are [[Linear Independence|linearly dependent]][^1].
+> Thus, there exists $c_{0},\dots,c_{n} \in F$ that aren't all zero such that
+> $$c_{n}\alpha^n + \dots+c_{1}\alpha + c_{0} = 0.$$
+> Thus, $\alpha$ is a root of
+> $$f(x) = c_{n}x^n + \dots+c_{1}x + c_{0},$$
+> a non-zero polynomial. Thus, $\alpha$ is [[Algebraic Elements|algebraic]] in $E$.
 ^finite-implies-algebraic
 
 > [!theorem]- *(Tower Theorem)* $[K:F] = [K:E][E:F]$
