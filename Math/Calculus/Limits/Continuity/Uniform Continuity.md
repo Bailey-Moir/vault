@@ -27,4 +27,4 @@ $$\forall \varepsilon>0, \exists \delta>0: \forall x,y \in \R,  \left|x-y\right|
 
 [^1]: [[Metric Continuity]]
 [^2]: [[Rationals in Intervals]], Theorem 2.21.1
-[^3]: [[Math/Topology/Continuity/Continuity Under Composition]]
+[^3]: [[Continuity Under Composition 1]]

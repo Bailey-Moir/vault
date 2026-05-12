@@ -20,7 +20,7 @@ meaning $\displaystyle f(c) = f_\text{avg} = \dfrac{1}{b-a}\int_a^b f(x) \, dx$.
 
 \[[[Average Value Function]], [[Intermediate Value Theorem]]\]
 
-[^1]: [[Math/Topology/Continuity/Continuity Under Composition]]
+[^1]: [[Continuity Under Composition 1]]
 [^2]: [[Boundedness of Continuous Functions]]
 [^3]: [[Integrability of Continuous Functions]]
 [^4]: [[Bounding Integration]]
