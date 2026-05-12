@@ -44,7 +44,7 @@ $$\beta_{1}\alpha = \beta_{2}\alpha \to \beta_{1} = \beta_{2},$$
 > Since $\alpha$ is *epic*, $\beta_{1}=\beta_{2}$, meaning $\beta_{1}(y) = 1$ for all $y$, so $\text{im}\,\alpha = Y$.
 > 
 > The proof for $\mathbf{Top}$ is the same as $\mathbf{Set}$, except
-> - $\alpha$ is supposed to be [[Continuous Maps|continuous]],
-> - $\B$ has the indiscrete topology so that $\beta_{1}$ and $\beta_{2}$ are [[Continuous Maps|continuous]] (as the [[Range & Image|preimage]] of $\emptyset$ is $\emptyset \in \mathcal{T}_{Y}$, and the [[Range & Image|preimage]] of $\B$ is $Y \in \mathcal{T}_{Y}$).
+> - $\alpha$ is supposed to be [[Continuity|continuous]],
+> - $\B$ has the indiscrete topology so that $\beta_{1}$ and $\beta_{2}$ are [[Continuity|continuous]] (as the [[Range & Image|preimage]] of $\emptyset$ is $\emptyset \in \mathcal{T}_{Y}$, and the [[Range & Image|preimage]] of $\B$ is $Y \in \mathcal{T}_{Y}$).
 > 
 > Consider $\mathbf{Grp}$. I don't actually know what a group homemorphism is so idk.

@@ -30,10 +30,11 @@ $$\begin{align}
 > [!proof]- $\left( 2 \right)$
 > $$\begin{align}
 > 	&\forall V \in \mathcal{T}_{Y}, f^{-1}(V) \in \mathcal{T}_{X}  \\
-> 	\iff &\forall V^c \in \mathcal{T}_{Y}, f^{-1}(V^c) \in \mathcal{T}_{X} && (1)  \\
-> 	\iff &\forall V^c \in \mathcal{T}_{Y}, f^{-1}(V)^c \in \mathcal{T}_{X}  \\
+> 	\iff &\forall V^c \in \mathcal{T}_{Y}, f^{-1}(V^c) \in \mathcal{T}_{X}  \\
+> 	\iff &\forall V^c \in \mathcal{T}_{Y}, f^{-1}(V)^c \in \mathcal{T}_{X}  && (1) \\
 > \end{align}$$
 > \[$(1)$ [[Bijective Functions#Properties of Bijections]]\]
+^proof-2
 
 \[[[Metric Continuity 1]]\]
 # Examples

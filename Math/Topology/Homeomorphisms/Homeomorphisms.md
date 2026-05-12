@@ -3,7 +3,7 @@ tags:
   - atom
   - math
 ---
-A [[Functions|function]] $\varphi$ between [[Topology|topological spaces]] $X$ and $Y$ is a *homeomorphism* iff it is a [[Bijective Functions|bijection]] and it is [[Continuous Maps|continuous]] in both directions.
+A [[Functions|function]] $\varphi$ between [[Topology|topological spaces]] $X$ and $Y$ is a *homeomorphism* iff it is a [[Bijective Functions|bijection]] and it is [[Continuity|continuous]] in both directions.
 
 > [!note] *Homeomorphisms* are [[Isomorphisms|isomorphisms]] in the [[Category of Topologies|category of topological spaces]].
 
@@ -20,13 +20,13 @@ A [[Functions|function]] $\varphi$ between [[Topology|topological spaces]] $X$ a
 > > $\left( \implies \right)$
 > > Suppose $f$ is a *homeomorphism*.
 > > $\left( \leftarrow \right)$
-> > If $f(U) \in \mathcal{T}_{Y}$, then by the [[Continuous Maps|continuity]] of $f$, $U = f^{-1}(f(U)) \in \mathcal{T}_{X}$.
+> > If $f(U) \in \mathcal{T}_{Y}$, then by the [[Continuity|continuity]] of $f$, $U = f^{-1}(f(U)) \in \mathcal{T}_{X}$.
 > > $\left( \to \right)$
-> > If $U \in \mathcal{T}_{X}$, then by the [[Continuous Maps|continuity]] of $f^{-1}$, $f(U) = \left( f^{-1} \right)^{-1}(U) \in \mathcal{T}_{Y}$.
+> > If $U \in \mathcal{T}_{X}$, then by the [[Continuity|continuity]] of $f^{-1}$, $f(U) = \left( f^{-1} \right)^{-1}(U) \in \mathcal{T}_{Y}$.
 > > 
 > > $\left( \impliedby \right)$
 > > Suppose $U \in \mathcal{T}_{X} \leftrightarrow f(U) \in \mathcal{T}_{Y}$.
 > > 
-> > Let $U \in \mathcal{T}_{X}$. Then by the premise, $\left( f^{-1} \right)^{-1}(U) = f(U) \in \mathcal{T}_{Y}$. Thus, $f^{-1}$ (which must exist by the [[Bijective Functions|bijectivity]] of $f$) is [[Continuous Maps|continuous]].
+> > Let $U \in \mathcal{T}_{X}$. Then by the premise, $\left( f^{-1} \right)^{-1}(U) = f(U) \in \mathcal{T}_{Y}$. Thus, $f^{-1}$ (which must exist by the [[Bijective Functions|bijectivity]] of $f$) is [[Continuity|continuous]].
 > > 
-> > Let $V \in \mathcal{T}_{Y}$, and $U = f^{-1}(V)$. Then $f(U) = f\left( f^{-1}(V) \right) = V \in \mathcal{T}_{Y}$, so by the premise, $f^{-1}(V) = U \in \mathcal{T_{X}}$. Thus, $f$ is [[Continuous Maps|continuous]].
+> > Let $V \in \mathcal{T}_{Y}$, and $U = f^{-1}(V)$. Then $f(U) = f\left( f^{-1}(V) \right) = V \in \mathcal{T}_{Y}$, so by the premise, $f^{-1}(V) = U \in \mathcal{T_{X}}$. Thus, $f$ is [[Continuity|continuous]].

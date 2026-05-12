@@ -50,4 +50,4 @@ $$\forall \varepsilon>0, \exists \delta>0: \forall x \in M, d_{M}(x,a) < \delta 
 
 > [!note] If $I = \{ a \}$ for some $a \in M$, this implicitly requires $f$ to be [[Defined Near|defined near]] $a$ and at $a$.
 
-\[[[Continuous Maps]]\]
+\[[[Continuity]]\]

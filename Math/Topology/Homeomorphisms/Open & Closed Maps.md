@@ -39,5 +39,5 @@ For $f \in \mathcal{C}_{X}^Y$[^1],
 > \[$(1)$ [[Homeomorphisms]], Theorem 1, $(2)$ [[Injective Functions#Properties of Injections]]\]
 
 
-[^1]: [[Continuous Maps]]
+[^1]: [[Continuity]]
 [^2]: [[Closed Sets]]

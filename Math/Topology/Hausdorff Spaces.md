@@ -61,12 +61,12 @@ $$\forall p,q \in X, \left( p \ne q \to \exists A_{p} \in \mathcal{N}_{p},A_{q} 
 > 
 > Thus, there exists distinct $q_{0},\dots,q_{n} \in S\setminus U_{n+1}$.
 
-> [!theorem-5]- If two [[Continuous Maps|continuous maps]] $f,g$ between the same *Hausdorff spaces* are equal when restricted to a [[Dense Subsets|dense subset]], $f = g$.
-> Suppose $f,g : X \to Y$ are [[Continuous Maps|continuous maps]] between *Hausdorff spaces*, and $D$ is a [[Dense Subsets|dense subset]] of $X$ such that $f\bigr|_{D} = g\bigr|_{D}$.
+> [!theorem-5]- If two [[Continuity|continuous maps]] $f,g$ between the same *Hausdorff spaces* are equal when restricted to a [[Dense Subsets|dense subset]], $f = g$.
+> Suppose $f,g : X \to Y$ are [[Continuity|continuous maps]] between *Hausdorff spaces*, and $D$ is a [[Dense Subsets|dense subset]] of $X$ such that $f\bigr|_{D} = g\bigr|_{D}$.
 > Let $E\subseteq X$ be the [[Sets|set]] of points where $f$ and $g$ agree.
 > Suppose $p \in E^c$, so $f(p) \neq g(p)$.
 > Since $Y$ is *Hausdorff*, there exists [[Disjoint Sets|disjoint]] $U \in \mathcal{N}_{f(p)}$ and $V \in \mathcal{N}_{g(p)}$.
-> By the [[Continuous Maps|continuity]] of $f$ and $g$, $f^{-1}(U)$ and $g^{-1}(V)$ are [[Open Sets|open]], meaning
+> By the [[Continuity|continuity]] of $f$ and $g$, $f^{-1}(U)$ and $g^{-1}(V)$ are [[Open Sets|open]], meaning
 > $$p \in W = f^{-1}(U) \cap g^{-1}(V) \in \mathcal{T}_{X}.$$
 > For any $w \in W$, $f(w) \in U$ and $g(w) \in V$ which are [[Disjoint Sets|disjoint]], so $w \in E^c$.
 > This gives that for any $p \in E^c$, there exists a $W \in \mathcal{N}_{p}$ contained in $E^c$, so $E^c \in \mathcal{T}$[^1].
