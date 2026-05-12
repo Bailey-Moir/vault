@@ -15,7 +15,14 @@ The [[Structure of Simple Field Extensions|structure of simple field extensions]
 
 > [!theorem]- [[#^finite-and-infinite|Finite extensions]] of $F$ are [[Algebraic Extensions|algebraic]].
 
-Suppose an [[Subfields#^extension-field|extension field]] $E$ of $F$ of *degree* $n$. Let $\alpha \in E$.
+Let $E$ be an [[Subfields#^extension-field|extension field]] of $F$ of *degree* $n$. Let $\alpha \in E$.
+
+Consider $1,\dots,\alpha^n$. This is a [[Lists|list]] of $n+1$ elements, meaning they are [[Linear Independence|linearly dependent]][^1].
+Thus, there exists $c_{0},\dots,c_{n} \in F$ that aren't all zero such that
+$$c_{n}\alpha^n + \dots+c_{1}\alpha + c_{0} = 0.$$
+Thus, $\alpha$ is a root of
+$$f(x) = c_{n}x^n + \dots+c_{1}x + c_{0},$$
+a non-zero polynomial
 
 By definition, there exists $v_{1},\dots,v_{n} \in E$ such that
 $$\alpha = c_{1}v_{1},\dots,c_{1}v_{n}$$
@@ -52,3 +59,5 @@ for some $c_{1},\dots,c_{n} \in F$.
 > \end{align}$$
 > Thus, all coefficients are zero. $\quad\square$
 ^tower-theorem
+
+[^1]: [[Linear Independence and Span with Dimension]]
