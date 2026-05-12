@@ -37,3 +37,4 @@ $$\begin{align}
 > Thus, $1 \in D$ is also the [[Rings#^unity|unity]] in $R[x]$.
 > 
 > Suppose $f(x) = \sum_{i = 0}^n a_{i}x^i \ne 0$, and $g(x) = \sum_{i = 0}^m b_{i}x^i \ne 0$. Then the leading coefficient $a_{n}b_{m}x^{n+m}$ of $f\times g$ is non-zero as $D$ has no [[Zero-divisors|zero-divisors]], meaning $f\times g$ is non-zero, so $D[x]$ has no [[Zero-divisors|zero-divisors]].
+^integral-domains
