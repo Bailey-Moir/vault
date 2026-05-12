@@ -3,7 +3,6 @@ tags:
   - atom
   - math
 ---
-
 Let $F$ be a [[Fields|field]], and $f \in F[x]$[^1] be a non-constant [[Polynomial Rings|polynomial]].
 Then there is an [[Subfields#^extension-field|extension field]] $E$ of $F$ over which $f$ has a root.
 
