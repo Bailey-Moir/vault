@@ -3,7 +3,7 @@ tags:
   - atom
   - math
 ---
-Let $E$ be an [[Subfields#^extension-field|extension field]] of $F$. We say the *degree* of $E$ over $F$ $[E:F] = n$ iff $E$ has [[Dimension|dimension]] $n$ as a [[Vector Spaces|vector space]] over $F$.
+Let $E$ be an [[Subfields#^extension-field|extension field]] of $F$. We say the *degree* of $E$ over $F$ $[E:F] = n$ iff $E$ has [[Dimension|dimension]] $n$ as a [[Vector Spaces|vector space]] over $F$. ^fb47fd
 
 > [!definitions]
 > - If $[E:F]$ is finite, $E$ is a **finite extension**
