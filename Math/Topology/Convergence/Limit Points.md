@@ -4,7 +4,6 @@ tags:
   - math
 ---
 A point $p \in X$ is a *limit point* of $S \subseteq X$ iff every [[Neighbourhoods|neighbourhood]] of $p$ contains a point of $S$ other than $p$ itself; iff
-$$\varepsilon$$
 $$ \forall A \in \mathcal{N}_{p}, S \cap A \not\subseteq \{ p \} $$
 
 > [!notation]  We denote the set of *limit points* of $S \subseteq X$ as $S'$.
