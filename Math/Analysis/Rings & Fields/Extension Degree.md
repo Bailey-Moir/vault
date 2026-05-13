@@ -22,7 +22,7 @@ Let $E$ be an [[Subfields#^extension-field|extension field]] of $F$. We say the 
 > $$c_{n}\alpha^n + \dots+c_{1}\alpha + c_{0} = 0.$$
 > Thus, $\alpha$ is a root of
 > $$f(x) = c_{n}x^n + \dots+c_{1}x + c_{0},$$
-> a non-zero polynomial. Thus, $\alpha$ is [[Algebraic Elements|algebraic]] in $E$.
+> a non-zero polynomial. Thus, $\alpha$ is [[Algebraic Elements|algebraic]] over $E$.
 ^finite-implies-algebraic
 
 > [!theorem]- *(Tower Theorem)* $[K:F] = [K:E][E:F]$
