@@ -36,4 +36,4 @@ $$\left( g \circ f \right)'(a) = g'(f(a))f'(a)$$
 > \end{align}$$
 
 [^1]: [[Continuity of Differentiable Functions]]
-[^2]: [[Continuity of Combined Functions]] and [[Continuity Under Composition 1]]
+[^2]: [[Continuity of Combined Functions]] and [[Continuity Under Composition]]

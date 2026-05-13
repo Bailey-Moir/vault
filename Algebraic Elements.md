@@ -8,3 +8,7 @@ We call $\alpha$ *algebraic* over $F$ iff $\alpha$ is a root of a non-zero [[Pol
 
 > [!definition] Otherwise, $\alpha$ is called **transcendental**.
 ^transcendetal
+
+[!theorem] The [[Algebraic Elements|algebraic elements]] of a [[Fields|field]] $F$ form a [[Fields|field]] themselves.
+#TODO use [[Algebraic Extensions#^transitivity]]
+^forms-fields

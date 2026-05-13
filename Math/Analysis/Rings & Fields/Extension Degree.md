@@ -10,7 +10,7 @@ Let $E$ be an [[Subfields#^extension-field|extension field]] of $F$. We say the 
 > - If $[E:F]$ is infinite, $E$ is a **infinite extension**
 ^finite-and-infinite
 
-> [!theorem]- $[F(\alpha) : F] = \deg p$ where $p$ is the [[Algebraic and Transcendetal Simple Extensions#^minimal-polynomial|minimal polynomial]] of $\alpha$ over $F$.
+> [!theorem]- If $\alpha$ is [[Algebraic Elements|algebraic]] in $F$, $[F(\alpha) : F] = \deg p$ where $p$ is the [[Algebraic and Transcendetal Simple Extensions#^minimal-polynomial|minimal polynomial]] of $\alpha$ over $F$.
 > The [[Structure of Simple Field Extensions|structure of simple field extensions]] gives that $1,\alpha,\dots,\alpha^{\deg p(x)-1}$ form a [[Vector Bases|basis]] for $F(\alpha)$, meaning the [[Dimension|dimension]] of $F(\alpha)$ over $F$ is $\deg p$.
 ^simple-extensions
 
