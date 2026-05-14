@@ -10,6 +10,14 @@ Let $E$ be an [[Subfields#^extension-field|extension field]] of $F$. We say the 
 > - If $[E:F]$ is infinite, $E$ is a **infinite extension**
 ^finite-and-infinite
 
+> [!theorem]- $[E:F] = n \implies \exists \alpha_{1},\dots,\alpha_{n} \in E : E = F(\alpha_{1},\dots,\alpha_{n})$
+> Suppose $E$ is a [[#^finite-and-infinite|finite extension]] over $F$ of *degree* $n$. Then there exists $\alpha_{1},\dots,\alpha_{n} \in E$ such that for all $v \in E$,
+> $$v = c_{1}\alpha_{1}+\dots+c_{n}\alpha_{n}$$
+> for some $c_{1},\dots,c_{n} \in F$.
+> 
+> Consider $F(\alpha_{1},\dots,\alpha_{n})$. By [[Simple Field Extensions|definition]], this contains every element of $F$ and every $\alpha_{i}$. Thus, it contains every $v \in E$. However, it is the smallest field containing these things, meaning it is contained in $E$. Thus, $E = F(\alpha_{1},\dots,\alpha_{n})$.
+^structure-finite
+
 > [!theorem]- If $\alpha$ is [[Algebraic Elements|algebraic]] in $F$, $[F(\alpha) : F] = \deg p$ where $p$ is the [[Algebraic and Transcendetal Simple Extensions#^minimal-polynomial|minimal polynomial]] of $\alpha$ over $F$.
 > The [[Structure of Simple Field Extensions|structure of simple field extensions]] gives that $1,\alpha,\dots,\alpha^{\deg p(x)-1}$ form a [[Vector Bases|basis]] for $F(\alpha)$, meaning the [[Dimension|dimension]] of $F(\alpha)$ over $F$ is $\deg p$.
 ^simple-extensions

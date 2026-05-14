@@ -3,13 +3,12 @@ tags:
   - atom
   - math
 ---
-For $f(x) \in \F[x]$, *differentiation* $f'(x)$ is defined by
+For $f(x) \in \F[x]$, the *derivative* $f'(x)$ is defined by
 $$\begin{align}
 	f(x) = a_{n}x^n + \dots + a_{1}x + a_{0} &\mapsto f'(x) = na_{n}x^{n-1} + \dots + a_{1} \\
 	f(x) = \sum_{k=0}^n a_{k}x^k &\mapsto f'(x) = \sum_{k=1}^nka_{k}x^k.
 \end{align}$$
 \[[[Power Rule]]\]
-
 ## Properties
 > [!note]- [[Linear Maps|Linearity]]
 > Let $f(x) = \sum_{k = 0}^n a_{k}x^k$ and $g(x) = \sum_{j = 0}^n b_{k}x^k$. If either has a [[Polynomials#Degree|degree]] less than $n$, let higher coefficients be $0$. The [[Additive Property|additive property]] is given by
