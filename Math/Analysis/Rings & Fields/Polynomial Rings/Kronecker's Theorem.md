@@ -7,7 +7,7 @@ Let $F$ be a [[Fields|field]], and $f \in F[x]$[^1] be a non-constant [[Polynomi
 Then there is an [[Subfields#^extension-field|extension field]] $E$ of $F$ over which $f$ has a root.
 
 > [!proof]-
-> Choose an [[Reduciblity#^negation|irreducible factor]] $g(x)$ of $f(x)$ over $F$.
+> Choose a non-constant [[Reduciblity#^negation|irreducible factor]] $g(x)$ of $f(x)$ over $F$.
 > [[Maximal Ideals#^polynomials|Irreducible factors give maximal ideals]], so $\left< g(x) \right>$ is a [[Maximal Ideals|maximal ideal]] of $F[x]$.
 > Thus, since [[Maximal Ideals#^quotient-field|quotients by maximal ideals give fields]], $E = F[x] / \left< g(x) \right>$ is a [[Fields|field]].
 >
