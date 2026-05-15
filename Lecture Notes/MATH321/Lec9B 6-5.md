@@ -1,1 +1,1 @@
-- [[Math/Analysis/Rings & Fields/Polynomial Rings/Splitting#^isomorphic|Splitting]]
+- [[Math/Analysis/Rings & Fields/Polynomial Rings/Splitting#^isomorphic]]
