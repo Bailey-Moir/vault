@@ -14,6 +14,8 @@ Further, $p(x)$ is [[Reduciblity#^negation|irreducible]] over $F$ and there is a
 > [!definition] This [[Polynomial Rings|polynimial]] $p(x)$ is called the **minimal polynomial** for $\alpha$ over $F$.
 ^minimal-polynomial
 
+#TODO use UFD
+
 > [!proof]-
 > Consider $\varphi:F[x] \to F(\alpha)$ defined by $f(x) \mapsto f(\alpha)$. Either
 > 
